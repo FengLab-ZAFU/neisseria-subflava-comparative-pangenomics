@@ -1,0 +1,4 @@
+operational_group	n_genomes	total_complete_systems	mean_systems_per_genome	median_systems_per_genome	n_genomes_with_system	n_distinct_system_types	top_system_types
+N_flavescens	10	139	13.90	13.0	10	13	Cas(10);RM_Type_I(10);RM_Type_II(10);RM_Type_IIG(10);RM_Type_III(10);TgvAB(10);DRT(7);DS-1(6);VcaM4I(4);DpnI(3)
+N_perflava	82	781	9.52	9.5	82	55	Veles(78);Cas(70);RM_Type_II(63);RM_Type_I(56);VcaM4I(48);PD-T4-3(45);RM_Type_IIG(39);TgvAB(30);DpnI(18);CBASS(16)
+N_subflava	47	568	12.09	12	47	52	Cas(47);Veles(44);VcaM4I(41);RM_Type_I(28);RM_Type_IIG(28);RM_Type_II(27);RM_Type_III(22);Lamassu-Fam(20);TgvAB(17);PD-Lambda-5(16)

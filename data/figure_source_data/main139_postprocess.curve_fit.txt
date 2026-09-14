@@ -1,0 +1,9 @@
+Optimal parameters for core genes: [5.06637683e+02 3.11332865e-02 1.23579852e+03]
+Optimal parameters for pan genes: [2.00966836e+03 3.40009061e-01]
+Core Gene Fit: y=506.638*exp(-0.031*x)+ 1235.799
+Pan Gene Fit: y=2009.668*x^0.340 
+Optimal parameters for new genes: [6.41386147e+02 6.31123111e-01]
+New Gene Fit: y=641.386*x^(-0.631)
+The pan-genome is open because the 95% confidence interval for alpha is at or below 1.
+The new-gene decay exponent alpha is 0.631.
+The 95% confidence interval for alpha is [0.618, 0.644].
