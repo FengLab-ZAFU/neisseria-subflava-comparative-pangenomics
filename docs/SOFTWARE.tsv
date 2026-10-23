@@ -5,7 +5,6 @@ DIAMOND	2.2.4	pgap2	Protein comparison within PGAP2
 MMseqs2	18.8cc5c	pgap2	Hierarchical protein clustering
 MAFFT	7.526	pgap2	Nucleotide core-gene alignments
 IQ-TREE	2.4.0	gubbins	Executable environment name; the core alignment was unmasked
-Panaroo	1.8.0	panaroo	Strict-mode sensitivity analysis
 FastANI	1.34	fastani	Bidirectional ANI
 Bakta	1.12.0	bakta	Database v6.0 full
 R	4.3.3	r_visual	Main server workflow

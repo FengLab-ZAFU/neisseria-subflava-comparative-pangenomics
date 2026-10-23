@@ -13,7 +13,7 @@ Binding logic mirrors the historically verified Phase-B checker
   5. FAA == table-11 translation of FFN (terminal stop / literal first residue
      for partial CDS tolerated).
 Plus main152 additions: annotation file sha256 ledger, reuse ledger, and
-PGAP2/Panaroo GFF staging (##FASTA appended from the *annotation* sibling fna
+PGAP2 GFF staging (##FASTA appended from the *annotation* sibling fna
 after bijective sequence verification, keeping contig_N seqids consistent).
 """
 import csv
@@ -267,7 +267,7 @@ def check_one(acc_row):
     if len(faa_recs) != len(cds):
         notes.append(f"n_faa({len(faa_recs)})!=n_cds_gff({len(cds)})")
 
-    # staging: PGAP2/Panaroo parse the GFF ##FASTA section. If the historical
+    # staging: PGAP2 parse the GFF ##FASTA section. If the historical
     # gff3 lacks it, append the *annotation* sibling fna (contig_N ids match the
     # GFF seqids; bijective sequence map to frozen FASTA verified above).
     staged_sha = ""

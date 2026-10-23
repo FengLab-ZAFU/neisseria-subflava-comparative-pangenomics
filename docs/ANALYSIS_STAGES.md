@@ -37,7 +37,7 @@ For individual upstream scripts, use the workspace root and set `NEISSERIA_PROJE
 | Pairwise SNP distances | `scripts/revision_20261001/a3_*` |
 | Source correction and canonical units | `results_revision_20261010_sourcefix_v7/delivery/scripts/` |
 | Annotation and cache binding | `scripts/revision_20261001/b1_bakta.sh`, `scripts_phaseB_v7/p1_*` |
-| PGAP2, Panaroo and strict single-copy core tree | `scripts_main152/m2_*`, `scripts_main152/m3*` |
+| PGAP2 and strict single-copy core tree | `scripts_main152/m2_*`, `scripts_main152/m3*` |
 | AMR, MGE and defense prediction | `scripts/revision_20261001/d*`, `scripts_main152/m7c_vfdb_run.sh` |
 
 Source-correction scripts retain version identifiers because later steps read specific earlier tables. They are upstream records, rather than a self-contained automated pipeline. Required external inputs are listed in [REPRODUCIBILITY.md](REPRODUCIBILITY.md). Figure and data directory names are kept stable for dependency resolution; supplementary table numbering follows the six workbooks in `data/supplementary_tables/`.

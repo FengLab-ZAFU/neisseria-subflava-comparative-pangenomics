@@ -1,10 +1,10 @@
-metric	pgap2_orth98	pgap2_orth95	panaroo_strict
-n_samples	152	152	152
-total_clusters	13215	12998	7898
-strict_core	1118	1119	1413
-core	229	231	74
-soft_core	214	209	130
-shell	851	838	826
-cloud	10803	10601	5455
-singletons	5500	5334	1338
-mean_genes_per_genome	2160.4	2160.4	2121.8
+metric	pgap2_orth98	pgap2_orth95
+n_samples	152	152
+total_clusters	13215	12998
+strict_core	1118	1119
+core	229	231
+soft_core	214	209
+shell	851	838
+cloud	10803	10601
+singletons	5500	5334
+mean_genes_per_genome	2160.4	2160.4
