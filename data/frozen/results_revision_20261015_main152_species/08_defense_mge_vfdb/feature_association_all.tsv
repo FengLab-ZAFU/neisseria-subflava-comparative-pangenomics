@@ -1,0 +1,337 @@
+family_id	feature	target_group	a	b	c	d	OR	CI_low	CI_high	p	q	status	reason
+AMR_prevalence	gene:tet(M)	subflava	3	28	35	86	0.265107778432903	0.048474867729614	0.945230554711398	0.0349471170437557	0.0524206755656336	VALID	NA
+AMR_prevalence	gene:tet(M)	perflava	35	79	3	35	5.12534559856002	1.4602607638776	27.777006051543	0.00451000593900576	0.0202950267255259	VALID	NA
+AMR_prevalence	gene:tet(M)	flavescens	0	7	38	107	0	0	2.060142904503	0.193188860144165	0.217337467662186	VALID	NA
+AMR_prevalence	family:APH(3'')	subflava	0	31	4	117	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:APH(3'')	perflava	4	110	0	38	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:APH(3'')	flavescens	0	7	4	141	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:APH(3')	subflava	0	31	1	120	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:APH(3')	perflava	1	113	0	38	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:APH(3')	flavescens	0	7	1	144	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:APH(6)	subflava	0	31	4	117	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:APH(6)	perflava	4	110	0	38	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:APH(6)	flavescens	0	7	4	141	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:ROB beta-lactamase	subflava	0	31	1	120	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:ROB beta-lactamase	perflava	1	113	0	38	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:ROB beta-lactamase	flavescens	0	7	1	144	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:TEM beta-lactamase	subflava	0	31	3	118	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:TEM beta-lactamase	perflava	3	111	0	38	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:TEM beta-lactamase	flavescens	0	7	3	142	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:major facilitator superfamily (MFS) antibiotic efflux pump	subflava	1	30	1	120	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:major facilitator superfamily (MFS) antibiotic efflux pump	perflava	1	113	1	37	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:major facilitator superfamily (MFS) antibiotic efflux pump	flavescens	0	7	2	143	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	subflava	0	31	1	120	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	perflava	1	113	0	38	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	flavescens	0	7	1	144	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:small multidrug resistance (SMR) antibiotic efflux pump	subflava	4	27	3	118	5.7332595159197	0.912884995741621	41.3991285843886	0.0321271702692196	0.0524206755656336	VALID	NA
+AMR_prevalence	family:small multidrug resistance (SMR) antibiotic efflux pump	perflava	2	112	5	33	0.12000059306232	0.0109423191365272	0.773391376815167	0.011012674709874	0.033038024129622	VALID	NA
+AMR_prevalence	family:small multidrug resistance (SMR) antibiotic efflux pump	flavescens	1	6	6	139	3.80225495869277	0.0720661810189015	40.9284674275014	0.286018668953577	0.286018668953577	VALID	NA
+AMR_prevalence	family:streptothricin acetyltransferase (SAT)	subflava	0	31	1	120	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:streptothricin acetyltransferase (SAT)	perflava	1	113	0	38	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:streptothricin acetyltransferase (SAT)	flavescens	0	7	1	144	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:sulfonamide resistant sul	subflava	0	31	3	118	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:sulfonamide resistant sul	perflava	3	111	0	38	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:sulfonamide resistant sul	flavescens	0	7	3	142	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_152
+AMR_prevalence	family:tetracycline-resistant ribosomal protection protein	subflava	3	28	35	86	0.265107778432903	0.048474867729614	0.945230554711398	0.0349471170437557	0.0524206755656336	VALID	NA
+AMR_prevalence	family:tetracycline-resistant ribosomal protection protein	perflava	35	79	3	35	5.12534559856002	1.4602607638776	27.777006051543	0.00451000593900576	0.0202950267255259	VALID	NA
+AMR_prevalence	family:tetracycline-resistant ribosomal protection protein	flavescens	0	7	38	107	0	0	2.060142904503	0.193188860144165	0.217337467662186	VALID	NA
+defense_prevalence	AbiAlpha	subflava	1	30	17	104	0.2053276788	0.004728370256	1.419808844	0.1241131536	0.3627922951	OK	NA
+defense_prevalence	AbiAlpha	perflava	17	97	1	37	6.433866028	0.940580946	277.8845419	0.04475852822	0.164595878	OK	NA
+defense_prevalence	AbiAlpha	flavescens	0	7	18	127	0	0	5.343061626	1	1	OK	NA
+defense_prevalence	AbiD	subflava	4	27	2	119	8.633582667	1.170203648	100.08301	0.01611122476	0.08746093441	OK	NA
+defense_prevalence	AbiD	perflava	2	112	4	34	0.1542010101	0.01342884801	1.128466857	0.0345424876	0.1458460588	OK	NA
+defense_prevalence	AbiD	flavescens	0	7	6	139	0	0	20.50082457	1	1	OK	NA
+defense_prevalence	AbiJ	subflava	5	26	0	121	Inf	3.924872949	Inf	0.0002685610114	0.002783268664	OK	NA
+defense_prevalence	AbiJ	perflava	0	114	5	33	0	0	0.3382570555	0.0007933685942	0.006460287124	OK	NA
+defense_prevalence	AbiJ	flavescens	0	7	5	140	0	0	26.08760051	1	1	OK	NA
+defense_prevalence	AbiL	subflava	0	31	5	116	0	0	4.299680512	0.5837372921	0.9561906932	OK	NA
+defense_prevalence	AbiL	perflava	5	109	0	38	Inf	0.3050010941	Inf	0.3320147562	0.7476075239	OK	NA
+defense_prevalence	AbiL	flavescens	0	7	5	140	0	0	26.08760051	1	1	OK	NA
+defense_prevalence	AbiP2	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	AbiP2	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	AbiP2	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	AbiU	subflava	0	31	13	108	0	0	1.226636545	0.07144985487	0.2468267714	OK	NA
+defense_prevalence	AbiU	perflava	13	101	0	38	Inf	1.076592785	Inf	0.03898596932	0.1528847081	OK	NA
+defense_prevalence	AbiU	flavescens	0	7	13	132	0	0	7.906138867	1	1	OK	NA
+defense_prevalence	AbiZ	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	AbiZ	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	AbiZ	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	Aristaios	subflava	7	24	3	118	11.19694912	2.35559327	71.88066925	0.0006093961196	0.005343935203	OK	NA
+defense_prevalence	Aristaios	perflava	2	112	8	30	0.06854648072	0.006756806863	0.3675986409	0.0002491549366	0.002783268664	OK	NA
+defense_prevalence	Aristaios	flavescens	1	6	9	136	2.496669035	0.04933485591	24.50036514	0.3851645694	0.7837825886	OK	NA
+defense_prevalence	Avs	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Avs	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Avs	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Belisama	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	Belisama	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	Belisama	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	BREX	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=0 < prespecified minimum 5
+defense_prevalence	BREX	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=0 < prespecified minimum 5
+defense_prevalence	BREX	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=0 < prespecified minimum 5
+defense_prevalence	Bunzi	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	Bunzi	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	Bunzi	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	Butters_gp30_gp31	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Butters_gp30_gp31	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Butters_gp30_gp31	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	CapRel	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	CapRel	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	CapRel	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Cas	subflava	31	0	116	5	Inf	0.2325754198	Inf	0.5837372921	0.9561906932	OK	NA
+defense_prevalence	Cas	perflava	109	5	38	0	0	0	3.278676763	0.3320147562	0.7476075239	OK	NA
+defense_prevalence	Cas	flavescens	7	0	140	5	Inf	0.03833238705	Inf	1	1	OK	NA
+defense_prevalence	CBASS	subflava	1	30	19	102	0.180252482	0.004173945574	1.230762533	0.07772073462	0.2605930514	OK	NA
+defense_prevalence	CBASS	perflava	19	95	1	37	7.339274703	1.086783197	315.2277458	0.02660718241	0.1213287518	OK	NA
+defense_prevalence	CBASS	flavescens	0	7	20	125	0	0	4.700130872	0.5949673372	0.9561906932	OK	NA
+defense_prevalence	CmdTAC	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=0 < prespecified minimum 5
+defense_prevalence	CmdTAC	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=0 < prespecified minimum 5
+defense_prevalence	CmdTAC	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=0 < prespecified minimum 5
+defense_prevalence	DARNA	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=3 < prespecified minimum 5
+defense_prevalence	DARNA	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=3 < prespecified minimum 5
+defense_prevalence	DARNA	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=3 < prespecified minimum 5
+defense_prevalence	DarTG	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	DarTG	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	DarTG	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Dazbog	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Dazbog	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Dazbog	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	dCTPdeaminase	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	dCTPdeaminase	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	dCTPdeaminase	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	DpnI	subflava	2	29	17	104	0.4238531318	0.04496779625	1.95686408	0.3662710987	0.7653493189	OK	NA
+defense_prevalence	DpnI	perflava	15	99	4	34	1.285797597	0.3741581885	5.68908493	0.7835018597	1	OK	NA
+defense_prevalence	DpnI	flavescens	2	5	17	128	2.980999114	0.2644088754	20.05032756	0.2122593095	0.5901844215	OK	NA
+defense_prevalence	DRT	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	DRT	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	DRT	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Druantia	subflava	2	29	3	118	2.690143037	0.2154742903	24.63002143	0.2695260867	0.6537441252	OK	NA
+defense_prevalence	Druantia	perflava	3	111	2	36	0.4891380293	0.05380822505	6.071672316	0.5992088537	0.9561906932	OK	NA
+defense_prevalence	Druantia	flavescens	0	7	5	140	0	0	26.08760051	1	1	OK	NA
+defense_prevalence	DS-1	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	DS-1	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	DS-1	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	DS-10	subflava	6	25	3	118	9.237381509	1.829554645	60.94832211	0.002475580115	0.01881440887	OK	NA
+defense_prevalence	DS-10	perflava	3	111	6	32	0.146537697	0.02244917441	0.7310428504	0.008008792083	0.0483451271	OK	NA
+defense_prevalence	DS-10	flavescens	0	7	9	136	0	0	12.32848889	1	1	OK	NA
+defense_prevalence	DS-11	subflava	1	30	8	113	0.4727491465	0.0102771154	3.764701821	0.6868428999	1	OK	NA
+defense_prevalence	DS-11	perflava	8	106	1	37	2.777803376	0.3520483989	127.1426825	0.4515057659	0.8320613677	OK	NA
+defense_prevalence	DS-11	flavescens	0	7	9	136	0	0	12.32848889	1	1	OK	NA
+defense_prevalence	DS-14	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=3 < prespecified minimum 5
+defense_prevalence	DS-14	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=3 < prespecified minimum 5
+defense_prevalence	DS-14	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=3 < prespecified minimum 5
+defense_prevalence	DS-17	subflava	7	24	18	103	1.662767258	0.5261894134	4.785286925	0.2907535016	0.6905395663	OK	NA
+defense_prevalence	DS-17	perflava	18	96	7	31	0.8314302796	0.2958010851	2.582271215	0.8008657395	1	OK	NA
+defense_prevalence	DS-17	flavescens	0	7	25	120	0	0	3.565810982	0.6002587314	0.9561906932	OK	NA
+defense_prevalence	DS-20	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	DS-20	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	DS-20	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	Dsr	subflava	2	29	4	117	2.006273181	0.1735478862	14.79467734	0.6024266381	0.9561906932	OK	NA
+defense_prevalence	Dsr	perflava	4	110	2	36	0.6565452914	0.08975051171	7.54309945	0.6401059095	0.9996174477	OK	NA
+defense_prevalence	Dsr	flavescens	0	7	6	139	0	0	20.50082457	1	1	OK	NA
+defense_prevalence	EcoKMcrA	subflava	1	30	9	112	0.4166724865	0.009166727694	3.219393277	0.6879378548	1	OK	NA
+defense_prevalence	EcoKMcrA	perflava	9	105	1	37	3.153236571	0.4121184279	142.6255069	0.4525246035	0.8320613677	OK	NA
+defense_prevalence	EcoKMcrA	flavescens	0	7	10	135	0	0	10.84521238	1	1	OK	NA
+defense_prevalence	FS_GIY_YIG	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	FS_GIY_YIG	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	FS_GIY_YIG	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Gabija	subflava	9	22	2	119	23.55261557	4.467291477	237.5493315	8.771645312e-06	0.0002499918914	OK	NA
+defense_prevalence	Gabija	perflava	2	112	9	29	0.05898445064	0.00590140818	0.306280594	6.384897931e-05	0.001213130607	OK	NA
+defense_prevalence	Gabija	flavescens	0	7	11	134	0	0	9.665207167	1	1	OK	NA
+defense_prevalence	Gao_Ppl	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	Gao_Ppl	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	Gao_Ppl	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	Gao_Qat	subflava	4	27	15	106	1.046598312	0.2339008372	3.656178345	1	1	OK	NA
+defense_prevalence	Gao_Qat	perflava	15	99	4	34	1.285797597	0.3741581885	5.68908493	0.7835018597	1	OK	NA
+defense_prevalence	Gao_Qat	flavescens	0	7	19	126	0	0	5.003468514	0.5970403391	0.9561906932	OK	NA
+defense_prevalence	Gao_RL	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Gao_RL	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Gao_RL	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	GAPS4	subflava	0	31	6	115	0	0	3.331739091	0.347571919	0.7476075239	OK	NA
+defense_prevalence	GAPS4	perflava	6	108	0	38	Inf	0.3940385876	Inf	0.337467697	0.7476075239	OK	NA
+defense_prevalence	GAPS4	flavescens	0	7	6	139	0	0	20.50082457	1	1	OK	NA
+defense_prevalence	gcu24	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	gcu24	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	gcu24	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	Hachiman	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	Hachiman	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	Hachiman	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	Hailong	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Hailong	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Hailong	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	HEC-01	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	HEC-01	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	HEC-01	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	HEC-04	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	HEC-04	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	HEC-04	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	HEC-06	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	HEC-06	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	HEC-06	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	Hna	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	Hna	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	Hna	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	Kiwa	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	Kiwa	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	Kiwa	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	Lamassu-Fam	subflava	8	23	9	112	4.273120089	1.288448645	14.02969823	0.008057521184	0.0483451271	OK	NA
+defense_prevalence	Lamassu-Fam	perflava	9	105	8	30	0.3243442256	0.1009538808	1.056262199	0.03678974284	0.1497868101	OK	NA
+defense_prevalence	Lamassu-Fam	flavescens	0	7	17	128	0	0	5.725709227	1	1	OK	NA
+defense_prevalence	mEp332_T2SS_GspM	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	mEp332_T2SS_GspM	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	mEp332_T2SS_GspM	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	Mokosh	subflava	2	29	7	114	1.122290399	0.1082665255	6.327093348	1	1	OK	NA
+defense_prevalence	Mokosh	perflava	7	107	2	36	1.176344678	0.210833371	12.10950866	1	1	OK	NA
+defense_prevalence	Mokosh	flavescens	0	7	9	136	0	0	12.32848889	1	1	OK	NA
+defense_prevalence	Other_Type_IV	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=0 < prespecified minimum 5
+defense_prevalence	Other_Type_IV	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=0 < prespecified minimum 5
+defense_prevalence	Other_Type_IV	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=0 < prespecified minimum 5
+defense_prevalence	Paris	subflava	1	30	8	113	0.4727491465	0.0102771154	3.764701821	0.6868428999	1	OK	NA
+defense_prevalence	Paris	perflava	8	106	1	37	2.777803376	0.3520483989	127.1426825	0.4515057659	0.8320613677	OK	NA
+defense_prevalence	Paris	flavescens	0	7	9	136	0	0	12.32848889	1	1	OK	NA
+defense_prevalence	PD-Lambda-5	subflava	4	27	7	114	2.395704743	0.4793197501	10.24761205	0.2361786566	0.6261480663	OK	NA
+defense_prevalence	PD-Lambda-5	perflava	7	107	4	34	0.5585036626	0.1322800252	2.762425467	0.4684697922	0.847707243	OK	NA
+defense_prevalence	PD-Lambda-5	flavescens	0	7	11	134	0	0	9.665207167	1	1	OK	NA
+defense_prevalence	PD-T2-1	subflava	3	28	7	114	1.737606995	0.2729142473	8.227583914	0.4267302814	0.8245296963	OK	NA
+defense_prevalence	PD-T2-1	perflava	7	107	3	35	0.764676461	0.1634142917	4.826644872	0.7114292245	1	OK	NA
+defense_prevalence	PD-T2-1	flavescens	0	7	10	135	0	0	10.84521238	1	1	OK	NA
+defense_prevalence	PD-T4-2	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	PD-T4-2	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	PD-T4-2	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	PD-T4-3	subflava	5	26	74	47	0.1238188164	0.03466661697	0.3581132665	6.167458724e-06	0.0002343634315	OK	NA
+defense_prevalence	PD-T4-3	perflava	74	40	5	33	12.00349918	4.212047684	42.5411652	1.779111114e-08	1.014093335e-06	OK	NA
+defense_prevalence	PD-T4-3	flavescens	0	7	79	66	0	0	0.6083740118	0.005039814861	0.03379640554	OK	NA
+defense_prevalence	PD-T4-4	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	PD-T4-4	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	PD-T4-4	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	PD-T7-2	subflava	4	27	6	115	2.815003656	0.545485002	12.84264284	0.1206672332	0.3627922951	OK	NA
+defense_prevalence	PD-T7-2	perflava	6	108	4	34	0.4749056497	0.1053565962	2.425944577	0.2688098755	0.6537441252	OK	NA
+defense_prevalence	PD-T7-2	flavescens	0	7	10	135	0	0	10.84521238	1	1	OK	NA
+defense_prevalence	PhiR47_GevAT	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	PhiR47_GevAT	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	PhiR47_GevAT	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	PhiR47.1_PanTA	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	PhiR47.1_PanTA	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	PhiR47.1_PanTA	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	PhiR5.1_HipAD	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	PhiR5.1_HipAD	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	PhiR5.1_HipAD	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=4 < prespecified minimum 5
+defense_prevalence	PrrC	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=3 < prespecified minimum 5
+defense_prevalence	PrrC	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=3 < prespecified minimum 5
+defense_prevalence	PrrC	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=3 < prespecified minimum 5
+defense_prevalence	Pycsar	subflava	9	22	17	104	2.485023034	0.8596024432	6.859597506	0.06168035279	0.2197362568	OK	NA
+defense_prevalence	Pycsar	perflava	17	97	9	29	0.5670178173	0.2113855917	1.60389673	0.2214852993	0.6011743838	OK	NA
+defense_prevalence	Pycsar	flavescens	0	7	26	119	0	0	3.393835157	0.6039099115	0.9561906932	OK	NA
+defense_prevalence	RAZR	subflava	4	27	6	115	2.815003656	0.545485002	12.84264284	0.1206672332	0.3627922951	OK	NA
+defense_prevalence	RAZR	perflava	6	108	4	34	0.4749056497	0.1053565962	2.425944577	0.2688098755	0.6537441252	OK	NA
+defense_prevalence	RAZR	flavescens	0	7	10	135	0	0	10.84521238	1	1	OK	NA
+defense_prevalence	Retron	subflava	3	28	7	114	1.737606995	0.2729142473	8.227583914	0.4267302814	0.8245296963	OK	NA
+defense_prevalence	Retron	perflava	7	107	3	35	0.764676461	0.1634142917	4.826644872	0.7114292245	1	OK	NA
+defense_prevalence	Retron	flavescens	0	7	10	135	0	0	10.84521238	1	1	OK	NA
+defense_prevalence	RM_Type_I	subflava	12	19	89	32	0.2296395986	0.09049091815	0.5613021024	0.0004927518312	0.004681142396	OK	NA
+defense_prevalence	RM_Type_I	perflava	82	32	19	19	2.545273609	1.118429033	5.832028958	0.01733357953	0.08981945756	OK	NA
+defense_prevalence	RM_Type_I	flavescens	7	0	94	51	Inf	0.7457522232	Inf	0.09587857856	0.3122902273	OK	NA
+defense_prevalence	RM_Type_II	subflava	23	8	55	66	3.422548379	1.346388584	9.579425467	0.004825289494	0.03379640554	OK	NA
+defense_prevalence	RM_Type_II	perflava	48	66	30	8	0.1960420636	0.07114038976	0.4858715984	7.717413105e-05	0.001256835849	OK	NA
+defense_prevalence	RM_Type_II	flavescens	7	0	71	74	Inf	1.432997205	Inf	0.01373815444	0.07830748031	OK	NA
+defense_prevalence	RM_Type_IIG	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=0 < prespecified minimum 5
+defense_prevalence	RM_Type_IIG	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=0 < prespecified minimum 5
+defense_prevalence	RM_Type_IIG	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=0 < prespecified minimum 5
+defense_prevalence	RM_Type_III	subflava	10	21	35	86	1.16882189	0.4441097055	2.917312959	0.8257768205	1	OK	NA
+defense_prevalence	RM_Type_III	perflava	28	86	17	21	0.4048572901	0.1747413021	0.9392378091	0.02409974536	0.1194509118	OK	NA
+defense_prevalence	RM_Type_III	flavescens	7	0	38	107	Inf	3.793747762	Inf	0.000140365838	0.002000213192	OK	NA
+defense_prevalence	RosmerTA	subflava	5	26	5	116	4.402367577	0.9399790356	20.67347383	0.03046834005	0.1335919525	OK	NA
+defense_prevalence	RosmerTA	perflava	5	109	5	33	0.3056825395	0.06593146783	1.415266474	0.1219773937	0.3627922951	OK	NA
+defense_prevalence	RosmerTA	flavescens	0	7	10	135	0	0	10.84521238	1	1	OK	NA
+defense_prevalence	Rst_RT-nitrilase-Tm	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=0 < prespecified minimum 5
+defense_prevalence	Rst_RT-nitrilase-Tm	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=0 < prespecified minimum 5
+defense_prevalence	Rst_RT-nitrilase-Tm	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=0 < prespecified minimum 5
+defense_prevalence	Rst_TIR-NLR	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=3 < prespecified minimum 5
+defense_prevalence	Rst_TIR-NLR	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=3 < prespecified minimum 5
+defense_prevalence	Rst_TIR-NLR	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=3 < prespecified minimum 5
+defense_prevalence	Rugutis	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Rugutis	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Rugutis	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Septu	subflava	3	28	9	112	1.330629955	0.2176179864	5.806075893	0.7106912822	1	OK	NA
+defense_prevalence	Septu	perflava	9	105	3	35	1	0.2321403219	6.060498752	1	1	OK	NA
+defense_prevalence	Septu	flavescens	0	7	12	133	0	0	8.704093863	1	1	OK	NA
+defense_prevalence	Shedu	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Shedu	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	Shedu	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=1 < prespecified minimum 5
+defense_prevalence	ShosTA	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	ShosTA	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	ShosTA	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=2 < prespecified minimum 5
+defense_prevalence	SoFIC	subflava	4	27	10	111	1.638422744	0.3483082759	6.248714523	0.4857816633	0.8652985878	OK	NA
+defense_prevalence	SoFIC	perflava	10	104	4	34	0.8184126678	0.2178292694	3.808517679	0.7503555428	1	OK	NA
+defense_prevalence	SoFIC	flavescens	0	7	14	131	0	0	7.233054549	1	1	OK	NA
+defense_prevalence	Sucellos	subflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=0 < prespecified minimum 5
+defense_prevalence	Sucellos	perflava	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=0 < prespecified minimum 5
+defense_prevalence	Sucellos	flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	FILTERED_NOT_TESTED	carrier_total=0 < prespecified minimum 5
+defense_prevalence	TgvAB	subflava	5	26	34	87	0.4941420448	0.1368895276	1.457279144	0.2489015185	0.644881207	OK	NA
+defense_prevalence	TgvAB	perflava	27	87	12	26	0.6742557806	0.2815351214	1.672004964	0.3918912943	0.7837825886	OK	NA
+defense_prevalence	TgvAB	flavescens	7	0	32	113	Inf	4.713052244	Inf	4.757549999e-05	0.0010847214	OK	NA
+defense_prevalence	Thoeris	subflava	0	31	7	114	0	0	2.70750657	0.3455470459	0.7476075239	OK	NA
+defense_prevalence	Thoeris	perflava	7	107	0	38	Inf	0.4854032202	Inf	0.1931888601	0.5505882513	OK	NA
+defense_prevalence	Thoeris	flavescens	0	7	7	138	0	0	16.83415084	1	1	OK	NA
+defense_prevalence	VcaM4I	subflava	29	2	90	31	4.956280658	1.138068347	45.30784341	0.02606844185	0.1213287518	OK	NA
+defense_prevalence	VcaM4I	perflava	87	27	32	6	0.6060280571	0.1870696027	1.686834079	0.3692474784	0.7653493189	OK	NA
+defense_prevalence	VcaM4I	flavescens	3	4	116	29	0.1903142147	0.02641193005	1.191595885	0.04023281793	0.1528847081	OK	NA
+defense_prevalence	Veles	subflava	29	2	111	10	1.304151776	0.2565379316	12.89086298	1	1	OK	NA
+defense_prevalence	Veles	perflava	111	3	29	9	11.23929984	2.595118501	68.54290747	0.0002084139105	0.002639909533	OK	NA
+defense_prevalence	Veles	flavescens	0	7	140	5	0	0	0.03530441932	2.449772468e-09	2.792740614e-07	OK	NA
+VFDB_prevalence	ctrD	subflava	8	23	85	36	0.1494230863	0.05258632227	0.3852856297	9.304168497e-06	4.884688461e-05	TESTED	NA
+VFDB_prevalence	ctrD	perflava	83	31	10	28	7.381370283	3.059790408	19.15128751	6.582297654e-07	4.607608358e-06	TESTED	NA
+VFDB_prevalence	ctrD	flavescens	2	5	91	54	0.2396705235	0.0221015353	 1.52531147	0.1095668045	0.1840722315	TESTED	NA
+VFDB_prevalence	fHbp	subflava	0	31	2	119	NA	NA	NA	NA	NA	FILTERED_BELOW_CARRIER_MIN	carrier_total<5
+VFDB_prevalence	fHbp	perflava	0	114	2	36	NA	NA	NA	NA	NA	FILTERED_BELOW_CARRIER_MIN	carrier_total<5
+VFDB_prevalence	fHbp	flavescens	2	5	0	145	NA	NA	NA	NA	NA	FILTERED_BELOW_CARRIER_MIN	carrier_total<5
+VFDB_prevalence	fbpA	subflava	0	31	7	114	          0	          0	 2.70750657	0.3455470459	0.4791159581	TESTED	NA
+VFDB_prevalence	fbpA	perflava	0	114	7	31	          0	          0	0.2041395099	3.903630768e-05	0.0001318887911	TESTED	NA
+VFDB_prevalence	fbpA	flavescens	7	0	0	145	Inf	117.5624486	Inf	3.093147055e-12	4.330405877e-11	TESTED	NA
+VFDB_prevalence	fbpB	subflava	0	31	7	114	          0	          0	 2.70750657	0.3455470459	0.4791159581	TESTED	NA
+VFDB_prevalence	fbpB	perflava	0	114	7	31	          0	          0	0.2041395099	3.903630768e-05	0.0001318887911	TESTED	NA
+VFDB_prevalence	fbpB	flavescens	7	0	0	145	Inf	117.5624486	Inf	3.093147055e-12	4.330405877e-11	TESTED	NA
+VFDB_prevalence	fbpC	subflava	0	31	7	114	          0	          0	 2.70750657	0.3455470459	0.4791159581	TESTED	NA
+VFDB_prevalence	fbpC	perflava	0	114	7	31	          0	          0	0.2041395099	3.903630768e-05	0.0001318887911	TESTED	NA
+VFDB_prevalence	fbpC	flavescens	7	0	0	145	Inf	117.5624486	Inf	3.093147055e-12	4.330405877e-11	TESTED	NA
+VFDB_prevalence	hmbR	subflava	7	24	70	51	0.2146608737	0.07232701317	0.5631962873	0.0005313848819	0.001394885315	TESTED	NA
+VFDB_prevalence	hmbR	perflava	70	44	7	31	6.953431928	2.707095341	20.36953688	4.251894558e-06	2.551136735e-05	TESTED	NA
+VFDB_prevalence	hmbR	flavescens	0	7	77	68	          0	          0	0.642740446	0.006139370605	0.01432519808	TESTED	NA
+VFDB_prevalence	katA	subflava	29	2	96	25	3.751452601	0.8474325422	34.59402123	0.07027552772	0.1260438668	TESTED	NA
+VFDB_prevalence	katA	perflava	89	25	36	2	0.1993195293	0.02177282364	0.8705766642	0.02539278357	0.05078556715	TESTED	NA
+VFDB_prevalence	katA	flavescens	7	0	118	27	Inf	0.3091125899	Inf	0.3536332072	0.4791159581	TESTED	NA
+VFDB_prevalence	lbpA	subflava	12	19	27	94	2.186141335	0.8545880024	 5.46441955	0.06944435514	0.1260438668	TESTED	NA
+VFDB_prevalence	lbpA	perflava	23	91	16	22	0.3503121726	0.1474516563	0.8335374789	0.0101963019	0.02253919368	TESTED	NA
+VFDB_prevalence	lbpA	flavescens	4	3	35	110	4.141495947	0.6661517173	29.65945033	0.07202506674	0.1260438668	TESTED	NA
+VFDB_prevalence	lgtF	subflava	1	30	1	120	NA	NA	NA	NA	NA	FILTERED_BELOW_CARRIER_MIN	carrier_total<5
+VFDB_prevalence	lgtF	perflava	1	113	1	37	NA	NA	NA	NA	NA	FILTERED_BELOW_CARRIER_MIN	carrier_total<5
+VFDB_prevalence	lgtF	flavescens	0	7	2	143	NA	NA	NA	NA	NA	FILTERED_BELOW_CARRIER_MIN	carrier_total<5
+VFDB_prevalence	lipA	subflava	17	14	120	1	0.0106363807	0.0002440140032	0.07769008008	1.619022347e-10	1.699973464e-09	TESTED	NA
+VFDB_prevalence	lipA	perflava	113	1	24	14	63.58899952	8.907789769	2764.202729	5.587763455e-09	4.693721302e-08	TESTED	NA
+VFDB_prevalence	lipA	flavescens	7	0	130	15	Inf	0.1502027735	Inf	          1	          1	TESTED	NA
+VFDB_prevalence	lipB	subflava	17	14	107	14	0.1615878618	0.05898830791	0.4338049464	8.198403263e-05	0.0002295552914	TESTED	NA
+VFDB_prevalence	lipB	perflava	100	14	24	14	4.118480143	1.591417089	10.77008637	0.001464341402	0.00361778464	TESTED	NA
+VFDB_prevalence	lipB	flavescens	7	0	117	28	Inf	0.3237489846	Inf	0.3500060086	0.4791159581	TESTED	NA
+VFDB_prevalence	mntC	subflava	26	5	52	69	6.817322502	2.362114093	24.28861419	4.082272107e-05	0.0001318887911	TESTED	NA
+VFDB_prevalence	mntC	perflava	48	66	30	8	0.1960420636	0.07114038976	0.4858715984	7.717413105e-05	0.0002295552914	TESTED	NA
+VFDB_prevalence	mntC	flavescens	4	3	74	71	1.277218868	0.2080733996	9.026006973	          1	          1	TESTED	NA
+VFDB_prevalence	msrA/B(pilB	subflava	31	0	119	2	Inf	0.04767709762	Inf	          1	          1	TESTED	NA
+VFDB_prevalence	msrA/B(pilB	perflava	112	2	38	0	          0	          0	16.07232684	          1	          1	TESTED	NA
+VFDB_prevalence	msrA/B(pilB	flavescens	7	0	143	2	Inf	0.008524575907	Inf	          1	          1	TESTED	NA
+VFDB_prevalence	mtrC	subflava	5	26	22	99	0.8661913735	0.2337120013	2.658960573	          1	          1	TESTED	NA
+VFDB_prevalence	mtrC	perflava	22	92	5	33	1.573883223	0.5229185119	5.755732431	0.4698126313	0.5803567798	TESTED	NA
+VFDB_prevalence	mtrC	flavescens	0	7	27	118	          0	          0	3.235067198	0.3536332072	0.4791159581	TESTED	NA
+VFDB_prevalence	mtrD	subflava	31	0	121	0	NA	NA	NA	NA	NA	NOT_ESTIMABLE	no_variation_all_positive
+VFDB_prevalence	mtrD	perflava	114	0	38	0	NA	NA	NA	NA	NA	NOT_ESTIMABLE	no_variation_all_positive
+VFDB_prevalence	mtrD	flavescens	7	0	145	0	NA	NA	NA	NA	NA	NOT_ESTIMABLE	no_variation_all_positive
+VFDB_prevalence	pilT	subflava	31	0	121	0	NA	NA	NA	NA	NA	NOT_ESTIMABLE	no_variation_all_positive
+VFDB_prevalence	pilT	perflava	114	0	38	0	NA	NA	NA	NA	NA	NOT_ESTIMABLE	no_variation_all_positive
+VFDB_prevalence	pilT	flavescens	7	0	145	0	NA	NA	NA	NA	NA	NOT_ESTIMABLE	no_variation_all_positive
+VFDB_prevalence	recN	subflava	30	1	120	1	0.2530801701	0.003167762671	20.27323587	0.3673753921	0.4821802022	TESTED	NA
+VFDB_prevalence	recN	perflava	113	1	37	1	3.026875481	0.03789109023	241.3212513	0.4387417219	0.5583985551	TESTED	NA
+VFDB_prevalence	recN	flavescens	7	0	143	2	Inf	0.008524575907	Inf	          1	          1	TESTED	NA
+VFDB_prevalence	rfaC	subflava	3	28	16	105	0.7046543414	0.1230208478	2.720587591	0.7655840745	0.9187008894	TESTED	NA
+VFDB_prevalence	rfaC	perflava	10	104	9	29	0.3127479462	0.1029415587	0.9582629417	0.02341590715	0.04917340502	TESTED	NA
+VFDB_prevalence	rfaC	flavescens	6	1	13	132	57.38328155	6.283654957	2768.269928	1.131765186e-05	5.281570867e-05	TESTED	NA
+VFDB_prevalence	rfaK	subflava	1	30	1	120	NA	NA	NA	NA	NA	FILTERED_BELOW_CARRIER_MIN	carrier_total<5
+VFDB_prevalence	rfaK	perflava	1	113	1	37	NA	NA	NA	NA	NA	FILTERED_BELOW_CARRIER_MIN	carrier_total<5
+VFDB_prevalence	rfaK	flavescens	0	7	2	143	NA	NA	NA	NA	NA	FILTERED_BELOW_CARRIER_MIN	carrier_total<5

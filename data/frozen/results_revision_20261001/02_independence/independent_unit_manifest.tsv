@@ -1,0 +1,1304 @@
+assembly_accession	biosample	historical_189	organism_name_label	ani_member	best_ref	margin	derivative_flag	completeness	contamination	contig_n50	unit_id	fate	in_revision_primary	in_legacy139_dereplicated	in_legacy_plus6_dereplicated	in_assignment_confident	in_one_per_participant	in_sg0010_control
+GCA_000090875.1	SAMN02463843	no	Neisseria sp. oral taxon 014 str. F0314	False	subflava	0.5054	natural					non_member	False	False	False	False	False	False
+GCA_000173875.1	SAMN00008841	no	Neisseria mucosa ATCC 25996	False	subflava	0.1029	natural					non_member	False	False	False	False	False	False
+GCA_000173895.1	SAMN00008837	no	Neisseria cinerea ATCC 14685	False	subflava	0.0436	natural					non_member	False	False	False	False	False	False
+GCA_000173935.1	SAMN00008839	no	Neisseria flavescens NRL30031/H210	True	flavescens	5.1523	natural	99.99	0.1	50659		primary_unit_representative	True	False	False	True	True	False
+GCA_000173955.1	SAMN00008843	no	Neisseria subflava NJ9703	True	perflava	2.9529	natural	100.0	0.03	142220		primary_unit_representative	True	False	False	True	True	False
+GCA_000173995.1	SAMN00008840	no	Neisseria lactamica ATCC 23970	False	flavescens	1.8034	natural					non_member	False	False	False	False	False	False
+GCA_000174655.1	SAMN00008842	no	Neisseria sicca ATCC 29256	False	subflava	0.0964	natural					non_member	False	False	False	False	False	False
+GCA_000176755.2	SAMN00008838	no	Neisseria elongata subsp. glycolytica ATCC 29315	False	subflava	0.2726	natural					non_member	False	False	False	False	False	False
+GCA_000180595.1	SAMEA2272069	no	Neisseria lactamica Y92-1009	False	flavescens	1.7066	natural					non_member	False	False	False	False	False	False
+GCA_000186165.1	SAMN02463751	no	Neisseria mucosa C102	True	perflava	1.2969	natural	100.0	0.01	1187978		primary_unit_representative	True	False	False	True	True	False
+GCA_000193735.2	SAMN02471879	no	Neisseria sicca 4320	False	subflava	0.2884	natural					non_member	False	False	False	False	False	False
+GCA_000193755.2	SAMN02471880	no	Neisseria sicca DS1	False	subflava	0.0896	natural					non_member	False	False	False	False	False	False
+GCA_000193775.2	SAMN02471878	no	Neisseria polysaccharea NS342	False	flavescens	1.651	natural					non_member	False	False	False	False	False	False
+GCA_000193795.2	SAMN02471876	no	Neisseria lactamica NS19	False	flavescens	1.9647	natural					non_member	False	False	False	False	False	False
+GCA_000194925.1	SAMN00253995	no	Neisseria bacilliformis ATCC BAA-1200	False	subflava	0.0096	natural					non_member	False	False	False	False	False	False
+GCA_000196295.1	SAMEA3138337	no	Neisseria lactamica 020-06	False	flavescens	1.819	natural					non_member	False	False	False	False	False	False
+GCA_000220865.1	SAMN02299447	no	Neisseria macacae ATCC 33926	False	subflava	0.3269	natural					non_member	False	False	False	False	False	False
+GCA_000224255.2	SAMN02470907	no	Neisseria weaveri LMG 5135	False	subflava	0.2353	natural					non_member	False	False	False	False	False	False
+GCA_000224275.2	SAMN02470917	no	Neisseria weaveri ATCC 51223	False	subflava	0.233	natural					non_member	False	False	False	False	False	False
+GCA_000226875.1	SAMN02299457	no	Neisseria shayeganii 871	False	subflava	0.1694	natural					non_member	False	False	False	False	False	False
+GCA_000227275.1	SAMN02463802	no	Neisseria sp. GT4A_CT1	False	subflava	0.163	natural					non_member	False	False	False	False	False	False
+GCA_000227765.1	SAMN02299456	no	Neisseria wadsworthii 9715	False	subflava	0.0513	natural					non_member	False	False	False	False	False	False
+GCA_000260655.1	SAMN00761806	no	Neisseria sicca VK64	False	flavescens	0.0103	natural					non_member	False	False	False	False	False	False
+GCA_000318235.2	SAMN02436686	no	Neisseria sp. oral taxon 020 str. F0370	False	subflava	0.1444	natural					non_member	False	False	False	False	False	False
+GCA_000741965.1	SAMN02870721	no	Neisseria lactamica ATCC 23970	False	flavescens	1.7064	natural					non_member	False	False	False	False	False	False
+GCA_000763635.1	SAMN02996611	no	Neisseria mucosa	True	perflava	1.2845	natural	100.0	0.01	243792		primary_unit_representative	True	False	False	True	True	False
+GCA_000818035.1	SAMN02797820	no	Neisseria elongata subsp. glycolytica ATCC 29315	False	subflava	0.2591	natural					non_member	False	False	False	False	False	False
+GCA_000952795.1	SAMN03287033	no	Neisseria sp. HMSC06F02	False	subflava	0.4323	natural					non_member	False	False	False	False	False	False
+GCA_001027865.1	SAMN03177367	no	Neisseria arctica	False	subflava	0.2193	natural					non_member	False	False	False	False	False	False
+GCA_001061435.1	SAMN03197249	no	Neisseria elongata subsp. glycolytica	False	subflava	0.1642	natural					non_member	False	False	False	False	False	False
+GCA_001063965.1	SAMN03197396	no	Neisseria bacilliformis	False	flavescens	0.2382	natural					non_member	False	False	False	False	False	False
+GCA_001064605.1	SAMN03197528	no	Neisseria lactamica	True	perflava	1.3272	natural	100.0	0.02	75120		primary_unit_representative	True	False	False	True	True	False
+GCA_001064875.1	SAMN03197594	no	Neisseria elongata subsp. glycolytica	False	subflava	0.4629	natural					non_member	False	False	False	False	False	False
+GCA_001064935.1	SAMN03197625	no	Neisseria elongata subsp. glycolytica	False	subflava	0.4575	natural					non_member	False	False	False	False	False	False
+GCA_001067635.1	SAMN03198124	no	Neisseria bacilliformis	False	subflava	0.0238	natural					non_member	False	False	False	False	False	False
+GCA_001308005.1	SAMN03943944	no	Neisseria sp. 74A18	False	subflava	0.139	natural					non_member	False	False	False	False	False	False
+GCA_001308015.1	SAMN03941560	no	Neisseria sp. 83E34	False	subflava	0.2308	natural					non_member	False	False	False	False	False	False
+GCA_001556335.1	SAMN04299442	no	Neisseria mucosa	False	flavescens	0.116	natural					non_member	False	False	False	False	False	False
+GCA_001618015.1	SAMN03329000	yes	Neisseria flavescens	True	subflava	0.0896	natural	99.98	0.06	178113		primary_unit_representative	True	True	True	False	False	False
+GCA_001618065.1	SAMN03329001	yes	Neisseria flavescens	True	perflava	1.1304	natural	99.95	0.67	87875		primary_unit_representative	True	True	True	True	False	False
+GCA_001618075.1	SAMN03329002	yes	Neisseria flavescens	True	perflava	1.0101	natural	99.99	0.28	178806		primary_unit_representative	True	True	True	True	True	False
+GCA_001618085.1	SAMN03329021	yes	Neisseria flavescens	True	perflava	0.8355	natural	100.0	1.46	131736		primary_unit_representative	True	True	True	True	False	False
+GCA_001807625.1	SAMN03436200	no	Neisseria sp. HMSC03D10	False	subflava	0.194	natural					non_member	False	False	False	False	False	False
+GCA_001807735.1	SAMN03436258	no	Neisseria sp. HMSC31F04	False	subflava	0.4709	natural					non_member	False	False	False	False	False	False
+GCA_001808255.1	SAMN03287028	no	Neisseria sp. HMSC15G01	True	perflava	0.5052	natural	100.0	0.45	216540		primary_unit_representative	True	False	False	True	True	False
+GCA_001808875.1	SAMN04495796	no	Neisseria sp. HMSC064E01	False	subflava	0.1509	natural					non_member	False	False	False	False	False	False
+GCA_001809325.1	SAMN04477500	no	Neisseria sp. HMSC077D05	False	subflava	0.2816	natural					non_member	False	False	False	False	False	False
+GCA_001809345.1	SAMN04477501	no	Neisseria sp. HMSC072B12	True	perflava	2.8956	natural	100.0	0.05	354247		primary_unit_representative	True	False	False	True	True	False
+GCA_001809585.1	SAMN04477517	no	Neisseria sp. HMSC072C05	True	perflava	0.3537	natural	99.99	0.32	166309		primary_unit_representative	True	False	False	False	True	False
+GCA_001810035.1	SAMN04477541	no	Neisseria sp. HMSC058F07	True	perflava	3.1541	natural	100.0	0.02	348445		primary_unit_representative	True	False	False	True	True	False
+GCA_001810105.1	SAMN04477543	no	Neisseria sp. HMSC068C04	True	subflava	0.2665	natural	100.0	0.19	87733		primary_unit_representative	True	False	False	False	True	False
+GCA_001810165.1	SAMN04477548	no	Neisseria sp. HMSC070A01	False	perflava	1.1217	natural					non_member	False	False	False	False	False	False
+GCA_001810355.1	SAMN04477559	no	Neisseria sp. HMSC074B07	False	subflava	0.153	natural					non_member	False	False	False	False	False	False
+GCA_001811065.1	SAMN04477595	no	Neisseria sp. HMSC075C12	True	perflava	4.6676	natural	100.0	0.02	268618		primary_unit_representative	True	False	False	True	True	False
+GCA_001811365.1	SAMN04477613	no	Neisseria sp. HMSC061E12	True	perflava	1.0206	natural	100.0	0.3	361297		primary_unit_representative	True	False	False	True	True	False
+GCA_001811855.1	SAMN04477637	no	Neisseria sp. HMSC063B05	True	perflava	2.9286	natural	100.0	0.02	344418		primary_unit_representative	True	False	False	True	True	False
+GCA_001811945.1	SAMN04477641	no	Neisseria sp. HMSC071A01	True	perflava	3.6542	natural	100.0	0.03	300096		primary_unit_representative	True	False	False	True	True	False
+GCA_001812055.1	SAMN04477646	no	Neisseria sp. HMSC067H04	True	perflava	4.8619	natural	100.0	0.03	366219		primary_unit_representative	True	False	False	True	True	False
+GCA_001812605.1	SAMN04480033	no	Neisseria sp. HMSC073G10	True	perflava	0.4513	natural	100.0	0.49	138283		primary_unit_representative	True	False	False	False	True	False
+GCA_001812725.1	SAMN04480039	no	Neisseria sp. HMSC067G12	True	perflava	4.8737	natural	100.0	0.04	350460		primary_unit_representative	True	False	False	True	True	False
+GCA_001812735.1	SAMN04480040	no	Neisseria sp. HMSC069H12	True	subflava	1.7357	natural	100.0	0.06	83763		primary_unit_representative	True	False	False	True	True	False
+GCA_001812885.1	SAMN04480047	no	Neisseria sp. HMSC067G11	True	perflava	4.8671	natural	100.0	0.03	366058		primary_unit_representative	True	False	False	True	True	False
+GCA_001813335.1	SAMN04480068	no	Neisseria sp. HMSC055H02	False	subflava	0.1429	natural					non_member	False	False	False	False	False	False
+GCA_001814095.1	SAMN04480384	no	Neisseria sp. HMSC068C12	True	perflava	3.404	natural	100.0	0.04	365713		primary_unit_representative	True	False	False	True	True	False
+GCA_001814135.1	SAMN04480378	no	Neisseria sp. HMSC067H09	False	subflava	0.3061	natural					non_member	False	False	False	False	False	False
+GCA_001814225.1	SAMN04480382	no	Neisseria sp. HMSC070F02	False	flavescens	1.4321	natural					non_member	False	False	False	False	False	False
+GCA_001814445.1	SAMN04480396	no	Neisseria sp. HMSC066B07	True	perflava	1.1594	natural	100.0	0.05	360737		primary_unit_representative	True	False	False	True	True	False
+GCA_001815375.1	SAMN04480440	no	Neisseria sp. HMSC065C04	True	perflava	1.1859	natural	100.0	0.35	288445		primary_unit_representative	True	False	False	True	True	False
+GCA_001815615.1	SAMN04480456	no	Neisseria sp. HMSC075C10	True	perflava	0.5097	natural	100.0	0.41	167421		primary_unit_representative	True	False	False	True	True	False
+GCA_001815675.1	SAMN04480457	no	Neisseria sp. HMSC065D04	False	subflava	0.0772	natural					non_member	False	False	False	False	False	False
+GCA_001815685.1	SAMN04480460	no	Neisseria sp. HMSC056A03	True	subflava	1.8023	natural	100.0	0.01	76623		primary_unit_representative	True	False	False	True	True	False
+GCA_001836315.1	SAMN04498579	no	Neisseria sp. HMSC056A04	True	perflava	1.0629	natural	100.0	0.02	361234		primary_unit_representative	True	False	False	True	True	False
+GCA_001836705.1	SAMN04498636	no	Neisseria sp. HMSC061B04	True	perflava	1.1688	natural	100.0	0.0	100830		primary_unit_representative	True	False	False	True	True	False
+GCA_001836795.1	SAMN04498643	no	Neisseria sp. HMSC061H08	True	perflava	0.6782	natural	100.0	0.49	305004		primary_unit_representative	True	False	False	True	True	False
+GCA_001837185.1	SAMN04498601	no	Neisseria sp. HMSC064D07	True	perflava	0.9804	natural	99.99	0.67	109799		primary_unit_representative	True	False	False	True	True	False
+GCA_001837245.1	SAMN04498574	no	Neisseria sp. HMSC064F03	True	perflava	0.4808	natural	100.0	0.59	331108		primary_unit_representative	True	False	False	False	True	False
+GCA_001837365.1	SAMN04498639	no	Neisseria sp. HMSC066F04	True	perflava	1.0684	natural	100.0	0.04	361023		primary_unit_representative	True	False	False	True	True	False
+GCA_001837375.1	SAMN04498571	no	Neisseria sp. HMSC066H01	True	perflava	1.1514	natural	100.0	0.01	563548		primary_unit_representative	True	False	False	True	True	False
+GCA_001837635.1	SAMN04498603	no	Neisseria sp. HMSC070H10	True	perflava	0.5524	natural	100.0	0.46	180971		primary_unit_representative	True	False	False	True	True	False
+GCA_001838065.1	SAMN04498659	no	Neisseria sp. HMSC078C12	False	perflava	1.2775	natural					non_member	False	False	False	False	False	False
+GCA_001838135.1	SAMN04498575	no	Neisseria sp. HMSC078H04	True	perflava	1.0179	natural	100.0	0.02	369114		primary_unit_representative	True	False	False	True	True	False
+GCA_001838645.1	SAMN04498886	no	Neisseria sp. HMSC70E02	False	subflava	0.1696	natural					non_member	False	False	False	False	False	False
+GCA_002022745.1	SAMN05437355	no	Neisseria lactamica	False	flavescens	1.7344	natural					non_member	False	False	False	False	False	False
+GCA_002073715.2	SAMN04875586	no	Neisseria mucosa	False	subflava	0.2104	natural					non_member	False	False	False	False	False	False
+GCA_002108495.1	SAMN06212706	no	Neisseria canis	False	subflava	0.1969	natural					non_member	False	False	False	False	False	False
+GCA_002108505.1	SAMN06192246	no	Neisseria dumasiana	False	subflava	0.17	natural					non_member	False	False	False	False	False	False
+GCA_002108535.1	SAMN06192247	no	Neisseria dumasiana	False	subflava	0.2001	natural					non_member	False	False	False	False	False	False
+GCA_002108545.1	SAMN06192248	no	Neisseria dumasiana	False	subflava	0.0894	natural					non_member	False	False	False	False	False	False
+GCA_002108575.1	SAMN06212709	no	Neisseria zoodegmatis	False	subflava	0.2635	natural					non_member	False	False	False	False	False	False
+GCA_002108595.1	SAMN06212708	no	Neisseria dentiae	False	subflava	0.1535	natural					non_member	False	False	False	False	False	False
+GCA_002108605.1	SAMN06212707	no	Neisseria animaloris	False	subflava	0.1628	natural					non_member	False	False	False	False	False	False
+GCA_002216145.1	SAMN05726023	no	Neisseria chenwenguii	False	subflava	0.0319	natural					non_member	False	False	False	False	False	False
+GCA_002237445.1	SAMN07357172	no	Neisseria sp. KEM232	False	subflava	0.0191	natural					non_member	False	False	False	False	False	False
+GCA_002318615.1	SAMN06827272	no	Neisseria lactamica	False	flavescens	1.6559	natural					non_member	False	False	False	False	False	False
+GCA_002327085.1	SAMN07357044	no	Neisseria weixii	False	flavescens	0.0042	natural					non_member	False	False	False	False	False	False
+GCA_002551535.2	SAMN07758018	no	Neisseria sp. N95_16	False	subflava	0.1149	natural					non_member	False	False	False	False	False	False
+GCA_002803635.1	SAMN08096369	no	Neisseria sp. N177_16	False	subflava	0.1553	natural					non_member	False	False	False	False	False	False
+GCA_002847985.1	SAMN08193709	yes	Neisseria perflava	True	perflava	1.0735	natural	100.0	0.14	278214		primary_unit_representative	True	True	True	True	True	False
+GCA_002863285.1	SAMN08193710	no	Neisseria sicca	False	subflava	0.3426	natural					non_member	False	False	False	False	False	False
+GCA_002863305.2	SAMN08193708	yes	Neisseria perflava	True	perflava	1.0541	natural	100.0	0.15	2344520		primary_unit_representative	True	True	True	True	False	False
+GCA_003013245.1	SAMN08721881	no	Neisseria iguanae	False	perflava	0.0182	natural					non_member	False	False	False	False	False	False
+GCA_003044345.1	SAMN08299199	no	Neisseria sicca	False	subflava	0.2923	natural					non_member	False	False	False	False	False	False
+GCA_003044355.1	SAMN08299198	yes	Neisseria subflava	True	perflava	3.0362	natural	100.0	0.01	340211		primary_unit_representative	True	True	True	True	True	False
+GCA_003044385.1	SAMN08299200	yes	Neisseria subflava	True	perflava	0.5181	natural	100.0	0.4	209740		primary_unit_representative	True	True	True	True	False	False
+GCA_003044395.1	SAMN08299197	no	Neisseria mucosa	False	flavescens	0.0342	natural					non_member	False	False	False	False	False	False
+GCA_003044425.1	SAMN08299201	no	Neisseria sicca	False	subflava	0.2292	natural					non_member	False	False	False	False	False	False
+GCA_003044445.1	SAMN08299202	no	Neisseria mucosa	False	subflava	0.3496	natural					non_member	False	False	False	False	False	False
+GCA_003044455.1	SAMN08299203	no	Neisseria bergeri	False	flavescens	1.4655	natural					non_member	False	False	False	False	False	False
+GCA_003044485.1	SAMN08299204	no	Neisseria bergeri	False	flavescens	1.5332	natural					non_member	False	False	False	False	False	False
+GCA_003044505.1	SAMN08299206	yes	Neisseria subflava	False	perflava	1.1039	natural					non_member	False	False	False	False	False	False
+GCA_003044525.1	SAMN08299208	yes	Neisseria subflava	True	perflava	2.9283	natural	100.0	0.05	404461		primary_unit_representative	True	True	True	True	False	False
+GCA_003044545.1	SAMN08299210	no	Neisseria weaveri	False	subflava	0.0974	natural					non_member	False	False	False	False	False	False
+GCA_003044565.1	SAMN08299211	no	Neisseria sicca	False	subflava	0.0859	natural					non_member	False	False	False	False	False	False
+GCA_003044585.1	SAMN08299215	yes	Neisseria subflava	True	perflava	2.9168	natural	100.0	0.01	476305		primary_unit_representative	True	True	True	True	False	False
+GCA_003044605.1	SAMN08299212	no	Neisseria elongata	False	subflava	0.2166	natural					non_member	False	False	False	False	False	False
+GCA_003044625.1	SAMN08299214	no	Neisseria elongata	False	subflava	0.4151	natural					non_member	False	False	False	False	False	False
+GCA_003044645.1	SAMN08299216	yes	Neisseria subflava	True	perflava	0.9579	natural	100.0	0.06	217621		primary_unit_representative	True	True	True	True	False	False
+GCA_003044665.1	SAMN08299219	yes	Neisseria subflava	True	perflava	0.4092	natural	100.0	0.33	231464		primary_unit_representative	True	True	True	False	False	False
+GCA_003044675.1	SAMN08299221	no	Neisseria cinerea	False	flavescens	0.19	natural					non_member	False	False	False	False	False	False
+GCA_003044705.1	SAMN08299222	no	Neisseria animaloris	False	subflava	0.2331	natural					non_member	False	False	False	False	False	False
+GCA_003044725.1	SAMN08299226	no	Neisseria elongata	False	subflava	0.4773	natural					non_member	False	False	False	False	False	False
+GCA_003044745.1	SAMN08299227	no	Neisseria cinerea	False	flavescens	0.3248	natural					non_member	False	False	False	False	False	False
+GCA_003044765.1	SAMN08299228	no	Neisseria sicca	False	subflava	0.1996	natural					non_member	False	False	False	False	False	False
+GCA_003044785.1	SAMN08299229	no	Neisseria elongata	False	subflava	0.3349	natural					non_member	False	False	False	False	False	False
+GCA_003044805.1	SAMN08299205	no	Neisseria wadsworthii	False	subflava	0.0004	natural					non_member	False	False	False	False	False	False
+GCA_003044825.1	SAMN08299230	no	Neisseria cinerea	False	flavescens	0.2316	natural					non_member	False	False	False	False	False	False
+GCA_003044845.1	SAMN08299207	yes	Neisseria subflava	True	perflava	0.4765	natural	100.0	0.48	222323		primary_unit_representative	True	True	True	False	False	False
+GCA_003044855.1	SAMN08299231	no	Neisseria cinerea	False	flavescens	0.27	natural					non_member	False	False	False	False	False	False
+GCA_003044885.1	SAMN08299213	no	Neisseria weaveri	False	subflava	0.3127	natural					non_member	False	False	False	False	False	False
+GCA_003044905.1	SAMN08299209	no	Neisseria weaveri	False	subflava	0.2979	natural					non_member	False	False	False	False	False	False
+GCA_003044925.1	SAMN08299217	yes	Neisseria subflava	True	perflava	1.1011	natural	100.0	0.14	342535		primary_unit_representative	True	True	True	True	False	False
+GCA_003044935.1	SAMN08299220	yes	Neisseria subflava	True	perflava	1.2202	natural	100.0	0.01	1167507		primary_unit_representative	True	True	True	True	False	False
+GCA_003044965.1	SAMN08299218	yes	Neisseria subflava	True	perflava	0.5074	natural	100.0	0.39	264516		primary_unit_representative	True	True	True	True	False	False
+GCA_003044985.1	SAMN08299223	no	Neisseria elongata	False	subflava	0.4075	natural					non_member	False	False	False	False	False	False
+GCA_003044995.1	SAMN08299225	no	Neisseria weaveri	False	subflava	0.1488	natural					non_member	False	False	False	False	False	False
+GCA_003045025.1	SAMN08299232	yes	Neisseria subflava	True	perflava	0.5089	natural	100.0	0.41	329915		primary_unit_representative	True	True	True	True	False	False
+GCA_003045035.1	SAMN08299224	no	Neisseria polysaccharea	False	flavescens	1.5224	natural					non_member	False	False	False	False	False	False
+GCA_003045095.1	SAMN08299233	no	Neisseria animaloris	False	subflava	0.2922	natural					non_member	False	False	False	False	False	False
+GCA_003351545.1	SAMN09704973	no	Neisseria elongata	False	subflava	0.3832	natural					non_member	False	False	False	False	False	False
+GCA_003351565.1	SAMN09704838	no	Neisseria lactamica	False	flavescens	1.6673	natural					non_member	False	False	False	False	False	False
+GCA_003351665.1	SAMN09704641	yes	Neisseria subflava	True	perflava	1.0388	natural	100.0	0.16	2321871		primary_unit_representative	True	True	True	True	True	False
+GCA_003351685.1	SAMN09704972	no	Neisseria elongata	False	subflava	0.3584	natural					non_member	False	False	False	False	False	False
+GCA_003355195.1	SAMN09704642	no	Neisseria polysaccharea	False	flavescens	1.3571	natural					non_member	False	False	False	False	False	False
+GCA_003490325.1	SAMN09704975	no	Neisseria bergeri	False	flavescens	1.6041	natural					non_member	False	False	False	False	False	False
+GCA_003492145.1	SAMN09704855	no	Neisseria lactamica	False	flavescens	1.5748	natural					non_member	False	False	False	False	False	False
+GCA_003492155.1	SAMN09704847	no	Neisseria lactamica	False	flavescens	1.8162	natural					non_member	False	False	False	False	False	False
+GCA_003492195.1	SAMN09704839	no	Neisseria lactamica	False	flavescens	1.5966	natural					non_member	False	False	False	False	False	False
+GCA_003492345.1	SAMN09704840	no	Neisseria lactamica	False	flavescens	1.5316	natural					non_member	False	False	False	False	False	False
+GCA_003492385.1	SAMN09704857	no	Neisseria lactamica	False	flavescens	1.6596	natural					non_member	False	False	False	False	False	False
+GCA_003492425.1	SAMN09704849	no	Neisseria lactamica	False	flavescens	1.7604	natural					non_member	False	False	False	False	False	False
+GCA_003492465.1	SAMN09704844	no	Neisseria lactamica	False	flavescens	1.7127	natural					non_member	False	False	False	False	False	False
+GCA_003492555.1	SAMN09704858	no	Neisseria lactamica	False	flavescens	1.6769	natural					non_member	False	False	False	False	False	False
+GCA_003492625.1	SAMN09704853	no	Neisseria lactamica	False	flavescens	1.8006	natural					non_member	False	False	False	False	False	False
+GCA_003492765.1	SAMN09704841	no	Neisseria lactamica	False	flavescens	1.6993	natural					non_member	False	False	False	False	False	False
+GCA_003492775.1	SAMN09704852	no	Neisseria lactamica	False	flavescens	1.6881	natural					non_member	False	False	False	False	False	False
+GCA_003492845.1	SAMN09704850	no	Neisseria lactamica	False	flavescens	1.5662	natural					non_member	False	False	False	False	False	False
+GCA_003492865.1	SAMN09704845	no	Neisseria lactamica	False	flavescens	1.3462	natural					non_member	False	False	False	False	False	False
+GCA_003492905.1	SAMN09704977	no	Neisseria bergeri	False	flavescens	1.6487	natural					non_member	False	False	False	False	False	False
+GCA_003492955.1	SAMN09704848	no	Neisseria lactamica	False	flavescens	1.7508	natural					non_member	False	False	False	False	False	False
+GCA_003493045.1	SAMN09704846	no	Neisseria lactamica	False	flavescens	1.5905	natural					non_member	False	False	False	False	False	False
+GCA_003493185.1	SAMN09704851	no	Neisseria lactamica	False	flavescens	1.6747	natural					non_member	False	False	False	False	False	False
+GCA_003493215.1	SAMN09704842	no	Neisseria lactamica	False	flavescens	1.5467	natural					non_member	False	False	False	False	False	False
+GCA_003493325.1	SAMN09704976	no	Neisseria bergeri	False	flavescens	1.5451	natural					non_member	False	False	False	False	False	False
+GCA_003493855.1	SAMN09704856	no	Neisseria lactamica	False	flavescens	1.798	natural					non_member	False	False	False	False	False	False
+GCA_003495225.1	SAMN09704643	no	Neisseria polysaccharea	False	flavescens	1.4228	natural					non_member	False	False	False	False	False	False
+GCA_003495405.1	SAMN09704863	no	Neisseria lactamica	False	flavescens	1.5459	natural					non_member	False	False	False	False	False	False
+GCA_003495565.1	SAMN09704862	no	Neisseria lactamica	False	flavescens	1.5519	natural					non_member	False	False	False	False	False	False
+GCA_003495575.1	SAMN09704860	no	Neisseria lactamica	False	flavescens	1.6135	natural					non_member	False	False	False	False	False	False
+GCA_003495835.1	SAMN09704859	no	Neisseria lactamica	False	flavescens	1.6229	natural					non_member	False	False	False	False	False	False
+GCA_003496195.1	SAMN09704861	no	Neisseria lactamica	False	flavescens	1.8088	natural					non_member	False	False	False	False	False	False
+GCA_003496425.1	SAMN09704854	no	Neisseria lactamica	False	flavescens	1.704	natural					non_member	False	False	False	False	False	False
+GCA_003496485.1	SAMN09704843	no	Neisseria lactamica	False	flavescens	1.8002	natural					non_member	False	False	False	False	False	False
+GCA_003496665.1	SAMN09704837	no	Neisseria lactamica	False	flavescens	1.5275	natural					non_member	False	False	False	False	False	False
+GCA_003790445.1	SAMN07811257	no	Neisseria chenwenguii	False	subflava	0.004	natural					non_member	False	False	False	False	False	False
+GCA_003795365.1	SAMN07357035	no	Neisseria animalis	False	flavescens	0.1883	natural					non_member	False	False	False	False	False	False
+GCA_003813805.1	SAMN10408245	no	Neisseria weixii	False	subflava	0.1575	natural					non_member	False	False	False	False	False	False
+GCA_003813885.1	SAMN10408246	no	Neisseria weixii	False	subflava	0.1174	natural					non_member	False	False	False	False	False	False
+GCA_004569405.1	SAMN11126862	no	Neisseria sp. WF04	False	flavescens	0.0185	natural					non_member	False	False	False	False	False	False
+GCA_005221285.1	SAMN11461057	yes	Neisseria flavescens	True	flavescens	5.2811	natural	100.0	0.12	2231882		primary_unit_representative	True	True	True	True	True	False
+GCA_005221305.1	SAMN11461056	yes	Neisseria subflava	True	subflava	5.2811	natural	100.0	0.31	2195659		primary_unit_representative	True	True	True	True	False	False
+GCA_005886145.1	SAMN02463843	no	Neisseria sp. oral taxon 014 str. F0314	False	subflava	0.4075	natural					non_member	False	False	False	False	False	False
+GCA_007667085.1	SAMN11792656	no	Neisseria sicca	False	subflava	0.012	natural					non_member	False	False	False	False	False	False
+GCA_007667125.1	SAMN11792653	no	Neisseria sicca	False	flavescens	0.0675	natural					non_member	False	False	False	False	False	False
+GCA_007673275.1	SAMN11792527	no	Neisseria sicca	False	subflava	0.3443	natural					non_member	False	False	False	False	False	False
+GCA_008806995.1	SAMN09853482	no	Neisseria animalis	False	flavescens	0.2858	natural					non_member	False	False	False	False	False	False
+GCA_008807015.1	SAMN09853484	no	Neisseria zalophi	False	perflava	0.015	natural					non_member	False	False	False	False	False	False
+GCA_009665055.1	SAMN13243041	no	Neisseria brasiliensis	False	subflava	0.0824	natural					non_member	False	False	False	False	False	False
+GCA_009671065.1	SAMN13243042	no	Neisseria brasiliensis	False	subflava	0.125	natural					non_member	False	False	False	False	False	False
+GCA_011038745.1	SAMN14086975	no	Neisseria yangbaofengii	False	flavescens	0.1196	natural					non_member	False	False	False	False	False	False
+GCA_011038775.1	SAMN14086988	no	Neisseria yangbaofengii	False	flavescens	0.0746	natural					non_member	False	False	False	False	False	False
+GCA_013267835.1	SAMN11056473	no	Neisseria mucosa	True	perflava	1.1996	natural	100.0	0.53	2224757		primary_unit_representative	True	False	False	True	True	False
+GCA_014054885.1	SAMN15603185	no	Neisseria wadsworthii	False	subflava	0.2568	natural					non_member	False	False	False	False	False	False
+GCA_014054945.1	SAMN15603184	no	Neisseria sicca	False	subflava	0.0963	natural					non_member	False	False	False	False	False	False
+GCA_014054965.1	SAMN15603183	no	Neisseria shayeganii	False	subflava	0.0813	natural					non_member	False	False	False	False	False	False
+GCA_014055005.1	SAMN15603181	no	Neisseria dentiae	False	subflava	0.0779	natural					non_member	False	False	False	False	False	False
+GCA_014055025.1	SAMN15603180	no	Neisseria bacilliformis	False	subflava	0.0638	natural					non_member	False	False	False	False	False	False
+GCA_014297595.2	SAMN15791842	no	Neisseria musculi	False	subflava	0.1202	natural					non_member	False	False	False	False	False	False
+GCA_014596365.2	SAMN05362769	no	Neisseria subflava	True	subflava	0.1883	natural	100.0	0.17	2367590		primary_unit_representative	True	True	True	False	True	False
+GCA_014596375.1	SAMN05362771	no	Neisseria sp. RH3002v2f	False	flavescens	0.1546	natural					non_member	False	False	False	False	False	False
+GCA_014596395.2	SAMN05362770	yes	Neisseria subflava	False	perflava	1.2755	natural					non_member	False	False	False	False	False	False
+GCA_014596425.2	SAMN05362870	no	Neisseria sp. RH3002v2g	True	perflava	1.31	natural	100.0	0.01	2223142		primary_unit_representative	True	False	False	True	True	False
+GCA_014898075.1	SAMN15701945	no	Neisseria yangbaofengii	False	flavescens	0.1841	natural					non_member	False	False	False	False	False	False
+GCA_015235335.1	SAMN16540191	no	Neisseria sp. 19428wB4_WF04	False	flavescens	0.0185	natural					non_member	False	False	False	False	False	False
+GCA_015263375.1	SAMN14570852	no	Neisseria sp.	True	perflava	1.1015	natural	99.81	0.04	61168		primary_unit_representative	True	False	False	True	True	False
+GCA_015263385.1	SAMN14570851	no	Neisseria sp.	False	perflava	1.8313	natural					non_member	False	False	False	False	False	False
+GCA_015263395.1	SAMN14570853	no	Neisseria sp.	True	perflava	0.5444	natural	99.88	0.99	30477		primary_unit_representative	True	False	False	True	True	False
+GCA_015263405.1	SAMN14570850	no	Neisseria sp.	False	subflava	0.1371	natural					non_member	False	False	False	False	False	False
+GCA_015263455.1	SAMN14570849	no	Neisseria sp.	False	perflava	1.1072	natural					non_member	False	False	False	False	False	False
+GCA_015263465.1	SAMN14570848	no	Neisseria sp.	False	perflava	0.9585	natural					non_member	False	False	False	False	False	False
+GCA_015263495.1	SAMN14570847	no	Neisseria sp.	False	subflava	0.0754	natural					non_member	False	False	False	False	False	False
+GCA_015263505.1	SAMN14570846	no	Neisseria sicca	False	subflava	0.0842	natural					non_member	False	False	False	False	False	False
+GCA_015263535.1	SAMN14570845	no	Neisseria sicca	False	subflava	0.3603	natural					non_member	False	False	False	False	False	False
+GCA_015263665.1	SAMN14570854	no	Neisseria sp.	False	perflava	1.4035	natural					non_member	False	False	False	False	False	False
+GCA_015711285.1	SAMN15425246	no	Neisseria polysaccharea	False	flavescens	1.7225	natural					non_member	False	False	False	False	False	False
+GCA_016028715.1	SAMN13450401	no	Neisseria cinerea	False	flavescens	0.3247	natural					non_member	False	False	False	False	False	False
+GCA_016900855.1	SAMN17843089	no	Neisseria elongata	False	subflava	0.167	natural					non_member	False	False	False	False	False	False
+GCA_017753665.1	SAMN18451419	no	Neisseria sicca	False	subflava	0.414	natural					non_member	False	False	False	False	False	False
+GCA_017811745.1	SAMN16419206	no	Neisseria yangbaofengii	False	flavescens	0.0746	natural					non_member	False	False	False	False	False	False
+GCA_018224585.1	SAMN18865352	no	Neisseria sp. Marseille-Q1983	False	flavescens	1.1966	natural					non_member	False	False	False	False	False	False
+GCA_018370935.1	SAMN17800634	no	Neisseria sp.	False	perflava	1.3702	natural					non_member	False	False	False	False	False	False
+GCA_018371635.1	SAMN17801599	no	Neisseria sp.	False	subflava	0.0636	natural					non_member	False	False	False	False	False	False
+GCA_018437425.1	SAMN16979883	no	Neisseria elongata subsp. nitroreducens	False	subflava	0.1632	natural					non_member	False	False	False	False	False	False
+GCA_019334725.1	SAMN20114564	yes	Neisseria perflava	True	perflava	0.4304	natural	100.0	0.99	2284668		primary_unit_representative	True	True	True	False	True	False
+GCA_019334765.1	SAMN20114574	no	Neisseria sicca ATCC 29256	True	perflava	0.4557	natural	100.0	1.31	2291167	U00017	primary_unit_representative	True	False	False	False	True	False
+GCA_019424415.1	SAMN19224771	no	Neisseria sp.	False	perflava	0.1455	natural					non_member	False	False	False	False	False	False
+GCA_019815145.1	SAMN20865412	yes	Neisseria subflava	False	perflava	1.1072	natural					non_member	False	False	False	False	False	False
+GCA_019815155.1	SAMN20865411	yes	Neisseria flava	False	subflava	0.3822	natural					non_member	False	False	False	False	False	False
+GCA_021025975.1	SAMN23424481	no	Neisseria cinerea	False	flavescens	0.0473	natural					non_member	False	False	False	False	False	False
+GCA_021728505.1	SAMN25207082	no	Neisseria lisongii	False	perflava	0.0138	natural					non_member	False	False	False	False	False	False
+GCA_021728675.1	SAMN25186460	no	Neisseria lisongii	False	flavescens	0.0011	natural					non_member	False	False	False	False	False	False
+GCA_022749495.1	SAMN26652324	no	Neisseria macacae ATCC 33926	False	subflava	0.4168	natural					non_member	False	False	False	False	False	False
+GCA_022870825.1	SAMN24043416	no	Neisseria sp. Dent CA1/247	False	subflava	0.2306	natural					non_member	False	False	False	False	False	False
+GCA_022870885.1	SAMN24043413	no	Neisseria dumasiana	False	subflava	0.0407	natural					non_member	False	False	False	False	False	False
+GCA_022870905.1	SAMN24043412	no	Neisseria arctica	False	subflava	0.016	natural					non_member	False	False	False	False	False	False
+GCA_023472875.1	SAMN28187201	yes	Neisseria perflava	True	perflava	3.1315	natural	100.0	0.06	52486	U00020	primary_unit_representative	True	True	True	True	True	False
+GCA_023635035.1	SAMN18320770	yes	Neisseria subflava	True	perflava	1.1698	natural	100.0	0.81	2202144		primary_unit_representative	True	False	False	True	True	False
+GCA_023635065.1	SAMN18320764	yes	Neisseria subflava	True	subflava	1.9758	natural	100.0	0.77	2270032		primary_unit_representative	True	True	True	True	True	False
+GCA_023635085.1	SAMN18320762	yes	Neisseria subflava	True	subflava	0.1271	natural_baseline_repeat	100.0	0.01	2321053	U00022	excluded_duplicate_nonrepresentative	False	False	False	False	False	True
+GCA_023635105.1	SAMN18320763	yes	Neisseria subflava	True	subflava	2.0266	natural	100.0	0.45	1724137		primary_unit_representative	True	True	True	True	True	False
+GCA_024170405.1	SAMN18242995	yes	Neisseria perflava	False	subflava	0.169	natural					non_member	False	False	False	False	False	False
+GCA_024170765.1	SAMN18243319	yes	Neisseria perflava	False	perflava	0.0763	natural					non_member	False	False	False	False	False	False
+GCA_024205685.1	SAMN18320771	yes	Neisseria subflava	True	perflava	1.2369	natural	100.0	1.22	2243952		primary_unit_representative	True	False	False	True	True	False
+GCA_024205705.1	SAMN18320769	yes	Neisseria subflava	True	perflava	0.8223	natural	99.99	0.81	2479061		primary_unit_representative	True	True	True	True	True	False
+GCA_024205725.1	SAMN18320768	yes	Neisseria subflava	True	subflava	0.4667	natural	99.99	1.48	2409157		primary_unit_representative	True	True	True	False	True	False
+GCA_024205745.1	SAMN18320767	yes	Neisseria subflava	True	subflava	0.2645	natural	100.0	0.01	2213981		primary_unit_representative	True	True	True	False	True	False
+GCA_024205765.1	SAMN18320766	yes	Neisseria subflava	True	subflava	0.1557	natural	84.11	3.69	2332965		excluded_qc_fail	False	False	False	False	False	False
+GCA_024205785.1	SAMN18320765	yes	Neisseria subflava	True	subflava	0.1904	natural	100.0	0.45	2277784		primary_unit_representative	True	True	True	False	True	False
+GCA_024580525.1	SAMN29938193	no	Neisseria dentiae	False	subflava	0.1218	natural					non_member	False	False	False	False	False	False
+GCA_024834045.1	SAMN30428199	no	Neisseria montereyensis	False	subflava	0.0495	natural					non_member	False	False	False	False	False	False
+GCA_028463985.1	SAMN32802983	no	Neisseria lisongii	False	subflava	0.1072	natural					non_member	False	False	False	False	False	False
+GCA_028776105.2	SAMN31752220	no	Neisseria leonii	False	flavescens	0.0658	natural					non_member	False	False	False	False	False	False
+GCA_028776585.2	SAMN31757055	no	Neisseria leonii	False	subflava	0.0817	natural					non_member	False	False	False	False	False	False
+GCA_030216405.1	SAMN34996588	no	Neisseria mucosa	False	subflava	0.146	natural					non_member	False	False	False	False	False	False
+GCA_030218065.1	SAMN34996481	yes	Neisseria subflava	True	perflava	0.5546	natural	100.0	0.54	276553		primary_unit_representative	True	True	True	True	True	False
+GCA_030226275.1	SAMN34998693	no	Neisseria mucosa	False	subflava	0.1336	natural					non_member	False	False	False	False	False	False
+GCA_030504595.1	SAMN36408917	no	Neisseria sp. MVDL20-010259	False	subflava	0.2818	natural					non_member	False	False	False	False	False	False
+GCA_030504605.1	SAMN36408914	no	Neisseria sp. MVDL18-041461	False	subflava	0.2771	natural					non_member	False	False	False	False	False	False
+GCA_030504625.1	SAMN36408915	no	Neisseria sp. MVDL19-042950	False	subflava	0.2913	natural					non_member	False	False	False	False	False	False
+GCA_030523865.1	SAMN36400374	no	Neisseria sp.	False	flavescens	0.0111	natural					non_member	False	False	False	False	False	False
+GCA_030523955.1	SAMN36400366	no	Neisseria sp.	False	subflava	0.2189	natural					non_member	False	False	False	False	False	False
+GCA_030527965.1	SAMN36400162	no	Neisseria sp.	False	subflava	0.1027	natural					non_member	False	False	False	False	False	False
+GCA_030528455.1	SAMN36400138	no	Neisseria sp.	False	flavescens	0.0819	natural					non_member	False	False	False	False	False	False
+GCA_030530545.1	SAMN36400027	no	Neisseria sp.	False	subflava	0.0438	natural					non_member	False	False	False	False	False	False
+GCA_030530745.1	SAMN36400011	no	Neisseria sp.	False	subflava	0.0228	natural					non_member	False	False	False	False	False	False
+GCA_030531795.1	SAMN36400500	no	Neisseria sp.	False	subflava	0.0691	natural					non_member	False	False	False	False	False	False
+GCA_030532615.1	SAMN36400454	no	Neisseria zoodegmatis	False	subflava	0.2275	natural					non_member	False	False	False	False	False	False
+GCA_030532645.1	SAMN36400455	no	Neisseria sp.	False	perflava	0.0075	natural					non_member	False	False	False	False	False	False
+GCA_030538055.1	SAMN36400718	no	Neisseria sp.	ANI_UNRESOLVED	ANI_UNRESOLVED	NA	natural					ani_unresolved	False	False	False	False	False	False
+GCA_030538415.1	SAMN36400698	no	Neisseria sp.	False	subflava	0.0564	natural					non_member	False	False	False	False	False	False
+GCA_031190635.1	SAMN37162767	yes	Neisseria subflava	True	subflava	5.284	natural	100.0	0.33	2195884		primary_unit_representative	True	True	True	True	True	False
+GCA_031971935.1	SAMN29156150	no	Neisseria sp.	False	flavescens	0.0522	natural					non_member	False	False	False	False	False	False
+GCA_032342915.1	SAMEA111505057	no	Neisseria sp. DTU_2021_1001991_1_SI_NGA_ILE_055	False	perflava	1.1542	natural					non_member	False	False	False	False	False	False
+GCA_032388755.1	SAMEA111504633	no	Neisseria sp. DTU_2020_1000833_1_SI_GRL_NUU_006	False	subflava	0.1639	natural					non_member	False	False	False	False	False	False
+GCA_032474515.1	SAMN11390300	no	Neisseria sp.	False	subflava	0.2116	natural					non_member	False	False	False	False	False	False
+GCA_032563455.1	SAMN11390051	no	Neisseria subflava	True	perflava	2.8857	natural	99.98	0.12	23641		primary_unit_representative	True	False	False	True	True	False
+GCA_032583875.1	SAMN11391324	no	Neisseria sp.	False	perflava	1.2011	natural					non_member	False	False	False	False	False	False
+GCA_034807785.1	SAMN38857205	no	Neisseria cinerea	False	flavescens	0.148	natural					non_member	False	False	False	False	False	False
+GCA_036245335.1	SAMD00634385	no	Neisseria elongata	False	subflava	0.0642	natural					non_member	False	False	False	False	False	False
+GCA_037345845.1	SAMN40014454	no	Neisseria leonii	False	subflava	0.0149	natural					non_member	False	False	False	False	False	False
+GCA_038738605.1	SAMN40982432	yes	Neisseria perflava	True	perflava	3.8641	natural	100.0	0.02	232257		primary_unit_representative	True	True	True	True	False	False
+GCA_040104695.1	SAMN41574053	no	Neisseria polysaccharea	False	flavescens	1.2831	natural					non_member	False	False	False	False	False	False
+GCA_041433145.1	SAMN30825717	no	Neisseria sp. 27098_8_158	True	perflava	1.0382	natural	100.0	0.01	1141429		primary_unit_representative	True	False	False	True	True	False
+GCA_041433195.1	SAMN30825715	no	Neisseria sp. 27098_8_139	True	subflava	1.7516	natural	100.0	0.02	179312		primary_unit_representative	True	False	False	True	True	False
+GCA_041433205.1	SAMN30825716	yes	Neisseria perflava	True	perflava	5.5063	natural	100.0	0.04	254432		primary_unit_representative	True	True	True	True	True	False
+GCA_041433235.1	SAMN30825714	no	Neisseria sp. 27098_8_112	True	perflava	0.6284	natural	100.0	0.01	140971		primary_unit_representative	True	False	False	True	True	False
+GCA_041433255.1	SAMN30825713	no	Neisseria sp. 20925_1_37	True	perflava	1.06	natural	100.0	0.0	174944		primary_unit_representative	True	False	False	True	True	False
+GCA_041433265.1	SAMN30825712	yes	Neisseria flavescens	True	perflava	0.8628	natural	100.0	1.4	116940		primary_unit_representative	True	True	True	True	False	False
+GCA_041772505.1	SAMN42491671	no	Neisseria dentiae	False	subflava	0.0006	natural					non_member	False	False	False	False	False	False
+GCA_041773095.1	SAMN42491655	no	Neisseria dentiae	False	perflava	0.0384	natural					non_member	False	False	False	False	False	False
+GCA_041775365.1	SAMN42491598	no	Neisseria dentiae	False	subflava	0.1437	natural					non_member	False	False	False	False	False	False
+GCA_041776085.1	SAMN42491575	no	Neisseria dentiae	False	subflava	0.0271	natural					non_member	False	False	False	False	False	False
+GCA_041776245.1	SAMN42491571	no	Neisseria dentiae	False	subflava	0.0458	natural					non_member	False	False	False	False	False	False
+GCA_041778075.1	SAMN42491531	no	Neisseria dentiae	False	subflava	0.1067	natural					non_member	False	False	False	False	False	False
+GCA_041780095.1	SAMN42503012	no	Neisseria dentiae	False	flavescens	0.0151	natural					non_member	False	False	False	False	False	False
+GCA_041781735.1	SAMN42502961	no	Neisseria dentiae	False	subflava	0.1232	natural					non_member	False	False	False	False	False	False
+GCA_041782245.1	SAMN42502950	no	Neisseria dentiae	False	subflava	0.0687	natural					non_member	False	False	False	False	False	False
+GCA_041783585.1	SAMN42502909	no	Neisseria dentiae	False	flavescens	0.0049	natural					non_member	False	False	False	False	False	False
+GCA_041787635.1	SAMN42502796	no	Neisseria dentiae	False	subflava	0.0908	natural					non_member	False	False	False	False	False	False
+GCA_041788385.1	SAMN42502777	no	Neisseria sp.	False	flavescens	0.1381	natural					non_member	False	False	False	False	False	False
+GCA_041789745.1	SAMN42502737	no	Neisseria dentiae	False	subflava	0.1001	natural					non_member	False	False	False	False	False	False
+GCA_041790565.1	SAMN42502714	no	Neisseria dentiae	False	flavescens	0.0224	natural					non_member	False	False	False	False	False	False
+GCA_041792455.1	SAMN42491466	no	Neisseria dentiae	False	flavescens	0.0016	natural					non_member	False	False	False	False	False	False
+GCA_041794495.1	SAMN42491412	no	Neisseria dentiae	False	subflava	0.1585	natural					non_member	False	False	False	False	False	False
+GCA_041804105.1	SAMN42536828	no	Neisseria sp.	False	subflava	0.0454	natural					non_member	False	False	False	False	False	False
+GCA_041805595.1	SAMN42536754	no	Neisseria dentiae	False	subflava	0.0614	natural					non_member	False	False	False	False	False	False
+GCA_041810615.1	SAMN42506063	no	Neisseria sp.	False	subflava	0.1581	natural					non_member	False	False	False	False	False	False
+GCA_041812095.1	SAMN42505989	no	Neisseria sp.	False	subflava	0.2322	natural					non_member	False	False	False	False	False	False
+GCA_041812175.1	SAMN42505985	no	Neisseria weixii	False	subflava	0.0909	natural					non_member	False	False	False	False	False	False
+GCA_041813965.1	SAMN42505895	no	Neisseria dentiae	False	subflava	0.0665	natural					non_member	False	False	False	False	False	False
+GCA_041820025.1	SAMN42510731	no	Neisseria sp.	False	subflava	0.0288	natural					non_member	False	False	False	False	False	False
+GCA_041823865.1	SAMN42505016	no	Neisseria dentiae	False	subflava	0.0008	natural					non_member	False	False	False	False	False	False
+GCA_041824415.1	SAMN42504990	no	Neisseria sp.	False	subflava	0.0143	natural					non_member	False	False	False	False	False	False
+GCA_041826055.1	SAMN42502508	no	Neisseria sp.	False	subflava	0.1354	natural					non_member	False	False	False	False	False	False
+GCA_041827845.1	SAMN42502419	no	Neisseria sp.	False	subflava	0.0918	natural					non_member	False	False	False	False	False	False
+GCA_041828995.1	SAMN42502359	no	Neisseria dentiae	False	flavescens	0.007	natural					non_member	False	False	False	False	False	False
+GCA_041829695.1	SAMN42502325	no	Neisseria dentiae	False	subflava	0.0116	natural					non_member	False	False	False	False	False	False
+GCA_041831055.1	SAMN42502256	no	Neisseria dentiae	False	subflava	0.0746	natural					non_member	False	False	False	False	False	False
+GCA_041831925.1	SAMN42502215	no	Neisseria sp.	ANI_UNRESOLVED	ANI_UNRESOLVED	NA	natural					ani_unresolved	False	False	False	False	False	False
+GCA_041832345.1	SAMN42502191	no	Neisseria dentiae	False	subflava	0.0948	natural					non_member	False	False	False	False	False	False
+GCA_041832685.1	SAMN42502176	no	Neisseria dentiae	False	subflava	0.0522	natural					non_member	False	False	False	False	False	False
+GCA_041833745.1	SAMN42502124	no	Neisseria dentiae	False	subflava	0.0738	natural					non_member	False	False	False	False	False	False
+GCA_041839535.1	SAMN42503582	no	Neisseria dentiae	False	subflava	0.1148	natural					non_member	False	False	False	False	False	False
+GCA_041840535.1	SAMN42503531	no	Neisseria dentiae	False	flavescens	0.0473	natural					non_member	False	False	False	False	False	False
+GCA_041841085.1	SAMN42503503	no	Neisseria dentiae	False	subflava	0.0816	natural					non_member	False	False	False	False	False	False
+GCA_041842745.1	SAMN42503421	no	Neisseria dentiae	False	subflava	0.0344	natural					non_member	False	False	False	False	False	False
+GCA_041843585.1	SAMN42503379	no	Neisseria sp.	False	subflava	0.1264	natural					non_member	False	False	False	False	False	False
+GCA_041844795.1	SAMN42503319	no	Neisseria dentiae	False	subflava	0.144	natural					non_member	False	False	False	False	False	False
+GCA_041845915.1	SAMN42503264	no	Neisseria dentiae	False	subflava	0.1201	natural					non_member	False	False	False	False	False	False
+GCA_041846465.1	SAMN42504317	no	Neisseria dentiae	False	subflava	0.0284	natural					non_member	False	False	False	False	False	False
+GCA_041846715.1	SAMN42504305	no	Neisseria dentiae	False	subflava	0.1707	natural					non_member	False	False	False	False	False	False
+GCA_041847205.1	SAMN42504281	no	Neisseria dentiae	False	flavescens	0.0821	natural					non_member	False	False	False	False	False	False
+GCA_041847445.1	SAMN42504270	no	Neisseria dentiae	False	subflava	0.0579	natural					non_member	False	False	False	False	False	False
+GCA_041847865.1	SAMN42504249	no	Neisseria dentiae	False	subflava	0.0007	natural					non_member	False	False	False	False	False	False
+GCA_041849365.1	SAMN42504175	no	Neisseria dentiae	False	subflava	0.1553	natural					non_member	False	False	False	False	False	False
+GCA_041850815.1	SAMN42504102	no	Neisseria dentiae	False	subflava	0.0408	natural					non_member	False	False	False	False	False	False
+GCA_041851215.1	SAMN42504081	no	Neisseria dentiae	False	subflava	0.0815	natural					non_member	False	False	False	False	False	False
+GCA_041851315.1	SAMN42504076	no	Neisseria dentiae	False	subflava	0.0273	natural					non_member	False	False	False	False	False	False
+GCA_041851435.1	SAMN42504070	no	Neisseria dentiae	False	flavescens	0.0285	natural					non_member	False	False	False	False	False	False
+GCA_041851995.1	SAMN42504043	no	Neisseria dentiae	False	subflava	0.0085	natural					non_member	False	False	False	False	False	False
+GCA_041852675.1	SAMN42504008	no	Neisseria sp.	False	flavescens	0.1837	natural					non_member	False	False	False	False	False	False
+GCA_041853525.1	SAMN42503967	no	Neisseria sp.	False	subflava	0.0389	natural					non_member	False	False	False	False	False	False
+GCA_041855125.1	SAMN42504873	no	Neisseria sp.	ANI_UNRESOLVED	ANI_UNRESOLVED	NA	natural					ani_unresolved	False	False	False	False	False	False
+GCA_042501725.1	SAMEA1964882	no	Neisseria lactamica	False	flavescens	1.5617	natural					non_member	False	False	False	False	False	False
+GCA_042501745.1	SAMEA2073885	no	Neisseria lactamica	False	flavescens	1.5898	natural					non_member	False	False	False	False	False	False
+GCA_042507525.2	SAMEA678329	no	Neisseria polysaccharea	False	flavescens	1.2691	natural					non_member	False	False	False	False	False	False
+GCA_042507615.2	SAMEA678202	no	Neisseria elongata	False	subflava	0.2148	natural					non_member	False	False	False	False	False	False
+GCA_042507645.1	SAMEA678052	no	Neisseria lactamica	False	flavescens	1.3965	natural					non_member	False	False	False	False	False	False
+GCA_042507665.2	SAMEA678341	no	Neisseria bacilliformis	False	subflava	0.0352	natural					non_member	False	False	False	False	False	False
+GCA_042507685.1	SAMEA678049	no	Neisseria lactamica	False	flavescens	1.703	natural					non_member	False	False	False	False	False	False
+GCA_042507705.1	SAMEA678403	no	Neisseria lactamica	False	flavescens	1.4762	natural					non_member	False	False	False	False	False	False
+GCA_042507725.1	SAMEA678396	no	Neisseria lactamica	False	flavescens	1.4323	natural					non_member	False	False	False	False	False	False
+GCA_042507745.1	SAMEA678391	no	Neisseria lactamica	False	flavescens	1.4651	natural					non_member	False	False	False	False	False	False
+GCA_042507765.1	SAMEA678028	no	Neisseria lactamica	False	flavescens	1.3693	natural					non_member	False	False	False	False	False	False
+GCA_042507785.2	SAMEA678414	no	Neisseria bacilliformis	False	subflava	0.0153	natural					non_member	False	False	False	False	False	False
+GCA_042507825.1	SAMEA678374	no	Neisseria lactamica	False	flavescens	1.6381	natural					non_member	False	False	False	False	False	False
+GCA_042507845.1	SAMEA678373	no	Neisseria lactamica	False	flavescens	1.3721	natural					non_member	False	False	False	False	False	False
+GCA_042536645.1	SAMN18012341	yes	Neisseria subflava	True	perflava	0.2036	natural	100.0	2.38	462134		primary_unit_representative	True	False	True	False	True	False
+GCA_042536675.1	SAMN18012343	yes	Neisseria subflava	True	perflava	0.8589	natural	100.0	2.81	391480	U00001	primary_unit_representative	True	True	True	True	True	False
+GCA_042536705.1	SAMN18012342	yes	Neisseria subflava	True	perflava	0.4878	natural	100.0	0.61	87225	U00001	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_042536725.1	SAMN18012345	yes	Neisseria subflava	True	perflava	0.7541	natural	100.0	2.99	161135	U00002	primary_unit_representative	True	True	True	True	False	False
+GCA_042536745.1	SAMN18012347	yes	Neisseria subflava	True	perflava	1.1524	natural	100.0	0.51	392568	U00005	primary_unit_representative	True	True	True	True	True	False
+GCA_042536765.1	SAMN18012350	yes	Neisseria subflava	True	perflava	0.2037	natural	100.0	0.03	207457	U00006	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_042536805.1	SAMN24604774	yes	Neisseria subflava	True	perflava	0.5454	natural	100.0	4.31	99820	U00001	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_042536845.1	SAMN24604773	yes	Neisseria subflava	True	perflava	0.2533	natural	100.0	2.52	275802	U00006	primary_unit_representative	True	False	True	False	True	False
+GCA_042536885.1	SAMN18012337	no	Neisseria oralis	False	subflava	0.2116	natural					non_member	False	False	False	False	False	False
+GCA_042536905.1	SAMN18012336	no	Neisseria oralis	False	subflava	0.2448	natural					non_member	False	False	False	False	False	False
+GCA_042536925.1	SAMN18012344	yes	Neisseria subflava	True	flavescens	1.9497	natural	100.0	1.64	56894	U00003	primary_unit_representative	True	True	True	True	True	False
+GCA_042536955.1	SAMN18012348	yes	Neisseria subflava	True	perflava	1.1815	natural	100.0	0.09	240419	U00005	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_042536985.1	SAMN18012346	yes	Neisseria subflava	True	perflava	1.383	natural	100.0	4.12	321925		primary_unit_representative	True	False	False	True	True	False
+GCA_042537005.1	SAMN18012351	yes	Neisseria subflava	True	perflava	0.7976	natural	100.0	0.12	165765	U00006	excluded_duplicate_nonrepresentative	False	True	False	False	False	False
+GCA_042537105.1	SAMN15454056	yes	Neisseria subflava	True	perflava	1.3312	natural	100.0	0.28	159554		primary_unit_representative	True	False	False	True	True	False
+GCA_042537125.1	SAMN15454055	yes	Neisseria subflava	True	perflava	1.29	natural	100.0	0.09	109578		primary_unit_representative	True	False	False	True	True	False
+GCA_042537145.1	SAMN15454057	yes	Neisseria subflava	True	perflava	0.787	natural	100.0	0.02	104053		primary_unit_representative	True	True	True	True	True	False
+GCA_042537165.1	SAMN15454054	yes	Neisseria subflava	True	perflava	1.2727	natural	100.0	0.0	231306		primary_unit_representative	True	False	False	True	True	False
+GCA_042537185.1	SAMN15454058	yes	Neisseria subflava	False	perflava	1.2722	natural					non_member	False	False	False	False	False	False
+GCA_042537205.1	SAMN15454045	no	Neisseria bacilliformis	False	flavescens	0.2337	natural					non_member	False	False	False	False	False	False
+GCA_042537225.1	SAMN15454060	no	Neisseria weaveri	False	subflava	0.2325	natural					non_member	False	False	False	False	False	False
+GCA_042537245.1	SAMN15454059	no	Neisseria weaveri	False	subflava	0.2151	natural					non_member	False	False	False	False	False	False
+GCA_042537265.1	SAMEA6155528	no	Neisseria lactamica	False	flavescens	1.8354	natural					non_member	False	False	False	False	False	False
+GCA_042537275.1	SAMEA6155527	yes	Neisseria subflava	True	flavescens	1.7274	natural	100.0	1.34	77503		primary_unit_representative	True	True	True	True	True	False
+GCA_042537305.1	SAMN15454047	no	Neisseria lactamica	False	flavescens	1.703	natural					non_member	False	False	False	False	False	False
+GCA_042537325.1	SAMEA6155525	no	Neisseria lactamica	False	flavescens	1.5758	natural					non_member	False	False	False	False	False	False
+GCA_042537345.1	SAMEA6155523	no	Neisseria lactamica	False	flavescens	1.5622	natural					non_member	False	False	False	False	False	False
+GCA_042537425.1	SAMEA6124618	no	Neisseria lactamica	False	flavescens	1.3873	natural					non_member	False	False	False	False	False	False
+GCA_042537445.1	SAMEA6124619	yes	Neisseria subflava	True	flavescens	1.7449	natural	100.0	1.47	76612		primary_unit_representative	True	True	True	True	True	False
+GCA_042537455.1	SAMEA6124617	no	Neisseria lactamica	False	flavescens	1.7303	natural					non_member	False	False	False	False	False	False
+GCA_042537485.1	SAMEA6124615	no	Neisseria lactamica	False	flavescens	1.5662	natural					non_member	False	False	False	False	False	False
+GCA_042537495.1	SAMEA6124616	no	Neisseria lactamica	False	flavescens	1.483	natural					non_member	False	False	False	False	False	False
+GCA_042537525.1	SAMEA6124614	no	Neisseria lactamica	False	flavescens	1.6783	natural					non_member	False	False	False	False	False	False
+GCA_042537565.1	SAMEA6124613	no	Neisseria lactamica	False	flavescens	1.5907	natural					non_member	False	False	False	False	False	False
+GCA_042557425.1	SAMN20296561	no	Neisseria cinerea	False	flavescens	0.2949	natural					non_member	False	False	False	False	False	False
+GCA_042557445.1	SAMN20296568	yes	Neisseria subflava	True	perflava	0.8877	natural	100.0	4.96	245991		primary_unit_representative	True	True	True	True	True	False
+GCA_042557465.1	SAMN20296560	yes	Neisseria subflava	True	subflava	0.0202	natural	99.99	0.01	507323		primary_unit_representative	True	False	False	False	True	False
+GCA_042557485.1	SAMN20296563	no	Neisseria oralis	False	subflava	0.2508	natural					non_member	False	False	False	False	False	False
+GCA_042557505.2	SAMEA111504224	yes	Neisseria subflava	True	perflava	0.5702	natural	100.0	0.68	117621		primary_unit_representative	True	True	True	True	True	False
+GCA_042557525.1	SAMD00749881	yes	Neisseria subflava	True	subflava	0.0491	natural	100.0	0.02	122261		primary_unit_representative	True	False	False	False	True	False
+GCA_042557545.1	SAMD00749883	yes	Neisseria subflava	True	perflava	0.3513	natural	100.0	0.68	21784		primary_unit_representative	True	True	True	False	True	False
+GCA_042557565.1	SAMD00749874	yes	Neisseria subflava	True	perflava	1.2981	natural	100.0	1.1	89027		primary_unit_representative	True	False	False	True	True	False
+GCA_042557585.1	SAMD00749869	yes	Neisseria subflava	True	subflava	0.0191	natural	100.0	0.03	166126		primary_unit_representative	True	False	False	False	True	False
+GCA_042557645.1	SAMD00749854	yes	Neisseria subflava	True	subflava	0.0766	natural	100.0	1.45	16640		primary_unit_representative	True	False	False	False	True	False
+GCA_042640315.1	SAMN43112103	no	Neisseria elongata	False	subflava	0.2026	natural					non_member	False	False	False	False	False	False
+GCA_042641205.1	SAMN43112061	no	Neisseria sp.	False	subflava	0.5739	natural					non_member	False	False	False	False	False	False
+GCA_042641685.1	SAMN43112035	no	Neisseria sicca	False	subflava	0.1351	natural					non_member	False	False	False	False	False	False
+GCA_042644565.1	SAMN43111964	no	Neisseria sp.	False	perflava	3.6386	natural					non_member	False	False	False	False	False	False
+GCA_042649725.1	SAMN43282021	yes	Neisseria perflava	True	perflava	3.1758	natural	100.0	0.06	51294	U00020	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_042649805.1	SAMN43282024	no	Neisseria musculi	False	subflava	0.2335	natural					non_member	False	False	False	False	False	False
+GCA_042658245.1	SAMN43282738	no	Neisseria weixii	False	subflava	0.1396	natural					non_member	False	False	False	False	False	False
+GCA_042666255.1	SAMN43284530	no	Neisseria sp. GCM10028920	True	perflava	0.5252	natural	100.0	0.42	274288		primary_unit_representative	True	False	False	True	True	False
+GCA_044005815.1	SAMN44321030	no	Neisseria sp. 23W00734	False	subflava	0.0248	natural					non_member	False	False	False	False	False	False
+GCA_044772855.1	SAMN44320934	no	Neisseria sp. 23W00296	False	subflava	0.163	natural					non_member	False	False	False	False	False	False
+GCA_045062685.1	SAMN44701579	no	Neisseria oralis	False	subflava	0.4757	natural					non_member	False	False	False	False	False	False
+GCA_046546535.1	SAMN46042332	no	Neisseria sp. WLZKY-1	False	subflava	0.2726	natural					non_member	False	False	False	False	False	False
+GCA_046700105.1	SAMN44750991	no	Neisseria cinerea	False	flavescens	0.7687	natural					non_member	False	False	False	False	False	False
+GCA_046700675.1	SAMN44750970	no	Neisseria polysaccharea	False	flavescens	1.4374	natural					non_member	False	False	False	False	False	False
+GCA_047327545.2	SAMN44373969	no	Neisseria lactamica	False	flavescens	1.6649	natural					non_member	False	False	False	False	False	False
+GCA_047394685.1	SAMN41632151	no	Neisseria animaloris	False	subflava	0.2293	natural					non_member	False	False	False	False	False	False
+GCA_047758525.1	SAMN45914814	no	Neisseria sp. CP9	False	subflava	0.5097	natural					non_member	False	False	False	False	False	False
+GCA_047837845.1	SAMN46163078	no	Neisseria polysaccharea	False	flavescens	1.3095	natural					non_member	False	False	False	False	False	False
+GCA_047837985.1	SAMN46163079	no	Neisseria sp. CCUG12390	False	subflava	0.2124	natural					non_member	False	False	False	False	False	False
+GCA_047839235.1	SAMN46163082	no	Neisseria sp. CCUG17229	False	subflava	0.2123	natural					non_member	False	False	False	False	False	False
+GCA_047915665.1	SAMN46073250	no	Neisseria sp. LACPHL-SPEC-2024-00856	False	flavescens	1.9065	natural					non_member	False	False	False	False	False	False
+GCA_048060015.1	SAMN43365668	no	Neisseria sp. S1	False	subflava	0.3018	natural					non_member	False	False	False	False	False	False
+GCA_048511255.1	SAMN46329877	no	Neisseria sp.	False	subflava	0.0936	natural					non_member	False	False	False	False	False	False
+GCA_049190975.1	SAMN47402137	no	Neisseria yangbaofengii	False	flavescens	0.0625	natural					non_member	False	False	False	False	False	False
+GCA_049190985.1	SAMN47402139	no	Neisseria lisongii	False	perflava	0.0546	natural					non_member	False	False	False	False	False	False
+GCA_049662365.1	SAMN40009940	no	Neisseria sp.	ANI_UNRESOLVED	ANI_UNRESOLVED	NA	natural					ani_unresolved	False	False	False	False	False	False
+GCA_050292485.1	SAMD00824534	no	Neisseria lactamica	False	flavescens	1.5212	natural					non_member	False	False	False	False	False	False
+GCA_050292525.1	SAMD00824535	no	Neisseria lactamica	False	flavescens	1.6478	natural					non_member	False	False	False	False	False	False
+GCA_050292605.1	SAMD00824533	no	Neisseria cinerea	False	flavescens	1.0374	natural					non_member	False	False	False	False	False	False
+GCA_050292615.1	SAMD00824531	no	Neisseria polysaccharea	False	flavescens	1.5502	natural					non_member	False	False	False	False	False	False
+GCA_050292625.1	SAMD00824532	no	Neisseria cinerea	False	flavescens	0.7656	natural					non_member	False	False	False	False	False	False
+GCA_050292725.1	SAMD00824527	yes	Neisseria subflava	True	perflava	0.0094	natural	100.0	0.04	275689		primary_unit_representative	True	False	False	False	True	False
+GCA_050293385.1	SAMD00824528	no	Neisseria lactamica	False	flavescens	1.6564	natural					non_member	False	False	False	False	False	False
+GCA_050294935.1	SAMD00824537	no	Neisseria cinerea	False	flavescens	0.7531	natural					non_member	False	False	False	False	False	False
+GCA_050294995.1	SAMD00824530	no	Neisseria cinerea	False	flavescens	0.5099	natural					non_member	False	False	False	False	False	False
+GCA_050295025.1	SAMD00824529	no	Neisseria polysaccharea	False	flavescens	1.4642	natural					non_member	False	False	False	False	False	False
+GCA_050328085.1	SAMN46179532	yes	Neisseria subflava	True	subflava	1.8859	natural	99.99	0.05	43929		primary_unit_representative	True	True	True	True	True	False
+GCA_050328105.1	SAMN46179438	yes	Neisseria subflava	True	perflava	1.358	natural	100.0	2.15	137129	U00007	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050328125.1	SAMN46179453	yes	Neisseria subflava	True	perflava	1.0451	natural	100.0	0.0	328348	U00008	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050328145.1	SAMN46179437	yes	Neisseria subflava	True	perflava	1.3644	natural	100.0	2.15	150724	U00007	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050328165.1	SAMN46179523	yes	Neisseria subflava	True	subflava	1.7781	natural	100.0	0.03	124709	U00014	excluded_duplicate_nonrepresentative	False	True	True	False	False	False
+GCA_050328205.1	SAMN46179524	yes	Neisseria subflava	True	subflava	1.8251	natural	100.0	0.03	100725	U00014	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050328265.1	SAMN46179525	yes	Neisseria subflava	True	subflava	0.0756	natural	100.0	0.0	39438	U00014	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050328305.1	SAMN46179526	yes	Neisseria subflava	True	subflava	0.0729	natural	100.0	1.18	174228	U00014	primary_unit_representative	True	False	False	False	True	False
+GCA_050328335.1	SAMN46179527	yes	Neisseria subflava	True	subflava	1.7937	natural	100.0	0.03	100725	U00014	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050328385.1	SAMN46179457	yes	Neisseria subflava	True	perflava	0.5384	natural	100.0	1.49	130894		primary_unit_representative	True	True	True	True	True	False
+GCA_050328445.1	SAMN46179470	yes	Neisseria subflava	True	subflava	1.7851	natural	100.0	0.45	134405	U00009	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050328485.1	SAMN46179474	yes	Neisseria subflava	True	subflava	1.7897	natural	100.0	0.45	111777	U00009	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050328565.1	SAMN46179482	yes	Neisseria subflava	True	perflava	0.5696	natural	100.0	0.45	101377	U00010	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050328585.1	SAMN46179436	yes	Neisseria subflava	True	perflava	1.3604	natural	100.0	1.72	142716	U00007	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050328745.1	SAMN46179439	yes	Neisseria subflava	True	perflava	1.3642	natural	100.0	2.15	155547	U00007	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050328765.1	SAMN46179430	yes	Neisseria subflava	True	perflava	1.3598	natural	100.0	2.15	155550	U00007	primary_unit_representative	True	True	True	True	True	False
+GCA_050328825.1	SAMN46179515	yes	Neisseria subflava	True	perflava	1.0481	natural	100.0	4.74	378413	U00013	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050328885.1	SAMN46179517	yes	Neisseria subflava	True	perflava	0.9959	natural	100.0	2.32	223245	U00013	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050328945.1	SAMN46179519	yes	Neisseria subflava	True	perflava	1.0767	natural	100.0	7.86	378408		excluded_qc_fail	False	False	False	False	False	False
+GCA_050328965.1	SAMN46179520	yes	Neisseria subflava	True	perflava	1.0476	natural	100.0	2.0	454519	U00013	primary_unit_representative	True	True	True	True	True	False
+GCA_050329005.1	SAMN46179521	yes	Neisseria subflava	True	subflava	1.8284	natural	100.0	0.03	124709	U00014	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050329065.1	SAMN46179460	yes	Neisseria subflava	True	perflava	0.4142	natural	100.0	0.45	171430		primary_unit_representative	True	True	True	False	True	False
+GCA_050329085.1	SAMN46179471	yes	Neisseria subflava	True	perflava	0.4773	natural	100.0	0.38	79653	U00009	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050329125.1	SAMN46179476	yes	Neisseria subflava	True	perflava	0.4591	natural	100.0	0.38	96748	U00009	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050329165.1	SAMN46179478	yes	Neisseria subflava	True	perflava	0.5496	natural	100.0	0.47	56789	U00010	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050329205.1	SAMN46179479	yes	Neisseria subflava	True	perflava	0.5871	natural	100.0	0.42	91821	U00010	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050329225.1	SAMN46179480	yes	Neisseria subflava	True	perflava	0.5467	natural	100.0	0.51	102150	U00010	primary_unit_representative	True	True	True	True	True	False
+GCA_050329275.1	SAMN46179483	yes	Neisseria subflava	True	perflava	0.5475	natural	100.0	0.43	101113	U00010	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050329335.1	SAMN46179484	yes	Neisseria subflava	True	perflava	0.5931	natural	100.0	0.45	101113	U00010	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050329365.1	SAMN46179485	yes	Neisseria subflava	True	perflava	0.6073	natural	100.0	0.47	55854	U00010	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050329395.1	SAMN46179497	yes	Neisseria subflava	True	subflava	1.7686	natural	100.0	0.05	157221	U00011	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050329445.1	SAMN46179435	yes	Neisseria subflava	True	perflava	1.3622	natural	100.0	2.15	155550	U00007	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050329485.1	SAMN46179499	yes	Neisseria subflava	True	subflava	1.7769	natural	100.0	0.05	199956	U00011	primary_unit_representative	True	True	True	True	True	False
+GCA_050329515.1	SAMN46179500	yes	Neisseria subflava	True	subflava	1.7627	natural	100.0	0.05	183739	U00011	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050329535.1	SAMN46179501	yes	Neisseria subflava	True	subflava	1.8203	natural	100.0	0.05	191281	U00011	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050329615.1	SAMN46179504	yes	Neisseria subflava	True	subflava	0.0157	natural	100.0	0.16	334767	U00012	primary_unit_representative	True	True	True	False	True	False
+GCA_050329635.1	SAMN46179505	yes	Neisseria subflava	True	perflava	0.0284	natural	100.0	0.33	120302	U00012	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050329655.1	SAMN46179510	yes	Neisseria subflava	True	perflava	0.9126	natural	100.0	0.87	135653	U00012	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050329735.1	SAMN46179511	yes	Neisseria subflava	True	subflava	0.0568	natural	100.0	0.16	237064	U00012	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050329755.1	SAMN46179512	yes	Neisseria subflava	True	perflava	1.0566	natural	100.0	7.02	378413		excluded_qc_fail	False	False	False	False	False	False
+GCA_050329775.1	SAMN46179513	yes	Neisseria subflava	True	perflava	1.0647	natural	100.0	7.8	378408		excluded_qc_fail	False	False	False	False	False	False
+GCA_050329895.1	SAMN46179514	yes	Neisseria subflava	True	perflava	1.0563	natural	100.0	7.8	378408		excluded_qc_fail	False	False	False	False	False	False
+GCA_050330115.1	SAMN46179431	yes	Neisseria subflava	True	perflava	1.3647	natural	100.0	2.15	150724	U00007	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050330135.1	SAMN46179433	yes	Neisseria subflava	True	perflava	1.3522	natural	100.0	0.7	150724	U00007	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050330175.1	SAMN46179486	yes	Neisseria subflava	True	perflava	0.5717	natural	100.0	0.51	66576	U00010	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050330235.1	SAMN46179506	yes	Neisseria subflava	True	perflava	0.9206	natural	100.0	0.87	135653	U00012	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050330255.1	SAMN46179434	yes	Neisseria subflava	True	perflava	1.3583	natural	100.0	2.15	155547	U00007	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050331975.1	SAMN46179448	yes	Neisseria subflava	True	perflava	0.9996	natural	100.0	0.0	207118	U00008	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050331995.1	SAMN46179452	yes	Neisseria subflava	True	perflava	1.0438	natural	100.0	0.01	343394	U00008	primary_unit_representative	True	True	True	True	True	False
+GCA_050332015.1	SAMN46179516	yes	Neisseria subflava	True	perflava	1.0862	natural	100.0	5.62	348724		excluded_qc_fail	False	False	False	False	False	False
+GCA_050332295.1	SAMN46179518	yes	Neisseria subflava	True	subflava	1.8179	natural	99.99	0.02	215399	U00013	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050332315.1	SAMN46179432	yes	Neisseria subflava	True	perflava	1.3594	natural	100.0	2.15	150724	U00007	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050360215.1	SAMN46179481	yes	Neisseria subflava	True	perflava	0.5469	natural	100.0	0.45	91824	U00010	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050360575.1	SAMN46179509	yes	Neisseria subflava	True	perflava	0.9239	natural	100.0	0.87	135653	U00012	excluded_duplicate_nonrepresentative	False	False	False	False	False	False
+GCA_050360595.1	SAMN46179469	yes	Neisseria subflava	True	perflava	1.0325	natural	100.0	1.7	159108	U00009	primary_unit_representative	True	True	True	True	True	False
+GCA_050513845.1	SAMN48672237	no	Neisseria polysaccharea	False	flavescens	1.1764	natural					non_member	False	False	False	False	False	False
+GCA_050896295.1	SAMN48851472	no	Neisseria sp. SLRRB23	False	flavescens	0.8835	natural					non_member	False	False	False	False	False	False
+GCA_051132615.1	SAMN40890114	no	Neisseria sp. Ec49-e6-T10	ANI_UNRESOLVED	ANI_UNRESOLVED	NA	natural					ani_unresolved	False	False	False	False	False	False
+GCA_051956595.1	SAMN48969142	no	Neisseria sp. P0024.S006	True	perflava	1.5632	natural	100.0	0.17	458781		primary_unit_representative	True	False	False	True	True	False
+GCA_051956635.1	SAMN48969127	no	Neisseria sp. P0022.S010	False	subflava	0.0597	natural					non_member	False	False	False	False	False	False
+GCA_051956655.1	SAMN48969138	no	Neisseria sp. P0024.S002	True	perflava	1.5913	natural	100.0	1.69	458781		primary_unit_representative	True	False	False	True	True	False
+GCA_051956675.1	SAMN48969126	no	Neisseria sp. P0022.S009	False	perflava	1.2741	natural					non_member	False	False	False	False	False	False
+GCA_051956735.1	SAMN48969123	no	Neisseria sp. P0022.S006	False	perflava	1.2822	natural					non_member	False	False	False	False	False	False
+GCA_051956775.1	SAMN48969124	no	Neisseria sp. P0022.S007	False	perflava	1.3483	natural					non_member	False	False	False	False	False	False
+GCA_051956815.1	SAMN48969119	no	Neisseria sp. P0022.S002	False	perflava	1.2512	natural					non_member	False	False	False	False	False	False
+GCA_051956855.1	SAMN48969114	no	Neisseria sp. P0021.S007	True	perflava	3.4488	natural	100.0	25.88	169910		excluded_qc_fail	False	False	False	False	False	False
+GCA_051956895.1	SAMN48969113	no	Neisseria sp. P0021.S006	True	perflava	3.516	natural	100.0	42.31	23315		excluded_qc_fail	False	False	False	False	False	False
+GCA_051956955.1	SAMN48969112	no	Neisseria sp. P0021.S005	True	perflava	3.2713	natural	99.06	59.26	6173		excluded_qc_fail	False	False	False	False	False	False
+GCA_051956975.1	SAMN48969109	no	Neisseria sp. P0021.S002	True	perflava	3.4633	natural	100.0	0.98	342264		primary_unit_representative	True	False	False	True	True	False
+GCA_051956995.1	SAMN48969111	no	Neisseria sp. P0021.S004	True	perflava	3.4573	natural	100.0	7.57	405091		excluded_qc_fail	False	False	False	False	False	False
+GCA_051957055.1	SAMN48969102	no	Neisseria sp. P0020.S005	True	perflava	0.4517	natural	100.0	0.36	146705		primary_unit_representative	True	False	False	False	True	False
+GCA_051957095.1	SAMN48969100	no	Neisseria sp. P0020.S003	True	subflava	1.7096	natural	100.0	0.05	87372		primary_unit_representative	True	False	False	True	True	False
+GCA_051957115.1	SAMN48969091	no	Neisseria sp. P0019.S003	True	perflava	0.7516	natural	100.0	0.56	396098		primary_unit_representative	True	False	False	True	True	False
+GCA_051957155.1	SAMN48969090	no	Neisseria sp. P0019.S002	True	perflava	0.8567	natural	100.0	0.63	393846		primary_unit_representative	True	False	False	True	True	False
+GCA_051957215.1	SAMN48969084	no	Neisseria sp. P0018.S006	True	perflava	0.4626	natural	100.0	0.88	172697		primary_unit_representative	True	False	False	False	True	False
+GCA_051957235.1	SAMN48969081	no	Neisseria sp. P0018.S003	True	perflava	0.4588	natural	100.0	1.84	172697		primary_unit_representative	True	False	False	False	True	False
+GCA_051957275.1	SAMN48969082	no	Neisseria sp. P0018.S004	True	perflava	0.5058	natural	100.0	0.45	138955		primary_unit_representative	True	False	False	True	True	False
+GCA_051957315.1	SAMN48969080	no	Neisseria sp. P0018.S002	True	perflava	0.4546	natural	100.0	0.57	138955		primary_unit_representative	True	False	False	False	True	False
+GCA_051957355.1	SAMN48969079	no	Neisseria sp. P0018.S001	True	perflava	0.4512	natural	100.0	1.1	172654		primary_unit_representative	True	False	False	False	True	False
+GCA_051957375.1	SAMN48969077	no	Neisseria sp. P0017.S009	True	perflava	2.9597	natural	100.0	0.02	316242		primary_unit_representative	True	False	False	True	True	False
+GCA_051957435.1	SAMN48969078	no	Neisseria sp. P0017.S010	False	perflava	2.5483	natural					non_member	False	False	False	False	False	False
+GCA_051957445.1	SAMN48969076	no	Neisseria sp. P0017.S008	True	perflava	2.8956	natural	100.0	0.03	217772		primary_unit_representative	True	False	False	True	True	False
+GCA_051957495.1	SAMN48969075	no	Neisseria sp. P0017.S007	True	perflava	2.9261	natural	100.0	0.5	316242		primary_unit_representative	True	False	False	True	True	False
+GCA_051957575.1	SAMN48969073	no	Neisseria sp. P0017.S005	True	subflava	1.7233	natural	100.0	0.37	223257		primary_unit_representative	True	False	False	True	True	False
+GCA_051957595.1	SAMN48969074	no	Neisseria sp. P0017.S006	False	perflava	1.124	natural					non_member	False	False	False	False	False	False
+GCA_051957655.1	SAMN48969072	no	Neisseria sp. P0017.S004	True	perflava	2.9205	natural	100.0	0.02	206001		primary_unit_representative	True	False	False	True	True	False
+GCA_051957675.1	SAMN48969071	no	Neisseria sp. P0017.S003	True	perflava	2.9054	natural	100.0	0.02	316242		primary_unit_representative	True	False	False	True	True	False
+GCA_051957695.1	SAMN48969070	no	Neisseria sp. P0017.S002	True	perflava	2.9784	natural	100.0	0.02	316242		primary_unit_representative	True	False	False	True	True	False
+GCA_051957735.1	SAMN48969067	no	Neisseria sp. P0016.S009	True	subflava	0.0335	natural	100.0	0.01	520065		primary_unit_representative	True	False	False	False	True	False
+GCA_051957755.1	SAMN48969069	no	Neisseria sp. P0017.S001	True	perflava	2.9236	natural	100.0	0.02	316242		primary_unit_representative	True	False	False	True	True	False
+GCA_051957775.1	SAMN48969066	no	Neisseria sp. P0016.S008	True	subflava	0.0956	natural	100.0	1.19	382158		primary_unit_representative	True	False	False	False	True	False
+GCA_051957855.1	SAMN48969063	no	Neisseria sp. P0016.S005	True	subflava	0.0642	natural	100.0	0.11	332319		primary_unit_representative	True	False	False	False	True	False
+GCA_051957875.1	SAMN48969064	no	Neisseria sp. P0016.S006	True	subflava	0.0475	natural	100.0	0.08	397611		primary_unit_representative	True	False	False	False	True	False
+GCA_051957955.1	SAMN48969060	no	Neisseria sp. P0016.S002	False	subflava	1.3715	natural					non_member	False	False	False	False	False	False
+GCA_051957975.1	SAMN48969058	no	Neisseria sp. P0015.S010	False	perflava	0.7338	natural					non_member	False	False	False	False	False	False
+GCA_051958015.1	SAMN48969057	no	Neisseria sp. P0015.S009	True	perflava	1.0622	natural	100.0	1.33	379271		primary_unit_representative	True	False	False	True	True	False
+GCA_051958075.1	SAMN48969054	no	Neisseria sp. P0015.S006	False	perflava	0.8746	natural					non_member	False	False	False	False	False	False
+GCA_051958095.1	SAMN48969052	no	Neisseria sp. P0015.S004	True	perflava	0.9794	natural	100.0	15.21	52199		excluded_qc_fail	False	False	False	False	False	False
+GCA_051958105.1	SAMN48969050	no	Neisseria sp. P0015.S002	True	perflava	1.0736	natural	100.0	0.5	379271		primary_unit_representative	True	False	False	True	True	False
+GCA_051958155.1	SAMN48969047	no	Neisseria sp. P0014.S009	True	perflava	0.8085	natural	100.0	0.69	133200		primary_unit_representative	True	False	False	True	True	False
+GCA_051958215.1	SAMN48969046	no	Neisseria sp. P0014.S008	True	perflava	0.8427	natural	100.0	0.68	133200		primary_unit_representative	True	False	False	True	True	False
+GCA_051958235.1	SAMN48969042	no	Neisseria sp. P0014.S004	True	perflava	0.8723	natural	100.0	1.13	129319		primary_unit_representative	True	False	False	True	True	False
+GCA_051958255.1	SAMN48969044	no	Neisseria sp. P0014.S006	True	subflava	0.0121	natural	100.0	0.82	173020		primary_unit_representative	True	False	False	False	True	False
+GCA_051958295.1	SAMN48969040	no	Neisseria sp. P0014.S002	True	subflava	0.0044	natural	100.0	0.16	204448		primary_unit_representative	True	False	False	False	True	False
+GCA_051958355.1	SAMN48969037	no	Neisseria sp. P0013.S009	True	subflava	1.7338	natural	100.0	0.33	223143		primary_unit_representative	True	False	False	True	True	False
+GCA_051958375.1	SAMN48969035	no	Neisseria sp. P0013.S007	True	subflava	1.7798	natural	100.0	0.04	222943		primary_unit_representative	True	False	False	True	True	False
+GCA_051958415.1	SAMN48969032	no	Neisseria sp. P0013.S004	True	subflava	1.7573	natural	100.0	1.52	166823		primary_unit_representative	True	False	False	True	True	False
+GCA_051958425.1	SAMN48969033	no	Neisseria sp. P0013.S005	True	subflava	1.7658	natural	100.0	0.04	207804		primary_unit_representative	True	False	False	True	True	False
+GCA_051958495.1	SAMN48969030	no	Neisseria sp. P0013.S002	True	subflava	1.8037	natural	100.0	0.03	208715		primary_unit_representative	True	False	False	True	True	False
+GCA_051958535.1	SAMN48969024	no	Neisseria sp. P0012.S006	True	perflava	3.3336	natural	100.0	0.16	201703		primary_unit_representative	True	False	False	True	True	False
+GCA_051958545.1	SAMN48969009	no	Neisseria sp. P0009.S010	True	perflava	0.453	natural	100.0	0.38	263536		primary_unit_representative	True	False	False	False	True	False
+GCA_051958615.1	SAMN48969007	no	Neisseria sp. P0009.S008	True	subflava	1.8007	natural	100.0	1.1	198417		primary_unit_representative	True	False	False	True	True	False
+GCA_051962515.1	SAMN48969006	no	Neisseria sp. P0009.S007	True	perflava	2.8989	natural	99.98	19.05	10619		excluded_qc_fail	False	False	False	False	False	False
+GCA_051962595.1	SAMN48969004	no	Neisseria sp. P0009.S005	True	perflava	0.4188	natural	100.0	0.44	260275		primary_unit_representative	True	False	False	False	True	False
+GCA_051962615.1	SAMN48969003	no	Neisseria sp. P0009.S004	True	subflava	1.8154	natural	100.0	0.57	188835		primary_unit_representative	True	False	False	True	True	False
+GCA_051962655.1	SAMN48969002	no	Neisseria sp. P0009.S003	True	perflava	1.1218	natural	100.0	0.02	369500		primary_unit_representative	True	False	False	True	True	False
+GCA_051962715.1	SAMN48968999	no	Neisseria sp. P0008.S010	False	subflava	0.2683	natural					non_member	False	False	False	False	False	False
+GCA_051962735.1	SAMN48969000	no	Neisseria sp. P0009.S001	True	perflava	2.9528	natural	100.0	0.02	303876		primary_unit_representative	True	False	False	True	True	False
+GCA_051962755.1	SAMN48968993	no	Neisseria sp. P0008.S004	True	perflava	0.4039	natural	100.0	0.46	268301		primary_unit_representative	True	False	False	False	True	False
+GCA_051962805.1	SAMN48968991	no	Neisseria sp. P0008.S002	True	perflava	2.8966	natural	100.0	0.02	283010		primary_unit_representative	True	False	False	True	True	False
+GCA_051962855.1	SAMN48968985	no	Neisseria sp. P0006.S010	True	perflava	1.0196	natural	100.0	0.0	1136921		primary_unit_representative	True	False	False	True	True	False
+GCA_051962875.1	SAMN48968989	no	Neisseria sp. P0007.S010	True	perflava	0.4763	natural	100.0	0.51	181573		primary_unit_representative	True	False	False	False	True	False
+GCA_051962915.1	SAMN48968984	no	Neisseria sp. P0006.S009	True	perflava	1.0464	natural	100.0	0.0	478925		primary_unit_representative	True	False	False	True	True	False
+GCA_051962935.1	SAMN48968980	no	Neisseria sp. P0006.S005	True	perflava	1.0357	natural	100.0	0.0	411774		primary_unit_representative	True	False	False	True	True	False
+GCA_051962955.1	SAMN48968981	no	Neisseria sp. P0006.S006	False	perflava	1.1884	natural					non_member	False	False	False	False	False	False
+GCA_051963015.1	SAMN48968979	no	Neisseria sp. P0006.S004	True	perflava	1.0498	natural	100.0	0.0	381993		primary_unit_representative	True	False	False	True	True	False
+GCA_051963055.1	SAMN48968965	no	Neisseria sp. P0004.S009	True	perflava	1.3242	natural	100.0	1.25	197633		primary_unit_representative	True	False	False	True	True	False
+GCA_051963075.1	SAMN48968974	no	Neisseria sp. P0005.S008	True	perflava	3.5831	natural	100.0	0.09	132887		primary_unit_representative	True	False	False	True	True	False
+GCA_051963095.1	SAMN48968966	no	Neisseria sp. P0004.S010	True	perflava	1.3044	natural	100.0	0.06	197633		primary_unit_representative	True	False	False	True	True	False
+GCA_051963175.1	SAMN48968963	no	Neisseria sp. P0004.S007	True	perflava	1.3116	natural	100.0	0.06	197633		primary_unit_representative	True	False	False	True	True	False
+GCA_051963195.1	SAMN48968964	no	Neisseria sp. P0004.S008	True	perflava	1.3134	natural	100.0	0.06	197633		primary_unit_representative	True	False	False	True	True	False
+GCA_051963215.1	SAMN48968962	no	Neisseria sp. P0004.S006	True	perflava	1.3387	natural	100.0	0.06	197633		primary_unit_representative	True	False	False	True	True	False
+GCA_051963275.1	SAMN48968961	no	Neisseria sp. P0004.S005	True	perflava	1.3235	natural	100.0	0.06	197633		primary_unit_representative	True	False	False	True	True	False
+GCA_051963315.1	SAMN48968959	no	Neisseria sp. P0004.S003	True	perflava	1.3247	natural	100.0	0.06	197633		primary_unit_representative	True	False	False	True	True	False
+GCA_051963335.1	SAMN48968960	no	Neisseria sp. P0004.S004	True	perflava	1.3684	natural	100.0	0.06	197631		primary_unit_representative	True	False	False	True	True	False
+GCA_051963395.1	SAMN48968958	no	Neisseria sp. P0004.S002	True	perflava	1.3354	natural	100.0	0.06	197633		primary_unit_representative	True	False	False	True	True	False
+GCA_051963435.1	SAMN48968951	no	Neisseria sp. P0003.S004	True	perflava	3.2887	natural	100.0	0.82	379204		primary_unit_representative	True	False	False	True	True	False
+GCA_051963455.1	SAMN48968957	no	Neisseria sp. P0004.S001	True	perflava	1.3022	natural	100.0	0.06	197633		primary_unit_representative	True	False	False	True	True	False
+GCA_051963515.1	SAMN48968950	no	Neisseria sp. P0003.S003	True	perflava	3.3412	natural	100.0	0.94	379204		primary_unit_representative	True	False	False	True	True	False
+GCA_051963555.1	SAMN48968946	no	Neisseria sp. P0001.S010	True	perflava	0.5012	natural	100.0	4.22	120870		primary_unit_representative	True	False	False	True	True	False
+GCA_051963575.1	SAMN48968945	no	Neisseria sp. P0001.S009	True	perflava	0.5272	natural	100.0	0.42	141490		primary_unit_representative	True	False	False	True	True	False
+GCA_051963635.1	SAMN48968942	no	Neisseria sp. P0001.S006	True	perflava	0.5565	natural	100.0	0.65	167394		primary_unit_representative	True	False	False	True	True	False
+GCA_051963655.1	SAMN48968943	no	Neisseria sp. P0001.S007	True	perflava	0.5248	natural	100.0	0.45	167295		primary_unit_representative	True	False	False	True	True	False
+GCA_051963675.1	SAMN48968944	no	Neisseria sp. P0001.S008	True	perflava	0.5486	natural	100.0	0.42	141486		primary_unit_representative	True	False	False	True	True	False
+GCA_051963715.1	SAMN48968941	no	Neisseria sp. P0001.S005	False	subflava	0.8237	natural					non_member	False	False	False	False	False	False
+GCA_051963775.1	SAMN48968939	no	Neisseria sp. P0001.S003	True	perflava	0.6088	natural	100.0	0.44	141486		primary_unit_representative	True	False	False	True	True	False
+GCA_051963795.1	SAMN48968940	no	Neisseria sp. P0001.S004	False	subflava	0.7932	natural					non_member	False	False	False	False	False	False
+GCA_051963835.1	SAMN48968938	no	Neisseria sp. P0001.S002	True	perflava	0.4861	natural	100.0	0.45	141486		primary_unit_representative	True	False	False	False	True	False
+GCA_052063255.1	SAMN40741159	no	Neisseria musculi	False	subflava	0.1394	natural					non_member	False	False	False	False	False	False
+GCA_052073865.1	SAMN05362769	yes	Neisseria subflava	True	subflava	0.1974	natural	100.0	0.13	332109		primary_unit_representative	True	False	False	False	True	False
+GCA_052073905.1	SAMN50554711	yes	Neisseria subflava	True	subflava	0.2241	natural	100.0	0.12	332109		primary_unit_representative	True	False	False	False	True	False
+GCA_052161875.1	SAMN50562553	no	Neisseria mucosa	False	subflava	0.2531	natural					non_member	False	False	False	False	False	False
+GCA_052169415.1	SAMN49825588	no	Neisseria sicca	False	subflava	0.3847	natural					non_member	False	False	False	False	False	False
+GCA_052858825.1	SAMN51436597	yes	Neisseria subflava	True	perflava	1.261	natural	100.0	1.32	348350		primary_unit_representative	True	True	True	True	True	False
+GCA_052858845.1	SAMN51436598	yes	Neisseria subflava	True	perflava	1.3024	natural	100.0	0.53	301107		primary_unit_representative	True	True	True	True	True	False
+GCA_052858865.1	SAMN51436591	yes	Neisseria subflava	True	perflava	1.4056	natural	100.0	0.0	548265		primary_unit_representative	True	False	False	True	True	False
+GCA_052858885.1	SAMN51436610	yes	Neisseria subflava	True	perflava	0.0834	natural	100.0	0.18	170902		primary_unit_representative	True	False	True	False	True	False
+GCA_052858905.1	SAMN51436612	yes	Neisseria subflava	True	perflava	0.1653	natural	100.0	2.08	217244		primary_unit_representative	True	False	True	False	True	False
+GCA_052858915.1	SAMN51436602	yes	Neisseria subflava	True	perflava	1.0904	natural	100.0	3.54	225293		primary_unit_representative	True	True	True	True	True	False
+GCA_052858945.1	SAMN51436599	yes	Neisseria subflava	False	perflava	1.2651	natural					non_member	False	False	False	False	False	False
+GCA_052858975.1	SAMN51436596	yes	Neisseria subflava	True	perflava	1.3221	natural	100.0	0.01	341761		primary_unit_representative	True	False	False	True	True	False
+GCA_052858995.1	SAMN51436595	yes	Neisseria subflava	False	perflava	1.2911	natural					non_member	False	False	False	False	False	False
+GCA_052859025.1	SAMN51436600	yes	Neisseria subflava	True	perflava	0.9077	natural	100.0	0.05	367176		primary_unit_representative	True	True	True	True	True	False
+GCA_052859045.1	SAMN51436606	yes	Neisseria subflava	True	subflava	0.3082	natural	100.0	0.02	116675		primary_unit_representative	True	True	True	False	True	False
+GCA_052859065.1	SAMN51436604	yes	Neisseria subflava	True	perflava	0.7103	natural	100.0	0.03	98227		primary_unit_representative	True	True	True	True	True	False
+GCA_052859085.1	SAMN51436608	yes	Neisseria subflava	True	subflava	0.0252	natural	100.0	2.27	118724		primary_unit_representative	True	False	False	False	True	False
+GCA_052859105.1	SAMN51436611	yes	Neisseria subflava	True	perflava	0.1312	natural	100.0	0.08	163742		primary_unit_representative	True	False	True	False	True	False
+GCA_052859125.1	SAMN51436593	yes	Neisseria subflava	False	perflava	1.2636	natural					non_member	False	False	False	False	False	False
+GCA_052859145.1	SAMN51436594	yes	Neisseria subflava	True	perflava	1.2935	natural	100.0	1.96	221597		primary_unit_representative	True	False	False	True	True	False
+GCA_052859165.1	SAMN51436609	yes	Neisseria subflava	True	subflava	0.147	natural	100.0	0.12	182215		primary_unit_representative	True	True	True	False	True	False
+GCA_052859185.1	SAMN51436590	yes	Neisseria subflava	True	perflava	1.3578	natural	100.0	0.0	548146		primary_unit_representative	True	False	False	True	True	False
+GCA_052859205.1	SAMN51436605	yes	Neisseria subflava	True	perflava	0.7976	natural	100.0	0.37	86565		primary_unit_representative	True	True	True	True	True	False
+GCA_052859225.1	SAMN51436607	yes	Neisseria subflava	True	perflava	0.1093	natural	100.0	0.43	182041		primary_unit_representative	True	False	False	False	True	False
+GCA_052859245.1	SAMN51436592	yes	Neisseria subflava	True	perflava	1.3808	natural	100.0	0.0	1183429		primary_unit_representative	True	False	False	True	True	False
+GCA_052859265.1	SAMN51436603	yes	Neisseria subflava	True	perflava	1.0439	natural	100.0	3.45	225293		primary_unit_representative	True	True	True	True	True	False
+GCA_054111245.1	SAMN52624496	no	Neisseria sicca	False	subflava	0.2047	natural					non_member	False	False	False	False	False	False
+GCA_054111265.1	SAMN52624495	no	Neisseria sicca	False	subflava	0.1892	natural					non_member	False	False	False	False	False	False
+GCA_055391185.1	SAMD01611113	no	Neisseria mucosa	False	subflava	0.3306	natural					non_member	False	False	False	False	False	False
+GCA_056611915.1	SAMN35359261	yes	Neisseria subflava	True	subflava	0.2262	natural_baseline_repeat	100.0	0.0	2290041	U00022	primary_unit_representative	True	True	True	False	True	True
+GCA_056638355.1	SAMN56832053	yes	Neisseria subflava	True	perflava	0.5442	natural	100.0	0.59	280637		primary_unit_representative	True	True	True	True	True	False
+GCA_056850555.1	SAMN35532495	yes	Neisseria subflava	True	subflava	0.1673	experimental	100.0	0.0	2289431		excluded_experimental_derivative	False	False	False	False	False	True
+GCA_056850565.1	SAMN35532494	yes	Neisseria subflava	True	subflava	0.1109	experimental	100.0	0.0	2301919		excluded_experimental_derivative	False	False	False	False	False	True
+GCA_056850575.1	SAMN35532493	yes	Neisseria subflava	True	subflava	0.1876	experimental	100.0	0.0	2292819		excluded_experimental_derivative	False	False	False	False	False	True
+GCA_056850585.1	SAMN35554046	yes	Neisseria subflava	True	subflava	0.1662	experimental	100.0	0.0	2300590		excluded_experimental_derivative	False	False	False	False	False	True
+GCA_056850595.1	SAMN35554047	yes	Neisseria subflava	True	subflava	0.1897	experimental	100.0	0.0	2300596		excluded_experimental_derivative	False	False	False	False	False	True
+GCA_056850675.1	SAMN35554045	yes	Neisseria subflava	True	subflava	0.1312	experimental	100.0	0.0	2301944		excluded_experimental_derivative	False	False	False	False	False	True
+GCA_056850685.1	SAMN35554044	yes	Neisseria subflava	True	subflava	0.1615	experimental	100.0	0.0	2286884		excluded_experimental_derivative	False	False	False	False	False	True
+GCA_056880575.1	SAMN34163274	yes	Neisseria subflava	True	subflava	0.2023	experimental	100.0	0.0	2294860		excluded_experimental_derivative	False	False	False	False	False	True
+GCA_056880585.1	SAMN34163273	yes	Neisseria subflava	True	subflava	0.195	experimental	100.0	0.02	2293461		excluded_experimental_derivative	False	False	False	False	False	True
+GCA_056880595.1	SAMN34163271	yes	Neisseria subflava	True	subflava	0.1865	experimental	100.0	0.02	2300707		excluded_experimental_derivative	False	False	False	False	False	True
+GCA_056880605.1	SAMN34163272	yes	Neisseria subflava	True	subflava	0.2021	experimental	100.0	0.0	2290035		excluded_experimental_derivative	False	False	False	False	False	True
+GCA_057315555.1	SAMN47002320	no	Neisseria flavescens	True	flavescens	1.7424	natural	100.0	0.1	97134		primary_unit_representative	True	False	False	True	True	False
+GCA_057315595.1	SAMN47002319	no	Neisseria sp.	False	flavescens	0.748	natural					non_member	False	False	False	False	False	False
+GCA_057315615.1	SAMN47002317	no	Neisseria sp.	False	subflava	0.5418	natural					non_member	False	False	False	False	False	False
+GCA_057315635.1	SAMN47002316	no	Neisseria lactamica	False	flavescens	1.6407	natural					non_member	False	False	False	False	False	False
+GCA_057315655.1	SAMN47002315	no	Neisseria cinerea	False	flavescens	0.0247	natural					non_member	False	False	False	False	False	False
+GCA_057315675.1	SAMN47002314	no	Neisseria elongata	False	subflava	0.2999	natural					non_member	False	False	False	False	False	False
+GCA_057315695.1	SAMN47002313	no	Neisseria mucosa	False	subflava	0.4733	natural					non_member	False	False	False	False	False	False
+GCA_057315715.1	SAMN47002312	no	Neisseria sp.	False	subflava	0.0386	natural					non_member	False	False	False	False	False	False
+GCA_057315735.1	SAMN47002311	no	Neisseria sicca	False	subflava	0.0816	natural					non_member	False	False	False	False	False	False
+GCA_057315755.1	SAMN47002310	no	Neisseria subflava	True	perflava	1.0294	natural	100.0	0.02	482824		primary_unit_representative	True	False	False	True	True	False
+GCA_057315775.1	SAMN47002309	no	Neisseria sp.	False	perflava	1.2493	natural					non_member	False	False	False	False	False	False
+GCA_057632045.1	SAMN56386050	no	Neisseria mucosa	False	subflava	0.1723	natural					non_member	False	False	False	False	False	False
+GCA_057637755.1	SAMN56384332	no	Neisseria flavescens	True	subflava	0.1535	natural	100.0	0.0	123746		primary_unit_representative	True	False	False	False	True	False
+GCA_058214815.1	SAMN60412776	yes	Neisseria perflava	True	perflava	3.7431	natural	100.0	0.01	565517		primary_unit_representative	True	True	True	True	True	False
+GCA_060542955.1	SAMN60536800	no	Neisseria elongata	False	subflava	0.5148	natural					non_member	False	False	False	False	False	False
+GCA_060719195.1	SAMEA122679506	no	Neisseria lactamica	False	flavescens	1.576	natural					non_member	False	False	False	False	False	False
+GCA_060719255.1	SAMEA122679504	no	Neisseria lactamica	False	flavescens	1.5321	natural					non_member	False	False	False	False	False	False
+GCA_060720615.1	SAMEA122679464	no	Neisseria lactamica	False	flavescens	1.4903	natural					non_member	False	False	False	False	False	False
+GCA_060720795.1	SAMEA122679459	no	Neisseria lactamica	False	flavescens	1.4798	natural					non_member	False	False	False	False	False	False
+GCA_060726575.1	SAMN38604352	no	Neisseria perflava	True	perflava	3.7082	natural	100.0	0.02	319963		primary_unit_representative	True	False	False	True	True	False
+GCA_060879305.1	SAMN61840407	no	Neisseria sp.	False	flavescens	0.0145	natural					non_member	False	False	False	False	False	False
+GCA_900086555.1	SAMEA3174300	no	Neisseria weaveri	False	subflava	0.1823	natural					non_member	False	False	False	False	False	False
+GCA_900113545.1	SAMN05421815	no	Neisseria elongata subsp. elongata	False	subflava	0.5393	natural					non_member	False	False	False	False	False	False
+GCA_900187305.1	SAMEA4504057	no	Neisseria zoodegmatis	False	subflava	0.3769	natural					non_member	False	False	False	False	False	False
+GCA_900453685.1	SAMEA4475693	no	Neisseria dentiae	False	flavescens	0.01	natural					non_member	False	False	False	False	False	False
+GCA_900453805.1	SAMEA3936792	yes	Neisseria flavescens	True	flavescens	5.2454	natural	100.0	0.11	2233976		primary_unit_representative	True	True	True	True	True	False
+GCA_900453895.1	SAMEA3672883	no	Neisseria elongata	False	subflava	0.3929	natural					non_member	False	False	False	False	False	False
+GCA_900454095.1	SAMEA3174296	no	Neisseria lactamica	False	flavescens	1.4635	natural					non_member	False	False	False	False	False	False
+GCA_900454145.1	SAMEA103980413	no	Neisseria lactamica	False	flavescens	1.7572	natural					non_member	False	False	False	False	False	False
+GCA_900454205.1	SAMEA104210756	no	Neisseria zoodegmatis	False	subflava	0.2779	natural					non_member	False	False	False	False	False	False
+GCA_900454435.1	SAMEA104062571	no	Neisseria mucosa	False	subflava	0.2679	natural					non_member	False	False	False	False	False	False
+GCA_900475315.1	SAMEA3714889	no	Neisseria cinerea	False	flavescens	0.3825	natural					non_member	False	False	False	False	False	False
+GCA_900475815.1	SAMEA53328418	no	Neisseria elongata subsp. glycolytica	False	subflava	0.0684	natural					non_member	False	False	False	False	False	False
+GCA_900636515.1	SAMEA3643316	no	Neisseria animalis	False	flavescens	0.2772	natural					non_member	False	False	False	False	False	False
+GCA_900636765.1	SAMEA3871785	no	Neisseria canis	False	subflava	0.1616	natural					non_member	False	False	False	False	False	False
+GCA_900637855.1	SAMEA48401668	no	Neisseria animaloris	False	subflava	0.1885	natural					non_member	False	False	False	False	False	False
+GCA_900638345.1	SAMEA104210758	no	Neisseria animaloris	False	subflava	0.2458	natural					non_member	False	False	False	False	False	False
+GCA_900638685.1	SAMEA104338429	no	Neisseria weaveri	False	subflava	0.177	natural					non_member	False	False	False	False	False	False
+GCA_900654165.1	SAMEA5208238	yes	Neisseria flavescens	True	perflava	3.3941	natural	100.0	0.03	454990		primary_unit_representative	True	True	True	True	False	False
+GCA_900654175.1	SAMEA5208239	no	Neisseria mucosa	False	flavescens	0.0893	natural					non_member	False	False	False	False	False	False
+GCA_900654185.1	SAMEA5208240	yes	Neisseria flavescens	True	perflava	1.1066	natural	100.0	0.05	362234		primary_unit_representative	True	True	True	True	False	False
+GCA_900654195.1	SAMEA5208241	yes	Neisseria flavescens	True	subflava	1.8205	natural	100.0	0.02	114037		primary_unit_representative	True	True	True	True	True	False
+GCA_901482445.1	SAMEA3867448	no	Neisseria lactamica	False	flavescens	1.5454	natural					non_member	False	False	False	False	False	False
+GCA_901873385.1	SAMEA5664365	no	Neisseria sicca	False	subflava	0.2344	natural					non_member	False	False	False	False	False	False
+GCA_901873995.1	SAMEA5664366	yes	Neisseria subflava	True	flavescens	1.832	natural	100.0	0.06	69843		primary_unit_representative	True	True	True	True	True	False
+GCA_901875325.1	SAMEA5664367	yes	Neisseria subflava	False	perflava	1.2158	natural					non_member	False	False	False	False	False	False
+GCA_902374455.2	SAMEA5850884	no	Neisseria macacae	False	subflava	0.3269	natural					non_member	False	False	False	False	False	False
+GCA_902461385.1	SAMEA5849831	no	uncultured Neisseria sp.	False	perflava	1.4633	natural					non_member	False	False	False	False	False	False
+GCA_902485275.1	SAMEA5852894	no	uncultured Neisseria sp.	True	perflava	3.0203	natural	99.43	0.02	335571		primary_unit_representative	True	False	False	True	True	False
+GCA_905194225.1	SAMEA7846603	no	uncultured Neisseria sp.	False	perflava	1.218	natural					non_member	False	False	False	False	False	False
+GCA_905205105.1	SAMEA7848358	no	uncultured Neisseria sp.	True	subflava	0.1072	natural	100.0	0.15	78513		primary_unit_representative	True	False	False	False	True	False
+GCA_905371655.1	SAMEA8395091	no	Neisseria elongata	False	subflava	0.0823	natural					non_member	False	False	False	False	False	False
+GCA_905371675.1	SAMEA8395104	no	Neisseria subflava	True	subflava	1.5752	natural	100.0	0.07	62705		primary_unit_representative	True	False	False	True	True	False
+GCA_905372215.1	SAMEA8395145	no	Neisseria sp. HMSC06F02	False	subflava	0.2722	natural					non_member	False	False	False	False	False	False
+GCA_905372545.1	SAMEA8395176	no	Neisseria sp. oral taxon 014	False	subflava	0.2779	natural					non_member	False	False	False	False	False	False
+GCA_905373125.1	SAMEA8395240	no	Neisseria sp. HMSC065D04	False	subflava	0.0296	natural					non_member	False	False	False	False	False	False
+GCA_912440445.1	SAMEA9640645	no	uncultured Neisseria sp.	True	perflava	0.0044	natural	80.07	1.97	36762		excluded_qc_fail	False	False	False	False	False	False
+GCA_915066195.1	SAMEA9921421	no	Neisseria elongata	False	subflava	0.3026	natural					non_member	False	False	False	False	False	False
+GCA_915066515.1	SAMEA9921437	no	uncultured Neisseria sp.	False	subflava	0.0245	natural					non_member	False	False	False	False	False	False
+GCA_915070165.1	SAMEA9921398	no	uncultured Neisseria sp.	False	subflava	1.6683	natural					non_member	False	False	False	False	False	False
+GCA_915250805.1	SAMEA9873873	no	uncultured Neisseria sp.	False	subflava	1.7646	natural					non_member	False	False	False	False	False	False
+GCA_915270505.1	SAMEA9873875	no	Neisseria sicca	False	subflava	0.035	natural					non_member	False	False	False	False	False	False
+GCA_916048815.1	SAMEA9943325	no	Neisseria flavescens	True	perflava	2.5758	natural	100.0	0.03	185807		primary_unit_representative	True	False	False	True	True	False
+GCA_916049715.1	SAMEA9943378	no	uncultured Neisseria sp.	False	subflava	0.187	natural					non_member	False	False	False	False	False	False
+GCA_916438535.1	SAMEA10110234	no	uncultured Neisseria sp.	False	subflava	0.2826	natural					non_member	False	False	False	False	False	False
+GCA_916709915.1	SAMEA10220478	no	uncultured Neisseria sp.	True	subflava	0.3248	natural	100.0	0.12	89178		primary_unit_representative	True	False	False	False	True	False
+GCA_916719975.1	SAMEA10220500	no	uncultured Neisseria sp.	False	subflava	0.0457	natural					non_member	False	False	False	False	False	False
+GCA_916720585.1	SAMEA10220487	no	uncultured Neisseria sp.	False	subflava	0.264	natural					non_member	False	False	False	False	False	False
+GCA_927910975.1	SAMEA12514500	no	uncultured Neisseria sp.	False	perflava	1.2316	natural					non_member	False	False	False	False	False	False
+GCA_927911225.1	SAMEA12514472	no	Neisseria sicca	False	subflava	0.3072	natural					non_member	False	False	False	False	False	False
+GCA_927911295.1	SAMEA12514454	no	uncultured Neisseria sp.	True	perflava	3.6428	natural	94.84	4.27	27717		primary_unit_representative	True	False	False	True	True	False
+GCA_927911515.1	SAMEA12514494	no	uncultured Neisseria sp.	False	subflava	0.3659	natural					non_member	False	False	False	False	False	False
+GCA_927911565.1	SAMEA12514507	no	uncultured Neisseria sp.	False	flavescens	0.1245	natural					non_member	False	False	False	False	False	False
+GCA_934216645.1	SAMEA13503819	no	uncultured Neisseria sp.	False	perflava	1.3518	natural					non_member	False	False	False	False	False	False
+GCA_934216815.1	SAMEA13501076	no	uncultured Neisseria sp.	True	subflava	0.2426	natural	100.0	0.61	143048		primary_unit_representative	True	False	False	False	True	False
+GCA_937880995.1	SAMEA14037283	no	Neisseria sicca	False	subflava	0.3183	natural					non_member	False	False	False	False	False	False
+GCA_937914605.1	SAMEA14075821	no	uncultured Neisseria sp.	False	subflava	0.162	natural					non_member	False	False	False	False	False	False
+GCA_937919795.1	SAMEA14082394	no	uncultured Neisseria sp.	False	subflava	0.1947	natural					non_member	False	False	False	False	False	False
+GCA_937936115.1	SAMEA14086109	no	uncultured Neisseria sp.	True	perflava	2.8627	natural	100.0	0.04	340446		primary_unit_representative	True	False	False	True	True	False
+GCA_938029425.1	SAMEA14084583	no	uncultured Neisseria sp.	False	subflava	0.3864	natural					non_member	False	False	False	False	False	False
+GCA_938046305.1	SAMEA14084681	no	Neisseria elongata	False	subflava	0.545	natural					non_member	False	False	False	False	False	False
+GCA_940793045.1	SAMEA14305858	no	Neisseria sp. Marseille-Q2251	False	subflava	0.2116	natural					non_member	False	False	False	False	False	False
+GCA_943181435.1	SAMEA14414186	no	Neisseria sp. Marseille-Q6792	False	flavescens	1.0682	natural					non_member	False	False	False	False	False	False
+GCA_943912315.1	SAMEA110089339	no	uncultured Neisseria sp.	False	subflava	0.3302	natural					non_member	False	False	False	False	False	False
+GCA_943912805.1	SAMEA110089351	no	uncultured Neisseria sp.	True	perflava	0.4892	natural	99.51	0.95	16653		primary_unit_representative	True	False	False	False	True	False
+GCA_943914865.1	SAMEA110088980	no	uncultured Neisseria sp.	False	perflava	1.3168	natural					non_member	False	False	False	False	False	False
+GCA_946902045.1	SAMEA111348536	no	Neisseria sp. Marseille-Q5346	True	perflava	0.9682	natural	100.0	0.04	2354813		primary_unit_representative	True	False	False	True	True	False
+GCA_947095825.1	SAMEA111493388	no	uncultured Neisseria sp.	False	subflava	0.1012	natural					non_member	False	False	False	False	False	False
+GCA_947097615.1	SAMEA111493427	no	uncultured Neisseria sp.	False	subflava	0.0978	natural					non_member	False	False	False	False	False	False
+GCA_947098785.1	SAMEA111493424	no	uncultured Neisseria sp.	False	subflava	1.3191	natural					non_member	False	False	False	False	False	False
+GCA_951230375.1	SAMEA113314683	no	uncultured Neisseria sp.	False	perflava	2.6338	natural					non_member	False	False	False	False	False	False
+GCA_951230505.1	SAMEA113314684	no	uncultured Neisseria sp.	False	perflava	0.9457	natural					non_member	False	False	False	False	False	False
+GCA_955412805.1	SAMEA4483300	no	Neisseria basseii	False	flavescens	1.1521	natural					non_member	False	False	False	False	False	False
+GCA_958267395.1	SAMEA4542453	no	Neisseria uirgultaei	False	flavescens	1.2369	natural					non_member	False	False	False	False	False	False
+GCA_958267405.1	SAMEA4542420	no	Neisseria maigaei	False	flavescens	1.3148	natural					non_member	False	False	False	False	False	False
+GCA_958267415.1	SAMEA1401906	no	Neisseria blantyrii	False	flavescens	1.2037	natural					non_member	False	False	False	False	False	False
+GCA_958267435.1	SAMEA1402085	no	Neisseria benedictiae	False	flavescens	1.1507	natural					non_member	False	False	False	False	False	False
+GCA_958267455.1	SAMEA1402125	no	Neisseria viridiae	False	flavescens	1.198	natural					non_member	False	False	False	False	False	False
+GCA_958267465.1	SAMEA678142	no	Neisseria bergeri	False	flavescens	1.2028	natural					non_member	False	False	False	False	False	False
+GCA_958349175.1	SAMEA114061479	no	uncultured Neisseria sp.	False	perflava	1.305	natural					non_member	False	False	False	False	False	False
+GCA_962704355.1	SAMEA4542418	no	Neisseria bergeri	False	flavescens	1.6452	natural					non_member	False	False	False	False	False	False
+GCA_962704615.1	SAMEA4542419	no	Neisseria bergeri	False	flavescens	1.3744	natural					non_member	False	False	False	False	False	False
+GCA_962706175.1	SAMEA1401951	no	Neisseria viridiae	False	flavescens	0.9868	natural					non_member	False	False	False	False	False	False
+GCA_962706355.1	SAMEA1402168	no	Neisseria viridiae	False	flavescens	1.2173	natural					non_member	False	False	False	False	False	False
+GCA_962706395.1	SAMEA1401973	no	Neisseria viridiae	False	flavescens	1.0803	natural					non_member	False	False	False	False	False	False
+GCA_962706715.1	SAMEA4483189	no	Neisseria blantyrii	False	flavescens	1.2127	natural					non_member	False	False	False	False	False	False
+GCA_962706985.1	SAMEA1401948	no	Neisseria viridiae	False	flavescens	1.0866	natural					non_member	False	False	False	False	False	False
+GCA_962707005.1	SAMEA4483301	no	Neisseria basseii	False	flavescens	1.1959	natural					non_member	False	False	False	False	False	False
+GCA_962707345.1	SAMEA4542457	no	Neisseria uirgultaei	False	flavescens	1.1282	natural					non_member	False	False	False	False	False	False
+GCA_962707505.1	SAMEA4542458	no	Neisseria uirgultaei	False	flavescens	1.0698	natural					non_member	False	False	False	False	False	False
+GCA_962707545.1	SAMEA4004417	no	Neisseria polysaccharea	False	flavescens	1.3234	natural					non_member	False	False	False	False	False	False
+GCA_962707565.1	SAMEA4542460	no	Neisseria uirgultaei	False	flavescens	1.0749	natural					non_member	False	False	False	False	False	False
+GCA_962707675.1	SAMEA4542454	no	Neisseria uirgultaei	False	flavescens	1.1564	natural					non_member	False	False	False	False	False	False
+GCA_962708135.1	SAMEA4542451	no	Neisseria bergeri	False	flavescens	1.4956	natural					non_member	False	False	False	False	False	False
+GCA_962708255.1	SAMEA1402212	no	Neisseria viridiae	False	flavescens	1.0919	natural					non_member	False	False	False	False	False	False
+GCA_962708325.1	SAMEA1401953	no	Neisseria viridiae	False	flavescens	1.0759	natural					non_member	False	False	False	False	False	False
+GCA_962709495.1	SAMEA1402111	no	Neisseria viridiae	False	flavescens	1.2381	natural					non_member	False	False	False	False	False	False
+GCA_962711175.1	SAMEA1401970	no	Neisseria viridiae	False	flavescens	1.1455	natural					non_member	False	False	False	False	False	False
+GCA_962712005.1	SAMEA4542438	no	Neisseria bergeri	False	flavescens	1.3848	natural					non_member	False	False	False	False	False	False
+GCA_962712155.1	SAMEA4542444	no	Neisseria bergeri	False	flavescens	1.6287	natural					non_member	False	False	False	False	False	False
+GCA_962712585.1	SAMEA1401914	no	Neisseria blantyrii	False	flavescens	1.2282	natural					non_member	False	False	False	False	False	False
+GCA_962713235.1	SAMEA4004525	no	Neisseria polysaccharea	False	flavescens	1.0605	natural					non_member	False	False	False	False	False	False
+GCA_962715115.1	SAMEA4483304	no	Neisseria polysaccharea	False	flavescens	1.0132	natural					non_member	False	False	False	False	False	False
+GCA_962715145.1	SAMEA4483244	no	Neisseria polysaccharea	False	flavescens	1.3697	natural					non_member	False	False	False	False	False	False
+GCA_962715215.1	SAMEA4004301	no	Neisseria bergeri	False	flavescens	1.5333	natural					non_member	False	False	False	False	False	False
+GCA_962716855.1	SAMEA4542446	no	Neisseria bergeri	False	flavescens	1.4275	natural					non_member	False	False	False	False	False	False
+GCA_962716865.1	SAMEA4542448	no	Neisseria bergeri	False	flavescens	1.515	natural					non_member	False	False	False	False	False	False
+GCA_962716925.1	SAMEA4542445	no	Neisseria bergeri	False	flavescens	1.5478	natural					non_member	False	False	False	False	False	False
+GCA_962716955.1	SAMEA4542437	no	Neisseria bergeri	False	flavescens	1.413	natural					non_member	False	False	False	False	False	False
+GCA_962717475.1	SAMEA1401913	no	Neisseria blantyrii	False	flavescens	0.973	natural					non_member	False	False	False	False	False	False
+GCA_962717605.1	SAMEA4542429	no	Neisseria bergeri	False	flavescens	1.4313	natural					non_member	False	False	False	False	False	False
+GCA_962717885.1	SAMEA4542436	no	Neisseria bergeri	False	flavescens	1.4232	natural					non_member	False	False	False	False	False	False
+GCA_962717905.1	SAMEA1402069	no	Neisseria viridiae	False	flavescens	1.1736	natural					non_member	False	False	False	False	False	False
+GCA_962718765.1	SAMEA4542443	no	Neisseria bergeri	False	flavescens	1.6377	natural					non_member	False	False	False	False	False	False
+GCA_962719275.1	SAMEA1402186	no	Neisseria viridiae	False	flavescens	1.1864	natural					non_member	False	False	False	False	False	False
+GCA_962719605.1	SAMEA4004521	no	Neisseria polysaccharea	False	flavescens	1.3098	natural					non_member	False	False	False	False	False	False
+GCA_962719845.1	SAMEA4542459	no	Neisseria uirgultaei	False	flavescens	0.9858	natural					non_member	False	False	False	False	False	False
+GCA_962720105.1	SAMEA4542455	no	Neisseria uirgultaei	False	flavescens	1.2592	natural					non_member	False	False	False	False	False	False
+GCA_962720135.1	SAMEA4542452	no	Neisseria uirgultaei	False	flavescens	1.2704	natural					non_member	False	False	False	False	False	False
+GCA_962720325.1	SAMEA4542456	no	Neisseria uirgultaei	False	flavescens	1.2728	natural					non_member	False	False	False	False	False	False
+GCA_962720465.1	SAMEA4483294	no	Neisseria polysaccharea	False	flavescens	1.285	natural					non_member	False	False	False	False	False	False
+GCA_962720795.1	SAMEA1402092	no	Neisseria blantyrii	False	flavescens	1.1817	natural					non_member	False	False	False	False	False	False
+GCA_962721855.1	SAMEA4542421	no	Neisseria bergeri	False	flavescens	1.4315	natural					non_member	False	False	False	False	False	False
+GCA_962722185.1	SAMEA4542417	no	Neisseria bergeri	False	flavescens	1.496	natural					non_member	False	False	False	False	False	False
+GCA_962724685.1	SAMEA4483305	no	Neisseria polysaccharea	False	flavescens	1.3504	natural					non_member	False	False	False	False	False	False
+GCA_962724695.1	SAMEA4483307	no	Neisseria polysaccharea	False	flavescens	1.3722	natural					non_member	False	False	False	False	False	False
+GCA_962724805.1	SAMEA4542430	no	Neisseria bergeri	False	flavescens	1.4682	natural					non_member	False	False	False	False	False	False
+GCA_962724885.1	SAMEA4542424	no	Neisseria bergeri	False	flavescens	1.5571	natural					non_member	False	False	False	False	False	False
+GCA_962724945.1	SAMEA4542427	no	Neisseria bergeri	False	flavescens	1.4425	natural					non_member	False	False	False	False	False	False
+GCA_962724985.1	SAMEA4542426	no	Neisseria bergeri	False	flavescens	1.4446	natural					non_member	False	False	False	False	False	False
+GCA_962725045.1	SAMEA1402039	no	Neisseria viridiae	False	flavescens	1.1269	natural					non_member	False	False	False	False	False	False
+GCA_962725055.1	SAMEA4542431	no	Neisseria bergeri	False	flavescens	1.4868	natural					non_member	False	False	False	False	False	False
+GCA_962725065.1	SAMEA4542428	no	Neisseria bergeri	False	flavescens	1.5745	natural					non_member	False	False	False	False	False	False
+GCA_962725145.1	SAMEA4542432	no	Neisseria bergeri	False	flavescens	1.5564	natural					non_member	False	False	False	False	False	False
+GCA_962725465.1	SAMEA4542425	no	Neisseria bergeri	False	flavescens	1.52	natural					non_member	False	False	False	False	False	False
+GCA_962725685.1	SAMEA1401968	no	Neisseria viridiae	False	flavescens	1.1069	natural					non_member	False	False	False	False	False	False
+GCA_962727395.1	SAMEA1402224	no	Neisseria blantyrii	False	flavescens	1.1997	natural					non_member	False	False	False	False	False	False
+GCA_962728275.1	SAMEA1401923	no	Neisseria viridiae	False	flavescens	1.285	natural					non_member	False	False	False	False	False	False
+GCA_962728725.1	SAMEA4004523	no	Neisseria polysaccharea	False	flavescens	1.294	natural					non_member	False	False	False	False	False	False
+GCA_962728865.1	SAMEA4004524	no	Neisseria polysaccharea	False	flavescens	1.3224	natural					non_member	False	False	False	False	False	False
+GCA_962728915.1	SAMEA4004526	no	Neisseria polysaccharea	False	flavescens	1.3831	natural					non_member	False	False	False	False	False	False
+GCA_962729065.1	SAMEA4004528	no	Neisseria polysaccharea	False	flavescens	1.2885	natural					non_member	False	False	False	False	False	False
+GCA_962730445.1	SAMEA1401904	no	Neisseria blantyrii	False	flavescens	1.2108	natural					non_member	False	False	False	False	False	False
+GCA_962746765.1	SAMEA4483308	no	Neisseria polysaccharea	False	flavescens	1.3534	natural					non_member	False	False	False	False	False	False
+GCA_962747355.1	SAMEA1402119	no	Neisseria blantyrii	False	flavescens	1.1055	natural					non_member	False	False	False	False	False	False
+GCA_962747365.1	SAMEA1402081	no	Neisseria benedictiae	False	flavescens	1.2131	natural					non_member	False	False	False	False	False	False
+GCA_962747465.1	SAMEA1401919	no	Neisseria blantyrii	False	flavescens	1.2337	natural					non_member	False	False	False	False	False	False
+GCA_962747535.1	SAMEA4542435	no	Neisseria bergeri	False	flavescens	1.547	natural					non_member	False	False	False	False	False	False
+GCA_962747595.1	SAMEA4542440	no	Neisseria bergeri	False	flavescens	1.5307	natural					non_member	False	False	False	False	False	False
+GCA_962747605.1	SAMEA1401949	no	Neisseria blantyrii	False	flavescens	1.3018	natural					non_member	False	False	False	False	False	False
+GCA_962747615.1	SAMEA1401926	no	Neisseria blantyrii	False	flavescens	1.1487	natural					non_member	False	False	False	False	False	False
+GCA_962747625.1	SAMEA4542450	no	Neisseria bergeri	False	flavescens	1.4721	natural					non_member	False	False	False	False	False	False
+GCA_962747635.1	SAMEA4542408	no	Neisseria bergeri	False	flavescens	1.4574	natural					non_member	False	False	False	False	False	False
+GCA_962747655.1	SAMEA4542447	no	Neisseria bergeri	False	flavescens	1.4381	natural					non_member	False	False	False	False	False	False
+GCA_962747665.1	SAMEA4542422	no	Neisseria bergeri	False	flavescens	1.4116	natural					non_member	False	False	False	False	False	False
+GCA_962747675.1	SAMEA4542449	no	Neisseria bergeri	False	flavescens	1.5753	natural					non_member	False	False	False	False	False	False
+GCA_962747685.1	SAMEA1402010	no	Neisseria viridiae	False	flavescens	1.1329	natural					non_member	False	False	False	False	False	False
+GCA_962747695.1	SAMEA1402065	no	Neisseria viridiae	False	flavescens	1.0919	natural					non_member	False	False	False	False	False	False
+GCA_962747735.1	SAMEA4542439	no	Neisseria bergeri	False	flavescens	1.6452	natural					non_member	False	False	False	False	False	False
+GCA_962747745.1	SAMEA4483251	no	Neisseria polysaccharea	False	flavescens	1.2605	natural					non_member	False	False	False	False	False	False
+GCA_962747755.1	SAMEA4483281	no	Neisseria polysaccharea	False	flavescens	1.1749	natural					non_member	False	False	False	False	False	False
+GCA_962747855.1	SAMEA1402156	no	Neisseria blantyrii	False	flavescens	1.2543	natural					non_member	False	False	False	False	False	False
+GCA_962747895.1	SAMEA1401985	no	Neisseria viridiae	False	flavescens	0.9184	natural					non_member	False	False	False	False	False	False
+GCA_962747905.1	SAMEA4542441	no	Neisseria bergeri	False	flavescens	1.4458	natural					non_member	False	False	False	False	False	False
+GCA_962747915.1	SAMEA4542434	no	Neisseria bergeri	False	flavescens	1.5747	natural					non_member	False	False	False	False	False	False
+GCA_962747925.1	SAMEA4004527	no	Neisseria polysaccharea	False	flavescens	1.3	natural					non_member	False	False	False	False	False	False
+GCA_962747935.1	SAMEA1402148	no	Neisseria viridiae	False	flavescens	1.0801	natural					non_member	False	False	False	False	False	False
+GCA_962747945.1	SAMEA1402074	no	Neisseria viridiae	False	flavescens	1.1437	natural					non_member	False	False	False	False	False	False
+GCA_962747955.1	SAMEA4542423	no	Neisseria bergeri	False	flavescens	1.537	natural					non_member	False	False	False	False	False	False
+GCA_962747965.1	SAMEA1401939	no	Neisseria blantyrii	False	flavescens	1.2693	natural					non_member	False	False	False	False	False	False
+GCA_962747975.1	SAMEA4542433	no	Neisseria bergeri	False	flavescens	1.5117	natural					non_member	False	False	False	False	False	False
+GCA_962747985.1	SAMEA1402036	no	Neisseria viridiae	False	flavescens	0.9819	natural					non_member	False	False	False	False	False	False
+GCA_962747995.1	SAMEA1402047	no	Neisseria viridiae	False	flavescens	1.234	natural					non_member	False	False	False	False	False	False
+GCA_962748005.1	SAMEA4542442	no	Neisseria bergeri	False	flavescens	1.4804	natural					non_member	False	False	False	False	False	False
+GCA_962748015.1	SAMEA1401911	no	Neisseria blantyrii	False	flavescens	1.287	natural					non_member	False	False	False	False	False	False
+GCA_963264735.1	SAMEA114260461	no	Neisseria sicca	False	subflava	0.2268	natural					non_member	False	False	False	False	False	False
+GCA_963264865.1	SAMEA114260487	yes	Neisseria flavescens	True	flavescens	1.7215	natural	100.0	0.19	2307654		primary_unit_representative	True	True	True	True	False	False
+GCA_963281055.1	SAMEA114260481	yes	Neisseria flavescens	True	flavescens	1.7569	natural	100.0	0.09	2302850		primary_unit_representative	True	True	True	True	True	False
+GCA_963392895.1	SAMEA1401889	no	Neisseria bergeri	False	flavescens	1.2762	natural					non_member	False	False	False	False	False	False
+GCA_963392905.1	SAMEA1401903	no	Neisseria bergeri	False	flavescens	1.4008	natural					non_member	False	False	False	False	False	False
+GCA_963392915.1	SAMEA1402080	no	Neisseria polysaccharea	False	flavescens	1.1733	natural					non_member	False	False	False	False	False	False
+GCA_963392925.1	SAMEA1401921	no	Neisseria polysaccharea	False	flavescens	1.2776	natural					non_member	False	False	False	False	False	False
+GCA_963392935.1	SAMEA1401958	no	Neisseria bergeri	False	flavescens	1.3975	natural					non_member	False	False	False	False	False	False
+GCA_963392945.1	SAMEA1401892	no	Neisseria polysaccharea	False	flavescens	1.3063	natural					non_member	False	False	False	False	False	False
+GCA_963392955.1	SAMEA1401910	no	Neisseria polysaccharea	False	flavescens	1.3912	natural					non_member	False	False	False	False	False	False
+GCA_963392965.1	SAMEA1402177	no	Neisseria bergeri	False	flavescens	1.4551	natural					non_member	False	False	False	False	False	False
+GCA_963392975.1	SAMEA1402106	no	Neisseria bergeri	False	flavescens	1.5727	natural					non_member	False	False	False	False	False	False
+GCA_963392985.1	SAMEA1402061	no	Neisseria polysaccharea	False	flavescens	1.2681	natural					non_member	False	False	False	False	False	False
+GCA_963392995.1	SAMEA1402087	no	Neisseria bergeri	False	flavescens	1.7204	natural					non_member	False	False	False	False	False	False
+GCA_963393015.1	SAMEA1402207	no	Neisseria bergeri	False	flavescens	1.517	natural					non_member	False	False	False	False	False	False
+GCA_963393025.1	SAMEA1401888	no	Neisseria bergeri	False	flavescens	1.539	natural					non_member	False	False	False	False	False	False
+GCA_963393035.1	SAMEA1401965	no	Neisseria bergeri	False	flavescens	1.4279	natural					non_member	False	False	False	False	False	False
+GCA_963393055.1	SAMEA1401941	no	Neisseria bergeri	False	flavescens	1.5277	natural					non_member	False	False	False	False	False	False
+GCA_963393065.1	SAMEA1402056	no	Neisseria polysaccharea	False	flavescens	1.1697	natural					non_member	False	False	False	False	False	False
+GCA_963393075.1	SAMEA1402101	no	Neisseria bergeri	False	flavescens	1.5126	natural					non_member	False	False	False	False	False	False
+GCA_963393095.1	SAMEA1401876	no	Neisseria bergeri	False	flavescens	1.4302	natural					non_member	False	False	False	False	False	False
+GCA_963393105.1	SAMEA1401918	no	Neisseria bergeri	False	flavescens	1.4756	natural					non_member	False	False	False	False	False	False
+GCA_963393115.1	SAMEA1401954	no	Neisseria polysaccharea	False	flavescens	1.3238	natural					non_member	False	False	False	False	False	False
+GCA_963393125.1	SAMEA1402215	no	Neisseria bergeri	False	flavescens	1.5052	natural					non_member	False	False	False	False	False	False
+GCA_963393135.1	SAMEA1401925	no	Neisseria bergeri	False	flavescens	1.4741	natural					non_member	False	False	False	False	False	False
+GCA_963393145.1	SAMEA1402052	no	Neisseria polysaccharea	False	flavescens	1.2039	natural					non_member	False	False	False	False	False	False
+GCA_963393155.1	SAMEA1401895	no	Neisseria bergeri	False	flavescens	1.5465	natural					non_member	False	False	False	False	False	False
+GCA_963393165.1	SAMEA4483188	no	Neisseria bergeri	False	flavescens	1.4891	natural					non_member	False	False	False	False	False	False
+GCA_963393175.1	SAMEA1402141	no	Neisseria polysaccharea	False	flavescens	1.2643	natural					non_member	False	False	False	False	False	False
+GCA_963393185.1	SAMEA1401898	no	Neisseria bergeri	False	flavescens	1.6519	natural					non_member	False	False	False	False	False	False
+GCA_963393195.1	SAMEA1402102	no	Neisseria polysaccharea	False	flavescens	1.2331	natural					non_member	False	False	False	False	False	False
+GCA_963393205.1	SAMEA1401930	no	Neisseria bergeri	False	flavescens	1.5912	natural					non_member	False	False	False	False	False	False
+GCA_963393215.1	SAMEA1401994	no	Neisseria bergeri	False	flavescens	1.2114	natural					non_member	False	False	False	False	False	False
+GCA_963394815.1	SAMEA678390	no	Neisseria lactamica	False	flavescens	1.8037	natural					non_member	False	False	False	False	False	False
+GCA_963394825.1	SAMEA678350	no	Neisseria cinerea	False	flavescens	0.1404	natural					non_member	False	False	False	False	False	False
+GCA_963394835.1	SAMEA678143	no	Neisseria mucosa	False	flavescens	0.0259	natural					non_member	False	False	False	False	False	False
+GCA_963394845.1	SAMEA678394	no	Neisseria lactamica	False	flavescens	1.4807	natural					non_member	False	False	False	False	False	False
+GCA_963394855.1	SAMEA678511	no	Neisseria polysaccharea	False	flavescens	1.4836	natural					non_member	False	False	False	False	False	False
+GCA_963394865.1	SAMEA678349	no	Neisseria polysaccharea	False	flavescens	1.5139	natural					non_member	False	False	False	False	False	False
+GCA_963394875.1	SAMEA678508	no	Neisseria polysaccharea	False	flavescens	1.1793	natural					non_member	False	False	False	False	False	False
+GCA_963394885.1	SAMEA678346	no	Neisseria cinerea	False	flavescens	0.8075	natural					non_member	False	False	False	False	False	False
+GCA_963394895.1	SAMEA678392	no	Neisseria lactamica	False	flavescens	1.6107	natural					non_member	False	False	False	False	False	False
+GCA_963394905.1	SAMEA678343	no	Neisseria polysaccharea	False	flavescens	1.6454	natural					non_member	False	False	False	False	False	False
+GCA_963394915.1	SAMEA678510	no	Neisseria oralis	False	subflava	0.1193	natural					non_member	False	False	False	False	False	False
+GCA_963394925.1	SAMEA678502	no	Neisseria cinerea	False	flavescens	0.1976	natural					non_member	False	False	False	False	False	False
+GCA_963394935.1	SAMEA678210	no	Neisseria mucosa	False	subflava	0.4298	natural					non_member	False	False	False	False	False	False
+GCA_963394945.1	SAMEA678347	no	Neisseria cinerea	False	flavescens	0.169	natural					non_member	False	False	False	False	False	False
+GCA_963394955.1	SAMEA678022	yes	Neisseria subflava	True	flavescens	5.1369	natural	99.99	0.14	68283		primary_unit_representative	True	True	True	True	False	False
+GCA_963394965.1	SAMEA678325	yes	Neisseria subflava	True	flavescens	5.1483	natural	100.0	0.05	65206		primary_unit_representative	True	True	True	True	False	False
+GCA_963394975.1	SAMEA678507	no	Neisseria mucosa	False	subflava	0.1406	natural					non_member	False	False	False	False	False	False
+GCA_963394985.1	SAMEA678506	no	Neisseria mucosa	False	subflava	0.3125	natural					non_member	False	False	False	False	False	False
+GCA_963394995.1	SAMEA678023	yes	Neisseria subflava	True	perflava	3.4545	natural	100.0	0.04	305075		primary_unit_representative	True	True	True	True	False	False
+GCA_963395005.1	SAMEA678326	yes	Neisseria subflava	True	subflava	1.5491	natural	100.0	0.06	134717		primary_unit_representative	True	True	True	True	False	False
+GCA_963395015.1	SAMEA678498	no	Neisseria canis	False	subflava	0.1659	natural					non_member	False	False	False	False	False	False
+GCA_963395025.1	SAMEA678189	no	Neisseria lactamica	False	flavescens	1.6075	natural					non_member	False	False	False	False	False	False
+GCA_963395035.1	SAMEA678342	no	Neisseria dentiae	False	subflava	0.0416	natural					non_member	False	False	False	False	False	False
+GCA_963395045.1	SAMEA678319	no	Neisseria cinerea	False	flavescens	0.2163	natural					non_member	False	False	False	False	False	False
+GCA_963395055.1	SAMEA678303	yes	Neisseria subflava	True	subflava	1.7729	natural	100.0	0.01	172047		primary_unit_representative	True	True	True	True	False	False
+GCA_963396185.1	SAMEA678207	no	Neisseria weaveri	False	subflava	0.1731	natural					non_member	False	False	False	False	False	False
+GCA_963396195.1	SAMEA678505	no	Neisseria mucosa	False	subflava	0.2986	natural					non_member	False	False	False	False	False	False
+GCA_963396205.1	SAMEA678203	yes	Neisseria subflava	True	subflava	1.1978	natural	100.0	0.03	151741		primary_unit_representative	True	True	True	True	False	False
+GCA_963396215.1	SAMEA678051	yes	Neisseria subflava	True	perflava	1.2313	natural	100.0	0.02	585588		primary_unit_representative	True	True	True	True	False	False
+GCA_963396225.1	SAMEA678330	yes	Neisseria subflava	True	subflava	5.2151	natural	99.99	0.33	280990		primary_unit_representative	True	True	True	True	False	False
+GCA_963396235.1	SAMEA678331	no	Neisseria mucosa	False	subflava	0.0898	natural					non_member	False	False	False	False	False	False
+GCA_963396245.1	SAMEA678509	yes	Neisseria subflava	True	subflava	1.7904	natural	100.0	0.29	67826		primary_unit_representative	True	True	True	True	True	False
+GCA_963396255.1	SAMEA678351	yes	Neisseria subflava	True	subflava	5.2762	natural	99.99	0.33	280663		primary_unit_representative	True	True	True	True	False	False
+GCA_963396265.1	SAMEA678208	yes	Neisseria subflava	True	subflava	1.1603	natural	100.0	0.03	80607		primary_unit_representative	True	True	True	True	False	False
+GCA_963456545.1	SAMEA114382501	no	uncultured Neisseria sp.	False	subflava	0.2981	natural					non_member	False	False	False	False	False	False
+GCA_963456655.1	SAMEA114382574	no	Neisseria sicca	False	subflava	0.3754	natural					non_member	False	False	False	False	False	False
+GCA_963456805.1	SAMEA114382479	no	uncultured Neisseria sp.	False	subflava	0.2316	natural					non_member	False	False	False	False	False	False
+GCA_963456835.1	SAMEA114382454	no	uncultured Neisseria sp.	False	subflava	1.4241	natural					non_member	False	False	False	False	False	False
+GCA_963457265.1	SAMEA114382521	no	uncultured Neisseria sp.	False	flavescens	0.0222	natural					non_member	False	False	False	False	False	False
+GCA_963457395.1	SAMEA114382532	no	Neisseria sicca	False	subflava	0.034	natural					non_member	False	False	False	False	False	False
+GCA_963507275.1	SAMEA114402338	no	uncultured Neisseria sp.	False	subflava	0.3025	natural					non_member	False	False	False	False	False	False
+GCA_963508285.1	SAMEA114402231	no	uncultured Neisseria sp.	False	subflava	0.2803	natural					non_member	False	False	False	False	False	False
+GCA_963508475.1	SAMEA114402209	no	Neisseria elongata	False	perflava	0.2259	natural					non_member	False	False	False	False	False	False
+GCA_963508615.1	SAMEA114402201	no	uncultured Neisseria sp.	False	subflava	0.041	natural					non_member	False	False	False	False	False	False
+GCA_963508715.1	SAMEA114402325	no	uncultured Neisseria sp.	False	perflava	0.8149	natural					non_member	False	False	False	False	False	False
+GCA_963508745.1	SAMEA114402315	no	uncultured Neisseria sp.	False	subflava	0.2331	natural					non_member	False	False	False	False	False	False
+GCA_963508855.1	SAMEA114402130	no	Neisseria cinerea	False	flavescens	0.1368	natural					non_member	False	False	False	False	False	False
+GCA_963509085.1	SAMEA114402320	no	uncultured Neisseria sp.	False	subflava	0.1638	natural					non_member	False	False	False	False	False	False
+GCA_963509685.1	SAMEA114402271	no	uncultured Neisseria sp.	False	subflava	1.8351	natural					non_member	False	False	False	False	False	False
+GCA_963509945.1	SAMEA114402345	no	uncultured Neisseria sp.	False	perflava	1.2059	natural					non_member	False	False	False	False	False	False
+GCA_963514165.1	SAMEA114443937	no	uncultured Neisseria sp.	False	perflava	1.4471	natural					non_member	False	False	False	False	False	False
+GCA_963514295.1	SAMEA114443869	no	uncultured Neisseria sp.	False	subflava	0.2569	natural					non_member	False	False	False	False	False	False
+GCA_963514805.1	SAMEA114443864	no	uncultured Neisseria sp.	False	subflava	1.9269	natural					non_member	False	False	False	False	False	False
+GCA_963515295.1	SAMEA114444406	no	uncultured Neisseria sp.	False	subflava	0.491	natural					non_member	False	False	False	False	False	False
+GCA_963515425.1	SAMEA114445082	no	uncultured Neisseria sp.	False	perflava	1.2142	natural					non_member	False	False	False	False	False	False
+GCA_963515475.1	SAMEA114444707	no	uncultured Neisseria sp.	False	subflava	0.3401	natural					non_member	False	False	False	False	False	False
+GCA_963515795.1	SAMEA114445029	no	uncultured Neisseria sp.	False	flavescens	0.8391	natural					non_member	False	False	False	False	False	False
+GCA_963518535.1	SAMEA114444045	no	uncultured Neisseria sp.	False	flavescens	0.0952	natural					non_member	False	False	False	False	False	False
+GCA_963519405.1	SAMEA114444731	no	uncultured Neisseria sp.	False	subflava	0.1492	natural					non_member	False	False	False	False	False	False
+GCA_963521115.1	SAMEA114444612	no	uncultured Neisseria sp.	True	perflava	3.9372	natural	100.0	0.04	344874		primary_unit_representative	True	False	False	True	True	False
+GCA_963522635.1	SAMEA114444196	no	uncultured Neisseria sp.	True	perflava	1.0455	natural	100.0	0.03	192299		primary_unit_representative	True	False	False	True	True	False
+GCA_963524335.1	SAMEA114445028	no	uncultured Neisseria sp.	True	perflava	0.438	natural	99.94	0.01	67908		primary_unit_representative	True	False	False	False	True	False
+GCA_963524815.1	SAMEA114444348	no	uncultured Neisseria sp.	False	subflava	0.2955	natural					non_member	False	False	False	False	False	False
+GCA_963524975.1	SAMEA114443961	no	Neisseria elongata	False	subflava	0.3609	natural					non_member	False	False	False	False	False	False
+GCA_963526055.1	SAMEA114444832	no	Neisseria cinerea	False	flavescens	0.4665	natural					non_member	False	False	False	False	False	False
+GCA_963526215.1	SAMEA114444479	no	Neisseria elongata	False	subflava	0.385	natural					non_member	False	False	False	False	False	False
+GCA_963527815.1	SAMEA114445142	no	Neisseria bacilliformis	False	flavescens	0.0617	natural					non_member	False	False	False	False	False	False
+GCA_963529965.1	SAMEA114445191	no	uncultured Neisseria sp.	False	flavescens	0.0547	natural					non_member	False	False	False	False	False	False
+GCA_963530185.1	SAMEA114445411	no	uncultured Neisseria sp.	False	subflava	0.4934	natural					non_member	False	False	False	False	False	False
+GCA_963530675.1	SAMEA114447037	no	uncultured Neisseria sp.	False	subflava	0.268	natural					non_member	False	False	False	False	False	False
+GCA_963530685.1	SAMEA114447010	no	uncultured Neisseria sp.	False	subflava	0.4138	natural					non_member	False	False	False	False	False	False
+GCA_963530975.1	SAMEA114447007	no	Neisseria cinerea	False	flavescens	0.1655	natural					non_member	False	False	False	False	False	False
+GCA_963531095.1	SAMEA114447257	no	uncultured Neisseria sp.	False	perflava	1.1133	natural					non_member	False	False	False	False	False	False
+GCA_963531245.1	SAMEA114447242	no	uncultured Neisseria sp.	False	subflava	0.0282	natural					non_member	False	False	False	False	False	False
+GCA_963531275.1	SAMEA114447198	no	uncultured Neisseria sp.	False	perflava	0.2501	natural					non_member	False	False	False	False	False	False
+GCA_963531335.1	SAMEA114446926	no	uncultured Neisseria sp.	False	subflava	0.041	natural					non_member	False	False	False	False	False	False
+GCA_963532335.1	SAMEA114446909	no	uncultured Neisseria sp.	False	subflava	0.2254	natural					non_member	False	False	False	False	False	False
+GCA_963532485.1	SAMEA114447231	no	uncultured Neisseria sp.	False	subflava	0.2801	natural					non_member	False	False	False	False	False	False
+GCA_963532755.1	SAMEA114447114	no	uncultured Neisseria sp.	False	subflava	0.1736	natural					non_member	False	False	False	False	False	False
+GCA_963532895.1	SAMEA114447066	no	uncultured Neisseria sp.	False	subflava	0.3995	natural					non_member	False	False	False	False	False	False
+GCA_963532975.1	SAMEA114447163	no	uncultured Neisseria sp.	False	perflava	0.7508	natural					non_member	False	False	False	False	False	False
+GCA_963533145.1	SAMEA114447160	no	uncultured Neisseria sp.	False	subflava	0.1435	natural					non_member	False	False	False	False	False	False
+GCA_963533245.1	SAMEA114447172	no	uncultured Neisseria sp.	False	subflava	0.289	natural					non_member	False	False	False	False	False	False
+GCA_963533515.1	SAMEA114447129	no	uncultured Neisseria sp.	False	perflava	1.2004	natural					non_member	False	False	False	False	False	False
+GCA_963533785.1	SAMEA114446981	no	uncultured Neisseria sp.	False	subflava	1.6209	natural					non_member	False	False	False	False	False	False
+GCA_963534015.1	SAMEA114447247	no	Neisseria lactamica	False	perflava	0.0681	natural					non_member	False	False	False	False	False	False
+GCA_963534905.1	SAMEA114447639	no	uncultured Neisseria sp.	True	perflava	0.6897	natural	100.0	1.26	32085		primary_unit_representative	True	False	False	True	True	False
+GCA_963535405.1	SAMEA114447998	no	uncultured Neisseria sp.	False	subflava	0.0868	natural					non_member	False	False	False	False	False	False
+GCA_963535725.1	SAMEA114448172	no	uncultured Neisseria sp.	False	subflava	0.1106	natural					non_member	False	False	False	False	False	False
+GCA_963535915.1	SAMEA114448085	no	uncultured Neisseria sp.	False	flavescens	0.1852	natural					non_member	False	False	False	False	False	False
+GCA_963536215.1	SAMEA114448009	no	Neisseria elongata	False	subflava	0.3345	natural					non_member	False	False	False	False	False	False
+GCA_963536455.1	SAMEA114448061	no	uncultured Neisseria sp.	False	subflava	0.0782	natural					non_member	False	False	False	False	False	False
+GCA_963536785.1	SAMEA114447951	no	Neisseria cinerea	False	flavescens	0.1642	natural					non_member	False	False	False	False	False	False
+GCA_963536945.1	SAMEA114448020	no	uncultured Neisseria sp.	True	subflava	0.1235	natural	100.0	0.02	120791		primary_unit_representative	True	False	False	False	True	False
+GCA_963537385.1	SAMEA114447636	no	uncultured Neisseria sp.	False	subflava	0.0644	natural					non_member	False	False	False	False	False	False
+GCA_963537545.1	SAMEA114448091	no	uncultured Neisseria sp.	True	perflava	1.3666	natural	100.0	0.34	204724		primary_unit_representative	True	False	False	True	True	False
+GCA_963538715.1	SAMEA114448042	no	uncultured Neisseria sp.	False	perflava	0.1626	natural					non_member	False	False	False	False	False	False
+GCA_963538725.1	SAMEA114447701	no	uncultured Neisseria sp.	False	subflava	0.1369	natural					non_member	False	False	False	False	False	False
+GCA_963538775.1	SAMEA114447632	no	Neisseria elongata	False	subflava	0.443	natural					non_member	False	False	False	False	False	False
+GCA_963539435.1	SAMEA114447679	no	uncultured Neisseria sp.	True	perflava	1.3406	natural	100.0	0.02	158580		primary_unit_representative	True	False	False	True	True	False
+GCA_963539865.1	SAMEA114448809	no	Neisseria sicca	False	subflava	0.3494	natural					non_member	False	False	False	False	False	False
+GCA_963540025.1	SAMEA114448819	no	uncultured Neisseria sp.	True	perflava	0.1908	natural	99.95	1.11	91093		primary_unit_representative	True	False	False	False	True	False
+GCA_963540715.1	SAMEA114448383	no	uncultured Neisseria sp.	False	perflava	0.5304	natural					non_member	False	False	False	False	False	False
+GCA_963540785.1	SAMEA114448376	no	uncultured Neisseria sp.	False	subflava	0.3393	natural					non_member	False	False	False	False	False	False
+GCA_963541315.1	SAMEA114448443	no	uncultured Neisseria sp.	False	subflava	0.4255	natural					non_member	False	False	False	False	False	False
+GCA_963541575.1	SAMEA114448833	no	uncultured Neisseria sp.	False	subflava	1.1098	natural					non_member	False	False	False	False	False	False
+GCA_963541675.1	SAMEA114448741	no	uncultured Neisseria sp.	False	perflava	1.3851	natural					non_member	False	False	False	False	False	False
+GCA_963542425.1	SAMEA114448711	no	uncultured Neisseria sp.	False	subflava	0.0902	natural					non_member	False	False	False	False	False	False
+GCA_963543725.1	SAMEA114448460	no	uncultured Neisseria sp.	False	perflava	1.2471	natural					non_member	False	False	False	False	False	False
+GCA_963544195.1	SAMEA114448702	no	uncultured Neisseria sp.	False	subflava	0.4373	natural					non_member	False	False	False	False	False	False
+GCA_963546155.1	SAMEA114449348	no	uncultured Neisseria sp.	False	subflava	0.2619	natural					non_member	False	False	False	False	False	False
+GCA_963547165.1	SAMEA114449547	no	uncultured Neisseria sp.	False	subflava	0.1516	natural					non_member	False	False	False	False	False	False
+GCA_963547395.1	SAMEA114449383	no	uncultured Neisseria sp.	False	subflava	0.3107	natural					non_member	False	False	False	False	False	False
+GCA_963547685.1	SAMEA114448973	no	uncultured Neisseria sp.	True	perflava	1.3118	natural	100.0	0.01	212197		primary_unit_representative	True	False	False	True	True	False
+GCA_963548445.1	SAMEA114449193	no	uncultured Neisseria sp.	True	perflava	3.2591	natural	100.0	0.01	337608		primary_unit_representative	True	False	False	True	True	False
+GCA_963549195.1	SAMEA114449789	no	Neisseria bacilliformis	False	flavescens	0.0641	natural					non_member	False	False	False	False	False	False
+GCA_963549825.1	SAMEA114449412	no	Neisseria sicca	False	flavescens	0.1358	natural					non_member	False	False	False	False	False	False
+GCA_963549965.1	SAMEA114449427	no	uncultured Neisseria sp.	True	subflava	0.0601	natural	100.0	0.03	177081		primary_unit_representative	True	False	False	False	True	False
+GCA_963549995.1	SAMEA114449184	no	uncultured Neisseria sp.	False	subflava	0.1803	natural					non_member	False	False	False	False	False	False
+GCA_963550065.1	SAMEA114449849	no	uncultured Neisseria sp.	True	perflava	1.5024	natural	100.0	0.0	138337		primary_unit_representative	True	False	False	True	True	False
+GCA_963550385.1	SAMEA114449464	no	uncultured Neisseria sp.	False	subflava	0.2876	natural					non_member	False	False	False	False	False	False
+GCA_963550425.1	SAMEA114449688	no	uncultured Neisseria sp.	False	subflava	0.0989	natural					non_member	False	False	False	False	False	False
+GCA_963551475.1	SAMEA114449797	no	Neisseria elongata	False	subflava	0.379	natural					non_member	False	False	False	False	False	False
+GCA_963551955.1	SAMEA114448919	no	Neisseria bacilliformis	False	subflava	0.1778	natural					non_member	False	False	False	False	False	False
+GCA_963552075.1	SAMEA114449070	no	uncultured Neisseria sp.	False	subflava	0.263	natural					non_member	False	False	False	False	False	False
+GCA_963552515.1	SAMEA114449386	no	uncultured Neisseria sp.	False	subflava	0.2585	natural					non_member	False	False	False	False	False	False
+GCA_963552535.1	SAMEA114449552	no	uncultured Neisseria sp.	True	subflava	1.8581	natural	94.15	0.03	54819		primary_unit_representative	True	False	False	True	True	False
+GCA_963554345.1	SAMEA114450519	no	uncultured Neisseria sp.	False	subflava	0.4497	natural					non_member	False	False	False	False	False	False
+GCA_963554515.1	SAMEA114450466	no	uncultured Neisseria sp.	False	subflava	0.2901	natural					non_member	False	False	False	False	False	False
+GCA_963554535.1	SAMEA114450588	no	uncultured Neisseria sp.	True	subflava	1.8631	natural	85.94	0.17	45392		excluded_qc_fail	False	False	False	False	False	False
+GCA_963554765.1	SAMEA114450567	no	uncultured Neisseria sp.	False	subflava	0.1275	natural					non_member	False	False	False	False	False	False
+GCA_963554965.1	SAMEA114450576	no	uncultured Neisseria sp.	False	perflava	1.3282	natural					non_member	False	False	False	False	False	False
+GCA_963555305.1	SAMEA114450587	no	uncultured Neisseria sp.	False	subflava	0.0784	natural					non_member	False	False	False	False	False	False
+GCA_963555345.1	SAMEA114450488	no	Neisseria sicca	False	subflava	0.0514	natural					non_member	False	False	False	False	False	False
+GCA_964367915.1	SAMEA117391361	no	uncultured Neisseria sp.	ANI_UNRESOLVED	ANI_UNRESOLVED	NA	natural					ani_unresolved	False	False	False	False	False	False
+GCA_964386295.1	SAMEA117292741	no	uncultured Neisseria sp.	ANI_UNRESOLVED	ANI_UNRESOLVED	NA	natural					ani_unresolved	False	False	False	False	False	False
+GCA_964451565.1	SAMEA117384214	no	uncultured Neisseria sp.	False	flavescens	0.0067	natural					non_member	False	False	False	False	False	False
+GCA_964462055.1	SAMEA117287441	no	uncultured Neisseria sp.	ANI_UNRESOLVED	ANI_UNRESOLVED	NA	natural					ani_unresolved	False	False	False	False	False	False
+GCA_964473835.1	SAMEA117205875	no	uncultured Neisseria sp.	ANI_UNRESOLVED	ANI_UNRESOLVED	NA	natural					ani_unresolved	False	False	False	False	False	False
+GCA_964481375.1	SAMEA117292704	no	uncultured Neisseria sp.	ANI_UNRESOLVED	ANI_UNRESOLVED	NA	natural					ani_unresolved	False	False	False	False	False	False
+GCA_964488065.1	SAMEA117386282	no	uncultured Neisseria sp.	ANI_UNRESOLVED	ANI_UNRESOLVED	NA	natural					ani_unresolved	False	False	False	False	False	False
+GCA_964542265.1	SAMEA117373113	no	uncultured Neisseria sp.	ANI_UNRESOLVED	ANI_UNRESOLVED	NA	natural					ani_unresolved	False	False	False	False	False	False
+GCA_964545465.1	SAMEA117363883	no	uncultured Neisseria sp.	ANI_UNRESOLVED	ANI_UNRESOLVED	NA	natural					ani_unresolved	False	False	False	False	False	False
+GCA_964563885.1	SAMEA117391076	no	uncultured Neisseria sp.	ANI_UNRESOLVED	ANI_UNRESOLVED	NA	natural					ani_unresolved	False	False	False	False	False	False
+GCA_964611845.1	SAMEA117292657	no	uncultured Neisseria sp.	ANI_UNRESOLVED	ANI_UNRESOLVED	NA	natural					ani_unresolved	False	False	False	False	False	False
+GCA_964652705.1	SAMEA117391708	no	uncultured Neisseria sp.	ANI_UNRESOLVED	ANI_UNRESOLVED	NA	natural					ani_unresolved	False	False	False	False	False	False
+GCA_965239915.1	SAMEA117990875	no	uncultured Neisseria sp.	True	perflava	1.2436	natural	100.0	0.01	38976		primary_unit_representative	True	False	False	True	True	False
+GCA_965241025.1	SAMEA117995513	no	uncultured Neisseria sp.	False	subflava	0.191	natural					non_member	False	False	False	False	False	False
+GCA_965241055.1	SAMEA117995638	no	Neisseria bacilliformis	False	flavescens	0.1128	natural					non_member	False	False	False	False	False	False
+GCA_965241165.1	SAMEA117995597	no	Neisseria sicca	False	flavescens	0.1116	natural					non_member	False	False	False	False	False	False
+GCA_965241375.1	SAMEA117995486	no	uncultured Neisseria sp.	True	perflava	0.5308	natural	99.92	0.65	16084		primary_unit_representative	True	False	False	True	True	False
+GCA_965241655.1	SAMEA117995564	no	uncultured Neisseria sp.	True	perflava	1.0228	natural	100.0	0.05	44468		primary_unit_representative	True	False	False	True	True	False
+GCA_965241845.1	SAMEA117995478	no	uncultured Neisseria sp.	False	subflava	0.3786	natural					non_member	False	False	False	False	False	False
+GCA_965241865.1	SAMEA117995569	no	uncultured Neisseria sp.	True	perflava	0.564	natural	99.97	0.0	26363		primary_unit_representative	True	False	False	True	True	False
+GCA_965241895.1	SAMEA117995487	no	uncultured Neisseria sp.	False	perflava	0.7272	natural					non_member	False	False	False	False	False	False
+GCA_965242275.1	SAMEA117995614	no	Neisseria flavescens	True	flavescens	5.1462	natural	99.96	0.13	29362		primary_unit_representative	True	False	False	True	True	False
+GCA_965242295.1	SAMEA117995616	no	uncultured Neisseria sp.	True	perflava	1.3481	natural	99.93	0.08	32857		primary_unit_representative	True	False	False	True	True	False
+GCA_965244515.1	SAMEA117996223	no	uncultured Neisseria sp.	True	perflava	0.9661	natural	100.0	0.01	110427		primary_unit_representative	True	False	False	True	True	False
+GCA_965244665.1	SAMEA117996274	no	uncultured Neisseria sp.	False	perflava	2.4788	natural					non_member	False	False	False	False	False	False
+GCA_965245005.1	SAMEA118002929	no	uncultured Neisseria sp.	True	perflava	0.133	natural	100.0	0.01	39346		primary_unit_representative	True	False	False	False	True	False
+GCA_965245545.1	SAMEA118002787	no	Neisseria cinerea	False	flavescens	0.2896	natural					non_member	False	False	False	False	False	False
+GCA_965246105.1	SAMEA118002775	no	uncultured Neisseria sp.	False	subflava	0.2395	natural					non_member	False	False	False	False	False	False
+GCA_965246345.1	SAMEA118002826	no	uncultured Neisseria sp.	False	subflava	0.1829	natural					non_member	False	False	False	False	False	False
+GCA_965246395.1	SAMEA118002799	no	uncultured Neisseria sp.	False	subflava	0.27	natural					non_member	False	False	False	False	False	False
+GCA_965246425.1	SAMEA118002802	no	uncultured Neisseria sp.	False	perflava	0.4502	natural					non_member	False	False	False	False	False	False
+GCA_976989365.1	SAMEA120311920	no	Neisseria sicca	False	subflava	0.213	natural					non_member	False	False	False	False	False	False
+GCA_976990245.1	SAMEA120311977	no	uncultured Neisseria sp.	False	subflava	1.8265	natural					non_member	False	False	False	False	False	False
+GCA_976990295.1	SAMEA120311994	no	Neisseria elongata	False	subflava	0.2955	natural					non_member	False	False	False	False	False	False
+GCA_976990655.1	SAMEA120312012	no	uncultured Neisseria sp.	False	subflava	0.1305	natural					non_member	False	False	False	False	False	False
+GCA_976991425.1	SAMEA120312790	no	uncultured Neisseria sp.	True	perflava	0.754	natural	99.76	0.05	71024		primary_unit_representative	True	False	False	True	True	False
+GCA_976991785.1	SAMEA120312792	no	Neisseria sicca	False	subflava	0.1479	natural					non_member	False	False	False	False	False	False
+GCA_976992055.1	SAMEA120312813	no	uncultured Neisseria sp.	False	perflava	1.4019	natural					non_member	False	False	False	False	False	False
+GCA_976993425.1	SAMEA120313558	no	uncultured Neisseria sp.	False	perflava	1.0747	natural					non_member	False	False	False	False	False	False
+GCA_976993765.1	SAMEA120313539	no	uncultured Neisseria sp.	False	subflava	0.7789	natural					non_member	False	False	False	False	False	False
+GCA_976994115.1	SAMEA120313563	no	uncultured Neisseria sp.	False	perflava	0.0633	natural					non_member	False	False	False	False	False	False
+GCA_976994385.1	SAMEA120313446	no	Neisseria elongata	False	subflava	0.1995	natural					non_member	False	False	False	False	False	False
+GCA_976994485.1	SAMEA120313542	no	uncultured Neisseria sp.	False	subflava	0.2523	natural					non_member	False	False	False	False	False	False
+GCA_976994735.1	SAMEA120313417	no	uncultured Neisseria sp.	False	subflava	0.1476	natural					non_member	False	False	False	False	False	False
+GCA_976994935.1	SAMEA120313428	no	uncultured Neisseria sp.	True	subflava	0.1578	natural	100.0	0.0	139512		primary_unit_representative	True	False	False	False	True	False
+GCA_976995285.1	SAMEA120314171	no	uncultured Neisseria sp.	False	subflava	0.0713	natural					non_member	False	False	False	False	False	False
+GCA_976995455.1	SAMEA120314176	no	uncultured Neisseria sp.	True	perflava	1.303	natural	99.75	0.75	27404		primary_unit_representative	True	False	False	True	True	False
+GCA_976995635.1	SAMEA120314473	no	uncultured Neisseria sp.	True	perflava	1.4168	natural	100.0	0.03	494543		primary_unit_representative	True	False	False	True	True	False
+GCA_976995755.1	SAMEA120314490	no	uncultured Neisseria sp.	False	subflava	0.296	natural					non_member	False	False	False	False	False	False
+GCA_976996255.1	SAMEA120314483	no	uncultured Neisseria sp.	True	perflava	4.8221	natural	100.0	0.04	145781		primary_unit_representative	True	False	False	True	True	False
+GCA_976996405.1	SAMEA120314530	no	Neisseria sicca	False	subflava	0.1245	natural					non_member	False	False	False	False	False	False
+GCA_976998465.1	SAMEA120315672	no	uncultured Neisseria sp.	True	subflava	1.585	natural	99.99	0.04	70348		primary_unit_representative	True	False	False	True	True	False
+GCA_976998885.1	SAMEA120315619	no	Neisseria sicca	False	subflava	0.0028	natural					non_member	False	False	False	False	False	False
+GCA_976998985.1	SAMEA120315675	no	Neisseria elongata	False	subflava	0.3231	natural					non_member	False	False	False	False	False	False
+GCA_976999155.1	SAMEA120315663	no	uncultured Neisseria sp.	False	subflava	0.0716	natural					non_member	False	False	False	False	False	False
+GCA_977000335.1	SAMEA120321923	no	uncultured Neisseria sp.	False	perflava	1.1565	natural					non_member	False	False	False	False	False	False
+GCA_977000375.1	SAMEA120321926	no	uncultured Neisseria sp.	False	perflava	1.1851	natural					non_member	False	False	False	False	False	False
+GCA_977000875.1	SAMEA120323738	no	Neisseria elongata	False	subflava	0.2181	natural					non_member	False	False	False	False	False	False
+GCA_977001715.1	SAMEA120323724	no	uncultured Neisseria sp.	True	perflava	4.7395	natural	93.09	0.33	29803		primary_unit_representative	True	False	False	True	True	False
+GCA_977001745.1	SAMEA120323608	no	uncultured Neisseria sp.	False	subflava	0.5461	natural					non_member	False	False	False	False	False	False
+GCA_977002865.1	SAMEA120324266	no	uncultured Neisseria sp.	False	subflava	0.159	natural					non_member	False	False	False	False	False	False
+GCA_977003295.1	SAMEA120324234	no	uncultured Neisseria sp.	False	perflava	0.5909	natural					non_member	False	False	False	False	False	False
+GCA_977004525.1	SAMEA120324304	no	uncultured Neisseria sp.	True	perflava	1.2598	natural	100.0	0.08	208152		primary_unit_representative	True	False	False	True	True	False
+GCA_977004655.1	SAMEA120324345	no	uncultured Neisseria sp.	True	subflava	0.0202	natural	100.0	0.01	213350		primary_unit_representative	True	False	False	False	True	False
+GCA_977005275.1	SAMEA120324851	no	uncultured Neisseria sp.	True	perflava	1.2285	natural	99.99	0.02	73126		primary_unit_representative	True	False	False	True	True	False
+GCA_977005315.1	SAMEA120324775	no	Neisseria macacae	False	subflava	0.1619	natural					non_member	False	False	False	False	False	False
+GCA_977005505.1	SAMEA120324885	no	uncultured Neisseria sp.	False	subflava	0.2836	natural					non_member	False	False	False	False	False	False
+GCA_977006055.1	SAMEA120324898	no	uncultured Neisseria sp.	True	perflava	3.5517	natural	100.0	0.01	92547		primary_unit_representative	True	False	False	True	True	False
+GCA_977006075.1	SAMEA120324804	no	uncultured Neisseria sp.	False	subflava	0.0108	natural					non_member	False	False	False	False	False	False
+GCA_977006735.1	SAMEA120324936	no	uncultured Neisseria sp.	True	perflava	1.1183	natural	99.97	1.88	13885		primary_unit_representative	True	False	False	True	True	False
+GCA_977036265.1	SAMEA120502484	no	Neisseria lactamica	False	flavescens	1.8696	natural					non_member	False	False	False	False	False	False
+GCA_977037295.1	SAMEA120502198	no	Neisseria sp.	False	subflava	0.1369	natural					non_member	False	False	False	False	False	False
+GCA_977038615.1	SAMEA120502330	no	Neisseria bergeri	False	flavescens	1.3931	natural					non_member	False	False	False	False	False	False
+GCA_977038655.1	SAMEA120502377	no	Neisseria sp.	False	subflava	0.4054	natural					non_member	False	False	False	False	False	False
+GCA_977038685.1	SAMEA120502388	no	Neisseria sp.	True	flavescens	1.5686	natural	99.15	2.84	32590		primary_unit_representative	True	False	False	True	True	False
+GCA_977038725.1	SAMEA120502373	no	Neisseria sp.	False	perflava	1.203	natural					non_member	False	False	False	False	False	False
+GCA_977039795.1	SAMEA120502785	no	Neisseria bergeri	False	flavescens	1.3478	natural					non_member	False	False	False	False	False	False
+GCA_977041205.1	SAMEA120502784	no	Neisseria sp.	False	perflava	1.0396	natural					non_member	False	False	False	False	False	False
+GCA_977041245.1	SAMEA120502735	no	Neisseria sp.	False	perflava	1.0868	natural					non_member	False	False	False	False	False	False
+GCA_977041275.1	SAMEA120502562	no	Neisseria lactamica	False	flavescens	1.6253	natural					non_member	False	False	False	False	False	False
+GCA_977041825.1	SAMEA120502438	no	Neisseria sp.	True	flavescens	1.6651	natural	99.95	0.02	60656		primary_unit_representative	True	False	False	True	True	False
+GCA_977041905.1	SAMEA120502201	no	Neisseria sp.	False	perflava	1.2706	natural					non_member	False	False	False	False	False	False
+GCA_977042015.1	SAMEA120502697	no	Neisseria cinerea	False	flavescens	0.4002	natural					non_member	False	False	False	False	False	False
+GCA_977042685.1	SAMEA120502275	no	Neisseria sp.	False	flavescens	1.6965	natural					non_member	False	False	False	False	False	False
+GCA_977043615.1	SAMEA120501276	no	Neisseria sp.	True	flavescens	1.6808	natural	100.0	0.02	80887		primary_unit_representative	True	False	False	True	True	False
+GCA_977043795.1	SAMEA120501130	no	Neisseria sicca	False	subflava	0.0076	natural					non_member	False	False	False	False	False	False
+GCA_977044895.1	SAMEA120501970	no	Neisseria sicca	False	subflava	0.1588	natural					non_member	False	False	False	False	False	False
+GCA_977045825.1	SAMEA120501869	no	Neisseria sp.	False	subflava	0.2534	natural					non_member	False	False	False	False	False	False
+GCA_977047545.1	SAMEA120502100	no	Neisseria sp.	True	flavescens	1.6663	natural	95.92	1.77	28938		primary_unit_representative	True	False	False	True	True	False
+GCA_977048085.1	SAMEA120501581	no	Neisseria sp.	False	subflava	0.2033	natural					non_member	False	False	False	False	False	False
+GCA_977049245.1	SAMEA120501501	no	Neisseria cinerea	False	flavescens	0.6068	natural					non_member	False	False	False	False	False	False
+GCA_977050065.1	SAMEA120501431	no	Neisseria sp.	True	flavescens	1.5177	natural	100.0	0.78	62946		primary_unit_representative	True	False	False	True	True	False
+GCA_977051015.1	SAMEA120501966	no	Neisseria cinerea	False	flavescens	0.1666	natural					non_member	False	False	False	False	False	False
+GCA_977052155.1	SAMEA120501924	no	Neisseria sp.	False	subflava	0.3393	natural					non_member	False	False	False	False	False	False
+GCA_977052405.1	SAMEA120501530	no	Neisseria cinerea	False	flavescens	0.3475	natural					non_member	False	False	False	False	False	False
+GCA_977052475.1	SAMEA120502012	no	Neisseria sp.	False	perflava	1.2217	natural					non_member	False	False	False	False	False	False
+GCA_977052505.1	SAMEA120502015	no	Neisseria mucosa	False	subflava	0.4855	natural					non_member	False	False	False	False	False	False
+GCA_977053115.1	SAMEA120501670	no	Neisseria sp.	False	perflava	1.2437	natural					non_member	False	False	False	False	False	False
+GCA_977053905.1	SAMEA120501929	no	Neisseria sp.	False	perflava	1.3884	natural					non_member	False	False	False	False	False	False
+GCA_977054565.1	SAMEA120500744	no	Neisseria sp.	False	perflava	1.3934	natural					non_member	False	False	False	False	False	False
+GCA_977054875.1	SAMEA120500793	no	Neisseria sp.	True	flavescens	1.6694	natural	93.98	0.43	23819		primary_unit_representative	True	False	False	True	True	False
+GCA_977056385.1	SAMEA120501006	no	Neisseria cinerea	False	flavescens	0.581	natural					non_member	False	False	False	False	False	False
+GCA_977056685.1	SAMEA120500956	no	Neisseria sp.	False	perflava	1.2239	natural					non_member	False	False	False	False	False	False
+GCA_977057175.1	SAMEA120500896	no	Neisseria sp.	False	subflava	0.2496	natural					non_member	False	False	False	False	False	False
+GCA_978046715.1	SAMEA121025729	no	uncultured Neisseria sp.	False	subflava	0.1291	natural					non_member	False	False	False	False	False	False
+GCA_978992645.1	SAMEA121264298	no	Neisseria elongata	False	subflava	0.2411	natural					non_member	False	False	False	False	False	False
+GCA_979286755.1	SAMEA121306398	no	Neisseria elongata	False	subflava	0.4052	natural					non_member	False	False	False	False	False	False
+GCA_980943905.1	SAMEA121671853	no	uncultured Neisseria sp.	False	subflava	0.0647	natural					non_member	False	False	False	False	False	False
+GCA_980944255.1	SAMEA121671879	no	uncultured Neisseria sp.	True	perflava	1.3045	natural	100.0	0.02	87278		primary_unit_representative	True	False	False	True	True	False
+GCA_980947175.1	SAMEA121671908	no	uncultured Neisseria sp.	True	subflava	0.2017	natural	99.69	0.69	15551		primary_unit_representative	True	False	False	False	True	False
+GCA_981111505.1	SAMEA121724690	no	uncultured Neisseria sp.	True	perflava	1.3747	natural	100.0	0.02	346786		primary_unit_representative	True	False	False	True	True	False
+GCA_981112325.1	SAMEA121724332	no	uncultured Neisseria sp.	False	perflava	1.0428	natural					non_member	False	False	False	False	False	False
+GCA_981114705.1	SAMEA121724735	no	uncultured Neisseria sp.	False	perflava	0.6241	natural					non_member	False	False	False	False	False	False
+GCA_981115375.1	SAMEA121724553	no	uncultured Neisseria sp.	False	perflava	2.2612	natural					non_member	False	False	False	False	False	False
+GCA_981116635.1	SAMEA121724108	no	uncultured Neisseria sp.	False	subflava	0.0041	natural					non_member	False	False	False	False	False	False
+GCA_981117225.1	SAMEA121724948	no	uncultured Neisseria sp.	False	perflava	3.9853	natural					non_member	False	False	False	False	False	False
+GCA_981118545.1	SAMEA121724496	no	uncultured Neisseria sp.	False	subflava	0.3944	natural					non_member	False	False	False	False	False	False
+GCA_981118575.1	SAMEA121724631	no	uncultured Neisseria sp.	True	perflava	1.2439	natural	100.0	0.02	74109		primary_unit_representative	True	False	False	True	True	False
+GCA_981119405.1	SAMEA121724473	no	uncultured Neisseria sp.	False	subflava	0.498	natural					non_member	False	False	False	False	False	False
+GCA_981120505.1	SAMEA121724291	no	uncultured Neisseria sp.	False	flavescens	0.126	natural					non_member	False	False	False	False	False	False
+GCA_981120685.1	SAMEA121724521	no	uncultured Neisseria sp.	False	perflava	0.898	natural					non_member	False	False	False	False	False	False
+GCA_981121355.1	SAMEA121724848	no	uncultured Neisseria sp.	True	perflava	1.1882	natural	100.0	0.02	253205		primary_unit_representative	True	False	False	True	True	False
+GCA_981124285.1	SAMEA121724878	no	uncultured Neisseria sp.	False	perflava	1.262	natural					non_member	False	False	False	False	False	False
+GCA_981124935.1	SAMEA121724709	no	uncultured Neisseria sp.	False	perflava	3.6272	natural					non_member	False	False	False	False	False	False
+GCA_981125915.1	SAMEA121724063	no	uncultured Neisseria sp.	False	subflava	0.0897	natural					non_member	False	False	False	False	False	False
+GCA_981125945.1	SAMEA121724540	no	uncultured Neisseria sp.	False	perflava	1.3662	natural					non_member	False	False	False	False	False	False
+GCA_982186475.1	SAMEA121740862	no	Neisseria sp.	False	flavescens	0.0776	natural					non_member	False	False	False	False	False	False
+GCA_982187055.1	SAMEA121740701	no	Neisseria sp.	False	subflava	1.8437	natural					non_member	False	False	False	False	False	False
+GCA_982187495.1	SAMEA121740890	no	Neisseria sp.	False	subflava	0.3947	natural					non_member	False	False	False	False	False	False
+GCA_982188025.1	SAMEA121740783	no	Neisseria sp.	False	subflava	1.6921	natural					non_member	False	False	False	False	False	False
+GCA_982188135.1	SAMEA121740964	no	Neisseria sp.	False	flavescens	0.0411	natural					non_member	False	False	False	False	False	False
+GCA_982189025.1	SAMEA121741200	no	Neisseria sp.	False	subflava	0.7835	natural					non_member	False	False	False	False	False	False
+GCA_982189335.1	SAMEA121741027	no	Neisseria sp.	False	subflava	0.0148	natural					non_member	False	False	False	False	False	False
+GCA_982190125.1	SAMEA121741258	no	Neisseria sp.	False	subflava	0.0002	natural					non_member	False	False	False	False	False	False
+GCA_982190435.1	SAMEA121741197	no	Neisseria elongata	False	subflava	0.1937	natural					non_member	False	False	False	False	False	False
+GCA_982191385.1	SAMEA121741159	no	Neisseria sp.	False	subflava	0.0127	natural					non_member	False	False	False	False	False	False
+GCA_982192285.1	SAMEA121741328	no	Neisseria sp.	False	subflava	0.2425	natural					non_member	False	False	False	False	False	False
+GCA_982192815.1	SAMEA121741376	no	Neisseria sp.	False	subflava	0.2572	natural					non_member	False	False	False	False	False	False
+GCA_982192945.1	SAMEA121741515	no	Neisseria sp.	False	subflava	1.059	natural					non_member	False	False	False	False	False	False
+GCA_982193145.1	SAMEA121741419	no	Neisseria sp.	False	subflava	0.546	natural					non_member	False	False	False	False	False	False
+GCA_982195035.1	SAMEA121741543	no	Neisseria macacae	False	subflava	0.1784	natural					non_member	False	False	False	False	False	False
+GCA_982198405.1	SAMEA121741952	no	Neisseria bacilliformis	False	flavescens	0.0246	natural					non_member	False	False	False	False	False	False
+GCA_982198745.1	SAMEA121741933	no	Neisseria sicca	False	subflava	0.124	natural					non_member	False	False	False	False	False	False
+GCA_982200735.1	SAMEA121742342	no	Neisseria sp.	False	subflava	0.2303	natural					non_member	False	False	False	False	False	False
+GCA_982202085.1	SAMEA121742169	no	Neisseria bacilliformis	False	flavescens	0.1039	natural					non_member	False	False	False	False	False	False
+GCA_982204805.1	SAMEA121742253	no	Neisseria elongata	False	subflava	0.0812	natural					non_member	False	False	False	False	False	False
+GCA_982204855.1	SAMEA121742242	no	Neisseria bacilliformis	False	subflava	0.2934	natural					non_member	False	False	False	False	False	False
+GCA_982205815.1	SAMEA121742373	no	Neisseria bacilliformis	False	subflava	0.2347	natural					non_member	False	False	False	False	False	False
+GCA_982205945.1	SAMEA121742451	no	Neisseria sp.	False	subflava	0.173	natural					non_member	False	False	False	False	False	False
+GCA_982207055.1	SAMEA121742511	no	Neisseria sp.	False	subflava	0.3807	natural					non_member	False	False	False	False	False	False
+GCA_982207145.1	SAMEA121742635	no	Neisseria sp.	False	subflava	0.2884	natural					non_member	False	False	False	False	False	False
+GCA_982207325.1	SAMEA121742602	no	Neisseria sp.	False	subflava	1.0351	natural					non_member	False	False	False	False	False	False
+GCA_982207915.1	SAMEA121742580	no	Neisseria sp.	False	flavescens	0.0543	natural					non_member	False	False	False	False	False	False
+GCA_982208255.1	SAMEA121742510	no	Neisseria sp.	False	perflava	1.2098	natural					non_member	False	False	False	False	False	False
+GCA_982210535.1	SAMEA121742953	no	Neisseria sp.	False	flavescens	0.0462	natural					non_member	False	False	False	False	False	False
+GCA_982211945.1	SAMEA121742774	no	Neisseria sp.	False	subflava	1.358	natural					non_member	False	False	False	False	False	False
+GCA_982212165.1	SAMEA121742951	no	Neisseria sp.	False	subflava	0.9284	natural					non_member	False	False	False	False	False	False
+GCA_982213465.1	SAMEA121743284	no	Neisseria sp.	False	subflava	0.7863	natural					non_member	False	False	False	False	False	False
+GCA_982214005.1	SAMEA121743456	no	Neisseria elongata	False	subflava	0.2594	natural					non_member	False	False	False	False	False	False
+GCA_982214355.1	SAMEA121743313	no	Neisseria sp.	False	subflava	0.1787	natural					non_member	False	False	False	False	False	False
+GCA_982214495.1	SAMEA121742897	no	Neisseria sp.	False	subflava	0.2776	natural					non_member	False	False	False	False	False	False
+GCA_982214815.1	SAMEA121743338	no	Neisseria sp.	False	subflava	0.2012	natural					non_member	False	False	False	False	False	False
+GCA_982215435.1	SAMEA121742904	no	Neisseria sp.	False	subflava	1.5425	natural					non_member	False	False	False	False	False	False
+GCA_982216005.1	SAMEA121743375	no	Neisseria sp.	False	subflava	0.3095	natural					non_member	False	False	False	False	False	False
+GCA_982216995.1	SAMEA121743543	no	Neisseria sp.	False	flavescens	0.0853	natural					non_member	False	False	False	False	False	False
+GCA_982219275.1	SAMEA121743232	no	Neisseria sp.	False	subflava	0.2454	natural					non_member	False	False	False	False	False	False
+GCA_982220985.1	SAMEA121743662	no	Neisseria sp.	False	subflava	0.0532	natural					non_member	False	False	False	False	False	False
+GCA_982220995.1	SAMEA121743612	no	Neisseria sp.	False	subflava	0.2023	natural					non_member	False	False	False	False	False	False
+GCA_982221875.1	SAMEA121743971	no	Neisseria sp.	False	subflava	0.3022	natural					non_member	False	False	False	False	False	False
+GCA_982223315.1	SAMEA121743984	no	Neisseria sp.	False	subflava	0.576	natural					non_member	False	False	False	False	False	False
+GCA_982267395.1	SAMEA121929727	no	Neisseria sp.	False	subflava	0.5765	natural					non_member	False	False	False	False	False	False
+GCA_982267655.1	SAMEA121929777	no	Neisseria sp.	False	subflava	0.3626	natural					non_member	False	False	False	False	False	False
+GCA_982267885.1	SAMEA121929763	no	Neisseria sp.	False	flavescens	0.1082	natural					non_member	False	False	False	False	False	False
+GCA_982267935.1	SAMEA121929705	no	Neisseria sp.	False	subflava	0.081	natural					non_member	False	False	False	False	False	False
+GCA_982267995.1	SAMEA121929737	no	Neisseria sp.	False	perflava	0.5053	natural					non_member	False	False	False	False	False	False
+GCA_982268045.1	SAMEA121929773	no	Neisseria sp.	False	subflava	0.5438	natural					non_member	False	False	False	False	False	False
+GCA_982268205.1	SAMEA121929698	no	Neisseria sp.	False	flavescens	0.1521	natural					non_member	False	False	False	False	False	False
+GCA_982268255.1	SAMEA121929676	no	Neisseria sp.	False	subflava	0.2319	natural					non_member	False	False	False	False	False	False
+GCA_982268355.1	SAMEA121929685	no	Neisseria sp.	False	subflava	0.546	natural					non_member	False	False	False	False	False	False
+GCA_982268735.1	SAMEA121929626	no	Neisseria sp.	False	subflava	0.1958	natural					non_member	False	False	False	False	False	False
+GCA_982268965.1	SAMEA121929664	no	Neisseria sp.	False	perflava	1.3203	natural					non_member	False	False	False	False	False	False
+GCA_982269195.1	SAMEA121929955	no	Neisseria sp.	False	subflava	0.2512	natural					non_member	False	False	False	False	False	False
+GCA_982269315.1	SAMEA121929961	no	Neisseria sicca	False	subflava	0.4626	natural					non_member	False	False	False	False	False	False
+GCA_982269395.1	SAMEA121930036	no	Neisseria sp.	False	subflava	0.0983	natural					non_member	False	False	False	False	False	False
+GCA_982269435.1	SAMEA121929939	no	Neisseria flavescens	False	perflava	0.698	natural					non_member	False	False	False	False	False	False
+GCA_982269695.1	SAMEA121929843	no	Neisseria sp.	False	subflava	0.3874	natural					non_member	False	False	False	False	False	False
+GCA_982270035.1	SAMEA121930001	no	Neisseria sp.	False	perflava	0.2908	natural					non_member	False	False	False	False	False	False
+GCA_982270125.1	SAMEA121929825	no	Neisseria sp.	False	perflava	1.2759	natural					non_member	False	False	False	False	False	False
+GCA_982270245.1	SAMEA121929942	no	Neisseria sicca	False	flavescens	0.0093	natural					non_member	False	False	False	False	False	False
+GCA_982271125.1	SAMEA121929913	no	Neisseria sp.	False	subflava	0.1748	natural					non_member	False	False	False	False	False	False
+GCA_982271155.1	SAMEA121929904	no	Neisseria sp.	False	perflava	0.0087	natural					non_member	False	False	False	False	False	False
+GCA_982271505.1	SAMEA121929893	no	Neisseria sp.	False	subflava	0.0252	natural					non_member	False	False	False	False	False	False
+GCA_982272085.1	SAMEA121930226	no	Neisseria sp.	False	flavescens	0.0266	natural					non_member	False	False	False	False	False	False
+GCA_982272785.1	SAMEA121930353	no	Neisseria sp.	False	perflava	1.0438	natural					non_member	False	False	False	False	False	False
+GCA_982273275.1	SAMEA121930383	no	Neisseria sp.	False	subflava	0.293	natural					non_member	False	False	False	False	False	False
+GCA_982273975.1	SAMEA121930241	no	Neisseria sp.	False	perflava	0.0423	natural					non_member	False	False	False	False	False	False
+GCA_982274615.1	SAMEA121930450	no	Neisseria sp.	False	subflava	0.2121	natural					non_member	False	False	False	False	False	False
+GCA_982274885.1	SAMEA121930232	no	Neisseria sp.	False	subflava	0.4509	natural					non_member	False	False	False	False	False	False
+GCA_982274955.1	SAMEA121930310	no	Neisseria sp.	False	subflava	0.3643	natural					non_member	False	False	False	False	False	False
+GCA_982274975.1	SAMEA121930306	no	Neisseria sp.	False	subflava	0.1181	natural					non_member	False	False	False	False	False	False
+GCA_982275255.1	SAMEA121930393	no	Neisseria sp.	False	perflava	1.0644	natural					non_member	False	False	False	False	False	False
+GCA_982275485.1	SAMEA121930284	no	Neisseria sp.	False	subflava	0.3672	natural					non_member	False	False	False	False	False	False
+GCA_982275845.1	SAMEA121930168	no	Neisseria sp.	False	perflava	1.385	natural					non_member	False	False	False	False	False	False
+GCA_982276395.1	SAMEA121930940	no	Neisseria sp.	False	subflava	0.0712	natural					non_member	False	False	False	False	False	False
+GCA_982276825.1	SAMEA121931017	no	Neisseria sp.	False	subflava	0.224	natural					non_member	False	False	False	False	False	False
+GCA_982277325.1	SAMEA121930631	no	Neisseria sp.	False	subflava	0.2001	natural					non_member	False	False	False	False	False	False
+GCA_982277485.1	SAMEA121930833	no	Neisseria sp.	False	subflava	0.2539	natural					non_member	False	False	False	False	False	False
+GCA_982277525.1	SAMEA121930827	no	Neisseria sp.	False	subflava	0.2595	natural					non_member	False	False	False	False	False	False
+GCA_982277565.1	SAMEA121930821	no	Neisseria sp.	False	subflava	0.0161	natural					non_member	False	False	False	False	False	False
+GCA_982277775.1	SAMEA121930570	no	Neisseria sp.	False	flavescens	0.0271	natural					non_member	False	False	False	False	False	False
+GCA_982277955.1	SAMEA121930567	no	Neisseria sp.	False	perflava	1.3048	natural					non_member	False	False	False	False	False	False
+GCA_982278265.1	SAMEA121930777	no	Neisseria sp.	False	subflava	0.2503	natural					non_member	False	False	False	False	False	False
+GCA_982278465.1	SAMEA121930736	no	Neisseria sp.	False	subflava	0.1698	natural					non_member	False	False	False	False	False	False
+GCA_982278925.1	SAMEA121930583	no	Neisseria sicca	False	subflava	0.1372	natural					non_member	False	False	False	False	False	False
+GCA_982279155.1	SAMEA121930850	no	Neisseria sp.	False	perflava	0.1273	natural					non_member	False	False	False	False	False	False
+GCA_982279495.1	SAMEA121930513	no	Neisseria sp.	False	perflava	1.3033	natural					non_member	False	False	False	False	False	False
+GCA_982279925.1	SAMEA121930499	no	Neisseria sp.	False	subflava	0.2282	natural					non_member	False	False	False	False	False	False
+GCA_982280235.1	SAMEA121930647	no	Neisseria sp.	False	subflava	0.2857	natural					non_member	False	False	False	False	False	False
+GCA_982280615.1	SAMEA121930522	no	Neisseria sp.	False	subflava	0.1984	natural					non_member	False	False	False	False	False	False
+GCA_982280705.1	SAMEA121930498	no	Neisseria sp.	False	perflava	0.1055	natural					non_member	False	False	False	False	False	False
+GCA_982280835.1	SAMEA121930905	no	Neisseria sp.	False	subflava	0.3269	natural					non_member	False	False	False	False	False	False
+GCA_982280875.1	SAMEA121930846	no	Neisseria sp.	False	subflava	0.1843	natural					non_member	False	False	False	False	False	False
+GCA_982281385.1	SAMEA121931043	no	Neisseria sp.	False	perflava	1.2027	natural					non_member	False	False	False	False	False	False
+GCA_982281865.1	SAMEA121931480	no	Neisseria sp.	False	subflava	0.3482	natural					non_member	False	False	False	False	False	False
+GCA_982282345.1	SAMEA121931331	no	Neisseria sp.	False	flavescens	0.0947	natural					non_member	False	False	False	False	False	False
+GCA_982282655.1	SAMEA121931174	no	Neisseria sp.	False	subflava	1.4453	natural					non_member	False	False	False	False	False	False
+GCA_982282725.1	SAMEA121931505	no	Neisseria sp.	False	subflava	0.3322	natural					non_member	False	False	False	False	False	False
+GCA_982283545.1	SAMEA121931239	no	Neisseria sp.	False	subflava	0.3304	natural					non_member	False	False	False	False	False	False
+GCA_982283835.1	SAMEA121931508	no	Neisseria sp.	False	perflava	1.3068	natural					non_member	False	False	False	False	False	False
+GCA_982284045.1	SAMEA121931280	no	Neisseria sp.	False	subflava	0.0828	natural					non_member	False	False	False	False	False	False
+GCA_982284185.1	SAMEA121931124	no	Neisseria sp.	False	subflava	0.1948	natural					non_member	False	False	False	False	False	False
+GCA_982285785.1	SAMEA121931281	no	Neisseria sp.	False	subflava	0.0755	natural					non_member	False	False	False	False	False	False
+GCA_982285965.1	SAMEA121931367	no	Neisseria sp.	False	perflava	1.331	natural					non_member	False	False	False	False	False	False
+GCA_982286855.1	SAMEA121931776	no	Neisseria sp.	False	perflava	0.1072	natural					non_member	False	False	False	False	False	False
+GCA_982286995.1	SAMEA121931717	no	Neisseria sp.	False	subflava	1.2457	natural					non_member	False	False	False	False	False	False
+GCA_982287105.1	SAMEA121931800	no	Neisseria sp.	False	perflava	1.2463	natural					non_member	False	False	False	False	False	False
+GCA_982287115.1	SAMEA121931798	no	Neisseria sp.	False	subflava	0.4447	natural					non_member	False	False	False	False	False	False
+GCA_982287625.1	SAMEA121931586	no	Neisseria sp.	False	perflava	0.808	natural					non_member	False	False	False	False	False	False
+GCA_982287915.1	SAMEA121931874	no	Neisseria sp.	False	subflava	0.2665	natural					non_member	False	False	False	False	False	False
+GCA_982288055.1	SAMEA121931638	no	Neisseria sp.	False	subflava	0.3217	natural					non_member	False	False	False	False	False	False
+GCA_982288185.1	SAMEA121931651	no	Neisseria flavescens	True	subflava	0.2718	natural	95.83	2.24	34887		primary_unit_representative	True	False	False	False	True	False
+GCA_982288415.1	SAMEA121931924	no	Neisseria sp.	False	subflava	0.2311	natural					non_member	False	False	False	False	False	False
+GCA_982288485.1	SAMEA121931751	no	Neisseria sp.	False	perflava	1.2384	natural					non_member	False	False	False	False	False	False
+GCA_982288975.1	SAMEA121931675	no	Neisseria sicca	False	subflava	0.137	natural					non_member	False	False	False	False	False	False
+GCA_982289425.1	SAMEA121931934	no	Neisseria sp.	False	subflava	2.5709	natural					non_member	False	False	False	False	False	False
+GCA_982289515.1	SAMEA121931641	no	Neisseria sp.	True	perflava	0.2209	natural	99.97	0.06	99620		primary_unit_representative	True	False	False	False	True	False
+GCA_982289655.1	SAMEA121931884	no	Neisseria sp.	False	perflava	0.5588	natural					non_member	False	False	False	False	False	False
+GCA_982289905.1	SAMEA121931716	no	Neisseria sp.	False	subflava	0.2003	natural					non_member	False	False	False	False	False	False
+GCA_982289955.1	SAMEA121931708	no	Neisseria elongata	False	subflava	0.27	natural					non_member	False	False	False	False	False	False
+GCA_982290145.1	SAMEA121931591	no	Neisseria sp.	False	subflava	0.4205	natural					non_member	False	False	False	False	False	False
+GCA_982290325.1	SAMEA121931936	no	Neisseria sp.	False	flavescens	0.0377	natural					non_member	False	False	False	False	False	False
+GCA_982299115.1	SAMEA121960583	no	Neisseria sp.	False	flavescens	0.3237	natural					non_member	False	False	False	False	False	False
+GCA_982299385.1	SAMEA121960523	no	Neisseria sp.	False	flavescens	0.0217	natural					non_member	False	False	False	False	False	False
+GCA_982299495.1	SAMEA121960554	no	Neisseria elongata	False	flavescens	0.0322	natural					non_member	False	False	False	False	False	False
+GCA_982299505.1	SAMEA121960550	no	Neisseria sp.	False	flavescens	0.0108	natural					non_member	False	False	False	False	False	False
+GCA_982300105.1	SAMEA121960673	no	Neisseria sp.	False	subflava	0.1368	natural					non_member	False	False	False	False	False	False
+GCA_982300295.1	SAMEA121960903	no	Neisseria sp.	False	perflava	0.2634	natural					non_member	False	False	False	False	False	False
+GCA_982300375.1	SAMEA121960919	no	Neisseria elongata	False	subflava	0.3692	natural					non_member	False	False	False	False	False	False
+GCA_982300965.1	SAMEA121960947	no	Neisseria sp.	False	subflava	0.3196	natural					non_member	False	False	False	False	False	False
+GCA_982301225.1	SAMEA121960640	no	Neisseria elongata	False	subflava	0.4368	natural					non_member	False	False	False	False	False	False
+GCA_982302055.1	SAMEA121960807	no	Neisseria sp.	False	subflava	0.0826	natural					non_member	False	False	False	False	False	False
+GCA_982302155.1	SAMEA121960839	no	Neisseria bacilliformis	False	flavescens	0.2345	natural					non_member	False	False	False	False	False	False
+GCA_982302175.1	SAMEA121960852	no	Neisseria sp.	False	subflava	0.297	natural					non_member	False	False	False	False	False	False
+GCA_982302215.1	SAMEA121960825	no	Neisseria sp.	False	subflava	1.5108	natural					non_member	False	False	False	False	False	False
+GCA_982302255.1	SAMEA121960833	no	Neisseria sp.	False	subflava	0.1988	natural					non_member	False	False	False	False	False	False
+GCA_982302305.1	SAMEA121960623	no	Neisseria sp.	False	subflava	0.2019	natural					non_member	False	False	False	False	False	False
+GCA_982302665.1	SAMEA121960634	no	Neisseria bacilliformis	False	flavescens	0.2022	natural					non_member	False	False	False	False	False	False
+GCA_982314205.1	SAMEA121973651	no	uncultured Neisseria sp.	False	flavescens	0.0169	natural					non_member	False	False	False	False	False	False
+GCA_982345965.1	SAMEA121989090	no	Neisseria sicca	False	subflava	0.1903	natural					non_member	False	False	False	False	False	False
+GCA_982346225.1	SAMEA121989154	no	Neisseria sp.	False	flavescens	0.0839	natural					non_member	False	False	False	False	False	False
+GCA_982346605.1	SAMEA121989172	no	Neisseria sp.	False	subflava	0.1434	natural					non_member	False	False	False	False	False	False
+GCA_982347845.1	SAMEA121989136	no	Neisseria sp.	False	subflava	0.3018	natural					non_member	False	False	False	False	False	False
+GCA_982347955.1	SAMEA121989140	no	Neisseria sp.	False	flavescens	0.0043	natural					non_member	False	False	False	False	False	False
+GCA_982348875.1	SAMEA121989552	no	Neisseria sp.	False	perflava	1.3211	natural					non_member	False	False	False	False	False	False
+GCA_982350195.1	SAMEA121989585	no	Neisseria sp.	False	subflava	0.0603	natural					non_member	False	False	False	False	False	False
+GCA_982350255.1	SAMEA121989345	no	Neisseria sp.	False	subflava	0.0692	natural					non_member	False	False	False	False	False	False
+GCA_982350345.1	SAMEA121989390	no	Neisseria sp.	False	flavescens	0.4685	natural					non_member	False	False	False	False	False	False
+GCA_982350555.1	SAMEA121989532	no	Neisseria sp.	False	subflava	0.7248	natural					non_member	False	False	False	False	False	False
+GCA_982350995.1	SAMEA121989422	no	Neisseria sp.	False	subflava	0.0205	natural					non_member	False	False	False	False	False	False
+GCA_982351415.1	SAMEA121989613	no	Neisseria elongata	False	perflava	0.0045	natural					non_member	False	False	False	False	False	False
+GCA_982355095.1	SAMEA121989861	no	Neisseria sp.	False	flavescens	0.0975	natural					non_member	False	False	False	False	False	False
+GCA_982355115.1	SAMEA121989858	no	Neisseria sp.	False	flavescens	0.1427	natural					non_member	False	False	False	False	False	False
+GCA_982355135.1	SAMEA121989853	no	Neisseria sp.	False	flavescens	0.1052	natural					non_member	False	False	False	False	False	False
+GCA_982356315.1	SAMEA121989840	no	Neisseria sp.	False	flavescens	0.1569	natural					non_member	False	False	False	False	False	False
+GCA_982356335.1	SAMEA121989835	no	Neisseria sp.	False	subflava	0.0127	natural					non_member	False	False	False	False	False	False
+GCA_982356975.1	SAMEA121989769	no	Neisseria sp.	False	flavescens	0.0628	natural					non_member	False	False	False	False	False	False
+GCA_982357075.1	SAMEA121989886	no	Neisseria sp.	False	subflava	0.1563	natural					non_member	False	False	False	False	False	False
+GCA_982360715.1	SAMEA121990411	no	Neisseria sp.	False	flavescens	0.0045	natural					non_member	False	False	False	False	False	False
+GCA_982365385.1	SAMEA121991132	no	Neisseria sp.	False	subflava	0.0647	natural					non_member	False	False	False	False	False	False
+GCA_982366265.1	SAMEA121991028	no	Neisseria sp.	False	subflava	0.1851	natural					non_member	False	False	False	False	False	False
+GCA_982366465.1	SAMEA121991091	no	Neisseria sp.	False	subflava	0.0339	natural					non_member	False	False	False	False	False	False
+GCA_982367235.1	SAMEA121991112	no	Neisseria sp.	False	flavescens	0.1177	natural					non_member	False	False	False	False	False	False
+GCA_982367425.1	SAMEA121991319	no	Neisseria sp.	ANI_UNRESOLVED	ANI_UNRESOLVED	NA	natural					ani_unresolved	False	False	False	False	False	False
+GCA_982367525.1	SAMEA121991435	no	Neisseria sp.	False	flavescens	0.209	natural					non_member	False	False	False	False	False	False
+GCA_982367965.1	SAMEA121991523	no	Neisseria sp.	False	subflava	0.0959	natural					non_member	False	False	False	False	False	False
+GCA_982368405.1	SAMEA121991328	no	Neisseria sp.	False	subflava	0.0492	natural					non_member	False	False	False	False	False	False
+GCA_982369235.1	SAMEA121991399	no	Neisseria sp.	False	perflava	0.0243	natural					non_member	False	False	False	False	False	False
+GCA_982369455.1	SAMEA121991271	no	Neisseria sp.	False	flavescens	0.0815	natural					non_member	False	False	False	False	False	False
+GCA_982369785.1	SAMEA121991292	no	Neisseria sp.	False	flavescens	0.107	natural					non_member	False	False	False	False	False	False
+GCA_982369925.1	SAMEA121991390	no	Neisseria sp.	False	flavescens	0.0608	natural					non_member	False	False	False	False	False	False
+GCA_982369975.1	SAMEA121991222	no	Neisseria sp.	False	flavescens	0.0094	natural					non_member	False	False	False	False	False	False
+GCA_982370495.1	SAMEA121991306	no	Neisseria sp.	False	flavescens	0.0902	natural					non_member	False	False	False	False	False	False
+GCA_982370655.1	SAMEA121991363	no	Neisseria sp.	False	subflava	0.0918	natural					non_member	False	False	False	False	False	False
+GCA_982370865.1	SAMEA121991198	no	Neisseria sp.	False	subflava	0.0816	natural					non_member	False	False	False	False	False	False
+GCA_982371305.1	SAMEA121991443	no	Neisseria sp.	False	subflava	0.0845	natural					non_member	False	False	False	False	False	False
+GCA_982371415.1	SAMEA121991384	no	Neisseria sp.	ANI_UNRESOLVED	ANI_UNRESOLVED	NA	natural					ani_unresolved	False	False	False	False	False	False
+GCA_982371525.1	SAMEA121991509	no	Neisseria sp.	False	subflava	0.2488	natural					non_member	False	False	False	False	False	False
+GCA_982712965.1	SAMEA122247875	yes	Neisseria flava	False	subflava	0.3702	natural					non_member	False	False	False	False	False	False
+GCA_982715595.1	SAMEA122247850	yes	Neisseria flavescens	True	subflava	0.1535	natural	100.0	0.0	123746		primary_unit_representative	True	True	True	False	True	False
+GCA_982717245.1	SAMEA122247926	yes	Neisseria flava	False	subflava	0.2434	natural					non_member	False	False	False	False	False	False
+GCA_982718285.1	SAMEA122247940	yes	Neisseria flava	False	subflava	0.4695	natural					non_member	False	False	False	False	False	False
+GCA_982725595.1	SAMEA122247929	yes	Neisseria flava	False	subflava	0.3248	natural					non_member	False	False	False	False	False	False
+GCA_982727535.1	SAMEA122248433	no	Neisseria mucosa	False	subflava	0.1723	natural					non_member	False	False	False	False	False	False
+GCA_984521355.1	SAMEA122372351	no	Neisseria sp.	True	subflava	0.2138	natural	96.72	0.21	35124		primary_unit_representative	True	False	False	False	True	False

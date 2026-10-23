@@ -1,0 +1,11 @@
+PASS: 57 mapped loci accounted for; 52 retained and five partial mappings excluded.
+PASS: all 38 carriers retained and all 52 locus-to-haplotype mappings match their input sequences.
+PASS: full-length raw and aligned sequences identical; global pairwise checks establish gap-free coordinates.
+PASS: all three ML runs have the same unrooted topology; final fixed-model run has no underflow warning.
+PASS: final UFBoot file contains 1000 seven-tip trees; four branch supports match the reported maximum of 87%.
+PASS: midpoint and expanded-display distances checked in plotting source; zero-length identical-record expansions documented.
+PASS: PDF text is extractable, >=5 pt and inside the page width.
+Visual QA: both final figures inspected; support labels moved clear of short branches and vertical stems.
+Static source preflight: 16 PASS, four reviewed WARN, zero FAIL. R parsed/executed; PNG is a 300-dpi review preview, no submission TIFF requested; dimensions explicitly recorded.
+Tf-only PDF audit does not resolve Cairo text matrices; Poppler effective font sizes are authoritative in the saved audits.
+Scientific caveat: one near-zero internal branch and limited variation; no transfer inference, reconciliation or recombination analysis.

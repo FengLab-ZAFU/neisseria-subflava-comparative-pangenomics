@@ -1,0 +1,321 @@
+unit_id	acc_a	acc_b	unit_basis	unit_group	identity_group_pair	pairwise_snp	merge_basis	validation
+CU00001	GCA_000090875.1	GCA_005886145.1	identity	IG01	IG01	28	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00006	GCA_000173995.1	GCA_000741965.1	identity	IG08	IG08	98	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00008	GCA_000176755.2	GCA_000818035.1	identity	IG09	IG09	28	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00010	GCA_000186165.1	GCA_013267835.1	identity	IG03	IG03	3	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00017	GCA_000220865.1	GCA_022749495.1	identity	IG10	IG10	22	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00027	GCA_001027865.1	GCA_022870905.1	identity	IG11	IG11	56	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00177	GCA_005221285.1	GCA_900453805.1	identity	IG06	IG06	34	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00177	GCA_005221285.1	GCA_963394955.1	identity	IG06	IG06	22	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00177	GCA_900453805.1	GCA_963394955.1	identity	IG06	IG06	29	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00178	GCA_005221305.1	GCA_031190635.1	identity	IG05	IG05	7	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00178	GCA_005221305.1	GCA_963396225.1	identity	IG05	IG05	11	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00178	GCA_031190635.1	GCA_963396225.1	identity	IG05	IG05	10	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00186	GCA_011038745.1	GCA_014898075.1	identity	IG14	IG14	32	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00187	GCA_011038775.1	GCA_017811745.1	identity	IG15	IG15	0	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00187	GCA_011038775.1	GCA_049190975.1	identity	IG15	IG15	53	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00187	GCA_017811745.1	GCA_049190975.1	identity	IG15	IG15	53	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00194	GCA_014596365.2	GCA_052073865.1	identity	IG02	IG02	32	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00223	GCA_021728505.1	GCA_049190985.1	identity	IG12	IG12	0	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00224	GCA_021728675.1	GCA_028463985.1	identity	IG13	IG13	21	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00227	GCA_023472875.1	GCA_042649725.1	identity	IG07	IG07	11	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00230	GCA_023635085.1	GCA_056611915.1	identity	IG04	IG04	6	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00355	GCA_042536885.1	GCA_042536905.1	participant_clone	ITM_PRJNA703317:MO05		0	snp_clone_threshold	PASS
+CU00423	GCA_050328085.1	GCA_051957575.1	identity	IGR134	IGR134	14	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00424	GCA_050328105.1	GCA_050328145.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_050328105.1	GCA_050328585.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_050328105.1	GCA_050328745.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_050328105.1	GCA_050328765.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_050328105.1	GCA_050329445.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		2	snp_clone_threshold	PASS
+CU00424	GCA_050328105.1	GCA_050330115.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_050328105.1	GCA_050330135.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		2	snp_clone_threshold	PASS
+CU00424	GCA_050328105.1	GCA_050330255.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_050328105.1	GCA_050332315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_050328105.1	GCA_051963055.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)	IGR109	14	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00424	GCA_050328105.1	GCA_051963095.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		11	snp_clone_threshold	PASS
+CU00424	GCA_050328105.1	GCA_051963175.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_050328105.1	GCA_051963195.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_050328105.1	GCA_051963215.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		17	snp_clone_threshold	PASS
+CU00424	GCA_050328105.1	GCA_051963275.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		17	snp_clone_threshold	PASS
+CU00424	GCA_050328105.1	GCA_051963315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_050328105.1	GCA_051963335.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		13	snp_clone_threshold	PASS
+CU00424	GCA_050328105.1	GCA_051963395.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_050328105.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_050328145.1	GCA_050328585.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328145.1	GCA_050328745.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328145.1	GCA_050328765.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328145.1	GCA_050329445.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_050328145.1	GCA_050330115.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328145.1	GCA_050330135.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328145.1	GCA_050330255.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328145.1	GCA_050332315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328145.1	GCA_051963055.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		15	snp_clone_threshold	PASS
+CU00424	GCA_050328145.1	GCA_051963095.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		10	snp_clone_threshold	PASS
+CU00424	GCA_050328145.1	GCA_051963175.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_050328145.1	GCA_051963195.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)	IGR108	3	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00424	GCA_050328145.1	GCA_051963215.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		16	snp_clone_threshold	PASS
+CU00424	GCA_050328145.1	GCA_051963275.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		15	snp_clone_threshold	PASS
+CU00424	GCA_050328145.1	GCA_051963315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_050328145.1	GCA_051963335.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		13	snp_clone_threshold	PASS
+CU00424	GCA_050328145.1	GCA_051963395.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_050328145.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_050328585.1	GCA_050328745.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328585.1	GCA_050328765.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328585.1	GCA_050329445.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_050328585.1	GCA_050330115.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328585.1	GCA_050330135.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328585.1	GCA_050330255.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328585.1	GCA_050332315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328585.1	GCA_051963055.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_050328585.1	GCA_051963095.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		9	snp_clone_threshold	PASS
+CU00424	GCA_050328585.1	GCA_051963175.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)	IGR107	3	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00424	GCA_050328585.1	GCA_051963195.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_050328585.1	GCA_051963215.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		16	snp_clone_threshold	PASS
+CU00424	GCA_050328585.1	GCA_051963275.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		15	snp_clone_threshold	PASS
+CU00424	GCA_050328585.1	GCA_051963315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_050328585.1	GCA_051963335.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		13	snp_clone_threshold	PASS
+CU00424	GCA_050328585.1	GCA_051963395.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_050328585.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_050328745.1	GCA_050328765.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328745.1	GCA_050329445.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_050328745.1	GCA_050330115.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328745.1	GCA_050330135.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328745.1	GCA_050330255.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328745.1	GCA_050332315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328745.1	GCA_051963055.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		15	snp_clone_threshold	PASS
+CU00424	GCA_050328745.1	GCA_051963095.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)	IGR110	10	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00424	GCA_050328745.1	GCA_051963175.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		6	snp_clone_threshold	PASS
+CU00424	GCA_050328745.1	GCA_051963195.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_050328745.1	GCA_051963215.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		16	snp_clone_threshold	PASS
+CU00424	GCA_050328745.1	GCA_051963275.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		15	snp_clone_threshold	PASS
+CU00424	GCA_050328745.1	GCA_051963315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_050328745.1	GCA_051963335.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		13	snp_clone_threshold	PASS
+CU00424	GCA_050328745.1	GCA_051963395.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_050328745.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_050328765.1	GCA_050329445.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_050328765.1	GCA_050330115.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328765.1	GCA_050330135.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328765.1	GCA_050330255.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328765.1	GCA_050332315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050328765.1	GCA_051963055.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_050328765.1	GCA_051963095.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		9	snp_clone_threshold	PASS
+CU00424	GCA_050328765.1	GCA_051963175.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		6	snp_clone_threshold	PASS
+CU00424	GCA_050328765.1	GCA_051963195.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_050328765.1	GCA_051963215.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		16	snp_clone_threshold	PASS
+CU00424	GCA_050328765.1	GCA_051963275.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		15	snp_clone_threshold	PASS
+CU00424	GCA_050328765.1	GCA_051963315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_050328765.1	GCA_051963335.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		13	snp_clone_threshold	PASS
+CU00424	GCA_050328765.1	GCA_051963395.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_050328765.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)	IGR101	5	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00424	GCA_050329445.1	GCA_050330115.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_050329445.1	GCA_050330135.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_050329445.1	GCA_050330255.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_050329445.1	GCA_050332315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_050329445.1	GCA_051963055.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		5	snp_clone_threshold	PASS
+CU00424	GCA_050329445.1	GCA_051963095.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		10	snp_clone_threshold	PASS
+CU00424	GCA_050329445.1	GCA_051963175.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		7	snp_clone_threshold	PASS
+CU00424	GCA_050329445.1	GCA_051963195.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_050329445.1	GCA_051963215.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)	IGR106	15	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00424	GCA_050329445.1	GCA_051963275.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		16	snp_clone_threshold	PASS
+CU00424	GCA_050329445.1	GCA_051963315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_050329445.1	GCA_051963335.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		13	snp_clone_threshold	PASS
+CU00424	GCA_050329445.1	GCA_051963395.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_050329445.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		6	snp_clone_threshold	PASS
+CU00424	GCA_050330115.1	GCA_050330135.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_050330115.1	GCA_050330255.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050330115.1	GCA_050332315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050330115.1	GCA_051963055.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		15	snp_clone_threshold	PASS
+CU00424	GCA_050330115.1	GCA_051963095.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		10	snp_clone_threshold	PASS
+CU00424	GCA_050330115.1	GCA_051963175.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		6	snp_clone_threshold	PASS
+CU00424	GCA_050330115.1	GCA_051963195.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_050330115.1	GCA_051963215.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		16	snp_clone_threshold	PASS
+CU00424	GCA_050330115.1	GCA_051963275.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		16	snp_clone_threshold	PASS
+CU00424	GCA_050330115.1	GCA_051963315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_050330115.1	GCA_051963335.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		13	snp_clone_threshold	PASS
+CU00424	GCA_050330115.1	GCA_051963395.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)	IGR102	3	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00424	GCA_050330115.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_050330135.1	GCA_050330255.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050330135.1	GCA_050332315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050330135.1	GCA_051963055.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_050330135.1	GCA_051963095.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		2	snp_clone_threshold	PASS
+CU00424	GCA_050330135.1	GCA_051963175.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		5	snp_clone_threshold	PASS
+CU00424	GCA_050330135.1	GCA_051963195.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		2	snp_clone_threshold	PASS
+CU00424	GCA_050330135.1	GCA_051963215.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		15	snp_clone_threshold	PASS
+CU00424	GCA_050330135.1	GCA_051963275.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		15	snp_clone_threshold	PASS
+CU00424	GCA_050330135.1	GCA_051963315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		2	snp_clone_threshold	PASS
+CU00424	GCA_050330135.1	GCA_051963335.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)	IGR104	11	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00424	GCA_050330135.1	GCA_051963395.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		2	snp_clone_threshold	PASS
+CU00424	GCA_050330135.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		2	snp_clone_threshold	PASS
+CU00424	GCA_050330255.1	GCA_050332315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_050330255.1	GCA_051963055.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_050330255.1	GCA_051963095.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		2	snp_clone_threshold	PASS
+CU00424	GCA_050330255.1	GCA_051963175.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		5	snp_clone_threshold	PASS
+CU00424	GCA_050330255.1	GCA_051963195.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		2	snp_clone_threshold	PASS
+CU00424	GCA_050330255.1	GCA_051963215.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		15	snp_clone_threshold	PASS
+CU00424	GCA_050330255.1	GCA_051963275.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)	IGR105	15	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00424	GCA_050330255.1	GCA_051963315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		2	snp_clone_threshold	PASS
+CU00424	GCA_050330255.1	GCA_051963335.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		11	snp_clone_threshold	PASS
+CU00424	GCA_050330255.1	GCA_051963395.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		2	snp_clone_threshold	PASS
+CU00424	GCA_050330255.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_050332315.1	GCA_051963055.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		15	snp_clone_threshold	PASS
+CU00424	GCA_050332315.1	GCA_051963095.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		10	snp_clone_threshold	PASS
+CU00424	GCA_050332315.1	GCA_051963175.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_050332315.1	GCA_051963195.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_050332315.1	GCA_051963215.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		16	snp_clone_threshold	PASS
+CU00424	GCA_050332315.1	GCA_051963275.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		15	snp_clone_threshold	PASS
+CU00424	GCA_050332315.1	GCA_051963315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)	IGR103	3	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00424	GCA_050332315.1	GCA_051963335.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		12	snp_clone_threshold	PASS
+CU00424	GCA_050332315.1	GCA_051963395.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_050332315.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_051963055.1	GCA_051963095.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		8	snp_clone_threshold	PASS
+CU00424	GCA_051963055.1	GCA_051963175.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		6	snp_clone_threshold	PASS
+CU00424	GCA_051963055.1	GCA_051963195.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_051963055.1	GCA_051963215.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		11	snp_clone_threshold	PASS
+CU00424	GCA_051963055.1	GCA_051963275.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		14	snp_clone_threshold	PASS
+CU00424	GCA_051963055.1	GCA_051963315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_051963055.1	GCA_051963335.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_051963055.1	GCA_051963395.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_051963055.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_051963095.1	GCA_051963175.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_051963095.1	GCA_051963195.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		6	snp_clone_threshold	PASS
+CU00424	GCA_051963095.1	GCA_051963215.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		6	snp_clone_threshold	PASS
+CU00424	GCA_051963095.1	GCA_051963275.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		12	snp_clone_threshold	PASS
+CU00424	GCA_051963095.1	GCA_051963315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_051963095.1	GCA_051963335.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		9	snp_clone_threshold	PASS
+CU00424	GCA_051963095.1	GCA_051963395.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		8	snp_clone_threshold	PASS
+CU00424	GCA_051963095.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_051963175.1	GCA_051963195.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_051963175.1	GCA_051963215.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		17	snp_clone_threshold	PASS
+CU00424	GCA_051963175.1	GCA_051963275.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		16	snp_clone_threshold	PASS
+CU00424	GCA_051963175.1	GCA_051963315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_051963175.1	GCA_051963335.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		4	snp_clone_threshold	PASS
+CU00424	GCA_051963175.1	GCA_051963395.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_051963175.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_051963195.1	GCA_051963215.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		13	snp_clone_threshold	PASS
+CU00424	GCA_051963195.1	GCA_051963275.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		13	snp_clone_threshold	PASS
+CU00424	GCA_051963195.1	GCA_051963315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_051963195.1	GCA_051963335.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_051963195.1	GCA_051963395.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_051963195.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00424	GCA_051963215.1	GCA_051963275.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		2	snp_clone_threshold	PASS
+CU00424	GCA_051963215.1	GCA_051963315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		14	snp_clone_threshold	PASS
+CU00424	GCA_051963215.1	GCA_051963335.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		9	snp_clone_threshold	PASS
+CU00424	GCA_051963215.1	GCA_051963395.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		12	snp_clone_threshold	PASS
+CU00424	GCA_051963215.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		6	snp_clone_threshold	PASS
+CU00424	GCA_051963275.1	GCA_051963315.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		14	snp_clone_threshold	PASS
+CU00424	GCA_051963275.1	GCA_051963335.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_051963275.1	GCA_051963395.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		11	snp_clone_threshold	PASS
+CU00424	GCA_051963275.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		6	snp_clone_threshold	PASS
+CU00424	GCA_051963315.1	GCA_051963335.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		2	snp_clone_threshold	PASS
+CU00424	GCA_051963315.1	GCA_051963395.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_051963315.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00424	GCA_051963335.1	GCA_051963395.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		3	snp_clone_threshold	PASS
+CU00424	GCA_051963335.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		9	snp_clone_threshold	PASS
+CU00424	GCA_051963395.1	GCA_051963455.1	participant_clone	Regan2026_Rochester_study:P0004 (with source-identity duplicate subgroups)		8	snp_clone_threshold	PASS
+CU00425	GCA_050328125.1	GCA_050331975.1	participant_clone	Regan2026_Rochester_study:P0006 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00425	GCA_050328125.1	GCA_050331995.1	participant_clone	Regan2026_Rochester_study:P0006 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00425	GCA_050328125.1	GCA_051962855.1	participant_clone	Regan2026_Rochester_study:P0006 (with source-identity duplicate subgroups)	IGR112	0	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00425	GCA_050328125.1	GCA_051962915.1	participant_clone	Regan2026_Rochester_study:P0006 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00425	GCA_050331975.1	GCA_050331995.1	participant_clone	Regan2026_Rochester_study:P0006 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00425	GCA_050331975.1	GCA_051962855.1	participant_clone	Regan2026_Rochester_study:P0006 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00425	GCA_050331975.1	GCA_051962915.1	participant_clone	Regan2026_Rochester_study:P0006 (with source-identity duplicate subgroups)		0	snp_clone_threshold	PASS
+CU00425	GCA_050331995.1	GCA_051962855.1	participant_clone	Regan2026_Rochester_study:P0006 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00425	GCA_050331995.1	GCA_051962915.1	participant_clone	Regan2026_Rochester_study:P0006 (with source-identity duplicate subgroups)	IGR111	0	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00425	GCA_051962855.1	GCA_051962915.1	participant_clone	Regan2026_Rochester_study:P0006 (with source-identity duplicate subgroups)		9	snp_clone_threshold	PASS
+CU00426	GCA_050328165.1	GCA_050328205.1	participant_clone	Regan2026_Rochester_study:P0016		1	snp_clone_threshold	PASS
+CU00426	GCA_050328165.1	GCA_050328335.1	participant_clone	Regan2026_Rochester_study:P0016		8	snp_clone_threshold	PASS
+CU00426	GCA_050328165.1	GCA_050329005.1	participant_clone	Regan2026_Rochester_study:P0016		1	snp_clone_threshold	PASS
+CU00426	GCA_050328205.1	GCA_050328335.1	participant_clone	Regan2026_Rochester_study:P0016		2	snp_clone_threshold	PASS
+CU00426	GCA_050328205.1	GCA_050329005.1	participant_clone	Regan2026_Rochester_study:P0016		8	snp_clone_threshold	PASS
+CU00426	GCA_050328335.1	GCA_050329005.1	participant_clone	Regan2026_Rochester_study:P0016		1	snp_clone_threshold	PASS
+CU00427	GCA_050328265.1	GCA_051957855.1	identity	IGR132	IGR132	26	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00428	GCA_050328305.1	GCA_051957775.1	participant_clone	Regan2026_Rochester_study:P0016 (with source-identity duplicate subgroups)	IGR133	32	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00428	GCA_050328305.1	GCA_051957875.1	participant_clone	Regan2026_Rochester_study:P0016 (with source-identity duplicate subgroups)		2	snp_clone_threshold	PASS
+CU00428	GCA_051957775.1	GCA_051957875.1	participant_clone	Regan2026_Rochester_study:P0016 (with source-identity duplicate subgroups)		14	snp_clone_threshold	PASS
+CU00429	GCA_050328385.1	GCA_051962875.1	identity	IGR113	IGR113	21	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00430	GCA_050328445.1	GCA_051962615.1	identity	IGR116	IGR116	45	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00431	GCA_050328485.1	GCA_051958615.1	identity	IGR118	IGR118	37	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00432	GCA_050328565.1	GCA_050329165.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050328565.1	GCA_050329205.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050328565.1	GCA_050329225.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050328565.1	GCA_050329275.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050328565.1	GCA_050329335.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050328565.1	GCA_050329365.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050328565.1	GCA_050330175.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050328565.1	GCA_050360215.1	participant_clone	Regan2026_Rochester_study:P0010		1	snp_clone_threshold	PASS
+CU00432	GCA_050329165.1	GCA_050329205.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050329165.1	GCA_050329225.1	participant_clone	Regan2026_Rochester_study:P0010		1	snp_clone_threshold	PASS
+CU00432	GCA_050329165.1	GCA_050329275.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050329165.1	GCA_050329335.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050329165.1	GCA_050329365.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050329165.1	GCA_050330175.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050329165.1	GCA_050360215.1	participant_clone	Regan2026_Rochester_study:P0010		1	snp_clone_threshold	PASS
+CU00432	GCA_050329205.1	GCA_050329225.1	participant_clone	Regan2026_Rochester_study:P0010		1	snp_clone_threshold	PASS
+CU00432	GCA_050329205.1	GCA_050329275.1	participant_clone	Regan2026_Rochester_study:P0010		6	snp_clone_threshold	PASS
+CU00432	GCA_050329205.1	GCA_050329335.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050329205.1	GCA_050329365.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050329205.1	GCA_050330175.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050329205.1	GCA_050360215.1	participant_clone	Regan2026_Rochester_study:P0010		1	snp_clone_threshold	PASS
+CU00432	GCA_050329225.1	GCA_050329275.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050329225.1	GCA_050329335.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050329225.1	GCA_050329365.1	participant_clone	Regan2026_Rochester_study:P0010		4	snp_clone_threshold	PASS
+CU00432	GCA_050329225.1	GCA_050330175.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050329225.1	GCA_050360215.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050329275.1	GCA_050329335.1	participant_clone	Regan2026_Rochester_study:P0010		6	snp_clone_threshold	PASS
+CU00432	GCA_050329275.1	GCA_050329365.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050329275.1	GCA_050330175.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050329275.1	GCA_050360215.1	participant_clone	Regan2026_Rochester_study:P0010		1	snp_clone_threshold	PASS
+CU00432	GCA_050329335.1	GCA_050329365.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050329335.1	GCA_050330175.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050329335.1	GCA_050360215.1	participant_clone	Regan2026_Rochester_study:P0010		1	snp_clone_threshold	PASS
+CU00432	GCA_050329365.1	GCA_050330175.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00432	GCA_050329365.1	GCA_050360215.1	participant_clone	Regan2026_Rochester_study:P0010		1	snp_clone_threshold	PASS
+CU00432	GCA_050330175.1	GCA_050360215.1	participant_clone	Regan2026_Rochester_study:P0010		0	snp_clone_threshold	PASS
+CU00433	GCA_050328825.1	GCA_051958095.1	identity	IGR128	IGR128	9	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00434	GCA_050328885.1	GCA_051958075.1	identity	IGR129	IGR129	UNRESOLVED	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00435	GCA_050328945.1	GCA_051958015.1	identity	IGR130	IGR130	2	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00436	GCA_050328965.1	GCA_051957975.1	identity	IGR131	IGR131	UNRESOLVED	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00437	GCA_050329065.1	GCA_051962755.1	identity	IGR114	IGR114	24	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00438	GCA_050329085.1	GCA_051962595.1	identity	IGR117	IGR117	14	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00439	GCA_050329125.1	GCA_051958545.1	identity	IGR119	IGR119	42	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00440	GCA_050329395.1	GCA_051958355.1	participant_clone	Regan2026_Rochester_study:P0013 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00440	GCA_050329395.1	GCA_051958495.1	participant_clone	Regan2026_Rochester_study:P0013 (with source-identity duplicate subgroups)	IGR120	22	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00440	GCA_051958355.1	GCA_051958495.1	participant_clone	Regan2026_Rochester_study:P0013 (with source-identity duplicate subgroups)		18	snp_clone_threshold	PASS
+CU00441	GCA_050329485.1	GCA_050329515.1	participant_clone	Regan2026_Rochester_study:P0013 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00441	GCA_050329485.1	GCA_051958425.1	participant_clone	Regan2026_Rochester_study:P0013 (with source-identity duplicate subgroups)	IGR121	9	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00441	GCA_050329515.1	GCA_051958425.1	participant_clone	Regan2026_Rochester_study:P0013 (with source-identity duplicate subgroups)		11	snp_clone_threshold	PASS
+CU00442	GCA_050329535.1	GCA_051958375.1	identity	IGR122	IGR122	16	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00443	GCA_050329615.1	GCA_050329635.1	participant_clone	Regan2026_Rochester_study:P0014 (with source-identity duplicate subgroups)		13	snp_clone_threshold	PASS
+CU00443	GCA_050329615.1	GCA_050329735.1	participant_clone	Regan2026_Rochester_study:P0014 (with source-identity duplicate subgroups)		14	snp_clone_threshold	PASS
+CU00443	GCA_050329615.1	GCA_051958295.1	participant_clone	Regan2026_Rochester_study:P0014 (with source-identity duplicate subgroups)	IGR123	13	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00443	GCA_050329635.1	GCA_050329735.1	participant_clone	Regan2026_Rochester_study:P0014 (with source-identity duplicate subgroups)		1	snp_clone_threshold	PASS
+CU00443	GCA_050329635.1	GCA_051958295.1	participant_clone	Regan2026_Rochester_study:P0014 (with source-identity duplicate subgroups)		16	snp_clone_threshold	PASS
+CU00443	GCA_050329735.1	GCA_051958295.1	participant_clone	Regan2026_Rochester_study:P0014 (with source-identity duplicate subgroups)		15	snp_clone_threshold	PASS
+CU00444	GCA_050329655.1	GCA_051958155.1	identity	IGR126	IGR126	7	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00445	GCA_050329755.1	GCA_050329895.1	participant_clone	Regan2026_Rochester_study:P0015		8	snp_clone_threshold	PASS
+CU00446	GCA_050329775.1	GCA_051958105.1	identity	IGR127	IGR127	10	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00447	GCA_050330235.1	GCA_051958235.1	identity	IGR124	IGR124	23	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00450	GCA_050360575.1	GCA_051958215.1	identity	IGR125	IGR125	7	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00451	GCA_050360595.1	GCA_051962655.1	identity	IGR115	IGR115	25	source_identity	source-identity pair (same isolate/library): SNP reported, merge justified by provenance not SNP
+CU00459	GCA_051956735.1	GCA_051956775.1	participant_clone	Regan2026_Rochester_study:P0022		19	snp_clone_threshold	PASS
+CU00459	GCA_051956735.1	GCA_051956815.1	participant_clone	Regan2026_Rochester_study:P0022		8	snp_clone_threshold	PASS
+CU00459	GCA_051956775.1	GCA_051956815.1	participant_clone	Regan2026_Rochester_study:P0022		19	snp_clone_threshold	PASS
+CU00469	GCA_051957215.1	GCA_051957315.1	participant_clone	Regan2026_Rochester_study:P0018		9	snp_clone_threshold	PASS
+CU00471	GCA_051957275.1	GCA_051957355.1	participant_clone	Regan2026_Rochester_study:P0018		7	snp_clone_threshold	PASS
+CU00472	GCA_051957375.1	GCA_051957495.1	participant_clone	Regan2026_Rochester_study:P0017		3	snp_clone_threshold	PASS
+CU00472	GCA_051957375.1	GCA_051957675.1	participant_clone	Regan2026_Rochester_study:P0017		3	snp_clone_threshold	PASS
+CU00472	GCA_051957375.1	GCA_051957695.1	participant_clone	Regan2026_Rochester_study:P0017		3	snp_clone_threshold	PASS
+CU00472	GCA_051957495.1	GCA_051957675.1	participant_clone	Regan2026_Rochester_study:P0017		8	snp_clone_threshold	PASS
+CU00472	GCA_051957495.1	GCA_051957695.1	participant_clone	Regan2026_Rochester_study:P0017		8	snp_clone_threshold	PASS
+CU00472	GCA_051957675.1	GCA_051957695.1	participant_clone	Regan2026_Rochester_study:P0017		0	snp_clone_threshold	PASS
+CU00474	GCA_051957445.1	GCA_051957655.1	participant_clone	Regan2026_Rochester_study:P0017		1	snp_clone_threshold	PASS
+CU00474	GCA_051957445.1	GCA_051957755.1	participant_clone	Regan2026_Rochester_study:P0017		0	snp_clone_threshold	PASS
+CU00474	GCA_051957655.1	GCA_051957755.1	participant_clone	Regan2026_Rochester_study:P0017		1	snp_clone_threshold	PASS
+CU00485	GCA_051962935.1	GCA_051963015.1	participant_clone	Regan2026_Rochester_study:P0006		16	snp_clone_threshold	PASS
+CU00491	GCA_051963575.1	GCA_051963635.1	participant_clone	Regan2026_Rochester_study:P0001		10	snp_clone_threshold	PASS
+CU00492	GCA_051963655.1	GCA_051963675.1	participant_clone	Regan2026_Rochester_study:P0001		11	snp_clone_threshold	PASS
+CU00492	GCA_051963655.1	GCA_051963775.1	participant_clone	Regan2026_Rochester_study:P0001		6	snp_clone_threshold	PASS
+CU00492	GCA_051963655.1	GCA_051963835.1	participant_clone	Regan2026_Rochester_study:P0001		7	snp_clone_threshold	PASS
+CU00492	GCA_051963675.1	GCA_051963775.1	participant_clone	Regan2026_Rochester_study:P0001		9	snp_clone_threshold	PASS
+CU00492	GCA_051963675.1	GCA_051963835.1	participant_clone	Regan2026_Rochester_study:P0001		3	snp_clone_threshold	PASS
+CU00492	GCA_051963775.1	GCA_051963835.1	participant_clone	Regan2026_Rochester_study:P0001		3	snp_clone_threshold	PASS

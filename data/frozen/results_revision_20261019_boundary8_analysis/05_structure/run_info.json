@@ -1,0 +1,6 @@
+{
+  "status": "DONE",
+  "method": "vegan::permutest(bd, permutations=P_delivered)",
+  "vegan": "2.7.5",
+  "n_items": 8
+}

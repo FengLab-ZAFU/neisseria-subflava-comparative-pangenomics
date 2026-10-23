@@ -1,0 +1,13 @@
+metric	metric_definition	group	n	mean	sd	median	q1	q3	iqr	min	max
+n_CDS_copies	total CDS copies assigned to dictionary clusters (multi-copy counted)	subflava	31	2183.741935	82.144981	2179.000000	2159.500000	2215.500000	56.000000	2034	2427
+n_CDS_copies	total CDS copies assigned to dictionary clusters (multi-copy counted)	perflava	114	2152.307018	84.709407	2145.500000	2088.500000	2199.750000	111.250000	1995	2396
+n_CDS_copies	total CDS copies assigned to dictionary clusters (multi-copy counted)	flavescens	7	2188.142857	76.505835	2147.000000	2127.500000	2263.500000	136.000000	2110	2278
+n_clusters	distinct clusters detected (binary presence)	subflava	31	2169.967742	72.464467	2169.000000	2159.500000	2211.500000	52.000000	2021	2296
+n_clusters	distinct clusters detected (binary presence)	perflava	114	2143.131579	82.192146	2136.500000	2082.250000	2193.750000	111.500000	1991	2352
+n_clusters	distinct clusters detected (binary presence)	flavescens	7	2156.285714	57.180166	2134.000000	2120.000000	2187.000000	67.000000	2107	2239
+n_accessory_clusters	distinct Shell+Cloud clusters detected	subflava	31	615.483871	72.953808	616.000000	603.500000	652.000000	48.500000	465	760
+n_accessory_clusters	distinct Shell+Cloud clusters detected	perflava	114	586.640351	84.552034	580.500000	525.250000	634.500000	109.250000	434	799
+n_accessory_clusters	distinct Shell+Cloud clusters detected	flavescens	7	635.000000	53.125637	609.000000	602.000000	668.000000	66.000000	585	711
+n_singletons	distinct singleton clusters (present in exactly 1 of 152 genomes) detected	subflava	31	52.645161	45.761373	52.000000	8.000000	84.000000	76.000000	1	163
+n_singletons	distinct singleton clusters (present in exactly 1 of 152 genomes) detected	perflava	114	31.561404	35.573938	22.000000	11.250000	34.000000	22.750000	1	186
+n_singletons	distinct singleton clusters (present in exactly 1 of 152 genomes) detected	flavescens	7	38.571429	32.351492	21.000000	13.500000	69.000000	55.500000	6	78

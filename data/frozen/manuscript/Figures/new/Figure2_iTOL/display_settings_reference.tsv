@@ -1,0 +1,20 @@
+setting	value	note
+Tree	Figure2_main152_midpoint_iTOL.nwk	Independent main152 ML tree; already midpoint-rooted
+Display mode	Circular	Preserve the circular phylogram layout
+Arc	350 degrees initially	Arc is angular coverage; rotation is a separate control
+Rotation	Adjust to place the gap near upper left	Cosmetic rotation only; do not reroot
+Branch lengths	Use	Keep all supplied branch lengths
+Leaf sorting	Original Newick order initially	No automatic regrouping by annotation
+Leaf labels	Show; Arial; black; bold; aligned	01_tip_labels.txt provides unique strain/isolate names
+Branch color	#888888	Uniform restrained grey
+Branch width	1 px initially	Uniform adjustment after inspection is allowed
+Label connection lines	Show; light grey	Inspect label spacing at final export size
+Native bootstrap / metadata display	Hide	05_branch_support.txt encodes the dual support threshold
+Internal node names / IDs	Hide	Do not display N0001...N0151 on the figure
+Dataset order inside to outside	02 taxonomy status / 03 collection region / 04 tet(M)	23 subflava / 114 perflava / 7 flavescens reference-assigned; 8 unresolved; no PAM
+Track widths	50 / 22 / 12 px	Encoded in color-strip annotation files
+Track margins	5 px	Encoded in color-strip annotation files
+Support symbols	Blue filled circles; maximum size 4 px	SH-aLRT >=80 AND UFBoot >=95; 119 unique edges
+Tree scale box	Show; substitutions per site	Use the actual branch-length scale
+Rooting	Keep the supplied midpoint root	No outgroup and no additional website rerooting
+Tree status	SAME MAIN152 ML TREE; ONLY TAXONOMY STRIP UPDATED	This file is a manual settings reference, not an upload dataset

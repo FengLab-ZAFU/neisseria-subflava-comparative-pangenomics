@@ -1,0 +1,9 @@
+DATASET_SYMBOL
+SEPARATOR TAB
+DATASET_LABEL	SH-aLRT >=80 and UFBoot >=95
+COLOR	#333333
+MAXIMUM_SIZE	5
+DATA
+# Generate real rows only after new152 ML and node-ID mapping. This is NOT a completed dataset.
+# node_id<TAB>2<TAB>1<TAB>#333333<TAB>1<TAB>1<TAB>support label
+# Root has no support. Replace this TEMPLATE filename with 05_branch_support.txt for delivery.

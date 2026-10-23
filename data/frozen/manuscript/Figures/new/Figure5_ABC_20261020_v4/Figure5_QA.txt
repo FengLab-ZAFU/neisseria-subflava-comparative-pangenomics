@@ -1,0 +1,13 @@
+PASS: A/B source tables are identical to the prior approved version.
+PASS: all 203 nucleotide cells, 29 coordinates, row ordering and four support values preserved.
+PASS: no former C-internal titles or explanatory captions in the merged PDF.
+PASS: outer A/B/C markers, coordinates, scale and legends retained.
+PASS: tree-label to matrix gap reduced from 28.22 mm to 11.11 mm (merged 9.08 mm).
+PASS: effective PDF minimum text size 7.967 pt.
+Visual QA: A, B, C and merged figure inspected; label/legend and matrix clearance passed.
+No new inference, sample exclusion, source-sequence edit or manuscript overwrite performed.
+
+PASS: all 322 SVG text elements have effective black fill.
+PASS: reference-group and nucleotide legends are stacked at the right of C; species label is italic N. perflava. Merged and standalone panels inspected.
+Source preflight: 18 PASS, 2 WARN, 0 FAIL per script. Both sources executed successfully. Width warning resolved by explicit 290-mm export contract.
+Tf-only PDF audit limitation: Cairo uses 1-pt Tf operators with a scaling text matrix; Poppler effective glyph-size audit confirms 7.967-pt minimum (see PDF_text_geometry_audit.tsv).

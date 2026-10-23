@@ -1,0 +1,347 @@
+IQ-TREE multicore version 2.4.0 for Windows 64-bit built Feb  7 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    PC03010096 (AVX2, FMA3, 63 GB RAM)
+Command: D:\Work\Neisseria_subflava\.codex_tmp\iqtree_2_4_0_windows\iqtree-2.4.0-Windows\bin\iqtree2.exe -s manuscript\reviews\revision_work\tetM_gene_tree_20261020\all52_direct\full_length52_aligned.fasta -m MFP -keep-ident -B 1000 -alrt 1000 -bnni -T 1 -safe -seed 20261020 -pre manuscript\reviews\revision_work\tetM_gene_tree_20261020\all52_direct\tetM_all52_ML -quiet
+Seed:    20261020 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Oct 20 13:18:42 2026
+Kernel:  Safe AVX+FMA - 1 threads (16 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 16 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file manuscript\reviews\revision_work\tetM_gene_tree_20261020\all52_direct\full_length52_aligned.fasta ... Fasta format detected
+Reading fasta file: done in 0.0013509 secs
+Alignment most likely contains DNA/RNA sequences
+Alignment has 52 sequences with 1935 columns, 19 distinct patterns
+27 parsimony-informative, 2 singleton sites, 1906 constant sites
+                         Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 1.21e-005 secs
+   1  GCA_001810035.1_tetM_L1    0.00%    passed    100.00%
+   2  GCA_001810105.1_tetM_L1    0.00%    passed     99.70%
+   3  GCA_001811065.1_tetM_L1    0.00%    passed    100.00%
+   4  GCA_001811365.1_tetM_L1    0.00%    passed    100.00%
+   5  GCA_001812055.1_tetM_L1    0.00%    passed    100.00%
+   6  GCA_001812725.1_tetM_L1    0.00%    passed    100.00%
+   7  GCA_001812885.1_tetM_L1    0.00%    passed    100.00%
+   8  GCA_001814445.1_tetM_L1    0.00%    passed    100.00%
+   9  GCA_001836315.1_tetM_L1    0.00%    passed    100.00%
+  10  GCA_001837365.1_tetM_L1    0.00%    passed    100.00%
+  11  GCA_001838135.1_tetM_L1    0.00%    passed    100.00%
+  12  GCA_003044385.1_tetM_L1    0.00%    passed    100.00%
+  13  GCA_003044925.1_tetM_L1    0.00%    passed    100.00%
+  14  GCA_014596425.2_tetM_L1    0.00%    passed    100.00%
+  15  GCA_019334725.1_tetM_L1    0.00%    passed    100.00%
+  16  GCA_023635085.1_tetM_L1    0.00%    passed     99.70%
+  17  GCA_024205705.1_tetM_L1    0.00%    passed    100.00%
+  18  GCA_041433205.1_tetM_L1    0.00%    passed    100.00%
+  19  GCA_042536645.1_tetM_L1    0.00%    passed    100.00%
+  20  GCA_042536645.1_tetM_L2    0.00%    passed    100.00%
+  21  GCA_042536675.1_tetM_L1    0.00%    passed    100.00%
+  22  GCA_042536675.1_tetM_L2    0.00%    passed    100.00%
+  23  GCA_042536705.1_tetM_L1    0.00%    passed    100.00%
+  24  GCA_042536705.1_tetM_L2    0.00%    passed    100.00%
+  25  GCA_042557445.1_tetM_L1    0.00%    passed    100.00%
+  26  GCA_042557445.1_tetM_L2    0.00%    passed    100.00%
+  27  GCA_050328825.1_tetM_L1    0.00%    passed    100.00%
+  28  GCA_050328825.1_tetM_L2    0.00%    passed    100.00%
+  29  GCA_050328885.1_tetM_L1    0.00%    passed    100.00%
+  30  GCA_050328885.1_tetM_L2    0.00%    passed    100.00%
+  31  GCA_050328965.1_tetM_L1    0.00%    passed    100.00%
+  32  GCA_050328965.1_tetM_L2    0.00%    passed    100.00%
+  33  GCA_050330235.1_tetM_L1    0.00%    passed    100.00%
+  34  GCA_050330235.1_tetM_L2    0.00%    passed    100.00%
+  35  GCA_051958015.1_tetM_L1    0.00%    passed    100.00%
+  36  GCA_051958105.1_tetM_L1    0.00%    passed    100.00%
+  37  GCA_051958155.1_tetM_L1    0.00%    passed    100.00%
+  38  GCA_051958215.1_tetM_L1    0.00%    passed    100.00%
+  39  GCA_051962655.1_tetM_L1    0.00%    passed    100.00%
+  40  GCA_051962875.1_tetM_L1    0.00%    passed     99.97%
+  41  GCA_051962935.1_tetM_L1    0.00%    passed    100.00%
+  42  GCA_051963175.1_tetM_L1    0.00%    passed     99.98%
+  43  GCA_052073865.1_tetM_L1    0.00%    passed     99.70%
+  44  GCA_052858915.1_tetM_L3    0.00%    passed     99.89%
+  45  GCA_052858915.1_tetM_L4    0.00%    passed    100.00%
+  46  GCA_052858915.1_tetM_L5    0.00%    passed     99.47%
+  47  GCA_052858915.1_tetM_L6    0.00%    passed     99.96%
+  48  GCA_052859265.1_tetM_L3    0.00%    passed     99.89%
+  49  GCA_052859265.1_tetM_L4    0.00%    passed    100.00%
+  50  GCA_052859265.1_tetM_L5    0.00%    passed     99.47%
+  51  GCA_052859265.1_tetM_L6    0.00%    passed     99.96%
+  52  GCA_056638355.1_tetM_L1    0.00%    passed    100.00%
+****  TOTAL                      0.00%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -2858.334
+Optimal log-likelihood: -2858.178
+Rate parameters:  A-C: 0.98888  A-G: 1.91201  A-T: 0.80516  C-G: 0.00010  C-T: 4.61889  G-T: 1.00000
+Warning! Some parameters hit the boundaries
+Base frequencies:  A: 0.340  C: 0.160  G: 0.208  T: 0.291
+Proportion of invariable sites: 0.499
+Gamma shape alpha: 0.020
+Parameters optimization took 1 rounds (0.007 sec)
+Time for fast ML tree search: 0.024 seconds
+
+NOTE: ModelFinder requires 0 MB RAM!
+ModelFinder will test up to 484 DNA models (sample size: 1935 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  GTR+F         2878.056     109 5974.111     5987.251     6581.009
+  2  GTR+F+I       2848.848     110 5917.696     5931.084     6530.161
+  3  GTR+F+G4      2864.347     110 5948.694     5962.082     6561.159
+  4  GTR+F+I+G4    2857.849     111 5937.697     5951.336     6555.730
+  5  GTR+F+R2      2848.540     111 5919.081     5932.720     6537.114
+  6  GTR+F+R3      2848.442     113 5922.884     5937.032     6552.052
+WARNING: Numerical underflow for lh-branch
+Pattern 4 likelihood is underflown
+WARNING: Numerical underflow for lh-branch
+Pattern 4 likelihood is underflown
+WARNING: Numerical underflow for lh-branch
+Pattern 4 likelihood is underflown
+WARNING: Numerical underflow for lh-branch
+Pattern 4 likelihood is underflown
+WARNING: Numerical underflow for lh-branch
+Pattern 4 likelihood is underflown
+WARNING: Numerical underflow for lh-branch
+Pattern 4 likelihood is underflown
+ 14  GTR+F+I+R2    2848.574     112 5921.148     5935.040     6544.748
+ 15  GTR+F+I+R3    2848.479     114 5924.957     5939.364     6559.693
+ 24  SYM+I         2924.991     107 6063.981     6076.632     6659.743
+ 27  SYM+R2        2925.004     108 6066.008     6078.902     6667.337
+ 46  TVM+F+I       2849.870     109 5917.739     5930.879     6524.636
+ 49  TVM+F+R2      2849.910     110 5919.820     5933.208     6532.285
+ 68  TVMe+I        2925.500     106 6062.999     6075.408     6653.193
+ 71  TVMe+R2       2925.543     107 6065.085     6077.735     6660.846
+ 90  TIM3+F+I      2850.274     108 5916.548     5929.442     6517.877
+ 93  TIM3+F+R2     2850.284     109 5918.569     5931.709     6525.466
+112  TIM3e+I       2927.642     105 6065.284     6077.454     6649.909
+115  TIM3e+R2      2927.645     106 6067.290     6079.699     6657.483
+134  TIM2+F+I      2849.235     108 5914.469     5927.363     6515.798
+137  TIM2+F+R2     2849.232     109 5916.464     5929.604     6523.361
+156  TIM2e+I       2926.012     105 6062.025     6074.195     6646.650
+159  TIM2e+R2      2926.046     106 6064.091     6076.501     6654.285
+178  TIM+F+I       2850.261     108 5916.521     5929.415     6517.851
+181  TIM+F+R2      2850.272     109 5918.543     5931.683     6525.441
+200  TIMe+I        2928.007     105 6066.014     6078.185     6650.640
+203  TIMe+R2       2928.016     106 6068.032     6080.441     6658.226
+222  TPM3u+F+I     2851.717     107 5917.434     5930.084     6513.195
+225  TPM3u+F+R2    2851.734     108 5919.469     5932.362     6520.798
+244  TPM3+I        2928.333     104 6064.665     6076.600     6643.723
+247  TPM3+R2       2928.354     105 6066.708     6078.879     6651.334
+266  TPM2u+F+I     2850.453     107 5914.907     5927.557     6510.668
+269  TPM2u+F+R2    2850.460     108 5916.920     5929.814     6518.249
+288  TPM2+I        2926.430     104 6060.861     6072.795     6639.918
+291  TPM2+R2       2926.436     105 6062.872     6075.043     6647.498
+310  K3Pu+F+I      2851.828     107 5917.655     5930.305     6513.416
+313  K3Pu+F+R2     2851.838     108 5919.676     5932.570     6521.005
+332  K3P+I         2928.817     104 6065.634     6077.568     6644.691
+335  K3P+R2        2928.813     105 6067.627     6079.798     6652.252
+354  TN+F+I        2850.419     107 5914.839     5927.489     6510.600
+357  TN+F+R2       2850.464     108 5916.928     5929.822     6518.257
+376  TNe+I         2928.132     104 6064.263     6076.198     6643.321
+379  TNe+R2        2928.130     105 6066.260     6078.430     6650.885
+398  HKY+F+I       2851.868     106 5915.736     5928.146     6505.930
+401  HKY+F+R2      2851.864     107 5917.729     5930.379     6513.490
+420  K2P+I         2928.822     103 6063.645     6075.346     6637.135
+423  K2P+R2        2928.822     104 6065.644     6077.578     6644.702
+442  F81+F+I       2861.283     105 5932.566     5944.737     6517.192
+445  F81+F+R2      2861.282     106 5934.563     5946.973     6524.757
+464  JC+I          2937.381     102 6078.763     6090.232     6646.685
+WARNING: Numerical underflow for lh-branch
+Pattern 4 likelihood is underflown
+Pattern 6 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 12 likelihood is underflown
+Pattern 13 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+WARNING: Numerical underflow for lh-branch
+Pattern 4 likelihood is underflown
+Pattern 6 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 12 likelihood is underflown
+Pattern 13 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+WARNING: Numerical underflow for lh-branch
+Pattern 4 likelihood is underflown
+Pattern 6 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 12 likelihood is underflown
+Pattern 13 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+WARNING: Numerical underflow for lh-branch
+Pattern 4 likelihood is underflown
+Pattern 6 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 12 likelihood is underflown
+Pattern 13 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+WARNING: Numerical underflow for lh-branch
+Pattern 4 likelihood is underflown
+Pattern 6 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 12 likelihood is underflown
+Pattern 13 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+WARNING: Numerical underflow for lh-branch
+Pattern 4 likelihood is underflown
+Pattern 6 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 12 likelihood is underflown
+Pattern 13 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+467  JC+R2         2937.381     103 6080.761     6092.462     6654.251
+Akaike Information Criterion:           TIM2+F+I
+Corrected Akaike Information Criterion: TIM2+F+I
+Bayesian Information Criterion:         HKY+F+I
+Best-fit model: HKY+F+I chosen according to BIC
+
+All model information printed to manuscript\reviews\revision_work\tetM_gene_tree_20261020\all52_direct\tetM_all52_ML.model.gz
+CPU time for ModelFinder: 1.109 seconds (0h:0m:1s)
+Wall-clock time for ModelFinder: 1.108 seconds (0h:0m:1s)
+Generating 1000 samples for ultrafast bootstrap (seed: 20261020)...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -2861.290
+2. Current log-likelihood: -2851.891
+Optimal log-likelihood: -2851.863
+Rate parameters:  A-C: 1.00000  A-G: 5.36984  A-T: 1.00000  C-G: 1.00000  C-T: 5.36984  G-T: 1.00000
+Base frequencies:  A: 0.340  C: 0.160  G: 0.208  T: 0.291
+Proportion of invariable sites: 0.974
+Parameters optimization took 2 rounds (0.002 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0016504 secs
+Computing ML distances took 0.001708 sec (of wall-clock time) 0.000000 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 6.98e-005 secs
+Computing RapidNJ tree took 0.000260 sec (of wall-clock time) 0.000000 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -2851.935
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.145 second
+Computing log-likelihood of 98 initial trees ... 0.113 seconds
+Current best score: -2850.447
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -2850.419
+BETTER TREE FOUND at iteration 2: -2850.419
+BETTER TREE FOUND at iteration 4: -2850.419
+BETTER TREE FOUND at iteration 6: -2850.419
+Iteration 10 / LogL: -2850.419 / Time: 0h:0m:2s
+BETTER TREE FOUND at iteration 13: -2850.419
+Iteration 20 / LogL: -2851.868 / Time: 0h:0m:3s
+Finish initializing candidate tree set (20)
+Current best tree score: -2850.419 / CPU time: 1.957
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -2850.426 / Time: 0h:0m:3s (0h:0m:7s left)
+Iteration 40 / LogL: -2850.426 / Time: 0h:0m:4s (0h:0m:5s left)
+Iteration 50 / LogL: -2858.004 / Time: 0h:0m:4s (0h:0m:4s left)
+Iteration 60 / LogL: -2850.425 / Time: 0h:0m:5s (0h:0m:3s left)
+BETTER TREE FOUND at iteration 61: -2850.419
+Iteration 70 / LogL: -2851.871 / Time: 0h:0m:5s (0h:0m:6s left)
+Iteration 80 / LogL: -2850.419 / Time: 0h:0m:6s (0h:0m:5s left)
+Iteration 90 / LogL: -2850.422 / Time: 0h:0m:6s (0h:0m:4s left)
+Iteration 100 / LogL: -2850.426 / Time: 0h:0m:7s (0h:0m:3s left)
+Iteration 110 / LogL: -2850.426 / Time: 0h:0m:7s (0h:0m:3s left)
+Iteration 120 / LogL: -2858.007 / Time: 0h:0m:8s (0h:0m:2s left)
+BETTER TREE FOUND at iteration 122: -2850.419
+Iteration 130 / LogL: -2850.423 / Time: 0h:0m:8s (0h:0m:5s left)
+BETTER TREE FOUND at iteration 133: -2850.419
+BETTER TREE FOUND at iteration 138: -2850.419
+Iteration 140 / LogL: -2850.429 / Time: 0h:0m:9s (0h:0m:5s left)
+Iteration 150 / LogL: -2850.419 / Time: 0h:0m:9s (0h:0m:5s left)
+Iteration 160 / LogL: -2850.431 / Time: 0h:0m:10s (0h:0m:4s left)
+Iteration 170 / LogL: -2850.428 / Time: 0h:0m:10s (0h:0m:3s left)
+Iteration 180 / LogL: -2897.627 / Time: 0h:0m:11s (0h:0m:3s left)
+Iteration 190 / LogL: -2850.428 / Time: 0h:0m:11s (0h:0m:2s left)
+Iteration 200 / LogL: -2886.858 / Time: 0h:0m:12s (0h:0m:2s left)
+Iteration 210 / LogL: -2850.419 / Time: 0h:0m:12s (0h:0m:1s left)
+Iteration 220 / LogL: -2851.874 / Time: 0h:0m:13s (0h:0m:0s left)
+Iteration 230 / LogL: -2851.876 / Time: 0h:0m:13s (0h:0m:0s left)
+Refining ufboot trees with NNI 1 branch...
+100 samples done
+200 samples done
+300 samples done
+400 samples done
+500 samples done
+600 samples done
+700 samples done
+800 samples done
+900 samples done
+1000 samples done
+Total 989 ufboot trees refined
+TREE SEARCH COMPLETED AFTER 239 ITERATIONS / Time: 0h:0m:28s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -2850.419
+Optimal log-likelihood: -2850.416
+Rate parameters:  A-C: 1.00000  A-G: 5.25154  A-T: 1.00000  C-G: 1.00000  C-T: 5.25154  G-T: 1.00000
+Base frequencies:  A: 0.340  C: 0.160  G: 0.208  T: 0.291
+Proportion of invariable sites: 0.973
+Parameters optimization took 1 rounds (0.001 sec)
+BEST SCORE FOUND : -2850.416
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+0.056 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file manuscript\reviews\revision_work\tetM_gene_tree_20261020\all52_direct\tetM_all52_ML.splits.nex
+Total tree length: 0.025
+
+Total number of iterations: 239
+CPU time used for tree search: 27.672 sec (0h:0m:27s)
+Wall-clock time used for tree search: 27.305 sec (0h:0m:27s)
+Total CPU time used: 29.125 sec (0h:0m:29s)
+Total wall-clock time used: 28.808 sec (0h:0m:28s)
+UFBoot trees printed to manuscript\reviews\revision_work\tetM_gene_tree_20261020\all52_direct\tetM_all52_ML.ufboot
+
+Computing bootstrap consensus tree...
+Reading input file manuscript\reviews\revision_work\tetM_gene_tree_20261020\all52_direct\tetM_all52_ML.splits.nex...
+52 taxa and 1783 splits.
+Consensus tree written to manuscript\reviews\revision_work\tetM_gene_tree_20261020\all52_direct\tetM_all52_ML.contree
+Reading input trees file manuscript\reviews\revision_work\tetM_gene_tree_20261020\all52_direct\tetM_all52_ML.contree
+Log-likelihood of consensus tree: -2850.597
+
+Analysis results written to: 
+  IQ-TREE report:                manuscript\reviews\revision_work\tetM_gene_tree_20261020\all52_direct\tetM_all52_ML.iqtree
+  Maximum-likelihood tree:       manuscript\reviews\revision_work\tetM_gene_tree_20261020\all52_direct\tetM_all52_ML.treefile
+  Likelihood distances:          manuscript\reviews\revision_work\tetM_gene_tree_20261020\all52_direct\tetM_all52_ML.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          manuscript\reviews\revision_work\tetM_gene_tree_20261020\all52_direct\tetM_all52_ML.splits.nex
+  Consensus tree:                manuscript\reviews\revision_work\tetM_gene_tree_20261020\all52_direct\tetM_all52_ML.contree
+  UFBoot trees:                  manuscript\reviews\revision_work\tetM_gene_tree_20261020\all52_direct\tetM_all52_ML.ufboot
+  Screen log file:               manuscript\reviews\revision_work\tetM_gene_tree_20261020\all52_direct\tetM_all52_ML.log
+
+Date and Time: Tue Oct 20 13:19:11 2026

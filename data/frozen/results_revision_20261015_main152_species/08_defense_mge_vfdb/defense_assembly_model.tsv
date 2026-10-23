@@ -1,0 +1,7 @@
+analysis_id	term	estimate	CI_low	CI_high	std_error	t_value	p	unit	status	reason
+main152_primary	(Intercept)	-155.4344048	-345.6309289	34.76211937	96.2364674	-1.615129992	0.1084415519	rank (average ranks of n_complete_systems)	OK	
+main152_primary	species_groupperflava	-39.45219146	-55.35656653	-23.54781639	8.04736511	-4.902498013	2.48955808e-06	rank (average ranks of n_complete_systems)	OK	
+main152_primary	species_groupflavescens	-0.5951363545	-33.41148842	32.22121572	16.60456105	-0.03584173968	0.9714575085	rank (average ranks of n_complete_systems)	OK	
+main152_primary	assembly_classComplete Genome	-8.083890823	-45.14982814	28.98204649	18.75478474	-0.4310308509	0.6670816534	rank (average ranks of n_complete_systems)	OK	
+main152_primary	log1p_n_contigs	4.501114863	-3.069998101	12.07222783	3.830864781	1.174960517	0.2419232056	rank (average ranks of n_complete_systems)	OK	
+main152_primary	genome_size_Mb	107.173063	21.38527236	192.9608537	43.40728075	2.469011216	0.01470194431	rank (average ranks of n_complete_systems)	OK	

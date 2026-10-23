@@ -1,0 +1,12 @@
+feature	n_positive	n_evaluable	display_label	display_order	percent
+family:tetracycline-resistant ribosomal protection protein	38	152	Tetracycline RPP	1	25
+family:small multidrug resistance (SMR) antibiotic efflux pump	7	152	SMR efflux pump	2	4.60526315789474
+family:APH(3'')	4	152	APH(3'')	3	2.63157894736842
+family:APH(6)	4	152	APH(6)	4	2.63157894736842
+family:TEM beta-lactamase	3	152	TEM beta-lactamase	5	1.97368421052632
+family:sulfonamide resistant sul	3	152	Sulfonamide-resistant Sul	6	1.97368421052632
+family:major facilitator superfamily (MFS) antibiotic efflux pump	2	152	MFS efflux pump	7	1.31578947368421
+family:APH(3')	1	152	APH(3')	8	0.657894736842105
+family:ROB beta-lactamase	1	152	ROB beta-lactamase	9	0.657894736842105
+family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	1	152	MFS efflux pump / efflux regulatory protein	10	0.657894736842105
+family:streptothricin acetyltransferase (SAT)	1	152	Streptothricin acetyltransferase	11	0.657894736842105

@@ -1,0 +1,5 @@
+group	n_max	pan_nmax_matrix_union	pan_nmax_curve_unique_values	pan_nmax_match	core_nmax_matrix_intersection	core_nmax_curve_unique_values	core_nmax_match	n1_pan_mean_curve	n1_pan_mean_expected_pergenome	n1_mc_se	n1_within_5se_and_values_subset
+pooled152	152	13215	13215	True	1118	1118	True	2151.207000	2149.210526	2.519391	True
+subflava	31	6542	6542	True	1451	1451	True	2169.778000	2169.967742	2.291528	True
+perflava	114	10206	10206	True	1284	1284	True	2138.320000	2143.131579	2.599144	True
+flavescens	7	3068	3068	True	1649	1649	True	2160.078000	2156.285714	1.808196	True

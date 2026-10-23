@@ -1,0 +1,169 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Collection region
+COLOR	#555555
+STRIP_WIDTH	22
+MARGIN	5
+BORDER_WIDTH	0
+BORDER_COLOR	#888888
+COLOR_BRANCHES	0
+SHOW_STRIP_LABELS	0
+SHOW_LABELS	0
+LEGEND_VISIBLE	1
+LEGEND_TITLE	Collection region
+LEGEND_SHAPES	1	1	1	1
+LEGEND_COLORS	#4C78A8	#59A14F	#F28E2B	#B8B8B8
+LEGEND_LABELS	United States	East / Southeast Asia	Europe	Unknown / not applicable
+DATA
+GCA_000173955.1	#B8B8B8	Unknown / not applicable
+GCA_001809345.1	#B8B8B8	Unknown / not applicable
+GCA_001810035.1	#B8B8B8	Unknown / not applicable
+GCA_051957375.1	#4C78A8	United States
+GCA_051957755.1	#4C78A8	United States
+GCA_001811065.1	#B8B8B8	Unknown / not applicable
+GCA_001812055.1	#B8B8B8	Unknown / not applicable
+GCA_001812885.1	#B8B8B8	Unknown / not applicable
+GCA_001812725.1	#B8B8B8	Unknown / not applicable
+GCA_041433205.1	#F28E2B	Europe
+GCA_038738605.1	#4C78A8	United States
+GCA_058214815.1	#F28E2B	Europe
+GCA_001811945.1	#B8B8B8	Unknown / not applicable
+GCA_051963075.1	#4C78A8	United States
+GCA_001814095.1	#B8B8B8	Unknown / not applicable
+GCA_963394995.1	#B8B8B8	Unknown / not applicable
+GCA_900654165.1	#B8B8B8	Unknown / not applicable
+GCA_051956975.1	#4C78A8	United States
+GCA_051958535.1	#4C78A8	United States
+GCA_051963435.1	#4C78A8	United States
+GCA_051963515.1	#4C78A8	United States
+GCA_003044525.1	#4C78A8	United States
+GCA_023472875.1	#B8B8B8	Unknown / not applicable
+GCA_001811855.1	#B8B8B8	Unknown / not applicable
+GCA_051962735.1	#4C78A8	United States
+GCA_051962805.1	#4C78A8	United States
+GCA_003044355.1	#4C78A8	United States
+GCA_003044585.1	#4C78A8	United States
+GCA_042536745.1	#F28E2B	Europe
+GCA_042536955.1	#F28E2B	Europe
+GCA_900654185.1	#B8B8B8	Unknown / not applicable
+GCA_051962935.1	#4C78A8	United States
+GCA_946902045.1	#B8B8B8	Unknown / not applicable
+GCA_001618075.1	#F28E2B	Europe
+GCA_001815375.1	#B8B8B8	Unknown / not applicable
+GCA_002847985.1	#4C78A8	United States
+GCA_002863305.2	#4C78A8	United States
+GCA_003044925.1	#4C78A8	United States
+GCA_052858915.1	#59A14F	East / Southeast Asia
+GCA_052859265.1	#59A14F	East / Southeast Asia
+GCA_003351665.1	#B8B8B8	Unknown / not applicable
+GCA_003044935.1	#4C78A8	United States
+GCA_051962855.1	#4C78A8	United States
+GCA_041433145.1	#F28E2B	Europe
+GCA_963396215.1	#B8B8B8	Unknown / not applicable
+GCA_014596425.2	#F28E2B	Europe
+GCA_051956595.1	#4C78A8	United States
+GCA_051956655.1	#4C78A8	United States
+GCA_052858825.1	#59A14F	East / Southeast Asia
+GCA_052858845.1	#59A14F	East / Southeast Asia
+GCA_051963175.1	#4C78A8	United States
+GCA_052859025.1	#59A14F	East / Southeast Asia
+GCA_041433255.1	#F28E2B	Europe
+GCA_001618085.1	#F28E2B	Europe
+GCA_001837185.1	#B8B8B8	Unknown / not applicable
+GCA_052859205.1	#59A14F	East / Southeast Asia
+GCA_041433265.1	#F28E2B	Europe
+GCA_050330235.1	#4C78A8	United States
+GCA_051958155.1	#4C78A8	United States
+GCA_051958215.1	#4C78A8	United States
+GCA_042536725.1	#F28E2B	Europe
+GCA_042536675.1	#F28E2B	Europe
+GCA_042557445.1	#4C78A8	United States
+GCA_051957155.1	#4C78A8	United States
+GCA_001618065.1	#F28E2B	Europe
+GCA_003044645.1	#4C78A8	United States
+GCA_001811365.1	#B8B8B8	Unknown / not applicable
+GCA_001814445.1	#B8B8B8	Unknown / not applicable
+GCA_001837365.1	#B8B8B8	Unknown / not applicable
+GCA_001836315.1	#B8B8B8	Unknown / not applicable
+GCA_050328825.1	#4C78A8	United States
+GCA_050328885.1	#4C78A8	United States
+GCA_050328965.1	#4C78A8	United States
+GCA_051958015.1	#4C78A8	United States
+GCA_051958105.1	#4C78A8	United States
+GCA_051962655.1	#4C78A8	United States
+GCA_001838135.1	#B8B8B8	Unknown / not applicable
+GCA_024205705.1	#59A14F	East / Southeast Asia
+GCA_051957115.1	#4C78A8	United States
+GCA_041433235.1	#F28E2B	Europe
+GCA_042536705.1	#F28E2B	Europe
+GCA_050329205.1	#4C78A8	United States
+GCA_042537005.1	#F28E2B	Europe
+GCA_052859065.1	#59A14F	East / Southeast Asia
+GCA_042537145.1	#B8B8B8	Unknown / not applicable
+GCA_001808255.1	#B8B8B8	Unknown / not applicable
+GCA_050329065.1	#4C78A8	United States
+GCA_003044965.1	#4C78A8	United States
+GCA_050329085.1	#4C78A8	United States
+GCA_051958545.1	#4C78A8	United States
+GCA_003044385.1	#4C78A8	United States
+GCA_019334725.1	#59A14F	East / Southeast Asia
+GCA_003044845.1	#4C78A8	United States
+GCA_003045025.1	#4C78A8	United States
+GCA_042557545.1	#59A14F	East / Southeast Asia
+GCA_001809585.1	#B8B8B8	Unknown / not applicable
+GCA_051957235.1	#4C78A8	United States
+GCA_051957315.1	#4C78A8	United States
+GCA_051957275.1	#4C78A8	United States
+GCA_001815615.1	#B8B8B8	Unknown / not applicable
+GCA_001837635.1	#B8B8B8	Unknown / not applicable
+GCA_003044665.1	#4C78A8	United States
+GCA_051962875.1	#4C78A8	United States
+GCA_030218065.1	#4C78A8	United States
+GCA_056638355.1	#F28E2B	Europe
+GCA_051957055.1	#4C78A8	United States
+GCA_001812605.1	#B8B8B8	Unknown / not applicable
+GCA_042557505.2	#F28E2B	Europe
+GCA_042666255.1	#B8B8B8	Unknown / not applicable
+GCA_051963555.1	#4C78A8	United States
+GCA_051963675.1	#4C78A8	United States
+GCA_051963575.1	#4C78A8	United States
+GCA_042536645.1	#F28E2B	Europe
+GCA_042536765.1	#F28E2B	Europe
+GCA_001810105.1	#B8B8B8	Unknown / not applicable
+GCA_052859045.1	#59A14F	East / Southeast Asia
+GCA_023635085.1	#59A14F	East / Southeast Asia
+GCA_024205785.1	#59A14F	East / Southeast Asia
+GCA_024205745.1	#59A14F	East / Southeast Asia
+GCA_052073865.1	#F28E2B	Europe
+GCA_052859165.1	#59A14F	East / Southeast Asia
+GCA_024205725.1	#59A14F	East / Southeast Asia
+GCA_001812735.1	#B8B8B8	Unknown / not applicable
+GCA_051957095.1	#4C78A8	United States
+GCA_041433195.1	#F28E2B	Europe
+GCA_050328165.1	#4C78A8	United States
+GCA_963395055.1	#B8B8B8	Unknown / not applicable
+GCA_001815685.1	#B8B8B8	Unknown / not applicable
+GCA_900654195.1	#B8B8B8	Unknown / not applicable
+GCA_005221305.1	#B8B8B8	Unknown / not applicable
+GCA_963396255.1	#B8B8B8	Unknown / not applicable
+GCA_023635065.1	#59A14F	East / Southeast Asia
+GCA_023635105.1	#59A14F	East / Southeast Asia
+GCA_050328445.1	#4C78A8	United States
+GCA_050328485.1	#4C78A8	United States
+GCA_050332295.1	#4C78A8	United States
+GCA_963396245.1	#F28E2B	Europe
+GCA_051957575.1	#4C78A8	United States
+GCA_051958375.1	#4C78A8	United States
+GCA_051958425.1	#4C78A8	United States
+GCA_051958415.1	#4C78A8	United States
+GCA_051958495.1	#4C78A8	United States
+GCA_963395005.1	#B8B8B8	Unknown / not applicable
+GCA_963396205.1	#B8B8B8	Unknown / not applicable
+GCA_963396265.1	#B8B8B8	Unknown / not applicable
+GCA_000173935.1	#B8B8B8	Unknown / not applicable
+GCA_900453805.1	#B8B8B8	Unknown / not applicable
+GCA_963394965.1	#B8B8B8	Unknown / not applicable
+GCA_042536925.1	#F28E2B	Europe
+GCA_901873995.1	#B8B8B8	Unknown / not applicable
+GCA_042537275.1	#59A14F	East / Southeast Asia
+GCA_042537445.1	#59A14F	East / Southeast Asia

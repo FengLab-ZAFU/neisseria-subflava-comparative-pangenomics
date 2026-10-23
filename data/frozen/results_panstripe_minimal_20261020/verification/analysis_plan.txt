@@ -1,0 +1,11 @@
+Analysis frozen before fitting: Panstripe 0.4.0, commit 7843a8d6c25269dc1ae30d52480d45274fa51092.
+Input: primary PGAP2 orth98 binary dictionary and current 152-tip unmasked ML tree.
+Overall model: all 152 genomes. Group models: reference-assigned 23/114/7; exclude eight unresolved genomes from group comparisons.
+Root primary tree by midpoint; retain substitutions/site and identical pairwise distances after pruning. No time-rate interpretation.
+No recombination masking is performed. This is a conditional analysis and does not fulfill a claim of recombination-corrected rates.
+ASR: maximum parsimony. Formula: acc ~ 0 + istip + core + depth + istip:core.
+Start with default Tweedie. Inspect convergence, rank, finite coefficients, bootstrap failures and small-group leverage before inference.
+Pilot has nboot=0 and is not inferential evidence. Formal target 1000 branch-bootstrap replicates with archived seeds.
+A Gaussian sensitivity/fallback may be used if Tweedie fails numerical diagnostics; report both families and do not select by P values.
+Pairwise compare_pangenomes comparisons are conditional on shared dictionary, tree scale and non-independent phylogenetic context; adjust the three core-term group comparisons by BH.
+Do not replace failed estimates with zero or omit failed comparisons. Record root/tree sensitivity and all estimation failures.

@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "original_curve_values_restored": true,
+  "all_other_panel_data_unchanged": true,
+  "S2_restored_byte_identical": true,
+  "zip_members_match_directory": true,
+  "curve_endpoint": 1118,
+  "label": "Core",
+  "display_definition": "shared by all genomes sampled at each depth",
+  "min_actual_pdf_font_pt": 5.975079,
+  "all_fonts_embedded": true
+}

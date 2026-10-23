@@ -1,0 +1,63 @@
+species_group	study_namespace	source_BioProject	n_genomes	species_total	within_species_proportion	participant_status_counts	assembly_level_counts	tetM_positive	tetM_negative	tetM_indeterminate	tetM_missing
+flavescens	ITM_PRJNA703317	PRJNA703317	1	7	0.142857	identifiable=1	Contig=1	0	1	0	0
+flavescens	PRJEB2090	PRJEB2090	1	7	0.142857	not_applicable=1	Contig=1	0	1	0	0
+flavescens	PRJEB32184	PRJEB32184	1	7	0.142857	unknown=1	Contig=1	0	1	0	0
+flavescens	PRJEB35093	PRJEB35093	2	7	0.285714	unknown=2	Contig=2	0	2	0	0
+flavescens	PRJEB6403	PRJEB6403	1	7	0.142857	not_applicable=1	Contig=1	0	1	0	0
+flavescens	PRJNA30473	PRJNA30473	1	7	0.142857	unknown=1	Contig=1	0	1	0	0
+perflava	ITM_PRJNA703317	PRJNA703317	8	114	0.070175	identifiable=8	Contig=8	3	5	0	0
+perflava	PRJDB17561	PRJDB17561	1	114	0.008772	unknown=1	Contig=1	0	1	0	0
+perflava	PRJEB2090	PRJEB2090	2	114	0.017544	not_applicable=2	Contig=2	0	2	0	0
+perflava	PRJEB30649	PRJEB30649	2	114	0.017544	unknown=2	Contig=2	0	2	0	0
+perflava	PRJEB55195	PRJEB55195	1	114	0.008772	unknown=1	Complete Genome=1	0	1	0	0
+perflava	PRJEB56918	PRJEB56918	1	114	0.008772	unknown=1	Contig=1	0	1	0	0
+perflava	PRJNA1322130	PRJNA1322130	7	114	0.061404	unknown=7	Contig=7	2	5	0	0
+perflava	PRJNA1446065	PRJNA1446065	1	114	0.008772	unknown=1	Contig=1	1	0	0	0
+perflava	PRJNA269675	PRJNA269675	1	114	0.008772	unknown=1	Contig=1	0	1	0	0
+perflava	PRJNA269876	PRJNA269876	1	114	0.008772	unknown=1	Scaffold=1	0	1	0	0
+perflava	PRJNA274665	PRJNA274665	3	114	0.026316	unknown=3	Contig=3	0	3	0	0
+perflava	PRJNA296167	PRJNA296167	1	114	0.008772	unknown=1	Scaffold=1	1	0	0	0
+perflava	PRJNA296174	PRJNA296174	1	114	0.008772	unknown=1	Scaffold=1	1	0	0	0
+perflava	PRJNA296208	PRJNA296208	1	114	0.008772	unknown=1	Scaffold=1	0	1	0	0
+perflava	PRJNA296213	PRJNA296213	1	114	0.008772	unknown=1	Scaffold=1	0	1	0	0
+perflava	PRJNA296215	PRJNA296215	1	114	0.008772	unknown=1	Scaffold=1	0	1	0	0
+perflava	PRJNA296240	PRJNA296240	1	114	0.008772	unknown=1	Scaffold=1	0	1	0	0
+perflava	PRJNA296276	PRJNA296276	1	114	0.008772	unknown=1	Scaffold=1	1	0	0	0
+perflava	PRJNA296303	PRJNA296303	1	114	0.008772	unknown=1	Scaffold=1	1	0	0	0
+perflava	PRJNA299932	PRJNA299932	1	114	0.008772	unknown=1	Scaffold=1	1	0	0	0
+perflava	PRJNA299951	PRJNA299951	1	114	0.008772	unknown=1	Scaffold=1	1	0	0	0
+perflava	PRJNA299978	PRJNA299978	1	114	0.008772	unknown=1	Scaffold=1	0	1	0	0
+perflava	PRJNA299982	PRJNA299982	1	114	0.008772	unknown=1	Scaffold=1	0	1	0	0
+perflava	PRJNA299988	PRJNA299988	1	114	0.008772	unknown=1	Scaffold=1	1	0	0	0
+perflava	PRJNA300019	PRJNA300019	1	114	0.008772	unknown=1	Scaffold=1	0	1	0	0
+perflava	PRJNA300025	PRJNA300025	1	114	0.008772	unknown=1	Scaffold=1	1	0	0	0
+perflava	PRJNA300034	PRJNA300034	1	114	0.008772	unknown=1	Scaffold=1	1	0	0	0
+perflava	PRJNA300106	PRJNA300106	1	114	0.008772	unknown=1	Scaffold=1	0	1	0	0
+perflava	PRJNA300126	PRJNA300126	1	114	0.008772	unknown=1	Scaffold=1	1	0	0	0
+perflava	PRJNA300175	PRJNA300175	1	114	0.008772	unknown=1	Scaffold=1	0	1	0	0
+perflava	PRJNA300190	PRJNA300190	1	114	0.008772	unknown=1	Scaffold=1	0	1	0	0
+perflava	PRJNA30483	PRJNA30483	1	114	0.008772	unknown=1	Contig=1	0	1	0	0
+perflava	PRJNA305687	PRJNA305687	1	114	0.008772	not_applicable=1	Contig=1	0	1	0	0
+perflava	PRJNA316969	PRJNA316969	3	114	0.026316	unknown=3	Complete Genome=1; Contig=1; Scaffold=1	0	3	0	0
+perflava	PRJNA328015	PRJNA328015	1	114	0.008772	unknown=1	Complete Genome=1	1	0	0	0
+perflava	PRJNA428178	PRJNA428178	1	114	0.008772	unknown=1	Complete Genome=1	0	1	0	0
+perflava	PRJNA428750	PRJNA428750	11	114	0.096491	not_applicable=11	Contig=11	2	9	0	0
+perflava	PRJNA578828	PRJNA578828	5	114	0.043860	unknown=5	Contig=5	1	4	0	0
+perflava	PRJNA595761	PRJNA595761	1	114	0.008772	unknown=1	Contig=1	0	1	0	0
+perflava	PRJNA644200	PRJNA644200	1	114	0.008772	unknown=1	Contig=1	0	1	0	0
+perflava	PRJNA714914	PRJNA714914	1	114	0.008772	unknown=1	Complete Genome=1	1	0	0	0
+perflava	PRJNA744662	PRJNA744662	1	114	0.008772	unknown=1	Complete Genome=1	1	0	0	0
+perflava	PRJNA747821	PRJNA747821	1	114	0.008772	unknown=1	Contig=1	1	0	0	0
+perflava	PRJNA970254	PRJNA970254	1	114	0.008772	unknown=1	Contig=1	0	1	0	0
+perflava	Regan2026_Rochester_study	PRJNA1208441	37	114	0.324561	identifiable=37	Contig=7; Scaffold=30	12	25	0	0
+subflava	PRJEB2090	PRJEB2090	6	31	0.193548	not_applicable=6	Contig=6	0	6	0	0
+subflava	PRJEB30649	PRJEB30649	1	31	0.032258	unknown=1	Contig=1	0	1	0	0
+subflava	PRJNA1305711	PRJNA1305711	1	31	0.032258	unknown=1	Contig=1	1	0	0	0
+subflava	PRJNA1322130	PRJNA1322130	2	31	0.064516	unknown=2	Contig=2	0	2	0	0
+subflava	PRJNA296307	PRJNA296307	1	31	0.032258	unknown=1	Scaffold=1	1	0	0	0
+subflava	PRJNA300026	PRJNA300026	1	31	0.032258	unknown=1	Scaffold=1	0	1	0	0
+subflava	PRJNA300195	PRJNA300195	1	31	0.032258	unknown=1	Scaffold=1	0	1	0	0
+subflava	PRJNA533546	PRJNA533546	1	31	0.032258	not_applicable=1	Complete Genome=1	0	1	0	0
+subflava	PRJNA578828	PRJNA578828	1	31	0.032258	unknown=1	Contig=1	0	1	0	0
+subflava	PRJNA714914	PRJNA714914	6	31	0.193548	not_applicable=1; unknown=5	Complete Genome=3; Contig=3	1	5	0	0
+subflava	Regan2026_Rochester_study	PRJNA1208441	10	31	0.322581	identifiable=10	Contig=4; Scaffold=6	0	10	0	0

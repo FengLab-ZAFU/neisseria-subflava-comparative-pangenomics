@@ -1,3 +1,0 @@
-grouping	n_genomes	n_groups	F	p_value	permutations
-PAM_cluster	139	6	250.951273220199	0.001	999
-operational_genospecies	139	3	14.7201641430787	0.001	999

@@ -1,0 +1,7 @@
+step	rule	n_remaining	n_excluded_at_step
+0_frozen	Neisseria taxid 482, --assembly-version current, no source/MAG/atypical filters	73686	0
+1_status	assembly_status == current (excl. suppressed)	67716	1212
+2_source	GenBank only (drop RefSeq-only)	63219	4497
+3_atypical	exclude atypical	62958	261
+4_mag	exclude MAG	62958	0
+5_species	exclude gonorrhoeae/meningitidis subtree taxids (final screening scope)	1303	66413

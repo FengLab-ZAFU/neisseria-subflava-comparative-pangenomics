@@ -1,0 +1,22 @@
+{
+ "module": "M5 species-association clusters + COG functional comparison",
+ "run_id": "main152_20261015",
+ "seed": 20261015,
+ "hostname": "gkhzr0024",
+ "finished_utc": "2026-10-15T05:04:54Z",
+ "python": "3.14.6",
+ "R": "Rscript (R) version 4.3.3 (2024-02-29)",
+ "fisher_method": "R stats::fisher.test two-sided, conditional MLE OR/CI",
+ "hash_normalization": "uppercase, whitespace removed, exactly one trailing '*' removed; internal '*' retained",
+ "bridge_source": "emapper-3.0.0-beta6 annotations of revision_20261001 PGAP2 proteins (609,982), COG IDs translated via db/cog-24.def.tab; md5 cross-check vs results_revision_20261010_phaseB_v7 hash_bridge_db.tsv fully concordant",
+ "supplement": "supplement_emapper/ : emapper-3.0.0-beta6 SIF + eggNOG DB 7.0.0 (same snapshot as historical run) on the 2,854 unique sequences absent from the historical bridge (input preserved as supplement_emapper/input_unmatched_proteins.fasta), 16 CPU, 2026-10-15T04:22:48Z-04:54:38Z; 2,730 queries scanned, 2,666 annotation rows, 188 queries without emapper row -> matched_no_emapper_row; working file 06_function/unmatched_proteins.fasta is empty after the merge",
+ "scripts": [
+  "m5_01_build_bridge.py",
+  "m5_02_supp_emapper.sh",
+  "m5_03_association_prep.py",
+  "m5_04_fisher.R",
+  "m5_05_finalize_association.py",
+  "m5_06_cog_enrichment.py",
+  "m5_07_coverage.py"
+ ]
+}

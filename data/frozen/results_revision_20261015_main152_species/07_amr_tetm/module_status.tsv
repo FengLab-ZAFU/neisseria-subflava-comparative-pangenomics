@@ -1,0 +1,2 @@
+module	status	reason
+M6_amr_tetm	PASS	152/152 RGI reused_verified (0 missing/indeterminate); tetM 38 positive_complete / 114 negative; 152/152 concordant with display tetM_state (38/114); 57/57 loci re-verified against raw blast; 9 VALID Fisher tests in AMR_prevalence family (3 q<0.05); 0 BLOCKED

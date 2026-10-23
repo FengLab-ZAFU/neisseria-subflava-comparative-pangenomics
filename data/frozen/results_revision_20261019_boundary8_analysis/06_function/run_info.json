@@ -1,0 +1,42 @@
+{
+  "module": "C",
+  "date": "2026-10-19",
+  "dictionary_id": "pgap2_main152_orth0.98",
+  "parameters": {
+    "carrier_minimum": 5,
+    "carrier_denominator": "primary144_evaluable_genomes",
+    "fisher_alternative": "two.sided",
+    "OR": "conditional_MLE",
+    "CI": 0.95,
+    "candidate_target_frequency_gt": 0.8,
+    "candidate_rest_frequency_lt": 0.2,
+    "candidate_q_lt": 0.05,
+    "use_unrounded_thresholds": true
+  },
+  "bh_families": {
+    "gene_species_main": 9495,
+    "COG_species_associated": 72
+  },
+  "counts": {
+    "clusters_total": 13215,
+    "clusters_eligible_for_association": 3165,
+    "association_tests_total": 9495,
+    "association_tests_tested": 9495,
+    "association_tests_not_estimable": 0,
+    "associated_candidates_total": 181,
+    "associated_candidates_by_group": {
+      "subflava": 36,
+      "perflava": 26,
+      "flavescens": 119
+    },
+    "cog_enrichment_tests_total": 72,
+    "cog_enrichment_tests_tested": 72,
+    "cog_enrichment_q_lt_0.05": 1,
+    "cog_enriched_categories": [],
+    "cog_enriched_inf_categories": [],
+    "cog_depleted_categories": [
+      "assoc_flavescens:X(OR=0)"
+    ]
+  },
+  "status": "PASS"
+}

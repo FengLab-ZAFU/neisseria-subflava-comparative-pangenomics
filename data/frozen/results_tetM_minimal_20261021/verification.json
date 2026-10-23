@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "independent_midpoint_parsimony": true,
+  "reference_alignments_gap_free": true,
+  "public_records": 60,
+  "loci_sequence_verified": 57,
+  "carriers": 38,
+  "original_S4_cells_preserved": 2978,
+  "S4_cells_verified": 3416,
+  "changed_package_files": [
+    "03_Supplementary_tables/Supplementary_Table_S4.xlsx",
+    "Figure_and_table_legends.md"
+  ],
+  "zip_members": 25,
+  "zip_sha256": "49637140527e967ea22e277e62e36df31977154889578fb9d314007f316148c3",
+  "manuscript_sha256": "23ace685013a5e47046e6e9671a84d88a5954d8731b427e955582f9c5521b755",
+  "haplotype_mapping_52_loci_verified": true,
+  "visual_review": "PASS"
+}

@@ -1,0 +1,31 @@
+{
+ "old_emapper_rows": 589404,
+ "old_proteins": 609982,
+ "old_unique_seq_hashes": 201857,
+ "new_proteins": 328376,
+ "new_unique_seq_hashes": 127316,
+ "occurrence_rows": 328376,
+ "occ_to_annot_missing_joins": 0,
+ "cluster_membership_mismatches_detail_vs_occurrence": 0,
+ "membership_mismatch_examples": [],
+ "copy_state_counts": {
+  "matched_no_emapper_row": 11365,
+  "annotated": 292342,
+  "matched_no_cog": 24669
+ },
+ "hist_md5_crosscheck": {
+  "hist_rows": 201857,
+  "md5_matched": 201857,
+  "md5_missing_in_new_bridge": 0,
+  "state_concordant": 201857,
+  "state_discordant": 0,
+  "letters_concordant": 201857,
+  "letters_discordant": 0,
+  "discordant_examples": []
+ },
+ "supplement_emapper_file": "results_revision_20261015_main152_species/06_function/supplement_emapper/m5_supp.emapper.annotations",
+ "supplement_rows": 2854,
+ "supplement_queries_without_emapper_row": 188,
+ "unique_unmatched_after_supplement": 0,
+ "normalization": "uppercase, whitespace removed, exactly one trailing '*' removed; internal '*' retained"
+}

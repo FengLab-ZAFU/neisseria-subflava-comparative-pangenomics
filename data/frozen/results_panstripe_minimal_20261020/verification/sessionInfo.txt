@@ -1,0 +1,28 @@
+R version 4.5.2 (2025-10-31 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 10 x64 (build 19045)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] C
+system code page: 65001
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] jsonlite_2.0.0  panstripe_0.4.0 phangorn_2.12.1 ape_5.8-1      
+
+loaded via a namespace (and not attached):
+ [1] vctrs_0.7.3      nlme_3.1-168     cli_3.6.5        rlang_1.2.0     
+ [5] purrr_1.2.0      generics_0.1.4   glue_1.8.0       quadprog_1.5-8  
+ [9] grid_4.5.2       tibble_3.3.0     lifecycle_1.0.5  compiler_4.5.2  
+[13] dplyr_1.2.1      codetools_0.2-20 igraph_2.2.1     Rcpp_1.1.0      
+[17] pkgconfig_2.0.3  fastmatch_1.1-8  lattice_0.22-7   digest_0.6.39   
+[21] R6_2.6.1         tidyselect_1.2.1 pillar_1.11.1    parallel_4.5.2  
+[25] magrittr_2.0.4   Matrix_1.7-4     boot_1.3-32     

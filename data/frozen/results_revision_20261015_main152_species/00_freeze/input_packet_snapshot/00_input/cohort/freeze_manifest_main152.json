@@ -1,0 +1,23 @@
+{
+  "freeze_id": "main152_species_comparison_20261015",
+  "parent_cohort": "revision_primary_v7_main169",
+  "n_main": 152,
+  "n_excluded_non_unique_assignment": 17,
+  "groups": {
+    "subflava": 31,
+    "perflava": 114,
+    "flavescens": 7
+  },
+  "inclusion_rule": "retain one qualifying type-reference species channel and ANI margin >=0.10 percentage points; inherit parent cohort QC/provenance/dereplication checks",
+  "grouping_for_downstream": "reference-based species assignment",
+  "PAM": "removed_from_new_primary_analysis",
+  "main152_accessions_sha256": "5edbf93fa8e1f79f11fa2ec605979b64c81fe9761edb5e379666326dad536752",
+  "local_fasta_status": {
+    "LOCAL_MISSING": 84,
+    "HASH_MATCH": 67,
+    "LOCAL_PRESENT_HASH_DIFF": 1
+  },
+  "new_independent_phylogeny": "NOT_RUN",
+  "new_independent_PGAP2_main152": "NOT_RUN",
+  "current_152_matrix_subset_results": "PRELIMINARY_SENSITIVITY_ONLY"
+}

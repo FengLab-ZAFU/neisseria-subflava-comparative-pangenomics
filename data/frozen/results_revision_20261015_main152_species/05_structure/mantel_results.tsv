@@ -1,0 +1,3 @@
+analysis_id	feature_set	test	permutation_design	n	statistic	R2	p	B_used	status	reason	interpretation
+mantel_patristic_vs_shell_cloud	shell_cloud	Mantel_Pearson	free_whole_genome_labels	152	0.796627	NA	0.001000	999	TESTED		descriptive correlation only; not phylogenetic-confound control
+mantel_patristic_vs_all_variable	all_variable	Mantel_Pearson	free_whole_genome_labels	152	0.737158	NA	0.001000	999	TESTED		descriptive correlation only; not phylogenetic-confound control

@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "tips": 152,
+  "reference_group_and_status_counts": {
+    "flavescens": 7,
+    "perflava": 114,
+    "unresolved_species": 8,
+    "subflava": 23
+  },
+  "gray_tips_exact_boundary8": true,
+  "all_four_tip_files_exact152": true,
+  "tree_byte_identical_to_previous": true,
+  "other_four_annotation_files_byte_identical": true,
+  "tree_sha256": "e2c02aed734c1e926e877f34ca760e213d149dafea55ca28618b4e88f9c710c7",
+  "unrooted_RF": 0,
+  "nontrivial_splits": 149,
+  "max_abs_patristic_diff": 9.71445146547012e-17,
+  "internal_nodes": 151,
+  "support_symbols": 119,
+  "tetM_counts": {
+    "negative": 114,
+    "positive_complete": 38
+  },
+  "website_import_performed": false
+}

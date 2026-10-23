@@ -1,0 +1,37 @@
+feature	target_group	n_total	n_evaluable	n_positive	proportion	wilson_low	wilson_high	target_frequency	rest_frequency	OR	CI_low	CI_high	p	q	status	reason
+gene:tet(M)	subflava	11	11	0	0	0	0.258833	0	0.297619047619048	0	0	1.03579352207698	0.0616315289851635	0.0924472934777453	VALID	
+gene:tet(M)	perflava	78	78	25	0.320513	0.227482	0.430393	0.320512820512821	0	Inf	1.74700727331979	Inf	0.00485409713355106	0.0145622914006532	VALID	
+gene:tet(M)	flavescens	6	6	0	0	0	0.390334	0	0.280898876404494	0	0	2.3536115282801	0.33535994042442	0.33535994042442	VALID	
+family:APH(3'')	subflava	11	11	0	0	0	0.258833	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:APH(3'')	perflava	78	78	0	0	0	0.046938	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:APH(3'')	flavescens	6	6	0	0	0	0.390334	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:APH(3')	subflava	11	11	0	0	0	0.258833	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:APH(3')	perflava	78	78	0	0	0	0.046938	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:APH(3')	flavescens	6	6	0	0	0	0.390334	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:APH(6)	subflava	11	11	0	0	0	0.258833	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:APH(6)	perflava	78	78	0	0	0	0.046938	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:APH(6)	flavescens	6	6	0	0	0	0.390334	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:ROB beta-lactamase	subflava	11	11	0	0	0	0.258833	0	0.0119047619047619	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:ROB beta-lactamase	perflava	78	78	1	0.012821	0.002267	0.069109	0.0128205128205128	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:ROB beta-lactamase	flavescens	6	6	0	0	0	0.390334	0	0.0112359550561798	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:TEM beta-lactamase	subflava	11	11	0	0	0	0.258833	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:TEM beta-lactamase	perflava	78	78	0	0	0	0.046938	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:TEM beta-lactamase	flavescens	6	6	0	0	0	0.390334	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:major facilitator superfamily (MFS) antibiotic efflux pump	subflava	11	11	1	0.090909	0.016232	0.377358	0.0909090909090909	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:major facilitator superfamily (MFS) antibiotic efflux pump	perflava	78	78	0	0	0	0.046938	0	0.0588235294117647	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:major facilitator superfamily (MFS) antibiotic efflux pump	flavescens	6	6	0	0	0	0.390334	0	0.0112359550561798	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	subflava	11	11	0	0	0	0.258833	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	perflava	78	78	0	0	0	0.046938	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	flavescens	6	6	0	0	0	0.390334	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:small multidrug resistance (SMR) antibiotic efflux pump	subflava	11	11	2	0.181818	0.051368	0.476981	0.181818181818182	0.0238095238095238	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:small multidrug resistance (SMR) antibiotic efflux pump	perflava	78	78	1	0.012821	0.002267	0.069109	0.0128205128205128	0.176470588235294	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:small multidrug resistance (SMR) antibiotic efflux pump	flavescens	6	6	1	0.166667	0.030053	0.563503	0.166666666666667	0.0337078651685393	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:streptothricin acetyltransferase (SAT)	subflava	11	11	0	0	0	0.258833	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:streptothricin acetyltransferase (SAT)	perflava	78	78	0	0	0	0.046938	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:streptothricin acetyltransferase (SAT)	flavescens	6	6	0	0	0	0.390334	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:sulfonamide resistant sul	subflava	11	11	0	0	0	0.258833	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:sulfonamide resistant sul	perflava	78	78	0	0	0	0.046938	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:sulfonamide resistant sul	flavescens	6	6	0	0	0	0.390334	0	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_participant_subset
+family:tetracycline-resistant ribosomal protection protein	subflava	11	11	0	0	0	0.258833	0	0.297619047619048	0	0	1.03579352207698	0.0616315289851635	0.0924472934777453	VALID	
+family:tetracycline-resistant ribosomal protection protein	perflava	78	78	25	0.320513	0.227482	0.430393	0.320512820512821	0	Inf	1.74700727331979	Inf	0.00485409713355106	0.0145622914006532	VALID	
+family:tetracycline-resistant ribosomal protection protein	flavescens	6	6	0	0	0	0.390334	0	0.280898876404494	0	0	2.3536115282801	0.33535994042442	0.33535994042442	VALID	

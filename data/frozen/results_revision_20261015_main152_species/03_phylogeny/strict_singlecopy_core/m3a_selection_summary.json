@@ -1,0 +1,10 @@
+{
+ "module": "M3a",
+ "n_singlecopy_clusters": 962,
+ "n_strict_core_multicopy_excluded": 156,
+ "n_sequences_written": 146224,
+ "expected_sequences": 146224,
+ "n_iupac_replaced": 9,
+ "missing_or_invalid": [],
+ "status": "PASS"
+}

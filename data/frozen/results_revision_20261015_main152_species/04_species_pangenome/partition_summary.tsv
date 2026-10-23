@@ -1,0 +1,6 @@
+partition	n_clusters	n_singletons	dictionary_id
+Strict_core	1118	0	pgap2_main152_orth0.98
+Core	229	0	pgap2_main152_orth0.98
+Soft_core	214	0	pgap2_main152_orth0.98
+Shell	851	0	pgap2_main152_orth0.98
+Cloud	10803	5500	pgap2_main152_orth0.98

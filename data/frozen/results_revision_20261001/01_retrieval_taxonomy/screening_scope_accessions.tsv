@@ -1,0 +1,1304 @@
+accession	biosample	organism_name	tax_id	assembly_level	assembly_name	release_date	total_sequence_length	n_contigs	contig_n50	gc_percent	isolation_source	host	geo_loc_name	collection_date
+GCA_000090875.1	SAMN02463843	Neisseria sp. oral taxon 014 str. F0314	641149	Scaffold	ASM9087v1	2010-06-14	2515760	48	116103	53	missing	Homo sapiens	not provided	not provided
+GCA_000173875.1	SAMN00008841	Neisseria mucosa ATCC 25996	546266	Contig	ASM17387v1	2009-09-04	2578748	67	110001	51	missing	Homo sapiens	not determined	not determined
+GCA_000173895.1	SAMN00008837	Neisseria cinerea ATCC 14685	546262	Contig	ASM17389v1	2009-09-24	1872773	35	163690	51	missing	Homo sapiens	not determined	not determined
+GCA_000173935.1	SAMN00008839	Neisseria flavescens NRL30031/H210	546264	Contig	ASM17393v1	2009-02-03	2205588	117	50659	49	missing	Homo sapiens	not determined	not determined
+GCA_000173955.1	SAMN00008843	Neisseria subflava NJ9703	546268	Contig	ASM17395v1	2009-10-05	2292986	63	142220	49	missing	Homo sapiens	not determined	not determined
+GCA_000173995.1	SAMN00008840	Neisseria lactamica ATCC 23970	546265	Contig	ASM17399v1	2009-09-15	2171992	101	55069	52	missing	Homo sapiens	not determined	not determined
+GCA_000174655.1	SAMN00008842	Neisseria sicca ATCC 29256	547045	Contig	ASM17465v1	2009-05-08	2830772	61	93684	51	missing	Homo sapiens	not determined	not determined
+GCA_000176755.2	SAMN00008838	Neisseria elongata subsp. glycolytica ATCC 29315	546263	Contig	ASM17675v1	2009-11-09	2275949	153	74651	54	missing	Homo sapiens	not determined	not determined
+GCA_000180595.1	SAMEA2272069	Neisseria lactamica Y92-1009	869214	Contig	ASM18059v1	2010-10-20	2023964	44	85732	52.5	throat swab		United Kingdom:Northern Ireland, Londonderry	
+GCA_000186165.1	SAMN02463751	Neisseria mucosa C102	435832	Scaffold	Neis_muco_C102_V1	2011-01-18	2169437	23	252431	49.5	missing	Homo sapiens	not provided	not provided
+GCA_000193735.2	SAMN02471879	Neisseria sicca 4320	933266	Contig	ASM19373v2	2010-12-29	2519401	169	38640	51				
+GCA_000193755.2	SAMN02471880	Neisseria sicca DS1	933267	Contig	ASM19375v2	2010-12-29	2521351	455	36628	51.5				
+GCA_000193775.2	SAMN02471878	Neisseria polysaccharea NS342	933269	Scaffold	ASM19377v1	2010-12-29	2169528	289	71851	51.5				
+GCA_000193795.2	SAMN02471876	Neisseria lactamica NS19	933280	Contig	ASM19379v2	2010-12-29	2138393	132	58892	52.5				
+GCA_000194925.1	SAMN00253995	Neisseria bacilliformis ATCC BAA-1200	888742	Scaffold	ASM19492v1	2011-04-07	2470575	68	80283	59.5		Homo sapiens	not determined	not determined
+GCA_000196295.1	SAMEA3138337	Neisseria lactamica 020-06	489653	Complete Genome	ASM19629v1	2010-11-30	2220606	1	2220606	52.5				
+GCA_000220865.1	SAMN02299447	Neisseria macacae ATCC 33926	997348	Scaffold	ASM22086v1	2011-07-18	2748368	198	25189	51		Homo sapiens	not provided	not provided
+GCA_000224255.2	SAMN02470907	Neisseria weaveri LMG 5135	1051985	Contig	ASM22425v1	2011-08-22	2183368	46	98662	49				
+GCA_000224275.2	SAMN02470917	Neisseria weaveri ATCC 51223	1051972	Contig	ASM22427v2	2011-08-22	2125582	40	114456	49				
+GCA_000226875.1	SAMN02299457	Neisseria shayeganii 871	1032488	Scaffold	ASM22687v1	2011-10-03	2354550	111	42227	58		Homo sapiens	not provided	not provided
+GCA_000227275.1	SAMN02463802	Neisseria sp. GT4A_CT1	665946	Scaffold	Neisseria_sp_GT4A_CT1_V1	2011-10-04	2739136	151	33800	51	missing	Homo sapiens	not provided	not provided
+GCA_000227765.1	SAMN02299456	Neisseria wadsworthii 9715	1030841	Scaffold	ASM22776v1	2011-10-06	2467075	95	51464	48.5		Homo sapiens	not provided	not provided
+GCA_000260655.1	SAMN00761806	Neisseria sicca VK64	1095748	Contig	NsiccaVK64v1.0	2012-04-30	2638449	210	19754	51		Homo sapiens	not determined	not determined
+GCA_000318235.2	SAMN02436686	Neisseria sp. oral taxon 020 str. F0370	1127694	Scaffold	ASM31823v2	2013-01-29	2358903	226	17477	58.5	oral cavity	Homo sapiens		
+GCA_000741965.1	SAMN02870721	Neisseria lactamica ATCC 23970	546265	Scaffold	ASM74196v1	2014-08-19	2182033	4	1781410	52	missing		missing	missing
+GCA_000763635.1	SAMN02996611	Neisseria mucosa	488	Contig	ASM76363v1	2014-10-06	2138952	34	243792	49.5	sputum	Homo sapiens	Malaysia	2012
+GCA_000818035.1	SAMN02797820	Neisseria elongata subsp. glycolytica ATCC 29315	546263	Complete Genome	ASM81803v1	2015-01-14	2256647	1	2256647	54.5	throat		USA	1970
+GCA_000952795.1	SAMN03287033	Neisseria sp. HMSC06F02	1581124	Scaffold	ASM95279v1	2015-03-13	2431054	271	16659	51	respiratory	Homo sapiens		
+GCA_001027865.1	SAMN03177367	Neisseria arctica	1470200	Contig	ASM102786v1	2015-06-14	2397977	275	112539	46.5	Nonviable goose egg	Anser albifrons	USA: North Slope, Alaska	2013-06
+GCA_001061435.1	SAMN03197249	Neisseria elongata subsp. glycolytica	88719	Contig	ASM106143v1	2015-07-10	2365781	114	44367	54	missing	Homo sapiens	USA: WA	missing
+GCA_001063965.1	SAMN03197396	Neisseria bacilliformis	267212	Scaffold	ASM106396v1	2015-07-10	2400000	77	55140	59	missing	Homo sapiens	USA: WA	missing
+GCA_001064605.1	SAMN03197528	Neisseria lactamica	486	Scaffold	ASM106460v1	2015-07-10	2154030	62	75120	50	missing	Homo sapiens	USA: WA	missing
+GCA_001064875.1	SAMN03197594	Neisseria elongata subsp. glycolytica	88719	Scaffold	ASM106487v1	2015-07-10	2404281	80	68856	54	missing	Homo sapiens	USA: WA	missing
+GCA_001064935.1	SAMN03197625	Neisseria elongata subsp. glycolytica	88719	Scaffold	ASM106493v1	2015-07-10	2398408	82	66702	54	missing	Homo sapiens	USA: WA	missing
+GCA_001067635.1	SAMN03198124	Neisseria bacilliformis	267212	Contig	ASM106763v1	2015-07-10	2360941	174	29479	60	missing	Homo sapiens	USA: WA	missing
+GCA_001308005.1	SAMN03943944	Neisseria sp. 74A18	1696094	Contig	ASM130800v1	2015-10-07	2572932	88	53927	50.5	wound	Homo sapiens	USA: San Francisco	2002-03
+GCA_001308015.1	SAMN03941560	Neisseria sp. 83E34	1692264	Contig	ASM130801v1	2015-10-07	2419010	40	233412	48.5	wound	Homo sapiens	USA: San Francisco	2003-03
+GCA_001556335.1	SAMN04299442	Neisseria mucosa	488	Contig	ASM155633v1	2016-02-10	2492646	455	11371	51	hospital shower hose biofilm		USA: Ohio	2012
+GCA_001618015.1	SAMN03329000	Neisseria flavescens	484	Contig	ASM161801v1	2016-04-08	2253927	38	178113	49.5	duodenal mucosa	Homo sapiens	Italy: Naples	2012
+GCA_001618065.1	SAMN03329001	Neisseria flavescens	484	Contig	ASM161806v1	2016-04-08	2345024	73	87875	49	duodenal mucosa	Homo sapiens	Italy: Naples	2012
+GCA_001618075.1	SAMN03329002	Neisseria flavescens	484	Contig	ASM161807v1	2016-04-08	2333017	37	178806	49	duodenal mucosa	Homo sapiens	Italy: Naples	2012
+GCA_001618085.1	SAMN03329021	Neisseria flavescens	484	Contig	ASM161808v1	2016-04-08	2316621	67	131736	49	oropharyngeal swab	Homo sapiens	Italy: Naples	2013
+GCA_001807625.1	SAMN03436200	Neisseria sp. HMSC03D10	1581049	Scaffold	ASM180762v1	2016-10-21	2535716	279	16116	51.5	respiratory	Homo sapiens		
+GCA_001807735.1	SAMN03436258	Neisseria sp. HMSC31F04	1581075	Scaffold	ASM180773v1	2016-10-21	2257660	132	29578	54	Respiratory	Homo sapiens		
+GCA_001808255.1	SAMN03287028	Neisseria sp. HMSC15G01	1581107	Scaffold	ASM180825v1	2016-10-21	2178870	85	69143	49	missing	Homo sapiens		
+GCA_001808875.1	SAMN04495796	Neisseria sp. HMSC064E01	1715052	Scaffold	ASM180887v1	2016-10-21	2707625	274	22252	50.5	sputum	Homo sapiens		
+GCA_001809325.1	SAMN04477500	Neisseria sp. HMSC077D05	1715079	Scaffold	ASM180932v1	2016-10-21	2778426	317	21842	50.5	bronchial washing	Homo sapiens		
+GCA_001809345.1	SAMN04477501	Neisseria sp. HMSC072B12	1715080	Scaffold	ASM180934v1	2016-10-21	2217005	91	92992	49	sputum	Homo sapiens		
+GCA_001809585.1	SAMN04477517	Neisseria sp. HMSC072C05	1715112	Scaffold	ASM180958v1	2016-10-21	2186610	124	40844	49.5	sputum	Homo sapiens		
+GCA_001810035.1	SAMN04477541	Neisseria sp. HMSC058F07	1715175	Scaffold	ASM181003v1	2016-10-21	2261793	111	59187	49	throat	Homo sapiens		
+GCA_001810105.1	SAMN04477543	Neisseria sp. HMSC068C04	1715179	Scaffold	ASM181010v1	2016-10-21	2328971	173	52003	48.5	sputum (induced)	Homo sapiens		
+GCA_001810165.1	SAMN04477548	Neisseria sp. HMSC070A01	1715190	Scaffold	ASM181016v1	2016-10-21	2212676	52	73596	49.5	sputum	Homo sapiens		
+GCA_001810355.1	SAMN04477559	Neisseria sp. HMSC074B07	1715205	Scaffold	ASM181035v1	2016-10-21	2663843	275	18937	51	sputum	Homo sapiens		
+GCA_001811065.1	SAMN04477595	Neisseria sp. HMSC075C12	1739282	Scaffold	ASM181106v1	2016-10-21	2328563	151	55464	49	tracheal aspirate	Homo sapiens		
+GCA_001811365.1	SAMN04477613	Neisseria sp. HMSC061E12	1739301	Scaffold	ASM181136v1	2016-10-21	2229188	82	121883	49	sputum	Homo sapiens		
+GCA_001811855.1	SAMN04477637	Neisseria sp. HMSC063B05	1739328	Scaffold	ASM181185v1	2016-10-21	2206325	95	151013	49	sputum	Homo sapiens		
+GCA_001811945.1	SAMN04477641	Neisseria sp. HMSC071A01	1739332	Scaffold	ASM181194v1	2016-10-21	2271132	101	72318	49	throat	Homo sapiens		
+GCA_001812055.1	SAMN04477646	Neisseria sp. HMSC067H04	1739338	Scaffold	ASM181205v1	2016-10-21	2302917	94	106216	49	Bronchoalveolar lavage	Homo sapiens		
+GCA_001812605.1	SAMN04480033	Neisseria sp. HMSC073G10	1739369	Scaffold	ASM181260v1	2016-10-21	2317614	104	76511	49	sputum	Homo sapiens		
+GCA_001812725.1	SAMN04480039	Neisseria sp. HMSC067G12	1739375	Scaffold	ASM181272v1	2016-10-21	2304183	82	109413	49	bronchial washing	Homo sapiens		
+GCA_001812735.1	SAMN04480040	Neisseria sp. HMSC069H12	1739376	Scaffold	ASM181273v1	2016-10-21	2272351	126	39982	49	sputum	Homo sapiens		
+GCA_001812885.1	SAMN04480047	Neisseria sp. HMSC067G11	1739384	Scaffold	ASM181288v1	2016-10-21	2302204	86	103855	49	bronchial washing	Homo sapiens		
+GCA_001813335.1	SAMN04480068	Neisseria sp. HMSC055H02	1739411	Scaffold	ASM181333v1	2016-10-21	2419681	201	24551	51.5	sputum	Homo sapiens		
+GCA_001814095.1	SAMN04480384	Neisseria sp. HMSC068C12	1739456	Scaffold	ASM181409v1	2016-10-21	2209874	78	150849	49	sputum	Homo sapiens		
+GCA_001814135.1	SAMN04480378	Neisseria sp. HMSC067H09	1739458	Scaffold	ASM181413v1	2016-10-21	2405602	175	31577	51	bronchial washing	Homo sapiens		
+GCA_001814225.1	SAMN04480382	Neisseria sp. HMSC070F02	1739463	Scaffold	ASM181422v1	2016-10-21	1986236	237	18299	52	tracheal aspirate	Homo sapiens		
+GCA_001814445.1	SAMN04480396	Neisseria sp. HMSC066B07	1739476	Scaffold	ASM181444v1	2016-10-21	2249644	183	113528	49	trachael aspirate	Homo sapiens		
+GCA_001815375.1	SAMN04480440	Neisseria sp. HMSC065C04	1739524	Scaffold	ASM181537v1	2016-10-21	2314384	102	65430	49	sputum	Homo sapiens		
+GCA_001815615.1	SAMN04480456	Neisseria sp. HMSC075C10	1739539	Scaffold	ASM181561v1	2016-10-21	2227657	103	46750	49.5	sputum induced	Homo sapiens		
+GCA_001815675.1	SAMN04480457	Neisseria sp. HMSC065D04	1739542	Scaffold	ASM181567v1	2016-10-21	2741289	302	18890	51	sinus	Homo sapiens		
+GCA_001815685.1	SAMN04480460	Neisseria sp. HMSC056A03	1739544	Scaffold	ASM181568v1	2016-10-21	2247105	153	42958	49.5	trach aspirate	Homo sapiens		
+GCA_001836315.1	SAMN04498579	Neisseria sp. HMSC056A04	1715047	Scaffold	ASM183631v1	2016-10-25	2239820	81	103485	49	trach aspirate	Homo sapiens		
+GCA_001836705.1	SAMN04498636	Neisseria sp. HMSC061B04	1715140	Scaffold	ASM183670v1	2016-10-25	2267122	94	74732	49.5	sputum	Homo sapiens		
+GCA_001836795.1	SAMN04498643	Neisseria sp. HMSC061H08	1715154	Scaffold	ASM183679v1	2016-10-25	2240849	88	87947	49	sputum	Homo sapiens		
+GCA_001837185.1	SAMN04498601	Neisseria sp. HMSC064D07	1715087	Scaffold	ASM183718v1	2016-10-25	2259121	111	45130	49	sputum	Homo sapiens		
+GCA_001837245.1	SAMN04498574	Neisseria sp. HMSC064F03	1715037	Scaffold	ASM183724v1	2016-10-25	2254869	145	33730	49	sputum	Homo sapiens		
+GCA_001837365.1	SAMN04498639	Neisseria sp. HMSC066F04	1715148	Scaffold	ASM183736v1	2016-10-25	2217149	108	112767	49	trachael aspirate	Homo sapiens		
+GCA_001837375.1	SAMN04498571	Neisseria sp. HMSC066H01	1715031	Scaffold	ASM183737v1	2016-10-25	2147245	59	77367	49.5	trachael aspirate	Homo sapiens		
+GCA_001837635.1	SAMN04498603	Neisseria sp. HMSC070H10	1715085	Scaffold	ASM183763v1	2016-10-25	2171707	63	87888	49.5	throat	Homo sapiens		
+GCA_001838065.1	SAMN04498659	Neisseria sp. HMSC078C12	1715075	Scaffold	ASM183806v1	2016-10-25	2242214	85	96935	49.5	sputum	Homo sapiens		
+GCA_001838135.1	SAMN04498575	Neisseria sp. HMSC078H04	1715040	Scaffold	ASM183813v1	2016-10-25	2238578	73	96077	49	abdominal fluid	Homo sapiens		
+GCA_001838645.1	SAMN04498886	Neisseria sp. HMSC70E02	1608896	Scaffold	ASM183864v1	2016-10-25	2767606	264	23166	51	respiratory	Homo sapiens		
+GCA_002022745.1	SAMN05437355	Neisseria lactamica	486	Complete Genome	ASM202274v1	2017-03-07	2146723	1	2146723	52.5	nasopharynx	Homo sapiens	United Kingdom: Sheffield	2011-10
+GCA_002073715.2	SAMN04875586	Neisseria mucosa	488	Complete Genome	ASM207371v2	2018-02-28	2783943	1	2783943	51	blood	Homo sapiens	USA:DC	2014-09-15
+GCA_002108495.1	SAMN06212706	Neisseria canis	493	Contig	ASM210849v1	2017-04-24	2529049	131	66623	49.5	missing	missing	missing	missing
+GCA_002108505.1	SAMN06192246	Neisseria dumasiana	1931275	Contig	ASM210850v1	2017-04-24	2639953	124	78761	50.5	sputum	Homo sapiens	USA:NY	2009-06-25
+GCA_002108535.1	SAMN06192247	Neisseria dumasiana	1931275	Contig	ASM210853v1	2017-04-24	2543187	154	94297	50.5	mouth	Canis lupus familiaris	USA:CA	2010-09-01
+GCA_002108545.1	SAMN06192248	Neisseria dumasiana	1931275	Contig	ASM210854v1	2017-04-24	2691661	138	73631	50.5	sputum	Homo sapiens	USA:NY	2012-02-10
+GCA_002108575.1	SAMN06212709	Neisseria zoodegmatis	326523	Contig	ASM210857v1	2017-04-24	2536387	87	154384	51	missing	missing	missing	missing
+GCA_002108595.1	SAMN06212708	Neisseria dentiae	194197	Contig	ASM210859v1	2017-04-24	2758789	193	58802	54.5	missing	missing	missing	missing
+GCA_002108605.1	SAMN06212707	Neisseria animaloris	326522	Contig	ASM210860v1	2017-04-24	2325539	48	239661	49.5	missing	missing	missing	missing
+GCA_002216145.1	SAMN05726023	Neisseria chenwenguii	1853278	Complete Genome	ASM221614v1	2017-07-10	2496444	1	2496444	54	Intestinal contents of plateau pika		China: Yushu Autonomous Prefecture, Qinghai Province	2015-08
+GCA_002237445.1	SAMN07357172	Neisseria sp. KEM232	655307	Complete Genome	ASM223744v1	2017-07-31	2371912	1	2371912	58.5	smooth surface caries of tooth	Homo sapiens	South Korea: Gwangju	2009-04-04
+GCA_002318615.1	SAMN06827272	Neisseria lactamica	486	Contig	ASM231861v1	2017-09-20	2123177	60	131034	52.5	urethral swab	Homo sapiens	USA: Denver	2007
+GCA_002327085.1	SAMN07357044	Neisseria weixii	1853276	Complete Genome	ASM232708v1	2017-09-21	2511904	1	2511904	49		plateau pika	China	2015-12-15
+GCA_002551535.2	SAMN07758018	Neisseria sp. N95_16	2024408	Contig	ASM255153v2	2017-12-05	2522528	168	29439	49	blood	Homo sapiens	Brazil: RS, Porto Alegre	2016
+GCA_002803635.1	SAMN08096369	Neisseria sp. N177_16	2056175	Contig	ASM280363v1	2017-12-03	2525759	109	38595	49.5	Skin wound	Homo sapiens	Brazil:Parana	2016
+GCA_002847985.1	SAMN08193709	Neisseria perflava	33053	Scaffold	ASM284798v1	2017-12-28	2311158	28	223636	49		Homo sapiens	USA: Maywood, IL	2015
+GCA_002863285.1	SAMN08193710	Neisseria sicca	490	Scaffold	ASM286328v1	2017-12-28	2466093	48	132375	51		Homo sapiens	USA: Maywood, IL	2015
+GCA_002863305.2	SAMN08193708	Neisseria perflava	33053	Complete Genome	ASM286330v2	2023-11-01	2344520	1	2344520	49		Homo sapiens	USA: Maywood, IL	2015
+GCA_003013245.1	SAMN08721881	Neisseria iguanae	90242	Scaffold	ASM301324v1	2018-03-21	2610244	204	22754	48		iguanid lizards	USA	1994
+GCA_003044345.1	SAMN08299199	Neisseria sicca	490	Contig	ASM304434v1	2018-04-09	2587278	123	70974	51.5	not applicable	Homo sapiens	USA: Minnesota	2006-01-01
+GCA_003044355.1	SAMN08299198	Neisseria subflava	28449	Contig	ASM304435v1	2018-04-09	2355736	42	340211	49	not applicable	Homo sapiens	USA: Minnesota	2005-01-01
+GCA_003044385.1	SAMN08299200	Neisseria subflava	28449	Contig	ASM304438v1	2018-04-09	2286423	38	209740	49	not applicable	Homo sapiens	USA: Minnesota	2007-01-01
+GCA_003044395.1	SAMN08299197	Neisseria mucosa	488	Contig	ASM304439v1	2018-04-09	2600550	134	46492	51	not applicable	Homo sapiens	USA: Minnesota	2004-01-01
+GCA_003044425.1	SAMN08299201	Neisseria sicca	490	Contig	ASM304442v1	2018-04-09	2443310	24	325556	51.5	not applicable	Homo sapiens	USA: Minnesota	2007-01-01
+GCA_003044445.1	SAMN08299202	Neisseria mucosa	488	Contig	ASM304444v1	2018-04-09	2464790	56	108092	51	not applicable	Homo sapiens	USA: Minnesota	2008-01-01
+GCA_003044455.1	SAMN08299203	Neisseria bergeri	1906581	Contig	ASM304445v1	2018-04-09	2255536	40	177354	51.5	not applicable	Homo sapiens	USA: Minnesota	2008-01-01
+GCA_003044485.1	SAMN08299204	Neisseria bergeri	1906581	Contig	ASM304448v1	2018-04-09	2256858	40	135947	51.5	not applicable	Homo sapiens	USA: Minnesota	2008-01-01
+GCA_003044505.1	SAMN08299206	Neisseria subflava	28449	Contig	ASM304450v1	2018-04-09	2262420	34	131691	49.5	not applicable	Homo sapiens	USA: Minnesota	2008-01-01
+GCA_003044525.1	SAMN08299208	Neisseria subflava	28449	Contig	ASM304452v1	2018-04-09	2176785	21	404461	49	not applicable	Homo sapiens	USA: Minnesota	2009-01-01
+GCA_003044545.1	SAMN08299210	Neisseria weaveri	28091	Contig	ASM304454v1	2018-04-09	2147612	34	203342	49	not applicable	Homo sapiens	USA: Minnesota	2009-01-01
+GCA_003044565.1	SAMN08299211	Neisseria sicca	490	Contig	ASM304456v1	2018-04-09	2782649	16	390669	50.5	not applicable	Homo sapiens	USA: Minnesota	2010-01-01
+GCA_003044585.1	SAMN08299215	Neisseria subflava	28449	Contig	ASM304458v1	2018-04-09	2226776	20	476305	49	not applicable	Homo sapiens	USA: Minnesota	2011-01-01
+GCA_003044605.1	SAMN08299212	Neisseria elongata	495	Contig	ASM304460v1	2018-04-09	2489623	48	123763	54	not applicable	Homo sapiens	USA: Minnesota	2010-01-01
+GCA_003044625.1	SAMN08299214	Neisseria elongata	495	Contig	ASM304462v1	2018-04-09	2320322	31	136798	54	not applicable	Homo sapiens	USA: Minnesota	2011-01-01
+GCA_003044645.1	SAMN08299216	Neisseria subflava	28449	Contig	ASM304464v1	2018-04-09	2313531	23	217621	49	not applicable	Homo sapiens	USA: Minnesota	2011-01-01
+GCA_003044665.1	SAMN08299219	Neisseria subflava	28449	Contig	ASM304466v1	2018-04-09	2156548	36	231464	49	not applicable	Homo sapiens	USA: Minnesota	2011-01-01
+GCA_003044675.1	SAMN08299221	Neisseria cinerea	483	Contig	ASM304467v1	2018-04-09	1901573	11	285743	50.5	not applicable	Homo sapiens	USA: Minnesota	2012-01-01
+GCA_003044705.1	SAMN08299222	Neisseria animaloris	326522	Contig	ASM304470v1	2018-04-09	2283730	13	684406	49.5	not applicable	Homo sapiens	USA: Minnesota	2012-01-01
+GCA_003044725.1	SAMN08299226	Neisseria elongata	495	Contig	ASM304472v1	2018-04-09	2469171	35	122392	54	not applicable	Homo sapiens	USA: Minnesota	2013-01-01
+GCA_003044745.1	SAMN08299227	Neisseria cinerea	483	Contig	ASM304474v1	2018-04-09	1865434	16	207528	51	not applicable	Homo sapiens	USA: Minnesota	2013-01-01
+GCA_003044765.1	SAMN08299228	Neisseria sicca	490	Contig	ASM304476v1	2018-04-09	2529169	124	54726	51	not applicable	Homo sapiens	USA: Minnesota	2014-01-01
+GCA_003044785.1	SAMN08299229	Neisseria elongata	495	Contig	ASM304478v1	2018-04-09	2399453	35	236817	54	not applicable	Homo sapiens	USA: Minnesota	2014-01-01
+GCA_003044805.1	SAMN08299205	Neisseria wadsworthii	607711	Contig	ASM304480v1	2018-04-09	2352574	58	89413	48.5	not applicable	Homo sapiens	USA: Minnesota	2008-01-01
+GCA_003044825.1	SAMN08299230	Neisseria cinerea	483	Contig	ASM304482v1	2018-04-09	1876226	13	366008	50.5	not applicable	Homo sapiens	USA: Minnesota	2014-01-01
+GCA_003044845.1	SAMN08299207	Neisseria subflava	28449	Contig	ASM304484v1	2018-04-09	2170564	32	222323	49	not applicable	Homo sapiens	USA: Minnesota	2008-01-01
+GCA_003044855.1	SAMN08299231	Neisseria cinerea	483	Contig	ASM304485v1	2018-04-09	1922289	11	526799	51	not applicable	Homo sapiens	USA: Minnesota	2014-01-01
+GCA_003044885.1	SAMN08299213	Neisseria weaveri	28091	Contig	ASM304488v1	2018-04-09	2143813	20	326529	49	not applicable	Homo sapiens	USA: Minnesota	2010-01-01
+GCA_003044905.1	SAMN08299209	Neisseria weaveri	28091	Contig	ASM304490v1	2018-04-09	2198878	28	166860	49	not applicable	Homo sapiens	USA: Minnesota	2009-01-01
+GCA_003044925.1	SAMN08299217	Neisseria subflava	28449	Contig	ASM304492v1	2018-04-09	2422689	28	342535	49	not applicable	Homo sapiens	USA: Minnesota	2011-01-01
+GCA_003044935.1	SAMN08299220	Neisseria subflava	28449	Contig	ASM304493v1	2018-04-09	2159006	9	1167507	49	not applicable	Homo sapiens	USA: Minnesota	2012-01-01
+GCA_003044965.1	SAMN08299218	Neisseria subflava	28449	Contig	ASM304496v1	2018-04-09	2291329	31	264516	49	not applicable	Homo sapiens	USA: Minnesota	2011-01-01
+GCA_003044985.1	SAMN08299223	Neisseria elongata	495	Contig	ASM304498v1	2018-04-09	2509681	53	109447	53.5	not applicable	Homo sapiens	USA: Minnesota	2013-01-01
+GCA_003044995.1	SAMN08299225	Neisseria weaveri	28091	Contig	ASM304499v1	2018-04-09	2140496	21	271203	49	not applicable	Homo sapiens	USA: Minnesota	2013-01-01
+GCA_003045025.1	SAMN08299232	Neisseria subflava	28449	Contig	ASM304502v1	2018-04-09	2231960	23	329915	49	not applicable	Homo sapiens	USA: Minnesota	2014-01-01
+GCA_003045035.1	SAMN08299224	Neisseria polysaccharea	489	Contig	ASM304503v1	2018-04-09	2124254	46	130280	51.5	not applicable	Homo sapiens	USA: Minnesota	2013-01-01
+GCA_003045095.1	SAMN08299233	Neisseria animaloris	326522	Contig	ASM304509v1	2018-04-09	2263900	12	307842	49.5	not applicable	Homo sapiens	USA: Minnesota	2015-01-01
+GCA_003351545.1	SAMN09704973	Neisseria elongata	495	Complete Genome	ASM335154v1	2018-08-01	2397276	1	2397276	54	not collected	Homo sapiens	not applicable	not applicable
+GCA_003351565.1	SAMN09704838	Neisseria lactamica	486	Complete Genome	ASM335156v1	2018-08-01	2200224	1	2200224	52.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003351665.1	SAMN09704641	Neisseria subflava	28449	Complete Genome	ASM335166v1	2018-08-01	2321871	1	2321871	49	not collected	Homo sapiens	not applicable	not applicable
+GCA_003351685.1	SAMN09704972	Neisseria elongata	495	Complete Genome	ASM335168v1	2018-08-01	2534634	1	2534634	54	not collected	Homo sapiens	not applicable	not applicable
+GCA_003355195.1	SAMN09704642	Neisseria polysaccharea	489	Complete Genome	ASM335519v1	2018-08-05	2024930	1	2024930	52	not collected	Homo sapiens	not applicable	not applicable
+GCA_003490325.1	SAMN09704975	Neisseria bergeri	1906581	Contig	ASM349032v1	2018-09-07	2113031	23	1161585	51.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003492145.1	SAMN09704855	Neisseria lactamica	486	Contig	ASM349214v1	2018-09-07	2240538	36	204259	52	not collected	Homo sapiens	not applicable	not applicable
+GCA_003492155.1	SAMN09704847	Neisseria lactamica	486	Contig	ASM349215v1	2018-09-07	2260405	34	203409	52	not collected	Homo sapiens	not applicable	not applicable
+GCA_003492195.1	SAMN09704839	Neisseria lactamica	486	Contig	ASM349219v1	2018-09-07	2153695	40	185186	52.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003492345.1	SAMN09704840	Neisseria lactamica	486	Contig	ASM349234v1	2018-09-07	2227184	20	272496	52.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003492385.1	SAMN09704857	Neisseria lactamica	486	Contig	ASM349238v1	2018-09-07	2189734	33	228411	52.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003492425.1	SAMN09704849	Neisseria lactamica	486	Contig	ASM349242v1	2018-09-07	2303282	50	245524	52	not collected	Homo sapiens	not applicable	not applicable
+GCA_003492465.1	SAMN09704844	Neisseria lactamica	486	Contig	ASM349246v1	2018-09-07	2202297	31	525923	52.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003492555.1	SAMN09704858	Neisseria lactamica	486	Contig	ASM349255v1	2018-09-07	2213525	33	203694	52.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003492625.1	SAMN09704853	Neisseria lactamica	486	Contig	ASM349262v1	2018-09-07	2272111	34	210184	52	not collected	Homo sapiens	not applicable	not applicable
+GCA_003492765.1	SAMN09704841	Neisseria lactamica	486	Contig	ASM349276v1	2018-09-07	2177704	45	159271	52	not collected	Homo sapiens	not applicable	not applicable
+GCA_003492775.1	SAMN09704852	Neisseria lactamica	486	Contig	ASM349277v1	2018-09-07	2226877	27	228443	52.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003492845.1	SAMN09704850	Neisseria lactamica	486	Contig	ASM349284v1	2018-09-07	2138875	31	256833	52.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003492865.1	SAMN09704845	Neisseria lactamica	486	Contig	ASM349286v1	2018-09-07	2192826	48	160175	52	not collected	Homo sapiens	not applicable	not applicable
+GCA_003492905.1	SAMN09704977	Neisseria bergeri	1906581	Contig	ASM349290v1	2018-09-07	2113839	30	260973	52	not collected	Homo sapiens	not applicable	not applicable
+GCA_003492955.1	SAMN09704848	Neisseria lactamica	486	Contig	ASM349295v1	2018-09-07	2185479	33	228381	52	not collected	Homo sapiens	not applicable	not applicable
+GCA_003493045.1	SAMN09704846	Neisseria lactamica	486	Contig	ASM349304v1	2018-09-07	2172334	49	156278	52.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003493185.1	SAMN09704851	Neisseria lactamica	486	Contig	ASM349318v1	2018-09-07	2168597	17	274100	52.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003493215.1	SAMN09704842	Neisseria lactamica	486	Contig	ASM349321v1	2018-09-07	2198057	46	184410	52.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003493325.1	SAMN09704976	Neisseria bergeri	1906581	Contig	ASM349332v1	2018-09-07	2129274	29	228510	51.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003493855.1	SAMN09704856	Neisseria lactamica	486	Contig	ASM349385v1	2018-09-07	2174338	37	201445	52	not collected	Homo sapiens	not applicable	not applicable
+GCA_003495225.1	SAMN09704643	Neisseria polysaccharea	489	Contig	ASM349522v1	2018-09-07	2057444	16	216274	52	not collected	Homo sapiens	not applicable	not applicable
+GCA_003495405.1	SAMN09704863	Neisseria lactamica	486	Contig	ASM349540v1	2018-09-07	2194397	43	143795	52.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003495565.1	SAMN09704862	Neisseria lactamica	486	Contig	ASM349556v1	2018-09-07	2128602	19	232262	52.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003495575.1	SAMN09704860	Neisseria lactamica	486	Contig	ASM349557v1	2018-09-07	2137233	40	210697	52	not collected	Homo sapiens	not applicable	not applicable
+GCA_003495835.1	SAMN09704859	Neisseria lactamica	486	Contig	ASM349583v1	2018-09-07	2224996	26	212113	52.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003496195.1	SAMN09704861	Neisseria lactamica	486	Contig	ASM349619v1	2018-09-07	2160444	42	194203	52	not collected	Homo sapiens	not applicable	not applicable
+GCA_003496425.1	SAMN09704854	Neisseria lactamica	486	Contig	ASM349642v1	2018-09-07	2194463	19	225576	52.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003496485.1	SAMN09704843	Neisseria lactamica	486	Contig	ASM349648v1	2018-09-07	2173500	33	149315	52.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003496665.1	SAMN09704837	Neisseria lactamica	486	Contig	ASM349666v1	2018-09-07	2182710	71	81461	52.5	not collected	Homo sapiens	not applicable	not applicable
+GCA_003790445.1	SAMN07811257	Neisseria chenwenguii	1853278	Contig	ASM379044v1	2018-11-18	2451910	49	146944	54	intestinal contents	Ochotona curzoniae	missing	missing
+GCA_003795365.1	SAMN07357035	Neisseria animalis	492	Contig	ASM379536v1	2018-11-19	2183966	48	166455	52	Guinea pig		Germany	2016-01
+GCA_003813805.1	SAMN10408245	Neisseria weixii	1853276	Contig	ASM381380v1	2018-11-21	2728998	135	69306	49	missing	Ochotona curzoniae	China:Qinghai Province	2015-08
+GCA_003813885.1	SAMN10408246	Neisseria weixii	1853276	Contig	ASM381388v1	2018-11-21	2727791	133	59929	49	rectal contents	Ochotona curzoniae	China:Qinghai Province	2015-08
+GCA_004569405.1	SAMN11126862	Neisseria sp. WF04	2558283	Contig	ASM456940v1	2019-04-02	2606596	263	38646	53.5	oral swab	Apodemus sylvaticus (wood mouse)	United Kingdom	2017
+GCA_005221285.1	SAMN11461057	Neisseria flavescens	484	Complete Genome	ASM522128v1	2019-05-07	2231882	1	2231882	49	not applicable	not applicable	not applicable	not applicable
+GCA_005221305.1	SAMN11461056	Neisseria subflava	28449	Complete Genome	ASM522130v1	2019-05-07	2195659	1	2195659	49.5	not applicable	not applicable	not applicable	not applicable
+GCA_005886145.1	SAMN02463843	Neisseria sp. oral taxon 014 str. F0314	641149	Chromosome	ASM588614v1	2019-05-29	2502158	1	2502058	53	missing	Homo sapiens	not provided	not provided
+GCA_007667085.1	SAMN11792656	Neisseria sicca	490	Scaffold	ASM766708v1	2019-07-30	2484173	205	32416	51	environmental	not applicable	USA: North Carolina, Durham	2018-09-01
+GCA_007667125.1	SAMN11792653	Neisseria sicca	490	Scaffold	ASM766712v1	2019-07-30	2480214	193	32416	51	environmental	not applicable	USA: North Carolina, Durham	2018-09-01
+GCA_007673275.1	SAMN11792527	Neisseria sicca	490	Scaffold	ASM767327v1	2019-07-30	2932021	1826	56719	51	environmental	not applicable	USA: North Carolina, Durham	2018-09-01
+GCA_008806995.1	SAMN09853482	Neisseria animalis	492	Complete Genome	ASM880699v1	2019-10-03	2236930	1	2236930	52	pharyngeal mucosa	Guinea pig	Germany: Hamburg	1960
+GCA_008807015.1	SAMN09853484	Neisseria zalophi	640030	Complete Genome	ASM880701v1	2019-10-03	2423693	1	2423693	44.5	oral cavity	Zalophus californianus	USA: The Marine Mammal Center facilities in California	2018
+GCA_009665055.1	SAMN13243041	Neisseria brasiliensis	2666100	Contig	ASM966505v1	2019-11-17	2679149	4	2403105	49	blood	Homo sapiens	Brazil: Rio Grande do Sul State.	2016-06
+GCA_009671065.1	SAMN13243042	Neisseria brasiliensis	2666100	Complete Genome	ASM967106v1	2019-11-19	2617510	1	2617510	49	ulcer exudate	Homo sapiens	Brazil: Parana State.	2016-02
+GCA_011038745.1	SAMN14086975	Neisseria yangbaofengii	2709396	Contig	ASM1103874v1	2020-02-28	2565231	79	71559	49.5		Marmot	China	2018-07-30
+GCA_011038775.1	SAMN14086988	Neisseria yangbaofengii	2709396	Contig	ASM1103877v1	2020-02-28	2502093	90	63074	49.5		Marmot	China	2018-07-22
+GCA_013267835.1	SAMN11056473	Neisseria mucosa	488	Complete Genome	ASM1326783v1	2020-06-04	2224757	1	2224757	49.5	expectorated sputum	Homo sapiens	USA:VA	missing
+GCA_014054885.1	SAMN15603185	Neisseria wadsworthii	607711	Complete Genome	ASM1405488v1	2020-08-04	2501534	1	2501534	48.5	patient's peritoneal fluid		USA: New York	2005
+GCA_014054945.1	SAMN15603184	Neisseria sicca	490	Complete Genome	ASM1405494v1	2020-08-04	2864419	1	2864419	51	pharyngeal mucosa		United Kingdom	2005
+GCA_014054965.1	SAMN15603183	Neisseria shayeganii	607712	Complete Genome	ASM1405496v1	2020-08-04	2419744	1	2419744	58	patient's arm wound		USA: New York	2004
+GCA_014055005.1	SAMN15603181	Neisseria dentiae	194197	Complete Genome	ASM1405500v1	2020-08-04	2755930	1	2755930	54.5	dental plaque of cows	cow	United Kingdom	2007
+GCA_014055025.1	SAMN15603180	Neisseria bacilliformis	267212	Complete Genome	ASM1405502v1	2020-08-04	2492712	1	2492712	59.5	submandibular wound of a 53-year-old man	Homo sapiens	USA: Texas	2010
+GCA_014297595.2	SAMN15791842	Neisseria musculi	1815583	Complete Genome	ASM1429759v2	2024-06-27	2933059	2	2928409	53	oral cavity	Mus musculus subsp. domesticus	USA: Arizona, Pima County, Tucson	2012-10
+GCA_014596365.2	SAMN05362769	Neisseria subflava	28449	Contig	ASM1459636v2	2023-02-07	2376255	4	2367590	49		Homo sapiens	United Kingdom: Kingston upon Thames	2012-03
+GCA_014596375.1	SAMN05362771	Neisseria sp. RH3002v2f	1871108	Contig	ASM1459637v1	2020-09-15	1953373	26	205117	50.5		Homo sapiens	United Kingdom: Egham	2012-11
+GCA_014596395.2	SAMN05362770	Neisseria subflava	28449	Contig	ASM1459639v2	2023-05-15	2338744	12	1642315	49.5		Homo sapiens	United Kingdom: Kingston upon Thames	2012-03
+GCA_014596425.2	SAMN05362870	Neisseria sp. RH3002v2g	1871109	Complete Genome	ASM1459642v2	2022-11-14	2223142	1	2223142	49.5		Homo sapiens	United Kingdom: Egham	2012-11
+GCA_014898075.1	SAMN15701945	Neisseria yangbaofengii	2709396	Complete Genome	ASM1489807v1	2020-10-20	2645607	1	2645607	49.5		Marmot	not collected	2018-07-30
+GCA_015235335.1	SAMN16540191	Neisseria sp. 19428wB4_WF04	2782469	Contig	ASM1523533v1	2020-11-04	2606596	263	38646	53.5	Oral	Apodemus sylvaticus	United Kingdom	2017
+GCA_015263375.1	SAMN14570852	Neisseria sp.	192066	Scaffold	ASM1526337v1	2020-11-06	2148734	71	61168	49	saliva	Homo sapiens	USA: UCLA School of Dentistry	2017
+GCA_015263385.1	SAMN14570851	Neisseria sp.	192066	Scaffold	ASM1526338v1	2020-11-06	1389030	373	4588	50	saliva	Homo sapiens	USA: UCLA School of Dentistry	2017
+GCA_015263395.1	SAMN14570853	Neisseria sp.	192066	Scaffold	ASM1526339v1	2020-11-06	2097332	125	29262	49.5	saliva	Homo sapiens	USA: UCLA School of Dentistry	2017
+GCA_015263405.1	SAMN14570850	Neisseria sp.	192066	Scaffold	ASM1526340v1	2020-11-06	2474825	355	10729	50.5	saliva	Homo sapiens	USA: UCLA School of Dentistry	2017
+GCA_015263455.1	SAMN14570849	Neisseria sp.	192066	Scaffold	ASM1526345v1	2020-11-06	1944499	559	4834	49.5	saliva	Homo sapiens	USA: UCLA School of Dentistry	2017
+GCA_015263465.1	SAMN14570848	Neisseria sp.	192066	Scaffold	ASM1526346v1	2020-11-06	1729598	300	8350	49.5	saliva	Homo sapiens	USA: UCLA School of Dentistry	2017
+GCA_015263495.1	SAMN14570847	Neisseria sp.	192066	Scaffold	ASM1526349v1	2020-11-06	2189690	228	19153	52	saliva	Homo sapiens	USA: UCLA School of Dentistry	2017
+GCA_015263505.1	SAMN14570846	Neisseria sicca	490	Scaffold	ASM1526350v1	2020-11-06	2100920	358	7662	52	saliva	Homo sapiens	USA: UCLA School of Dentistry	2017
+GCA_015263535.1	SAMN14570845	Neisseria sicca	490	Scaffold	ASM1526353v1	2020-11-06	2189526	214	20067	51	saliva	Homo sapiens	USA: UCLA School of Dentistry	2017
+GCA_015263665.1	SAMN14570854	Neisseria sp.	192066	Contig	ASM1526366v1	2020-11-06	2041280	205	18558	50	saliva	Homo sapiens	USA: UCLA School of Dentistry	2017
+GCA_015711285.1	SAMN15425246	Neisseria polysaccharea	489	Scaffold	ASM1571128v1	2020-12-01	2087788	66	76145	51.5		Homo sapiens	USA	2018-03/2019-03
+GCA_016028715.1	SAMN13450401	Neisseria cinerea	483	Complete Genome	ASM1602871v1	2020-12-14	1832901	1	1832901	51	missing	missing	not applicable	missing
+GCA_016900855.1	SAMN17843089	Neisseria elongata	495	Scaffold	ASM1690085v1	2021-02-16	2586963	96	111761	54		Homo sapiens	missing	2021
+GCA_017753665.1	SAMN18451419	Neisseria sicca	490	Complete Genome	ASM1775366v1	2021-04-05	2566407	1	2566407	51		Homo sapiens	China:Hangzhou	2020-10-25
+GCA_017811745.1	SAMN16419206	Neisseria yangbaofengii	2709396	Contig	ASM1781174v1	2021-04-06	2502093	90	63074	49.5		Marmot	China	2018-07-22
+GCA_018224585.1	SAMN18865352	Neisseria sp. Marseille-Q1983	2830768	Scaffold	ASM1822458v1	2021-05-02	2196582	139	31572	51.5		Homo sapiens	France: Marseille	2021-04
+GCA_018370935.1	SAMN17800634	Neisseria sp.	192066	Contig	ASM1837093v1	2021-05-16	1762712	633	3276	49.5	infant feces	Homo sapiens	USA: Pittsburgh, Magee-Womens Hospital of UPMC	2016/2019
+GCA_018371635.1	SAMN17801599	Neisseria sp.	192066	Contig	ASM1837163v1	2021-05-16	2349724	551	5731	51.5	infant feces	Homo sapiens	USA: Pittsburgh, Magee-Womens Hospital of UPMC	2016/2019
+GCA_018437425.1	SAMN16979883	Neisseria elongata subsp. nitroreducens	90367	Contig	ASM1843742v1	2021-05-21	2595012	26	230084	54	Blood culture	Homo sapiens	Brazil: Florianopolis	2018-07-02
+GCA_019334725.1	SAMN20114564	Neisseria perflava	33053	Complete Genome	ASM1933472v1	2021-07-25	2284668	1	2284668	49	Human sputum		South Korea	2020-05-01
+GCA_019334765.1	SAMN20114574	Neisseria sicca ATCC 29256	547045	Complete Genome	ASM1933476v1	2021-07-25	2291167	1	2291167	49	Human sputum		South Korea	2020-10-07
+GCA_019424415.1	SAMN19224771	Neisseria sp.	192066	Scaffold	ASM1942441v1	2021-07-30	1536835	965	1990	50	feces	Homo sapiens	South Korea: Seoul	2019
+GCA_019815145.1	SAMN20865412	Neisseria subflava	28449	Contig	ASM1981514v1	2021-08-30	2361490	46	349686	49.5		Homo sapiens	South Korea: Jeju	2021
+GCA_019815155.1	SAMN20865411	Neisseria flava	34026	Contig	ASM1981515v1	2021-08-30	2485932	77	107410	51		Homo sapiens	South Korea: Jeju	2021
+GCA_021025975.1	SAMN23424481	Neisseria cinerea	483	Scaffold	ASM2102597v1	2021-12-01	1861283	30	126330	51	nasopharynx, normal mucosa	Homo sapiens	Germany	missing
+GCA_021728505.1	SAMN25207082	Neisseria lisongii	2912188	Contig	ASM2172850v1	2022-01-30	2232910	23	235468	51.5	respiratory tract	marmot	China	2019
+GCA_021728675.1	SAMN25186460	Neisseria lisongii	2912188	Contig	ASM2172867v1	2022-01-30	2017031	44	85014	51.5	respiratory tract	marmot	China	2019
+GCA_022749495.1	SAMN26652324	Neisseria macacae ATCC 33926	997348	Complete Genome	ASM2274949v1	2022-03-29	2801968	1	2801968	51	oropharynx of Rhesus monkey		not collected	2021-10-10
+GCA_022870825.1	SAMN24043416	Neisseria sp. Dent CA1/247	2912675	Complete Genome	ASM2287082v1	2022-04-11	2749212	1	2749212	51	Dental plaque	Felis catus	missing	missing
+GCA_022870885.1	SAMN24043413	Neisseria dumasiana	1931275	Complete Genome	ASM2287088v1	2022-04-11	2679563	1	2679563	50.5	sputum	Homo sapiens	USA	2009
+GCA_022870905.1	SAMN24043412	Neisseria arctica	1470200	Complete Genome	ASM2287090v1	2022-04-11	2378219	1	2378219	46.5	Eggs	Anser albifrons	USA	2013
+GCA_023472875.1	SAMN28187201	Neisseria perflava	33053	Contig	ASM2347287v1	2022-05-18	2265569	85	52486	49	missing	missing	missing	missing
+GCA_023635035.1	SAMN18320770	Neisseria subflava	28449	Contig	ASM2363503v1	2022-06-01	2250070	3	2202144	49.5		Homo sapiens	Singapore: Singapore	2019
+GCA_023635065.1	SAMN18320764	Neisseria subflava	28449	Contig	ASM2363506v1	2022-06-01	2277765	2	2270032	49.5		Homo sapiens	Singapore: Singapore	2018
+GCA_023635085.1	SAMN18320762	Neisseria subflava	28449	Contig	ASM2363508v1	2022-06-01	2420185	5	2321053	48.5		Homo sapiens	Singapore: Singapore	2017
+GCA_023635105.1	SAMN18320763	Neisseria subflava	28449	Contig	ASM2363510v1	2022-06-01	2457335	4	1724137	49.5		Homo sapiens	Singapore: Singapore	2018
+GCA_024170405.1	SAMN18242995	Neisseria perflava	33053	Contig	ASM2417040v1	2022-07-06	2405174	55	74752	52.5	missing	not applicable	missing	missing
+GCA_024170765.1	SAMN18243319	Neisseria perflava	33053	Contig	ASM2417076v1	2022-07-06	2412187	82	61072	52.5	missing	not applicable	missing	missing
+GCA_024205685.1	SAMN18320771	Neisseria subflava	28449	Complete Genome	ASM2420568v1	2022-07-11	2243952	1	2243952	49.5		Homo sapiens	Singapore: Singapore	2019
+GCA_024205705.1	SAMN18320769	Neisseria subflava	28449	Complete Genome	ASM2420570v1	2022-07-11	2479061	1	2479061	49		Homo sapiens	Singapore: Singapore	2018
+GCA_024205725.1	SAMN18320768	Neisseria subflava	28449	Complete Genome	ASM2420572v1	2022-07-11	2409157	1	2409157	49		Homo sapiens	Singapore: Singapore	2018
+GCA_024205745.1	SAMN18320767	Neisseria subflava	28449	Complete Genome	ASM2420574v1	2022-07-11	2213981	1	2213981	49		Homo sapiens	Singapore: Singapore	2018
+GCA_024205765.1	SAMN18320766	Neisseria subflava	28449	Complete Genome	ASM2420576v1	2022-07-11	2332965	1	2332965	49		Homo sapiens	Singapore: Singapore	2018
+GCA_024205785.1	SAMN18320765	Neisseria subflava	28449	Complete Genome	ASM2420578v1	2022-07-11	2277784	1	2277784	49		Homo sapiens	Singapore: Singapore	2019
+GCA_024580525.1	SAMN29938193	Neisseria dentiae	194197	Contig	ASM2458052v1	2022-08-06	2653910	102	111619	54.5	tonsil swab	Sus scrofa	Spain	2018
+GCA_024834045.1	SAMN30428199	Neisseria montereyensis	2973938	Contig	ASM2483404v1	2022-09-01	2310535	22	360099	46	oropharyngeal swab	Zalophus californianus	USA: California	2012
+GCA_028463985.1	SAMN32802983	Neisseria lisongii	2912188	Complete Genome	ASM2846398v1	2023-02-05	2065000	1	2065000	51.5	respiratory tract of Marmot		China: Xinjiang	2019-08
+GCA_028776105.2	SAMN31752220	Neisseria leonii	2995413	Complete Genome	ASM2877610v2	2024-03-08	2206085	1	2206085	57	Rabbit liver	Oryctolagus cuniculus	France: Institut Pasteur Lyon	1972
+GCA_028776585.2	SAMN31757055	Neisseria leonii	2995413	Complete Genome	ASM2877658v2	2024-03-10	2321692	1	2321692	57	Rabbit, lung	Oryctolagus cuniculus	France: Tours, Departmental veterinary laboratory	1981
+GCA_030216405.1	SAMN34996588	Neisseria mucosa	488	Contig	ASM3021640v1	2023-06-07	2513859	211	38466	51.5	urine	Homo sapiens	USA: Maywood, IL	not applicable
+GCA_030218065.1	SAMN34996481	Neisseria subflava	28449	Contig	ASM3021806v1	2023-06-07	2332356	229	276553	49.5		Homo sapiens	USA: Maywood, IL	2019-11
+GCA_030226275.1	SAMN34998693	Neisseria mucosa	488	Contig	ASM3022627v1	2023-06-07	2524525	204	39214	51.5		Homo sapiens	USA: Maywood, IL	not applicable
+GCA_030504595.1	SAMN36408917	Neisseria sp. MVDL20-010259	3061170	Contig	ASM3050459v1	2023-07-18	2434096	49	128311	50		Felis catus	USA:Minnesota	2020
+GCA_030504605.1	SAMN36408914	Neisseria sp. MVDL18-041461	3061168	Contig	ASM3050460v1	2023-07-18	2436300	52	195671	50		Felis catus	USA:Minnesota	2018
+GCA_030504625.1	SAMN36408915	Neisseria sp. MVDL19-042950	3061169	Contig	ASM3050462v1	2023-07-18	2441544	46	195666	50		Felis catus	USA:Minnesota	2019
+GCA_030523865.1	SAMN36400374	Neisseria sp.	192066	Scaffold	ASM3052386v1	2023-07-24	2526312	117	37857	55	saliva	Tapirus terrestris	Germany: Zoo Saarbruecken	2021-11-18
+GCA_030523955.1	SAMN36400366	Neisseria sp.	192066	Scaffold	ASM3052395v1	2023-07-24	2811455	110	39528	51.5	saliva	Tapirus terrestris	Germany: Zoo Saarbruecken	2021-11-18
+GCA_030527965.1	SAMN36400162	Neisseria sp.	192066	Contig	ASM3052796v1	2023-07-24	2274242	33	96782	48.5	saliva	Rousettus aegyptiacus	Germany: Zoo Saarbruecken	2022-01-19
+GCA_030528455.1	SAMN36400138	Neisseria sp.	192066	Contig	ASM3052845v1	2023-07-24	1216678	25	83241	52	saliva	Leptailurus serval	Germany: Zoo Saarbruecken	2022-02-09
+GCA_030530545.1	SAMN36400027	Neisseria sp.	192066	Scaffold	ASM3053054v1	2023-07-24	1967509	227	13606	57	saliva	Gorilla gorilla	Germany: Zoo Saarbruecken	2021-11-28
+GCA_030530745.1	SAMN36400011	Neisseria sp.	192066	Scaffold	ASM3053074v1	2023-07-24	2276341	56	80316	54.5	saliva	Ovis aries	Germany: Zoo Saarbruecken	2021-11-24
+GCA_030531795.1	SAMN36400500	Neisseria sp.	192066	Scaffold	ASM3053179v1	2023-07-24	1669048	108	26510	48	saliva	Tapirus terrestris	Germany: Zoo Saarbruecken	2021-11-18
+GCA_030532615.1	SAMN36400454	Neisseria zoodegmatis	326523	Scaffold	ASM3053261v1	2023-07-24	2404817	107	37464	51	saliva	Suricata suricatta	Germany: Zoo Saarbruecken	2021-12-18
+GCA_030532645.1	SAMN36400455	Neisseria sp.	192066	Scaffold	ASM3053264v1	2023-07-24	1702910	262	9156	53.5	saliva	Suricata suricatta	Germany: Zoo Saarbruecken	2021-12-18
+GCA_030538055.1	SAMN36400718	Neisseria sp.	192066	Scaffold	ASM3053805v1	2023-07-25	2038456	44	60290	52.5	feces	Chelonoides carbonaria	Germany: Zoo Saarbruecken	2022-01-27
+GCA_030538415.1	SAMN36400698	Neisseria sp.	192066	Scaffold	ASM3053841v1	2023-07-25	2839161	112	41138	55.5	saliva	Chelonoides carbonaria	Germany: Zoo Saarbruecken	2022-01-27
+GCA_031190635.1	SAMN37162767	Neisseria subflava	28449	Complete Genome	ASM3119063v1	2023-09-04	2195884	1	2195884	49.5		Homo sapiens	USA	2023-02-16
+GCA_031971935.1	SAMN29156150	Neisseria sp.	192066	Scaffold	ASM3197193v1	2023-09-26	2754061	272	15401	51.5	water		Singapore	2015-05-01
+GCA_032342915.1	SAMEA111505057	Neisseria sp. DTU_2021_1001991_1_SI_NGA_ILE_055	3077590	Complete Genome	ASM3234291v1	2023-10-04	2401490	1	2401490	49.5	sputum	Homo sapiens	Nigeria	2020-11-09
+GCA_032388755.1	SAMEA111504633	Neisseria sp. DTU_2020_1000833_1_SI_GRL_NUU_006	3077724	Complete Genome	ASM3238875v1	2023-10-05	2579073	1	2579073	51	expectorate	Homo sapiens	Greenland	2020-05-16
+GCA_032474515.1	SAMN11390300	Neisseria sp.	192066	Scaffold	ASM3247451v1	2023-10-10	2179551	855	2995	51.5	infant feces		USA: Pittsburgh, Magee-Womens Hospital of UPMC	2014
+GCA_032563455.1	SAMN11390051	Neisseria subflava	28449	Contig	ASM3256345v1	2023-10-11	2122815	160	23641	49	infant feces		USA: Pittsburgh, Magee-Womens Hospital of UPMC	2014
+GCA_032583875.1	SAMN11391324	Neisseria sp.	192066	Contig	ASM3258387v1	2023-10-12	1672940	691	2784	48.5	infant feces		USA: Pittsburgh, Magee-Womens Hospital of UPMC	2014
+GCA_034807785.1	SAMN38857205	Neisseria cinerea	483	Scaffold	ASM3480778v1	2023-12-28	2151093	352	177059	51		Homo sapiens	missing	2022
+GCA_036245335.1	SAMD00634385	Neisseria elongata	495	Contig	ASM3624533v1	2023-09-10	2574633	146	83404	54			Japan	2019
+GCA_037345845.1	SAMN40014454	Neisseria leonii	2995413	Complete Genome	ASM3734584v1	2024-02-28	2229938	1	2229938	57	Rabbit nose	Oryctolagus cuniculus	Switzerland: University of Bern	2002
+GCA_038738605.1	SAMN40982432	Neisseria perflava	33053	Contig	ASM3873860v1	2024-04-29	2273827	42	232257	49		Homo sapiens	USA: Maywood, IL	missing
+GCA_040104695.1	SAMN41574053	Neisseria polysaccharea	489	Contig	ASM4010469v1	2024-06-08	2088952	31	165544	52	Bronchoavleolar lavage	Homo sapiens	USA	2024
+GCA_041433145.1	SAMN30825717	Neisseria sp. 27098_8_158	3003680	Contig	ASM4143314v1	2024-08-22	2245292	9	1141429	49	lung	Homo sapiens	United Kingdom: London	2015-07
+GCA_041433195.1	SAMN30825715	Neisseria sp. 27098_8_139	3003681	Contig	ASM4143319v1	2024-08-22	2309083	36	179312	49.5	lung	Homo sapiens	United Kingdom: London	2015-07
+GCA_041433205.1	SAMN30825716	Neisseria perflava	33053	Contig	ASM4143320v1	2024-08-22	2266113	22	254432	49	lung	Homo sapiens	United Kingdom: London	2015-07
+GCA_041433235.1	SAMN30825714	Neisseria sp. 27098_8_112	3003682	Contig	ASM4143323v1	2024-08-22	2400344	46	140971	49	lung	Homo sapiens	United Kingdom: London	2015-07
+GCA_041433255.1	SAMN30825713	Neisseria sp. 20925_1_37	3003683	Contig	ASM4143325v1	2024-08-22	2154226	34	174944	49	lung	Homo sapiens	United Kingdom: London	2015-07
+GCA_041433265.1	SAMN30825712	Neisseria flavescens	484	Contig	ASM4143326v1	2024-08-22	2393694	58	116940	49	lung	Homo sapiens	United Kingdom: London	2015-07
+GCA_041772505.1	SAMN42491671	Neisseria dentiae	194197	Contig	ASM4177250v1	2024-09-06	2277786	288	10165	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041773095.1	SAMN42491655	Neisseria dentiae	194197	Contig	ASM4177309v1	2024-09-06	2258058	296	10082	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041775365.1	SAMN42491598	Neisseria dentiae	194197	Contig	ASM4177536v1	2024-09-06	2214807	335	7773	55.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041776085.1	SAMN42491575	Neisseria dentiae	194197	Contig	ASM4177608v1	2024-09-06	2455498	91	47577	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041776245.1	SAMN42491571	Neisseria dentiae	194197	Contig	ASM4177624v1	2024-09-06	2440020	73	52322	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041778075.1	SAMN42491531	Neisseria dentiae	194197	Contig	ASM4177807v1	2024-09-06	2324689	328	8788	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041780095.1	SAMN42503012	Neisseria dentiae	194197	Contig	ASM4178009v1	2024-09-06	2271499	170	19073	55.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041781735.1	SAMN42502961	Neisseria dentiae	194197	Contig	ASM4178173v1	2024-09-06	2291893	274	10762	55.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041782245.1	SAMN42502950	Neisseria dentiae	194197	Contig	ASM4178224v1	2024-09-06	2370263	163	19460	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041783585.1	SAMN42502909	Neisseria dentiae	194197	Contig	ASM4178358v1	2024-09-06	2361255	193	17346	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041787635.1	SAMN42502796	Neisseria dentiae	194197	Contig	ASM4178763v1	2024-09-06	2407277	140	29256	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041788385.1	SAMN42502777	Neisseria sp.	192066	Contig	ASM4178838v1	2024-09-06	2193537	410	5793	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041789745.1	SAMN42502737	Neisseria dentiae	194197	Contig	ASM4178974v1	2024-09-06	2295088	249	12213	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041790565.1	SAMN42502714	Neisseria dentiae	194197	Contig	ASM4179056v1	2024-09-06	2392463	103	39589	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041792455.1	SAMN42491466	Neisseria dentiae	194197	Contig	ASM4179245v1	2024-09-06	2250691	360	7194	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041794495.1	SAMN42491412	Neisseria dentiae	194197	Contig	ASM4179449v1	2024-09-06	2255468	318	8727	55.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041804105.1	SAMN42536828	Neisseria sp.	192066	Contig	ASM4180410v1	2024-09-06	2472641	142	24052	54.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041805595.1	SAMN42536754	Neisseria dentiae	194197	Contig	ASM4180559v1	2024-09-06	2442634	151	23941	54.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041810615.1	SAMN42506063	Neisseria sp.	192066	Contig	ASM4181061v1	2024-09-06	2518387	124	30463	54.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041812095.1	SAMN42505989	Neisseria sp.	192066	Contig	ASM4181209v1	2024-09-06	1953213	197	13375	51.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041812175.1	SAMN42505985	Neisseria weixii	1853276	Contig	ASM4181217v1	2024-09-06	2430588	212	16045	49	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041813965.1	SAMN42505895	Neisseria dentiae	194197	Contig	ASM4181396v1	2024-09-06	2291770	220	14505	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041820025.1	SAMN42510731	Neisseria sp.	192066	Contig	ASM4182002v1	2024-09-06	1594947	327	5090	54.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041823865.1	SAMN42505016	Neisseria dentiae	194197	Contig	ASM4182386v1	2024-09-06	2391495	155	20558	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041824415.1	SAMN42504990	Neisseria sp.	192066	Contig	ASM4182441v1	2024-09-06	1349730	344	3948	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041826055.1	SAMN42502508	Neisseria sp.	192066	Contig	ASM4182605v1	2024-09-06	1798868	420	4338	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041827845.1	SAMN42502419	Neisseria sp.	192066	Contig	ASM4182784v1	2024-09-06	2028398	425	5059	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041828995.1	SAMN42502359	Neisseria dentiae	194197	Contig	ASM4182899v1	2024-09-06	2393765	107	38666	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041829695.1	SAMN42502325	Neisseria dentiae	194197	Contig	ASM4182969v1	2024-09-06	2480104	91	48688	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041831055.1	SAMN42502256	Neisseria dentiae	194197	Contig	ASM4183105v1	2024-09-06	2410656	95	33756	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041831925.1	SAMN42502215	Neisseria sp.	192066	Contig	ASM4183192v1	2024-09-06	1137433	133	12413	46	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041832345.1	SAMN42502191	Neisseria dentiae	194197	Contig	ASM4183234v1	2024-09-06	2501217	230	15323	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041832685.1	SAMN42502176	Neisseria dentiae	194197	Contig	ASM4183268v1	2024-09-06	2282145	248	11707	55.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041833745.1	SAMN42502124	Neisseria dentiae	194197	Contig	ASM4183374v1	2024-09-06	2342493	255	11280	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041839535.1	SAMN42503582	Neisseria dentiae	194197	Contig	ASM4183953v1	2024-09-06	2321689	259	11660	55.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041840535.1	SAMN42503531	Neisseria dentiae	194197	Contig	ASM4184053v1	2024-09-06	2342287	172	18368	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041841085.1	SAMN42503503	Neisseria dentiae	194197	Contig	ASM4184108v1	2024-09-06	2311836	260	11498	55.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041842745.1	SAMN42503421	Neisseria dentiae	194197	Contig	ASM4184274v1	2024-09-06	2242891	336	7891	55.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041843585.1	SAMN42503379	Neisseria sp.	192066	Contig	ASM4184358v1	2024-09-06	2143650	460	4844	55.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041844795.1	SAMN42503319	Neisseria dentiae	194197	Contig	ASM4184479v1	2024-09-06	2324299	193	16136	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041845915.1	SAMN42503264	Neisseria dentiae	194197	Contig	ASM4184591v1	2024-09-06	2331929	167	18368	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041846465.1	SAMN42504317	Neisseria dentiae	194197	Contig	ASM4184646v1	2024-09-06	2311216	282	10274	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041846715.1	SAMN42504305	Neisseria dentiae	194197	Contig	ASM4184671v1	2024-09-06	2292384	187	15929	55.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041847205.1	SAMN42504281	Neisseria dentiae	194197	Contig	ASM4184720v1	2024-09-06	2435180	170	19824	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041847445.1	SAMN42504270	Neisseria dentiae	194197	Contig	ASM4184744v1	2024-09-06	2276805	137	23729	55.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041847865.1	SAMN42504249	Neisseria dentiae	194197	Contig	ASM4184786v1	2024-09-06	2488350	95	44202	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041849365.1	SAMN42504175	Neisseria dentiae	194197	Contig	ASM4184936v1	2024-09-06	2240110	339	7578	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041850815.1	SAMN42504102	Neisseria dentiae	194197	Contig	ASM4185081v1	2024-09-06	2342324	239	14408	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041851215.1	SAMN42504081	Neisseria dentiae	194197	Contig	ASM4185121v1	2024-09-06	2290793	303	9939	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041851315.1	SAMN42504076	Neisseria dentiae	194197	Contig	ASM4185131v1	2024-09-06	2456586	163	21680	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041851435.1	SAMN42504070	Neisseria dentiae	194197	Contig	ASM4185143v1	2024-09-06	2240722	350	7379	55.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041851995.1	SAMN42504043	Neisseria dentiae	194197	Contig	ASM4185199v1	2024-09-06	2220493	346	7347	55.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041852675.1	SAMN42504008	Neisseria sp.	192066	Contig	ASM4185267v1	2024-09-06	2042643	468	4571	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041853525.1	SAMN42503967	Neisseria sp.	192066	Contig	ASM4185352v1	2024-09-06	1824721	430	4302	55	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_041855125.1	SAMN42504873	Neisseria sp.	192066	Contig	ASM4185512v1	2024-09-06	2025254	153	15931	45.5	oral cavity	Sus scrofa	China: Kunming	2023-11-04
+GCA_042501725.1	SAMEA1964882	Neisseria lactamica	486	Contig	PDT002378548.1	2024-10-02	2129341	89	49669	52.5			United Kingdom	not provided
+GCA_042501745.1	SAMEA2073885	Neisseria lactamica	486	Contig	PDT002378547.1	2024-10-02	2129564	88	59017	52.5			United Kingdom	not provided
+GCA_042507525.2	SAMEA678329	Neisseria polysaccharea	489	Contig	PDT002377443.3	2026-07-09	2059021	60	72437	52			not collected	not provided
+GCA_042507615.2	SAMEA678202	Neisseria elongata	495	Contig	PDT002377445.3	2026-07-09	2202363	49	101845	54.5				
+GCA_042507645.1	SAMEA678052	Neisseria lactamica	486	Contig	PDT002377447.1	2024-10-02	2112104	109	41454	52				
+GCA_042507665.2	SAMEA678341	Neisseria bacilliformis	267212	Contig	PDT002377446.3	2026-07-09	2293036	90	49645	60			Sweden	1992
+GCA_042507685.1	SAMEA678049	Neisseria lactamica	486	Contig	PDT002377448.1	2024-10-02	2164626	96	51456	52.5				
+GCA_042507705.1	SAMEA678403	Neisseria lactamica	486	Contig	PDT002377439.1	2024-10-02	2128273	118	38056	52.5				
+GCA_042507725.1	SAMEA678396	Neisseria lactamica	486	Contig	PDT002377436.1	2024-10-02	2204057	112	45412	52.5				
+GCA_042507745.1	SAMEA678391	Neisseria lactamica	486	Contig	PDT002377437.1	2024-10-02	2165396	146	38575	52				
+GCA_042507765.1	SAMEA678028	Neisseria lactamica	486	Contig	PDT002377435.1	2024-10-02	2142966	98	48199	52.5				
+GCA_042507785.2	SAMEA678414	Neisseria bacilliformis	267212	Contig	PDT002377340.3	2026-07-09	2456133	82	60786	59.5			Sweden	2005
+GCA_042507825.1	SAMEA678374	Neisseria lactamica	486	Contig	PDT002377434.1	2024-10-02	2086861	110	49540	52.5				
+GCA_042507845.1	SAMEA678373	Neisseria lactamica	486	Contig	PDT002377433.1	2024-10-02	2192058	129	34903	52.5				
+GCA_042536645.1	SAMN18012341	Neisseria subflava	28449	Contig	PDT002299530.1	2024-10-02	2238516	21	462134	49	pharyngeal	Homo sapiens	Belgium: Antwerp	2019-01-15
+GCA_042536675.1	SAMN18012343	Neisseria subflava	28449	Contig	PDT002299528.1	2024-10-02	2288740	28	391480	49	pharyngeal	Homo sapiens	Belgium: Antwerp	2019-02-07
+GCA_042536705.1	SAMN18012342	Neisseria subflava	28449	Contig	PDT002299529.1	2024-10-02	2330429	75	87225	49	pharyngeal	Homo sapiens	Belgium: Antwerp	2019-02-07
+GCA_042536725.1	SAMN18012345	Neisseria subflava	28449	Contig	PDT002299526.1	2024-10-02	2398872	52	161135	49	pharyngeal	Homo sapiens	Belgium: Antwerp	2019-02-28
+GCA_042536745.1	SAMN18012347	Neisseria subflava	28449	Contig	PDT002299523.1	2024-10-02	2292631	37	392568	49	pharyngeal	Homo sapiens	Belgium: Antwerp	2019-03-11
+GCA_042536765.1	SAMN18012350	Neisseria subflava	28449	Contig	PDT002299520.1	2024-10-02	2191174	31	207457	49	pharyngeal	Homo sapiens	Belgium: Antwerp	2019-04-24
+GCA_042536805.1	SAMN24604774	Neisseria subflava	28449	Contig	PDT002299535.1	2024-10-02	2378361	72	99820	49	pharyngeal	Homo sapiens	Belgium: Antwerp	2021-01-09
+GCA_042536845.1	SAMN24604773	Neisseria subflava	28449	Contig	PDT002299536.1	2024-10-02	2226946	23	275802	49	pharyngeal	Homo sapiens	Belgium: Antwerp	2021-01-09
+GCA_042536885.1	SAMN18012337	Neisseria oralis	1107316	Contig	PDT002299531.1	2024-10-02	2468530	38	208758	52.5	pharyngeal	Homo sapiens	Belgium: Antwerp	2019-03-04
+GCA_042536905.1	SAMN18012336	Neisseria oralis	1107316	Contig	PDT002299532.1	2024-10-02	2471746	38	178693	52.5	pharyngeal	Homo sapiens	Belgium: Antwerp	2019-02-18
+GCA_042536925.1	SAMN18012344	Neisseria subflava	28449	Contig	PDT002299527.1	2024-10-02	2243211	68	56894	49	pharyngeal	Homo sapiens	Belgium: Antwerp	2019-02-28
+GCA_042536955.1	SAMN18012348	Neisseria subflava	28449	Contig	PDT002299522.1	2024-10-02	2287258	37	240419	49	pharyngeal	Homo sapiens	Belgium: Antwerp	2019-03-11
+GCA_042536985.1	SAMN18012346	Neisseria subflava	28449	Contig	PDT002299524.1	2024-10-02	2239355	23	321925	49.5	pharyngeal	Homo sapiens	Belgium: Antwerp	2019-02-28
+GCA_042537005.1	SAMN18012351	Neisseria subflava	28449	Contig	PDT002299519.1	2024-10-02	2411820	45	165765	48.5	pharyngeal	Homo sapiens	Belgium: Antwerp	2019-05-09
+GCA_042537105.1	SAMN15454056	Neisseria subflava	28449	Contig	PDT002299507.1	2024-10-02	2217434	31	159554	49.5	not applicable	not applicable	not applicable	2020-04-20
+GCA_042537125.1	SAMN15454055	Neisseria subflava	28449	Contig	PDT002299508.1	2024-10-02	2322588	77	109578	49	not applicable	not applicable	not applicable	2020-04-20
+GCA_042537145.1	SAMN15454057	Neisseria subflava	28449	Contig	PDT002299506.1	2024-10-02	2196689	44	104053	49	not applicable	not applicable	not applicable	2020-04-20
+GCA_042537165.1	SAMN15454054	Neisseria subflava	28449	Contig	PDT002299509.1	2024-10-02	2158372	28	231306	49.5	not applicable	not applicable	not applicable	2020-04-20
+GCA_042537185.1	SAMN15454058	Neisseria subflava	28449	Contig	PDT002299505.1	2024-10-02	2210998	22	328638	49.5	not applicable	not applicable	not applicable	2020-04-20
+GCA_042537205.1	SAMN15454045	Neisseria bacilliformis	267212	Contig	PDT002299498.1	2024-10-02	2279062	215	19365	59.5	not applicable	not applicable	not applicable	2020-04-20
+GCA_042537225.1	SAMN15454060	Neisseria weaveri	28091	Contig	PDT002299502.1	2024-10-02	2135086	46	107395	49	not applicable	not applicable	not applicable	2020-04-20
+GCA_042537245.1	SAMN15454059	Neisseria weaveri	28091	Contig	PDT002299503.1	2024-10-02	2232221	43	150695	49	not applicable	not applicable	not applicable	2020-04-20
+GCA_042537265.1	SAMEA6155528	Neisseria lactamica	486	Contig	PDT002298926.1	2024-10-02	2126065	66	98405	52.5	human	Homo sapiens	China	2014-12-04
+GCA_042537275.1	SAMEA6155527	Neisseria subflava	28449	Contig	PDT002298925.1	2024-10-02	2317258	72	77503	49.5	human	Homo sapiens	China	2014-12-24
+GCA_042537305.1	SAMN15454047	Neisseria lactamica	486	Contig	PDT002299496.1	2024-10-02	2125231	91	54581	52.5	not applicable	not applicable	not applicable	2020-04-20
+GCA_042537325.1	SAMEA6155525	Neisseria lactamica	486	Contig	PDT002298923.1	2024-10-02	2114396	53	112628	52.5	human	Homo sapiens	China	2015-12-10
+GCA_042537345.1	SAMEA6155523	Neisseria lactamica	486	Contig	PDT002298921.1	2024-10-02	2101081	65	78011	52.5	human	Homo sapiens	China	2014-10-09
+GCA_042537425.1	SAMEA6124618	Neisseria lactamica	486	Contig	PDT002298905.1	2024-10-02	2145169	59	124938	52.5	human	Homo sapiens	China	2016-12-20
+GCA_042537445.1	SAMEA6124619	Neisseria subflava	28449	Contig	PDT002298906.1	2024-10-02	2315230	74	76612	49.5	human	Homo sapiens	China	2014-12-24
+GCA_042537455.1	SAMEA6124617	Neisseria lactamica	486	Contig	PDT002298904.1	2024-10-02	2100361	60	104800	52.5	human	Homo sapiens	China	2015-12-05
+GCA_042537485.1	SAMEA6124615	Neisseria lactamica	486	Contig	PDT002298902.1	2024-10-02	2203097	90	73563	52.5	human	Homo sapiens	China	2015-01-05
+GCA_042537495.1	SAMEA6124616	Neisseria lactamica	486	Contig	PDT002298903.1	2024-10-02	2211035	63	85946	52	human	Homo sapiens	China	2015-10-23
+GCA_042537525.1	SAMEA6124614	Neisseria lactamica	486	Contig	PDT002298901.1	2024-10-02	2094173	63	117606	52.5	human	Homo sapiens	China	2014-10-09
+GCA_042537565.1	SAMEA6124613	Neisseria lactamica	486	Contig	PDT002298900.1	2024-10-02	2201270	62	142746	52	human	Homo sapiens	China	2014-10-09
+GCA_042557425.1	SAMN20296561	Neisseria cinerea	483	Contig	PDT002281282.1	2024-10-02	1928083	24	207997	51	throat	Homo sapiens	USA	2020
+GCA_042557445.1	SAMN20296568	Neisseria subflava	28449	Contig	PDT002281279.1	2024-10-02	2378730	29	245991	49	throat	Homo sapiens	USA	2020
+GCA_042557465.1	SAMN20296560	Neisseria subflava	28449	Contig	PDT002281283.1	2024-10-02	2204948	19	507323	49	throat	Homo sapiens	USA	2020
+GCA_042557485.1	SAMN20296563	Neisseria oralis	1107316	Contig	PDT002281280.1	2024-10-02	2404470	37	159424	53	throat	Homo sapiens	USA	2020
+GCA_042557505.2	SAMEA111504224	Neisseria subflava	28449	Contig	PDT002281218.3	2026-07-10	2314938	68	117621	49	aspirate	Homo sapiens	Czech Republic	2020-04-06
+GCA_042557525.1	SAMD00749881	Neisseria subflava	28449	Contig	PDT002281216.1	2024-10-02	2138880	43	122261	49	oral cavity	Homo sapiens	Japan:Hiroshima	2022
+GCA_042557545.1	SAMD00749883	Neisseria subflava	28449	Contig	PDT002281217.1	2024-10-02	2294290	222	21784	49	oral cavity	Homo sapiens	Japan:Hiroshima	2022
+GCA_042557565.1	SAMD00749874	Neisseria subflava	28449	Contig	PDT002281215.1	2024-10-02	2365168	95	89027	49	oral cavity	Homo sapiens	Japan:Hiroshima	2022
+GCA_042557585.1	SAMD00749869	Neisseria subflava	28449	Contig	PDT002281214.1	2024-10-02	2139050	53	166126	49	oral cavity	Homo sapiens	Japan:Hiroshima	2022
+GCA_042557645.1	SAMD00749854	Neisseria subflava	28449	Contig	PDT002281213.1	2024-10-02	2199551	216	16640	49.5	oral cavity	Homo sapiens	Japan:Hiroshima	2022
+GCA_042640315.1	SAMN43112103	Neisseria elongata	495	Contig	ASM4264031v1	2024-10-05	2156095	180	16917	54.5	tooth		Brazil	missing
+GCA_042641205.1	SAMN43112061	Neisseria sp.	192066	Contig	ASM4264120v1	2024-10-05	2298675	198	16809	53.5	tooth		Brazil	missing
+GCA_042641685.1	SAMN43112035	Neisseria sicca	490	Contig	ASM4264168v1	2024-10-05	2369345	123	27631	51.5	tooth		Brazil	missing
+GCA_042644565.1	SAMN43111964	Neisseria sp.	192066	Contig	ASM4264456v1	2024-10-05	1377536	452	3301	50	tooth		Brazil	missing
+GCA_042649725.1	SAMN43282021	Neisseria perflava	33053	Scaffold	ASM4264972v1	2024-10-05	2271192	97	51294	49	missing		missing	2021
+GCA_042649805.1	SAMN43282024	Neisseria musculi	1815583	Scaffold	ASM4264980v1	2024-10-05	2744475	163	38656	53.5	missing		missing	2021
+GCA_042658245.1	SAMN43282738	Neisseria weixii	1853276	Scaffold	ASM4265824v1	2024-10-06	2673232	85	73078	49.5	missing		missing	2022
+GCA_042666255.1	SAMN43284530	Neisseria sp. GCM10028920	3273402	Contig	ASM4266625v1	2024-10-06	2214867	21	274288	49	missing		missing	2023
+GCA_044005815.1	SAMN44321030	Neisseria sp. 23W00734	3374307	Scaffold	ASM4400581v1	2024-10-28	2444972	79	109721	58.5	pus	Homo sapiens	China	2023-01-18
+GCA_044772855.1	SAMN44320934	Neisseria sp. 23W00296	3373603	Complete Genome	ASM4477285v1	2024-11-11	2471860	1	2471860	58.5	pus	Homo sapiens	China	2023-01-18
+GCA_045062685.1	SAMN44701579	Neisseria oralis	1107316	Contig	ASM4506268v1	2024-11-19	2498959	128	232486	53	oropharyngeal swab	Homo sapiens	Australia	2019
+GCA_046546535.1	SAMN46042332	Neisseria sp. WLZKY-1	3390377	Contig	ASM4654653v1	2025-01-07	2441933	183	42372	58	Shenzhen	Homo sapiens	China:Shenzhen	2020-11-06
+GCA_046700105.1	SAMN44750991	Neisseria cinerea	483	Contig	ASM4670010v1	2025-01-15	1982246	32	133244	51	bronchoalveolar lavage	Homo sapiens	USA: California	2024-05-07
+GCA_046700675.1	SAMN44750970	Neisseria polysaccharea	489	Contig	ASM4670067v1	2025-01-15	2139853	65	64265	51.5	blood	Homo sapiens	USA: California	2024-05-11
+GCA_047327545.2	SAMN44373969	Neisseria lactamica	486	Contig	PDT002598951.3	2026-07-10	2112696	87	71983	52.5	Oropharyngeal swab	Homo sapiens	Bangladesh: Dhaka	2022-10-31
+GCA_047394685.1	SAMN41632151	Neisseria animaloris	326522	Contig	ASM4739468v1	2025-02-04	2323541	32	243583	49.5			Spain: Madrid	2022
+GCA_047758525.1	SAMN45914814	Neisseria sp. CP9	3388843	Chromosome	ASM4775852v1	2025-02-13	3012977	1	3012877	50.5		Mus musculus	USA:California	2020-02-17
+GCA_047837845.1	SAMN46163078	Neisseria polysaccharea	489	Complete Genome	Hybrid_SRR036269	2025-02-18	2024350	1	2024350	52	Throat of healthy child	Homo sapiens	France	1975
+GCA_047837985.1	SAMN46163079	Neisseria sp. CCUG12390	3392035	Complete Genome	ASM4783798v1	2025-02-18	2557671	1	2557671	52	site not recorded	horse	missing	missing
+GCA_047839235.1	SAMN46163082	Neisseria sp. CCUG17229	3392036	Complete Genome	ASM4783923v1	2025-02-18	2293581	1	2293581	49	penis	gander	France	1984
+GCA_047915665.1	SAMN46073250	Neisseria sp. LACPHL-SPEC-2024-00856	3391057	Contig	ASM4791566v1	2025-02-19	2012959	25	177329	52	bronchoalveolar lavage	Homo sapiens	USA: California	2024-11-06
+GCA_048060015.1	SAMN43365668	Neisseria sp. S1	3318354	Contig	ASM4806001v1	2025-02-25	2431956	44	176115	47	intestine tissue	goose	China: Hegang	2022-06-05
+GCA_048511255.1	SAMN46329877	Neisseria sp.	192066	Contig	ASM4851125v1	2025-03-08	1575811	768	2266	50	gut	Homo sapiens	China	2018-04-26
+GCA_049190975.1	SAMN47402137	Neisseria yangbaofengii	2709396	Complete Genome	ASM4919097v1	2025-03-31	2570986	1	2570986	49.5	respiratory tract	Marmota	China: Qinghai	2019-10-02
+GCA_049190985.1	SAMN47402139	Neisseria lisongii	2912188	Complete Genome	ASM4919098v1	2025-03-31	2195296	1	2195296	51.5	respiratory tract	Marmota	China: Xinjiang	2019-10-02
+GCA_049662365.1	SAMN40009940	Neisseria sp.	192066	Contig	ASM4966236v1	2025-04-15	2072571	176	23016	42.5	Water from Urban Wastewater		Denmark	2019-11-14
+GCA_050292485.1	SAMD00824534	Neisseria lactamica	486	Contig	PDT002761585.1	2025-05-08	2076027	97	46255	52.5	missing	Homo sapiens	Japan	2016
+GCA_050292525.1	SAMD00824535	Neisseria lactamica	486	Contig	PDT002761586.1	2025-05-08	2161240	52	83422	52.5	missing	Homo sapiens	Japan	2016
+GCA_050292605.1	SAMD00824533	Neisseria cinerea	483	Contig	PDT002761584.1	2025-05-08	2004449	112	36000	51	missing	Homo sapiens	Japan	2016
+GCA_050292615.1	SAMD00824531	Neisseria polysaccharea	489	Contig	PDT002761582.1	2025-05-08	2001399	30	159452	52	missing	Homo sapiens	Japan	2016
+GCA_050292625.1	SAMD00824532	Neisseria cinerea	483	Contig	PDT002761583.1	2025-05-08	2056918	42	133475	51.5	missing	Homo sapiens	Japan	2016
+GCA_050292725.1	SAMD00824527	Neisseria subflava	28449	Contig	PDT002761578.1	2025-05-08	2149566	34	275689	49	missing	Homo sapiens	Japan	2010
+GCA_050293385.1	SAMD00824528	Neisseria lactamica	486	Contig	PDT002761579.1	2025-05-08	2155614	89	124094	52.5	missing	Homo sapiens	Japan	2010
+GCA_050294935.1	SAMD00824537	Neisseria cinerea	483	Contig	PDT002761588.1	2025-05-08	2015021	26	167009	51	missing	Homo sapiens	Japan	2010
+GCA_050294995.1	SAMD00824530	Neisseria cinerea	483	Contig	PDT002761581.1	2025-05-08	1863987	38	247064	50.5	missing	Homo sapiens	Japan	2013
+GCA_050295025.1	SAMD00824529	Neisseria polysaccharea	489	Contig	PDT002761580.1	2025-05-08	2109222	59	156434	51.5	missing	Homo sapiens	Japan	2013
+GCA_050328085.1	SAMN46179532	Neisseria subflava	28449	Contig	PDT002764597.1	2025-05-13	2257007	110	43929	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328105.1	SAMN46179438	Neisseria subflava	28449	Contig	PDT002764602.1	2025-05-13	2296024	31	137129	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328125.1	SAMN46179453	Neisseria subflava	28449	Contig	PDT002764584.1	2025-05-13	2125231	19	328348	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328145.1	SAMN46179437	Neisseria subflava	28449	Contig	PDT002764580.1	2025-05-13	2296180	28	150724	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328165.1	SAMN46179523	Neisseria subflava	28449	Contig	PDT002764574.1	2025-05-13	2261725	49	124709	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328205.1	SAMN46179524	Neisseria subflava	28449	Contig	PDT002764573.1	2025-05-13	2265624	56	100725	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328265.1	SAMN46179525	Neisseria subflava	28449	Contig	PDT002764572.1	2025-05-13	2193013	82	39438	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328305.1	SAMN46179526	Neisseria subflava	28449	Contig	PDT002764571.1	2025-05-13	2216135	39	174228	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328335.1	SAMN46179527	Neisseria subflava	28449	Contig	PDT002764570.1	2025-05-13	2261994	59	100725	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328385.1	SAMN46179457	Neisseria subflava	28449	Contig	PDT002764569.1	2025-05-13	2222243	43	130894	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328445.1	SAMN46179470	Neisseria subflava	28449	Contig	PDT002764561.1	2025-05-13	2247488	51	134405	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328485.1	SAMN46179474	Neisseria subflava	28449	Contig	PDT002764558.1	2025-05-13	2248483	47	111777	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328565.1	SAMN46179482	Neisseria subflava	28449	Contig	PDT002764550.1	2025-05-13	2343246	77	101377	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328585.1	SAMN46179436	Neisseria subflava	28449	Contig	PDT002764526.1	2025-05-13	2291177	30	142716	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328745.1	SAMN46179439	Neisseria subflava	28449	Contig	PDT002764591.1	2025-05-13	2296371	28	155547	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328765.1	SAMN46179430	Neisseria subflava	28449	Contig	PDT002764589.1	2025-05-13	2296556	26	155550	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328825.1	SAMN46179515	Neisseria subflava	28449	Contig	PDT002764583.1	2025-05-13	2320150	30	378413	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328885.1	SAMN46179517	Neisseria subflava	28449	Contig	PDT002764581.1	2025-05-13	2272603	37	223245	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328945.1	SAMN46179519	Neisseria subflava	28449	Contig	PDT002764578.1	2025-05-13	2390458	28	378408	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050328965.1	SAMN46179520	Neisseria subflava	28449	Contig	PDT002764577.1	2025-05-13	2267213	29	454519	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329005.1	SAMN46179521	Neisseria subflava	28449	Contig	PDT002764576.1	2025-05-13	2265434	56	124709	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329065.1	SAMN46179460	Neisseria subflava	28449	Contig	PDT002764566.1	2025-05-13	2226570	42	171430	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329085.1	SAMN46179471	Neisseria subflava	28449	Contig	PDT002764560.1	2025-05-13	2205876	75	79653	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329125.1	SAMN46179476	Neisseria subflava	28449	Contig	PDT002764557.1	2025-05-13	2215169	57	96748	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329165.1	SAMN46179478	Neisseria subflava	28449	Contig	PDT002764554.1	2025-05-13	2345802	107	56789	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329205.1	SAMN46179479	Neisseria subflava	28449	Contig	PDT002764553.1	2025-05-13	2359038	85	91821	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329225.1	SAMN46179480	Neisseria subflava	28449	Contig	PDT002764552.1	2025-05-13	2344074	69	102150	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329275.1	SAMN46179483	Neisseria subflava	28449	Contig	PDT002764549.1	2025-05-13	2350241	76	101113	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329335.1	SAMN46179484	Neisseria subflava	28449	Contig	PDT002764548.1	2025-05-13	2344858	74	101113	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329365.1	SAMN46179485	Neisseria subflava	28449	Contig	PDT002764547.1	2025-05-13	2339087	109	55854	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329395.1	SAMN46179497	Neisseria subflava	28449	Contig	PDT002764535.1	2025-05-13	2267437	56	157221	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329445.1	SAMN46179435	Neisseria subflava	28449	Contig	PDT002764534.1	2025-05-13	2296508	27	155550	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329485.1	SAMN46179499	Neisseria subflava	28449	Contig	PDT002764533.1	2025-05-13	2267936	51	199956	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329515.1	SAMN46179500	Neisseria subflava	28449	Contig	PDT002764532.1	2025-05-13	2268745	60	183739	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329535.1	SAMN46179501	Neisseria subflava	28449	Contig	PDT002764531.1	2025-05-13	2267481	52	191281	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329615.1	SAMN46179504	Neisseria subflava	28449	Contig	PDT002764530.1	2025-05-13	2184009	40	334767	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329635.1	SAMN46179505	Neisseria subflava	28449	Contig	PDT002764529.1	2025-05-13	2209401	68	120302	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329655.1	SAMN46179510	Neisseria subflava	28449	Contig	PDT002764524.1	2025-05-13	2351822	55	135653	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329735.1	SAMN46179511	Neisseria subflava	28449	Contig	PDT002764523.1	2025-05-13	2184022	43	237064	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329755.1	SAMN46179512	Neisseria subflava	28449	Contig	PDT002764522.1	2025-05-13	2366660	30	378413	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329775.1	SAMN46179513	Neisseria subflava	28449	Contig	PDT002764521.1	2025-05-13	2392790	29	378408	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050329895.1	SAMN46179514	Neisseria subflava	28449	Contig	PDT002764520.1	2025-05-13	2392485	28	378408	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050330115.1	SAMN46179431	Neisseria subflava	28449	Contig	PDT002764568.1	2025-05-13	2296193	28	150724	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050330135.1	SAMN46179433	Neisseria subflava	28449	Contig	PDT002764555.1	2025-05-13	2275835	33	150724	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050330175.1	SAMN46179486	Neisseria subflava	28449	Contig	PDT002764546.1	2025-05-13	2347056	98	66576	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050330235.1	SAMN46179506	Neisseria subflava	28449	Contig	PDT002764528.1	2025-05-13	2352219	54	135653	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050330255.1	SAMN46179434	Neisseria subflava	28449	Contig	PDT002764544.1	2025-05-13	2296256	30	155547	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050331975.1	SAMN46179448	Neisseria subflava	28449	Contig	PDT002764588.1	2025-05-13	2131275	30	207118	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050331995.1	SAMN46179452	Neisseria subflava	28449	Contig	PDT002764585.1	2025-05-13	2125073	15	343394	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050332015.1	SAMN46179516	Neisseria subflava	28449	Contig	PDT002764582.1	2025-05-13	2348087	32	348724	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050332295.1	SAMN46179518	Neisseria subflava	28449	Contig	PDT002764579.1	2025-05-13	2180472	51	215399	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050332315.1	SAMN46179432	Neisseria subflava	28449	Contig	PDT002764563.1	2025-05-13	2296059	32	150724	49.5		Homo sapiens	USA: Rochester, New York	2024
+GCA_050360215.1	SAMN46179481	Neisseria subflava	28449	Contig	PDT002764551.1	2025-05-13	2378214	82	91824	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050360575.1	SAMN46179509	Neisseria subflava	28449	Contig	PDT002764525.1	2025-05-13	2351797	55	135653	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050360595.1	SAMN46179469	Neisseria subflava	28449	Contig	PDT002764562.1	2025-05-13	2257094	58	159108	49		Homo sapiens	USA: Rochester, New York	2024
+GCA_050513845.1	SAMN48672237	Neisseria polysaccharea	489	Contig	PDT002777138.1	2025-05-22	2094318	33	168513	52	throat	Homo sapiens	USA: California	2025-04-22
+GCA_050896295.1	SAMN48851472	Neisseria sp. SLRRB23	3435199	Contig	ASM5089629v1	2025-06-11	2124824	184	57311	51.5	pharynx of male patient	Homo sapiens	USA: Texas	2023-06
+GCA_051132615.1	SAMN40890114	Neisseria sp. Ec49-e6-T10	3140744	Complete Genome	Ec49-e6T10	2025-06-28	3199543	1	3199543	37	larvae tissues	Zophobas morio	Switzerland	2024-02
+GCA_051956595.1	SAMN48969142	Neisseria sp. P0024.S006	3436850	Scaffold	ASM5195659v1	2025-08-12	2294373	102	362069	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051956635.1	SAMN48969127	Neisseria sp. P0022.S010	3436835	Contig	ASM5195663v1	2025-08-12	4248393	989	8536	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051956655.1	SAMN48969138	Neisseria sp. P0024.S002	3436846	Scaffold	ASM5195665v1	2025-08-12	2439196	328	362069	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051956675.1	SAMN48969126	Neisseria sp. P0022.S009	3436834	Scaffold	ASM5195667v1	2025-08-12	2327631	121	319667	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051956735.1	SAMN48969123	Neisseria sp. P0022.S006	3436831	Scaffold	ASM5195673v1	2025-08-12	2376287	225	404848	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051956775.1	SAMN48969124	Neisseria sp. P0022.S007	3436832	Contig	ASM5195677v1	2025-08-12	2319493	112	265629	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051956815.1	SAMN48969119	Neisseria sp. P0022.S002	3436827	Scaffold	ASM5195681v1	2025-08-12	2351513	175	393347	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051956855.1	SAMN48969114	Neisseria sp. P0021.S007	3436822	Scaffold	ASM5195685v1	2025-08-12	3384464	1859	133685	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051956895.1	SAMN48969113	Neisseria sp. P0021.S006	3436821	Scaffold	ASM5195689v1	2025-08-12	3432744	1343	23024	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051956955.1	SAMN48969112	Neisseria sp. P0021.S005	3436820	Scaffold	ASM5195695v1	2025-08-12	3811770	1027	6173	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051956975.1	SAMN48969109	Neisseria sp. P0021.S002	3436817	Scaffold	ASM5195697v1	2025-08-12	2178998	98	342264	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051956995.1	SAMN48969111	Neisseria sp. P0021.S004	3436819	Scaffold	ASM5195699v1	2025-08-12	2535007	664	405091	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957055.1	SAMN48969102	Neisseria sp. P0020.S005	3436810	Scaffold	ASM5195705v1	2025-08-12	2316195	100	146705	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957095.1	SAMN48969100	Neisseria sp. P0020.S003	3436808	Scaffold	ASM5195709v1	2025-08-12	2252640	126	87372	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957115.1	SAMN48969091	Neisseria sp. P0019.S003	3436799	Scaffold	ASM5195711v1	2025-08-12	2288734	125	364400	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957155.1	SAMN48969090	Neisseria sp. P0019.S002	3436798	Scaffold	ASM5195715v1	2025-08-12	2398379	206	308280	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957215.1	SAMN48969084	Neisseria sp. P0018.S006	3436792	Scaffold	ASM5195721v1	2025-08-12	2248214	175	138955	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957235.1	SAMN48969081	Neisseria sp. P0018.S003	3436789	Scaffold	ASM5195723v1	2025-08-12	2281704	237	138955	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957275.1	SAMN48969082	Neisseria sp. P0018.S004	3436790	Scaffold	ASM5195727v1	2025-08-12	2242311	166	132245	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957315.1	SAMN48969080	Neisseria sp. P0018.S002	3436788	Scaffold	ASM5195731v1	2025-08-12	2227493	125	134004	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957355.1	SAMN48969079	Neisseria sp. P0018.S001	3436787	Scaffold	ASM5195735v1	2025-08-12	2221590	113	139244	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957375.1	SAMN48969077	Neisseria sp. P0017.S009	3436785	Scaffold	ASM5195737v1	2025-08-12	2275252	55	206523	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957435.1	SAMN48969078	Neisseria sp. P0017.S010	3436786	Scaffold	ASM5195743v1	2025-08-12	3537289	1375	4538	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957445.1	SAMN48969076	Neisseria sp. P0017.S008	3436784	Scaffold	ASM5195744v1	2025-08-12	2298570	143	151540	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957495.1	SAMN48969075	Neisseria sp. P0017.S007	3436783	Scaffold	ASM5195749v1	2025-08-12	2291854	125	206001	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957575.1	SAMN48969073	Neisseria sp. P0017.S005	3436781	Scaffold	ASM5195757v1	2025-08-12	2317617	214	127025	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957595.1	SAMN48969074	Neisseria sp. P0017.S006	3436782	Scaffold	ASM5195759v1	2025-08-12	4516607	606	30650	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957655.1	SAMN48969072	Neisseria sp. P0017.S004	3436780	Scaffold	ASM5195765v1	2025-08-12	2285486	100	184972	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957675.1	SAMN48969071	Neisseria sp. P0017.S003	3436779	Scaffold	ASM5195767v1	2025-08-12	2282384	90	206001	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957695.1	SAMN48969070	Neisseria sp. P0017.S002	3436778	Scaffold	ASM5195769v1	2025-08-12	2287024	103	206002	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957735.1	SAMN48969067	Neisseria sp. P0016.S009	3436775	Scaffold	ASM5195773v1	2025-08-12	2223276	72	264601	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957755.1	SAMN48969069	Neisseria sp. P0017.S001	3436777	Scaffold	ASM5195775v1	2025-08-12	2303349	163	206002	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957775.1	SAMN48969066	Neisseria sp. P0016.S008	3436774	Scaffold	ASM5195777v1	2025-08-12	2233900	66	161880	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957855.1	SAMN48969063	Neisseria sp. P0016.S005	3436771	Scaffold	ASM5195785v1	2025-08-12	2250370	165	180198	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957875.1	SAMN48969064	Neisseria sp. P0016.S006	3436772	Scaffold	ASM5195787v1	2025-08-12	2257618	104	397611	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957955.1	SAMN48969060	Neisseria sp. P0016.S002	3436768	Scaffold	ASM5195795v1	2025-08-12	4268431	2394	4368	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051957975.1	SAMN48969058	Neisseria sp. P0015.S010	3436766	Scaffold	ASM5195797v1	2025-08-12	3532621	1835	2868	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051958015.1	SAMN48969057	Neisseria sp. P0015.S009	3436765	Scaffold	ASM5195801v1	2025-08-12	2430213	805	215045	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051958075.1	SAMN48969054	Neisseria sp. P0015.S006	3436762	Scaffold	ASM5195807v1	2025-08-12	3386860	1585	4019	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051958095.1	SAMN48969052	Neisseria sp. P0015.S004	3436760	Scaffold	ASM5195809v1	2025-08-12	3093227	2002	50063	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051958105.1	SAMN48969050	Neisseria sp. P0015.S002	3436758	Scaffold	ASM5195810v1	2025-08-12	2404207	727	214082	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051958155.1	SAMN48969047	Neisseria sp. P0014.S009	3436755	Scaffold	ASM5195815v1	2025-08-12	2417956	338	114304	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051958215.1	SAMN48969046	Neisseria sp. P0014.S008	3436754	Scaffold	ASM5195821v1	2025-08-12	2444728	440	114304	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051958235.1	SAMN48969042	Neisseria sp. P0014.S004	3436750	Scaffold	ASM5195823v1	2025-08-12	2623084	1014	95693	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051958255.1	SAMN48969044	Neisseria sp. P0014.S006	3436752	Scaffold	ASM5195825v1	2025-08-12	2298182	459	141210	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051958295.1	SAMN48969040	Neisseria sp. P0014.S002	3436748	Scaffold	ASM5195829v1	2025-08-12	2219419	161	173020	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051958355.1	SAMN48969037	Neisseria sp. P0013.S009	3436745	Scaffold	ASM5195835v1	2025-08-12	2360300	229	157237	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051958375.1	SAMN48969035	Neisseria sp. P0013.S007	3436743	Scaffold	ASM5195837v1	2025-08-12	2302368	152	140632	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051958415.1	SAMN48969032	Neisseria sp. P0013.S004	3436740	Scaffold	ASM5195841v1	2025-08-12	2377045	259	166823	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051958425.1	SAMN48969033	Neisseria sp. P0013.S005	3436741	Scaffold	ASM5195842v1	2025-08-12	2293470	123	140505	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051958495.1	SAMN48969030	Neisseria sp. P0013.S002	3436738	Scaffold	ASM5195849v1	2025-08-12	2298450	142	140632	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051958535.1	SAMN48969024	Neisseria sp. P0012.S006	3436732	Scaffold	ASM5195853v1	2025-08-12	2192168	116	163604	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051958545.1	SAMN48969009	Neisseria sp. P0009.S010	3436717	Scaffold	ASM5195854v1	2025-08-12	2235641	78	260275	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051958615.1	SAMN48969007	Neisseria sp. P0009.S008	3436715	Scaffold	ASM5195861v1	2025-08-12	2276945	126	153077	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051962515.1	SAMN48969006	Neisseria sp. P0009.S007	3436714	Scaffold	ASM5196251v1	2025-08-12	3102770	1429	6781	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051962595.1	SAMN48969004	Neisseria sp. P0009.S005	3436712	Scaffold	ASM5196259v1	2025-08-12	2267801	197	173412	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051962615.1	SAMN48969003	Neisseria sp. P0009.S004	3436711	Scaffold	ASM5196261v1	2025-08-12	2341274	368	132941	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051962655.1	SAMN48969002	Neisseria sp. P0009.S003	3436710	Scaffold	ASM5196265v1	2025-08-12	2317462	335	135531	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051962715.1	SAMN48968999	Neisseria sp. P0008.S010	3436707	Scaffold	ASM5196271v1	2025-08-12	2570217	496	40233	53.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051962735.1	SAMN48969000	Neisseria sp. P0009.S001	3436708	Scaffold	ASM5196273v1	2025-08-12	2337887	147	205933	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051962755.1	SAMN48968993	Neisseria sp. P0008.S004	3436701	Scaffold	ASM5196275v1	2025-08-12	2241223	78	220282	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051962805.1	SAMN48968991	Neisseria sp. P0008.S002	3436699	Scaffold	ASM5196280v1	2025-08-12	2217642	36	283010	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051962855.1	SAMN48968985	Neisseria sp. P0006.S010	3436693	Scaffold	ASM5196285v1	2025-08-12	2140563	58	338742	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051962875.1	SAMN48968989	Neisseria sp. P0007.S010	3436697	Scaffold	ASM5196287v1	2025-08-12	2216162	89	131050	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051962915.1	SAMN48968984	Neisseria sp. P0006.S009	3436692	Scaffold	ASM5196291v1	2025-08-12	2136276	44	303722	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051962935.1	SAMN48968980	Neisseria sp. P0006.S005	3436688	Scaffold	ASM5196293v1	2025-08-12	2223802	91	283441	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051962955.1	SAMN48968981	Neisseria sp. P0006.S006	3436689	Scaffold	ASM5196295v1	2025-08-12	4162404	2162	5860	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963015.1	SAMN48968979	Neisseria sp. P0006.S004	3436687	Scaffold	ASM5196301v1	2025-08-12	2212333	51	268804	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963055.1	SAMN48968965	Neisseria sp. P0004.S009	3436673	Scaffold	ASM5196305v1	2025-08-12	2268422	68	173239	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963075.1	SAMN48968974	Neisseria sp. P0005.S008	3436682	Scaffold	ASM5196307v1	2025-08-12	2291344	163	130834	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963095.1	SAMN48968966	Neisseria sp. P0004.S010	3436674	Scaffold	ASM5196309v1	2025-08-12	2264387	53	173239	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963175.1	SAMN48968963	Neisseria sp. P0004.S007	3436671	Scaffold	ASM5196317v1	2025-08-12	2258956	36	173239	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963195.1	SAMN48968964	Neisseria sp. P0004.S008	3436672	Scaffold	ASM5196319v1	2025-08-12	2263013	45	173239	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963215.1	SAMN48968962	Neisseria sp. P0004.S006	3436670	Scaffold	ASM5196321v1	2025-08-12	2269966	79	173239	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963275.1	SAMN48968961	Neisseria sp. P0004.S005	3436669	Scaffold	ASM5196327v1	2025-08-12	2260129	38	158144	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963315.1	SAMN48968959	Neisseria sp. P0004.S003	3436667	Scaffold	ASM5196331v1	2025-08-12	2262614	47	173239	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963335.1	SAMN48968960	Neisseria sp. P0004.S004	3436668	Scaffold	ASM5196333v1	2025-08-12	2258658	29	185316	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963395.1	SAMN48968958	Neisseria sp. P0004.S002	3436666	Scaffold	ASM5196339v1	2025-08-12	2259935	40	173239	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963435.1	SAMN48968951	Neisseria sp. P0003.S004	3436659	Scaffold	ASM5196343v1	2025-08-12	2224923	158	337901	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963455.1	SAMN48968957	Neisseria sp. P0004.S001	3436665	Scaffold	ASM5196345v1	2025-08-12	2262567	46	173239	49.5		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963515.1	SAMN48968950	Neisseria sp. P0003.S003	3436658	Scaffold	ASM5196351v1	2025-08-12	2280232	360	337798	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963555.1	SAMN48968946	Neisseria sp. P0001.S010	3436654	Scaffold	ASM5196355v1	2025-08-12	2582493	1014	114636	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963575.1	SAMN48968945	Neisseria sp. P0001.S009	3436653	Scaffold	ASM5196357v1	2025-08-12	2295194	162	121054	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963635.1	SAMN48968942	Neisseria sp. P0001.S006	3436650	Scaffold	ASM5196363v1	2025-08-12	2356337	381	121054	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963655.1	SAMN48968943	Neisseria sp. P0001.S007	3436651	Scaffold	ASM5196365v1	2025-08-12	2275504	86	127353	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963675.1	SAMN48968944	Neisseria sp. P0001.S008	3436652	Scaffold	ASM5196367v1	2025-08-12	2277305	97	121054	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963715.1	SAMN48968941	Neisseria sp. P0001.S005	3436649	Scaffold	ASM5196371v1	2025-08-12	4464625	1188	16358	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963775.1	SAMN48968939	Neisseria sp. P0001.S003	3436647	Scaffold	ASM5196377v1	2025-08-12	2287430	130	130539	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963795.1	SAMN48968940	Neisseria sp. P0001.S004	3436648	Scaffold	ASM5196379v1	2025-08-12	4408302	2206	5068	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_051963835.1	SAMN48968938	Neisseria sp. P0001.S002	3436646	Scaffold	ASM5196383v1	2025-08-12	2283071	113	130539	49		Homo sapiens	USA: Rochester, New York	2025
+GCA_052063255.1	SAMN40741159	Neisseria musculi	1815583	Complete Genome	ASM5206325v1	2025-08-16	2933077	2	2928427	53	oral cavity	Mus musculus subsp. domesticus	USA:Arizona, Pima County, Tucson	2012-10
+GCA_052073865.1	SAMN05362769	Neisseria subflava	28449	Contig	ASM5207386v1	2025-08-16	2348888	52	332109	49		Homo sapiens	United Kingdom: Kingston upon Thames	2012-03
+GCA_052073905.1	SAMN50554711	Neisseria subflava	28449	Contig	ASM5207390v1	2025-08-16	2345865	50	332109	49	tssM knockout of parent strain KU1003-01	Homo sapiens	United Kingdom: Kingston upon Thames	2012-03
+GCA_052161875.1	SAMN50562553	Neisseria mucosa	488	Complete Genome	ASM5216187v1	2025-08-20	2689308	1	2689308	51		Homo sapiens	not applicable	not applicable
+GCA_052169415.1	SAMN49825588	Neisseria sicca	490	Contig	ASM5216941v1	2025-08-20	2195499	191	14644	51.5	Wound swab	Homo sapiens	Nigeria: Sokoto Noma Hospital, Sokoto	2024-02-23
+GCA_052858825.1	SAMN51436597	Neisseria subflava	28449	Contig	PDT002937965.1	2025-09-26	2226788	29	348350	49.5	Homo sapiens		Japan: Tokyo	missing
+GCA_052858845.1	SAMN51436598	Neisseria subflava	28449	Contig	PDT002937964.1	2025-09-26	2208689	35	301107	49.5	Homo sapiens		Japan: Tokyo	missing
+GCA_052858865.1	SAMN51436591	Neisseria subflava	28449	Contig	PDT002937963.1	2025-09-26	2196994	18	548265	49.5	Homo sapiens		Japan: Tokyo	missing
+GCA_052858885.1	SAMN51436610	Neisseria subflava	28449	Contig	PDT002937962.1	2025-09-26	2444306	38	170902	49	Homo sapiens		Japan: Tokyo	missing
+GCA_052858905.1	SAMN51436612	Neisseria subflava	28449	Contig	PDT002937960.1	2025-09-26	2381251	47	217244	49	Homo sapiens		Japan: Tokyo	missing
+GCA_052858915.1	SAMN51436602	Neisseria subflava	28449	Contig	PDT002937961.1	2025-09-26	2407705	52	225293	49	Homo sapiens		Japan: Tokyo	missing
+GCA_052858945.1	SAMN51436599	Neisseria subflava	28449	Contig	PDT002937959.1	2025-09-26	2248233	21	479462	49.5	Homo sapiens		Japan: Tokyo	missing
+GCA_052858975.1	SAMN51436596	Neisseria subflava	28449	Contig	PDT002937957.1	2025-09-26	2143331	32	341761	49.5	Homo sapiens		Japan: Tokyo	missing
+GCA_052858995.1	SAMN51436595	Neisseria subflava	28449	Contig	PDT002937958.1	2025-09-26	2147901	32	345243	49.5	Homo sapiens		Japan: Tokyo	missing
+GCA_052859025.1	SAMN51436600	Neisseria subflava	28449	Contig	PDT002937956.1	2025-09-26	2267104	39	367176	49	Homo sapiens		Japan: Tokyo	missing
+GCA_052859045.1	SAMN51436606	Neisseria subflava	28449	Contig	PDT002937955.1	2025-09-26	2397978	53	116675	48.5	Homo sapiens		Japan: Tokyo	missing
+GCA_052859065.1	SAMN51436604	Neisseria subflava	28449	Contig	PDT002937954.1	2025-09-26	2225599	52	98227	49	Homo sapiens		Japan: Tokyo	missing
+GCA_052859085.1	SAMN51436608	Neisseria subflava	28449	Contig	PDT002937952.1	2025-09-26	2273232	38	118724	49	Homo sapiens		Japan: Tokyo	missing
+GCA_052859105.1	SAMN51436611	Neisseria subflava	28449	Contig	PDT002937953.1	2025-09-26	2345184	39	163742	48.5	Homo sapiens		Japan: Tokyo	missing
+GCA_052859125.1	SAMN51436593	Neisseria subflava	28449	Contig	PDT002937951.1	2025-09-26	2221325	22	530086	49.5	Homo sapiens		Japan: Tokyo	missing
+GCA_052859145.1	SAMN51436594	Neisseria subflava	28449	Contig	PDT002937950.1	2025-09-26	2197933	25	221597	49.5	Homo sapiens		Japan: Tokyo	missing
+GCA_052859165.1	SAMN51436609	Neisseria subflava	28449	Contig	PDT002937949.1	2025-09-26	2326617	53	182215	49	Homo sapiens		Japan: Tokyo	missing
+GCA_052859185.1	SAMN51436590	Neisseria subflava	28449	Contig	PDT002937948.1	2025-09-26	2197290	16	548146	49.5	Homo sapiens		Japan: Tokyo	missing
+GCA_052859205.1	SAMN51436605	Neisseria subflava	28449	Contig	PDT002937947.1	2025-09-26	2233028	67	86565	49	Homo sapiens		Japan: Tokyo	missing
+GCA_052859225.1	SAMN51436607	Neisseria subflava	28449	Contig	PDT002937946.1	2025-09-26	2197836	49	182041	49.5	Homo sapiens		Japan: Tokyo	missing
+GCA_052859245.1	SAMN51436592	Neisseria subflava	28449	Contig	PDT002937945.1	2025-09-26	2291272	17	1183429	49.5	Homo sapiens		Japan: Tokyo	missing
+GCA_052859265.1	SAMN51436603	Neisseria subflava	28449	Contig	PDT002937944.1	2025-09-26	2450102	50	225293	49	Homo sapiens		Japan: Tokyo	missing
+GCA_054111245.1	SAMN52624496	Neisseria sicca	490	Complete Genome	ASM5411124v1	2025-12-20	2506022	2	2466323	51	missing		missing	2025-10-03
+GCA_054111265.1	SAMN52624495	Neisseria sicca	490	Complete Genome	ASM5411126v1	2025-12-20	2506014	2	2466315	51	missing		missing	2025-10-03
+GCA_055391185.1	SAMD01611113	Neisseria mucosa	488	Complete Genome	ASM5539118v1	2025-08-27	2688421	1	2688421	51	human sputum, chronic bronchitis		missing: lab stock	2005
+GCA_056611915.1	SAMN35359261	Neisseria subflava	28449	Complete Genome	ASM5661191v1	2026-04-04	2290041	1	2290041	49		Homo sapiens	Singapore: Singapore	2017
+GCA_056638355.1	SAMN56832053	Neisseria subflava	28449	Contig	ASM5663835v1	2026-04-08	2291312	30	280637	49	Plumbing		Ukraine	2023-11-27
+GCA_056850555.1	SAMN35532495	Neisseria subflava	28449	Complete Genome	ASM5685055v1	2026-04-22	2289431	1	2289431	49		Homo sapiens	China:Shenzhen	2023-04-25
+GCA_056850565.1	SAMN35532494	Neisseria subflava	28449	Complete Genome	ASM5685056v1	2026-04-22	2301919	1	2301919	49		Homo sapiens	China:Shenzhen	2023-04-25
+GCA_056850575.1	SAMN35532493	Neisseria subflava	28449	Complete Genome	ASM5685057v1	2026-04-22	2292819	1	2292819	49		Homo sapiens	China:Shenzhen	2023-04-25
+GCA_056850585.1	SAMN35554046	Neisseria subflava	28449	Complete Genome	ASM5685058v1	2026-04-22	2300590	1	2300590	49		Homo sapiens	China:Shenzhen	2023-04-25
+GCA_056850595.1	SAMN35554047	Neisseria subflava	28449	Complete Genome	ASM5685059v1	2026-04-22	2300596	1	2300596	49		Homo sapiens	China:Shenzhen	2023-04-25
+GCA_056850675.1	SAMN35554045	Neisseria subflava	28449	Complete Genome	ASM5685067v1	2026-04-22	2301944	1	2301944	49		Homo sapiens	China:Shenzhen	2023-04-25
+GCA_056850685.1	SAMN35554044	Neisseria subflava	28449	Complete Genome	ASM5685068v1	2026-04-22	2286884	1	2286884	49		Homo sapiens	Singapore	2023-04-24
+GCA_056880575.1	SAMN34163274	Neisseria subflava	28449	Complete Genome	ASM5688057v1	2026-04-24	2294860	1	2294860	49		missing	China:Shenzhen	2023-02-24
+GCA_056880585.1	SAMN34163273	Neisseria subflava	28449	Complete Genome	ASM5688058v1	2026-04-24	2293461	1	2293461	49		missing	China:Shenzhen	2023-02-24
+GCA_056880595.1	SAMN34163271	Neisseria subflava	28449	Complete Genome	ASM5688059v1	2026-04-24	2300707	1	2300707	49		missing	not applicable	2017
+GCA_056880605.1	SAMN34163272	Neisseria subflava	28449	Complete Genome	ASM5688060v1	2026-04-24	2290035	1	2290035	49		missing	China:Shenzhen	2023-02-24
+GCA_057315555.1	SAMN47002320	Neisseria flavescens	484	Scaffold	ASM5731555v1	2026-05-06	2157695	48	72030	49.5	oral cavity	Homo sapiens	USA	2024
+GCA_057315595.1	SAMN47002319	Neisseria sp.	192066	Scaffold	ASM5731559v1	2026-05-06	1965363	97	42528	51.5	oral cavity	Homo sapiens	USA	2024
+GCA_057315615.1	SAMN47002317	Neisseria sp.	192066	Scaffold	ASM5731561v1	2026-05-06	2011030	111	32106	53.5	oral cavity	Homo sapiens	China	2024
+GCA_057315635.1	SAMN47002316	Neisseria lactamica	486	Scaffold	ASM5731563v1	2026-05-06	2035372	60	59954	52.5	oral cavity	Homo sapiens	USA	2024
+GCA_057315655.1	SAMN47002315	Neisseria cinerea	483	Scaffold	ASM5731565v1	2026-05-06	1856061	24	203106	51	oral cavity	Homo sapiens	Sweden	2024
+GCA_057315675.1	SAMN47002314	Neisseria elongata	495	Scaffold	ASM5731567v1	2026-05-06	2229349	61	60986	54.5	oral cavity	Homo sapiens	Germany	2024
+GCA_057315695.1	SAMN47002313	Neisseria mucosa	488	Scaffold	ASM5731569v1	2026-05-06	2319997	39	117231	51.5	oral cavity	Homo sapiens	USA	2024
+GCA_057315715.1	SAMN47002312	Neisseria sp.	192066	Scaffold	ASM5731571v1	2026-05-06	2704749	154	28889	51.5	oral cavity	Homo sapiens	USA	2024
+GCA_057315735.1	SAMN47002311	Neisseria sicca	490	Scaffold	ASM5731573v1	2026-05-06	2677642	117	40335	50.5	oral cavity	Homo sapiens	USA	2024
+GCA_057315755.1	SAMN47002310	Neisseria subflava	28449	Scaffold	ASM5731575v1	2026-05-06	2193324	10	482824	49	oral cavity	Homo sapiens	Germany	2024
+GCA_057315775.1	SAMN47002309	Neisseria sp.	192066	Scaffold	ASM5731577v1	2026-05-06	2278016	13	359038	49.5	oral cavity	Homo sapiens	USA	2024
+GCA_057632045.1	SAMN56386050	Neisseria mucosa	488	Contig	ASM5763204v1	2026-05-19	2508169	120	36898	51	Human nasopharynx	Homo sapiens	China:Guangdong	not collected
+GCA_057637755.1	SAMN56384332	Neisseria flavescens	484	Contig	ASM5763775v1	2026-05-19	2159303	32	123746	49.5	Human nasopharynx	Homo sapiens	China:Guangdong	not collected
+GCA_058214815.1	SAMN60412776	Neisseria perflava	33053	Contig	ASM5821481v1	2026-06-15	2209816	31	565517	49	sputum	Homo sapiens	Russia: Moscow	2024-11-05
+GCA_060542955.1	SAMN60536800	Neisseria elongata	495	Contig	ASM6054295v1	2026-08-28	2272497	93	34216	54.5	missing		Costa Rica	missing
+GCA_060719195.1	SAMEA122679506	Neisseria lactamica	486	Contig	ASM6071919v1	2026-09-02	2103142	79	83045	52.5	Nasopharygeal carriage	Homo sapiens	Ethiopia	2024
+GCA_060719255.1	SAMEA122679504	Neisseria lactamica	486	Contig	ASM6071925v1	2026-09-02	2275941	142	64919	52	Nasopharygeal carriage	Homo sapiens	Ethiopia	2024
+GCA_060720615.1	SAMEA122679464	Neisseria lactamica	486	Contig	ASM6072061v1	2026-09-02	2101027	117	43988	52	Nasopharygeal carriage	Homo sapiens	Ethiopia	2024
+GCA_060720795.1	SAMEA122679459	Neisseria lactamica	486	Contig	ASM6072079v1	2026-09-02	2107519	133	41181	52.5	Nasopharygeal carriage	Homo sapiens	Ethiopia	2024
+GCA_060726575.1	SAMN38604352	Neisseria perflava	33053	Scaffold	ASM6072657v1	2026-09-01	2219540	19	186754	49	stool	Homo sapiens	USA: Louisville	2012
+GCA_060879305.1	SAMN61840407	Neisseria sp.	192066	Contig	ASM6087930v1	2026-09-05	1716932	326	6136	52.5	wastewater treatment plant		USA: Virginia	2020-08-01
+GCA_900086555.1	SAMEA3174300	Neisseria weaveri	28091	Complete Genome	34903_D01	2016-05-18	2188497	1	2188497	49				
+GCA_900113545.1	SAMN05421815	Neisseria elongata subsp. elongata	214482	Scaffold	IMG-taxon 2675903696 annotated assembly	2016-11-02	2360727	25	179253	54	missing	not applicable	missing	missing
+GCA_900187305.1	SAMEA4504057	Neisseria zoodegmatis	326523	Complete Genome	51470_F02	2017-08-15	2552522	1	2552522	51		Homo sapiens		1900/1989
+GCA_900453685.1	SAMEA4475693	Neisseria dentiae	194197	Contig	51670_B01	2018-08-01	2813772	2	2789697	54.5	not available: to be reported later	missing		1900/1997
+GCA_900453805.1	SAMEA3936792	Neisseria flavescens	484	Contig	46338_A01	2018-08-01	2291788	4	2233976	49	not available: to be reported later	missing		1900/1952
+GCA_900453895.1	SAMEA3672883	Neisseria elongata	495	Contig	42925_E01	2018-08-01	2406516	2	2162175	54	Pharynx	Human (adult)		1900/1969
+GCA_900454095.1	SAMEA3174296	Neisseria lactamica	486	Contig	34576_G01	2018-08-01	2106061	2	2103316	52.5	not available: to be reported later	missing		
+GCA_900454145.1	SAMEA103980413	Neisseria lactamica	486	Contig	54949_A01	2018-08-01	2185892	3	2155967	52.5	Spinal fluid	missing	USA: Los Angeles, CA	1900/1965
+GCA_900454205.1	SAMEA104210756	Neisseria zoodegmatis	326523	Contig	57428_A01	2018-08-01	2589740	3	1333532	51	Dog-bite wound	missing	France: Paris	1900/1980
+GCA_900454435.1	SAMEA104062571	Neisseria mucosa	488	Contig	55147_F01	2018-08-01	2654294	6	1883910	51	Pharyngeal mucosa	Homo sapiens		1971
+GCA_900475315.1	SAMEA3714889	Neisseria cinerea	483	Complete Genome	43721_G02	2018-06-17	1832904	1	1832904	51	nasopharynx	Homo sapiens	Germany	1900/1962
+GCA_900475815.1	SAMEA53328418	Neisseria elongata subsp. glycolytica	88719	Complete Genome	46758_G01	2018-06-17	2249415	1	2249415	54.5	throat swab	Homo sapiens	Norway: Oslo	1900/1976
+GCA_900636515.1	SAMEA3643316	Neisseria animalis	492	Complete Genome	42685_A01	2018-12-20	2240945	1	2240945	52	Oropharynx	Guinea-pig		1900/1960
+GCA_900636765.1	SAMEA3871785	Neisseria canis	493	Complete Genome	44503_A02	2018-12-20	2569389	1	2569389	49.5	oral mucosa	Dog	Germany: Hamburg	1962
+GCA_900637855.1	SAMEA48401668	Neisseria animaloris	326522	Complete Genome	52683_F03	2018-12-20	2338721	1	2338721	49.5	Thumb	Homo sapiens		1900/1989
+GCA_900638345.1	SAMEA104210758	Neisseria animaloris	326522	Complete Genome	57428_C01	2018-12-20	2283939	1	2283939	49.5	Abscess following dog bite	Homo sapiens	France: Montreal	1900/1980
+GCA_900638685.1	SAMEA104338429	Neisseria weaveri	28091	Complete Genome	58882_C02	2018-12-20	2238481	1	2238481	49	wound	Homo sapiens	Sweden: Gothenberg	1974
+GCA_900654165.1	SAMEA5208238	Neisseria flavescens	484	Contig	PRJEB30649-R19	2019-09-19	2207472	34	454990	49	Semen			
+GCA_900654175.1	SAMEA5208239	Neisseria mucosa	488	Contig	PRJEB30649_R20	2019-09-19	2541217	123	53527	51	Semen			
+GCA_900654185.1	SAMEA5208240	Neisseria flavescens	484	Contig	PRJEB30649_R21	2019-09-19	2268952	36	362234	49	Semen			
+GCA_900654195.1	SAMEA5208241	Neisseria flavescens	484	Contig	PRJEB30649_R23	2019-09-19	2194968	79	114037	49.5	Semen			
+GCA_901482445.1	SAMEA3867448	Neisseria lactamica	486	Complete Genome	45076_H02	2019-05-11	2198889	1	2198889	52	Nose	Homo sapiens	USA	1967
+GCA_901873385.1	SAMEA5664365	Neisseria sicca	490	Contig	Neisseria_sicca_BgEED21	2021-02-14	2494758	64	84254	51				
+GCA_901873995.1	SAMEA5664366	Neisseria subflava	28449	Contig	Neisseria_subflava_BgEED22	2021-02-14	2211994	76	69843	49.5				
+GCA_901875325.1	SAMEA5664367	Neisseria subflava	28449	Contig	Neisseria_subflava_BgEED23	2021-02-14	2274583	51	134995	49.5				
+GCA_902374455.2	SAMEA5850884	Neisseria macacae	496	Scaffold	UHGG_MGYG-HGUT-01381	2026-03-20	2748368	198	25189	51	human gut		not provided	
+GCA_902461385.1	SAMEA5849831	uncultured Neisseria sp.	237778	Contig	UHGG-TPA_MGYG-HGUT-00329	2021-03-13	1481172	415	3998	49.5	human gut		Sweden	
+GCA_902485275.1	SAMEA5852894	uncultured Neisseria sp.	237778	Contig	UHGG-TPA_MGYG-HGUT-03388	2021-03-30	2136685	16	335571	49.5	human gut		USA	
+GCA_905194225.1	SAMEA7846603	uncultured Neisseria sp.	237778	Contig	ERR1430404-mag-bin.12	2021-02-03	2198368	63	67769	49.5	human gut		China	not provided
+GCA_905205105.1	SAMEA7848358	uncultured Neisseria sp.	237778	Contig	SRR7721899-mag-bin.5	2021-02-03	2265075	64	78513	49	human gut		China	not provided
+GCA_905371655.1	SAMEA8395091	Neisseria elongata	495	Contig	SRR9217389-mag-bin.9	2021-03-26	2044086	137	22174	54.5	not provided		not provided	not provided
+GCA_905371675.1	SAMEA8395104	Neisseria subflava	28449	Contig	SRR9217391-mag-bin.22	2021-03-26	2245144	57	62705	49	not provided		not provided	not provided
+GCA_905372215.1	SAMEA8395145	Neisseria sp. HMSC06F02	1581124	Contig	SRR9217402-mag-bin.1	2021-03-26	2431597	161	22818	51.5	not provided		not provided	not provided
+GCA_905372545.1	SAMEA8395176	Neisseria sp. oral taxon 014	641148	Contig	SRR9217415-mag-bin.5	2021-03-26	2461449	21	181381	52.5	not provided		not provided	not provided
+GCA_905373125.1	SAMEA8395240	Neisseria sp. HMSC065D04	1739542	Contig	SRR9217453-mag-bin.3	2021-03-26	2655604	179	23128	51	not provided		not provided	not provided
+GCA_912440445.1	SAMEA9640645	uncultured Neisseria sp.	237778	Contig	DRR077014_bin.1_metaWRAP_v1.1_MAG	2021-08-14	2175336	96	36762	49	human saliva metagenome		not provided	not provided
+GCA_915066195.1	SAMEA9921421	Neisseria elongata	495	Contig	SRR1045097_bin.5_metaWRAP_v1.1_MAG	2021-09-28	2156470	243	10943	54.5	human oral metagenome		China	2011-01-12
+GCA_915066515.1	SAMEA9921437	uncultured Neisseria sp.	237778	Contig	SRR2037090_bin.22_metaWRAP_v1.1_MAG	2021-09-28	1611065	216	8627	51.5	human oral metagenome		China	2014-07-06
+GCA_915070165.1	SAMEA9921398	uncultured Neisseria sp.	237778	Contig	SRR2034638_bin.4_metaWRAP_v1.1_MAG	2021-09-28	1544229	386	3938	50	human oral metagenome		China	2014-07-06
+GCA_915250805.1	SAMEA9873873	uncultured Neisseria sp.	237778	Contig	SRR1781914_bin.1_metaWRAP_v1.1_MAG	2021-09-28	1567495	290	5805	50.5	human oral metagenome		USA	2010-01-01
+GCA_915270505.1	SAMEA9873875	Neisseria sicca	490	Contig	SRR1781983_bin.2_metaWRAP_v1.1_MAG	2021-09-28	2440390	344	8502	52	human oral metagenome		USA	2010-01-01
+GCA_916048815.1	SAMEA9943325	Neisseria flavescens	484	Contig	ERR2764996_bin.3_metaWRAP_v1.1_MAG	2021-09-22	2203954	13	185807	49	human oral metagenome		France	2004-01-01
+GCA_916049715.1	SAMEA9943378	uncultured Neisseria sp.	237778	Contig	ERR2764921_bin.1_metaWRAP_v1.1_MAG	2021-09-22	2520394	203	18470	51.5	human oral metagenome		France	2004-01-01
+GCA_916438535.1	SAMEA10110234	uncultured Neisseria sp.	237778	Contig	DRR214960_bin.35_metaWRAP_v1.1_MAG	2021-09-29	2353457	2	1245189	50.5	human saliva metagenome		not provided	not provided
+GCA_916709915.1	SAMEA10220478	uncultured Neisseria sp.	237778	Contig	SRR15235657_bin.2_metaWRAP_v1.1_MAG	2021-11-13	2197236	50	89178	49	human saliva metagenome		not provided	not provided
+GCA_916719975.1	SAMEA10220500	uncultured Neisseria sp.	237778	Contig	SRR15235668_bin.6_metaWRAP_v1.1_MAG	2021-11-13	2130944	193	17038	51.5	human saliva metagenome		not provided	not provided
+GCA_916720585.1	SAMEA10220487	uncultured Neisseria sp.	237778	Contig	SRR15235657_bin.5_metaWRAP_v1.1_MAG	2021-11-13	2240308	345	7927	51	human saliva metagenome		not provided	not provided
+GCA_927910975.1	SAMEA12514500	uncultured Neisseria sp.	237778	Contig	ERR3827177_bin.1_metaWRAP_v1.1_MAG	2022-01-25	1344570	276	5090	50.5	human oral metagenome		not provided	not provided
+GCA_927911225.1	SAMEA12514472	Neisseria sicca	490	Contig	ERR3827255_bin.6_metaWRAP_v1.1_MAG	2022-01-25	2203676	282	9670	51.5	human oral metagenome		not provided	not provided
+GCA_927911295.1	SAMEA12514454	uncultured Neisseria sp.	237778	Contig	ERR3827195_bin.2_metaWRAP_v1.1_MAG	2022-01-25	2246445	115	27717	49	human oral metagenome		not provided	not provided
+GCA_927911515.1	SAMEA12514494	uncultured Neisseria sp.	237778	Contig	ERR3827263_bin.1_metaWRAP_v1.1_MAG	2022-01-25	2428650	340	8606	51	human oral metagenome		not provided	not provided
+GCA_927911565.1	SAMEA12514507	uncultured Neisseria sp.	237778	Contig	ERR3827334_bin.1_metaWRAP_v1.1_MAG	2022-01-25	1950032	82	34866	51	human oral metagenome		not provided	not provided
+GCA_934216645.1	SAMEA13503819	uncultured Neisseria sp.	237778	Contig	ERR7745888_bin.6	2022-04-15	2051616	145	24872	49.5	human feces		Tanzania	2014-06-11
+GCA_934216815.1	SAMEA13501076	uncultured Neisseria sp.	237778	Contig	ERR7738560_bin.111	2022-04-15	2148174	28	143048	49	human feces		Nepal	2016
+GCA_937880995.1	SAMEA14037283	Neisseria sicca	490	Contig	ERR4757847_bin.8_CONCOCT_v1.1_MAG	2023-01-10	2135804	841	2957	51	food production metagenome		not provided	not provided
+GCA_937914605.1	SAMEA14075821	uncultured Neisseria sp.	237778	Contig	SRR2241080_bin.2_CONCOCT_v1.1_MAG	2023-01-10	2623396	444	8441	51	metagenome		not provided	not provided
+GCA_937919795.1	SAMEA14082394	uncultured Neisseria sp.	237778	Contig	SRR6231190_bin.79_CONCOCT_v1.1_MAG	2023-01-10	2369617	484	6653	52	metagenome		USA	2016-07-26
+GCA_937936115.1	SAMEA14086109	uncultured Neisseria sp.	237778	Contig	SRR8114063_bin.40_CONCOCT_v1.1_MAG	2023-01-10	2144886	23	340446	49	human gut metagenome		Luxembourg	2012-10-19
+GCA_938029425.1	SAMEA14084583	uncultured Neisseria sp.	237778	Contig	ERR589377_bin.87_CONCOCT_v1.1_MAG	2023-01-10	2409296	85	51452	53	human gut metagenome		China	2087-01-01
+GCA_938046305.1	SAMEA14084681	Neisseria elongata	495	Contig	ERR589473_bin.60_CONCOCT_v1.1_MAG	2023-01-10	2390250	62	87125	54	human gut metagenome		China	2051-01-01
+GCA_940793045.1	SAMEA14305858	Neisseria sp. Marseille-Q2251	2866585	Contig	PRJEB46712	2022-05-07	2793866	96	50437	50.5				
+GCA_943181435.1	SAMEA14414186	Neisseria sp. Marseille-Q6792	2937985	Complete Genome	Q6792	2022-05-24	2024518	1	2024518	51	human blood culture			
+GCA_943912315.1	SAMEA110089339	uncultured Neisseria sp.	237778	Contig	OXz76l1eLP_bin.6.MAG	2022-06-14	2492993	489	6964	51.5	human skin		USA	2014-04-04
+GCA_943912805.1	SAMEA110089351	uncultured Neisseria sp.	237778	Contig	ALSxanwf21_bin.36.MAG	2022-06-14	2033978	192	16653	49.5	human skin		USA	2014-05-16
+GCA_943914865.1	SAMEA110088980	uncultured Neisseria sp.	237778	Contig	astG3JNoM7_bin.2.MAG	2022-06-16	1106926	648	1768	51	human skin		USA	2014-11-01
+GCA_946902045.1	SAMEA111348536	Neisseria sp. Marseille-Q5346	2972775	Complete Genome	PRJEB55195	2022-09-21	2354813	1	2354813	49				
+GCA_947095825.1	SAMEA111493388	uncultured Neisseria sp.	237778	Contig	SRR8786261_bin.4_metaWRAP_v1.3_MAG	2022-10-28	1502368	347	4380	52	human oral metagenome		not provided	not provided
+GCA_947097615.1	SAMEA111493427	uncultured Neisseria sp.	237778	Contig	SRR8786267_bin.12_metaWRAP_v1.3_MAG	2022-10-28	1817320	263	8672	59.5	human oral metagenome		not provided	not provided
+GCA_947098785.1	SAMEA111493424	uncultured Neisseria sp.	237778	Contig	SRR8786267_bin.1_metaWRAP_v1.3_MAG	2022-10-28	1836096	152	19115	49.5	human oral metagenome		not provided	not provided
+GCA_951230375.1	SAMEA113314683	uncultured Neisseria sp.	237778	Contig	SRR12445050_bin.2_MetaWRAP_v1.3_MAG	2023-05-08	1700532	278	6656	50	human oral metagenome		not provided	not provided
+GCA_951230505.1	SAMEA113314684	uncultured Neisseria sp.	237778	Contig	SRR12445051_bin.1_MetaWRAP_v1.3_MAG	2023-05-08	1905691	211	12871	49.5	human oral metagenome		not provided	not provided
+GCA_955412805.1	SAMEA4483300	Neisseria basseii	2830650	Contig	G97_1403	2023-07-14	2174323	81	122624	52			Gambia	1997
+GCA_958267395.1	SAMEA4542453	Neisseria uirgultaei	2830646	Contig	12_13955_XS2_1	2023-07-15	2037723	45	118123	52			Chad	not provided
+GCA_958267405.1	SAMEA4542420	Neisseria maigaei	2830651	Contig	02_01105_XS1_1	2023-07-15	2136407	64	114165	52			Mali	not provided
+GCA_958267415.1	SAMEA1401906	Neisseria blantyrii	2830647	Contig	M-041	2023-07-15	2106079	63	125288	52			not provided	not provided
+GCA_958267435.1	SAMEA1402085	Neisseria benedictiae	2830649	Contig	M-091	2023-07-15	2091101	82	119210	52			not provided	not provided
+GCA_958267455.1	SAMEA1402125	Neisseria viridiae	2830648	Contig	M-226	2023-07-15	2017421	62	125536	52			not provided	not provided
+GCA_958267465.1	SAMEA678142	Neisseria bergeri	1906581	Contig	15883	2023-07-06	2203580	77	95820	51.5			not provided	not provided
+GCA_958349175.1	SAMEA114061479	uncultured Neisseria sp.	237778	Contig	ERR10960912_bin.11_MetaWRAP_v1.3_MAG	2023-07-15	1004536	234	4263	52	human feces metagenome		Kenya	2018
+GCA_962704355.1	SAMEA4542418	Neisseria bergeri	1906581	Contig	01_03957_XS1_1	2023-08-04	2131756	78	170233	51.5				
+GCA_962704615.1	SAMEA4542419	Neisseria bergeri	1906581	Contig	02_01070_XS1_1	2023-08-04	2158513	61	197292	51.5				
+GCA_962706175.1	SAMEA1401951	Neisseria viridiae	2830648	Contig	M-875	2023-08-04	2018748	57	125813	52				
+GCA_962706355.1	SAMEA1402168	Neisseria viridiae	2830648	Contig	M-211	2023-08-04	2017351	53	148863	52				
+GCA_962706395.1	SAMEA1401973	Neisseria viridiae	2830648	Contig	M-784	2023-08-04	2017285	64	149092	52				
+GCA_962706715.1	SAMEA4483189	Neisseria blantyrii	2830647	Contig	M_700M	2023-08-04	2108621	66	135200	52				
+GCA_962706985.1	SAMEA1401948	Neisseria viridiae	2830648	Contig	M-802	2023-08-04	2056035	64	111116	52				
+GCA_962707005.1	SAMEA4483301	Neisseria basseii	2830650	Contig	G97_1402	2023-08-04	2174316	83	92270	52				
+GCA_962707345.1	SAMEA4542457	Neisseria uirgultaei	2830646	Contig	12_13835_XS2_1	2023-08-04	2002914	53	84001	52				
+GCA_962707505.1	SAMEA4542458	Neisseria uirgultaei	2830646	Contig	12_13988_XS2_1	2023-08-04	2040940	42	153978	52				
+GCA_962707545.1	SAMEA4004417	Neisseria polysaccharea	489	Contig	01_00098_XS1_1	2023-08-04	2040588	59	119297	52			Mali	2010
+GCA_962707565.1	SAMEA4542460	Neisseria uirgultaei	2830646	Contig	12_14600_XS2_1	2023-08-04	2000892	49	92464	52				
+GCA_962707675.1	SAMEA4542454	Neisseria uirgultaei	2830646	Contig	12_14141_XS2_1	2023-08-04	2001446	39	176527	52				
+GCA_962708135.1	SAMEA4542451	Neisseria bergeri	1906581	Contig	01_13770_XS3_1	2023-08-04	2115280	69	91593	52				
+GCA_962708255.1	SAMEA1402212	Neisseria viridiae	2830648	Contig	M-879	2023-08-04	2017235	65	109988	52				
+GCA_962708325.1	SAMEA1401953	Neisseria viridiae	2830648	Contig	M-872	2023-08-04	2023135	60	149090	52				
+GCA_962709495.1	SAMEA1402111	Neisseria viridiae	2830648	Contig	M-249	2023-08-04	2021024	59	125813	52				
+GCA_962711175.1	SAMEA1401970	Neisseria viridiae	2830648	Contig	M-786	2023-08-04	2018045	62	102991	52				
+GCA_962712005.1	SAMEA4542438	Neisseria bergeri	1906581	Contig	02_13976_XS3_1	2023-08-04	2109238	64	103586	52				
+GCA_962712155.1	SAMEA4542444	Neisseria bergeri	1906581	Contig	02_14067_XS3_1	2023-08-04	2109919	64	123558	52				
+GCA_962712585.1	SAMEA1401914	Neisseria blantyrii	2830647	Contig	M-173	2023-08-04	2106377	56	146610	52				
+GCA_962713235.1	SAMEA4004525	Neisseria polysaccharea	489	Contig	01_08009_XS1_1	2023-08-04	2066844	61	85520	52				
+GCA_962715115.1	SAMEA4483304	Neisseria polysaccharea	489	Contig	G97_1162	2023-08-04	2047697	66	100468	52				
+GCA_962715145.1	SAMEA4483244	Neisseria polysaccharea	489	Contig	G97_6093	2023-08-04	2077665	73	104970	52				
+GCA_962715215.1	SAMEA4004301	Neisseria bergeri	1906581	Contig	02_11162_XS2_1	2023-08-04	2158035	77	96392	52			Mali	2011
+GCA_962716855.1	SAMEA4542446	Neisseria bergeri	1906581	Contig	02_14121_XS3_1	2023-08-04	2106078	70	109020	52				
+GCA_962716865.1	SAMEA4542448	Neisseria bergeri	1906581	Contig	01_13695_XS3_1	2023-08-04	2106129	68	141603	52				
+GCA_962716925.1	SAMEA4542445	Neisseria bergeri	1906581	Contig	02_13995_XS3_1	2023-08-04	2105226	61	168232	52				
+GCA_962716955.1	SAMEA4542437	Neisseria bergeri	1906581	Contig	02_13924_XS3_1	2023-08-04	2106543	66	169033	52				
+GCA_962717475.1	SAMEA1401913	Neisseria blantyrii	2830647	Contig	M-318	2023-08-04	2103912	61	183465	52				
+GCA_962717605.1	SAMEA4542429	Neisseria bergeri	1906581	Contig	02_11666_XS2_1	2023-08-04	2074415	55	150800	52				
+GCA_962717885.1	SAMEA4542436	Neisseria bergeri	1906581	Contig	02_11433_XS2_1	2023-08-04	2106497	78	122814	52				
+GCA_962717905.1	SAMEA1402069	Neisseria viridiae	2830648	Contig	M-102	2023-08-04	2017176	54	166159	52				
+GCA_962718765.1	SAMEA4542443	Neisseria bergeri	1906581	Contig	02_01039_XS1_1	2023-08-04	2117026	58	186095	52				
+GCA_962719275.1	SAMEA1402186	Neisseria viridiae	2830648	Contig	M-210	2023-08-04	2018079	59	125591	52				
+GCA_962719605.1	SAMEA4004521	Neisseria polysaccharea	489	Contig	01_07665_XS1_1	2023-08-04	2091671	79	109912	52				
+GCA_962719845.1	SAMEA4542459	Neisseria uirgultaei	2830646	Contig	12_17465_XS2_1	2023-08-04	2002643	41	132940	52				
+GCA_962720105.1	SAMEA4542455	Neisseria uirgultaei	2830646	Contig	12_23282_XS3_1	2023-08-04	2000885	37	141758	52				
+GCA_962720135.1	SAMEA4542452	Neisseria uirgultaei	2830646	Contig	12_12795_XS2_1	2023-08-04	2000578	40	121074	52				
+GCA_962720325.1	SAMEA4542456	Neisseria uirgultaei	2830646	Contig	12_13996_XS2_1	2023-08-04	2001488	37	156012	52				
+GCA_962720465.1	SAMEA4483294	Neisseria polysaccharea	489	Contig	G97_1651	2023-08-04	2072317	65	100586	52				
+GCA_962720795.1	SAMEA1402092	Neisseria blantyrii	2830647	Contig	M-089	2023-08-04	2111089	56	172196	52				
+GCA_962721855.1	SAMEA4542421	Neisseria bergeri	1906581	Contig	02_01287_XS1_1	2023-08-04	2145274	71	96447	52				
+GCA_962722185.1	SAMEA4542417	Neisseria bergeri	1906581	Contig	01_03638_XS1_1	2023-08-04	2116482	79	106467	52				
+GCA_962724685.1	SAMEA4483305	Neisseria polysaccharea	489	Contig	G97_1151	2023-08-04	2044889	60	140082	52				
+GCA_962724695.1	SAMEA4483307	Neisseria polysaccharea	489	Contig	G97_1072	2023-08-04	2028948	65	98283	52				
+GCA_962724805.1	SAMEA4542430	Neisseria bergeri	1906581	Contig	02_11761_XS2_1	2023-08-04	2106817	66	141137	52				
+GCA_962724885.1	SAMEA4542424	Neisseria bergeri	1906581	Contig	02_11081_XS2_1	2023-08-04	2104470	67	176927	52				
+GCA_962724945.1	SAMEA4542427	Neisseria bergeri	1906581	Contig	02_11164_XS2_1	2023-08-04	2105720	61	124314	52				
+GCA_962724985.1	SAMEA4542426	Neisseria bergeri	1906581	Contig	02_11615_XS2_1	2023-08-04	2101356	67	141089	52				
+GCA_962725045.1	SAMEA1402039	Neisseria viridiae	2830648	Contig	M-456	2023-08-04	2018884	53	135429	52				
+GCA_962725055.1	SAMEA4542431	Neisseria bergeri	1906581	Contig	02_11322_XS2_1	2023-08-04	2074452	53	226798	52				
+GCA_962725065.1	SAMEA4542428	Neisseria bergeri	1906581	Contig	02_11253_XS2_1	2023-08-04	2123933	72	153095	51.5				
+GCA_962725145.1	SAMEA4542432	Neisseria bergeri	1906581	Contig	02_11327_XS2_1	2023-08-04	2073497	49	179280	52				
+GCA_962725465.1	SAMEA4542425	Neisseria bergeri	1906581	Contig	02_11161_XS2_1	2023-08-04	2196612	71	120004	52				
+GCA_962725685.1	SAMEA1401968	Neisseria viridiae	2830648	Contig	M-672M	2023-08-04	2014407	67	92925	52				
+GCA_962727395.1	SAMEA1402224	Neisseria blantyrii	2830647	Contig	M-345	2023-08-04	2108537	56	152062	52				
+GCA_962728275.1	SAMEA1401923	Neisseria viridiae	2830648	Contig	M-200	2023-08-04	2057001	71	102928	52				
+GCA_962728725.1	SAMEA4004523	Neisseria polysaccharea	489	Contig	01_03967_XS1_1	2023-08-04	2082280	80	117409	52				
+GCA_962728865.1	SAMEA4004524	Neisseria polysaccharea	489	Contig	01_07343_XS1_1	2023-08-04	2033226	80	78842	52				
+GCA_962728915.1	SAMEA4004526	Neisseria polysaccharea	489	Contig	01_13553_XS3_1	2023-08-04	2027523	69	98617	52				
+GCA_962729065.1	SAMEA4004528	Neisseria polysaccharea	489	Contig	01_13564_XS3_1	2023-08-04	2123641	66	140561	51.5				
+GCA_962730445.1	SAMEA1401904	Neisseria blantyrii	2830647	Contig	M-046	2023-08-04	2105155	60	119808	52				
+GCA_962746765.1	SAMEA4483308	Neisseria polysaccharea	489	Contig	G97_1061	2023-08-04	2129071	83	93169	51.5				
+GCA_962747355.1	SAMEA1402119	Neisseria blantyrii	2830647	Contig	M-244	2023-08-04	2105302	56	201573	52				
+GCA_962747365.1	SAMEA1402081	Neisseria benedictiae	2830649	Contig	M-092	2023-08-04	2094839	83	119816	52				
+GCA_962747465.1	SAMEA1401919	Neisseria blantyrii	2830647	Contig	M-338	2023-08-04	2106491	58	129211	52				
+GCA_962747535.1	SAMEA4542435	Neisseria bergeri	1906581	Contig	02_11474_XS2_1	2023-08-04	2110832	71	108017	52				
+GCA_962747595.1	SAMEA4542440	Neisseria bergeri	1906581	Contig	01_03581_XS1_1	2023-08-04	2105725	64	170396	52				
+GCA_962747605.1	SAMEA1401949	Neisseria blantyrii	2830647	Contig	M-261	2023-08-04	2104787	83	122636	52				
+GCA_962747615.1	SAMEA1401926	Neisseria blantyrii	2830647	Contig	M-337	2023-08-04	2107086	54	153777	52				
+GCA_962747625.1	SAMEA4542450	Neisseria bergeri	1906581	Contig	01_12742_XS3_1	2023-08-04	2154109	82	102530	51.5				
+GCA_962747635.1	SAMEA4542408	Neisseria bergeri	1906581	Contig	01_00119_XS1_1	2023-08-04	2119459	64	162883	52				
+GCA_962747655.1	SAMEA4542447	Neisseria bergeri	1906581	Contig	01_13562_XS3_1	2023-08-04	2122758	74	106190	51.5				
+GCA_962747665.1	SAMEA4542422	Neisseria bergeri	1906581	Contig	02_07958_XS1_1	2023-08-04	2105974	70	76984	52				
+GCA_962747675.1	SAMEA4542449	Neisseria bergeri	1906581	Contig	01_13712_XS3_1	2023-08-04	2107487	62	124498	52				
+GCA_962747685.1	SAMEA1402010	Neisseria viridiae	2830648	Contig	M-079	2023-08-04	2059033	75	109982	52				
+GCA_962747695.1	SAMEA1402065	Neisseria viridiae	2830648	Contig	M-384	2023-08-04	2018409	56	98903	52				
+GCA_962747735.1	SAMEA4542439	Neisseria bergeri	1906581	Contig	01_00007_XS1_1	2023-08-04	2165080	71	123619	52				
+GCA_962747745.1	SAMEA4483251	Neisseria polysaccharea	489	Contig	G97_5907	2023-08-04	2036939	67	71520	52				
+GCA_962747755.1	SAMEA4483281	Neisseria polysaccharea	489	Contig	G97_2571	2023-08-04	2033671	58	91031	52				
+GCA_962747855.1	SAMEA1402156	Neisseria blantyrii	2830647	Contig	M-216	2023-08-04	2105353	51	152640	52				
+GCA_962747895.1	SAMEA1401985	Neisseria viridiae	2830648	Contig	M-064	2023-08-04	2014699	64	108117	52				
+GCA_962747905.1	SAMEA4542441	Neisseria bergeri	1906581	Contig	01_07472_XS1_1	2023-08-04	2142717	51	215329	52				
+GCA_962747915.1	SAMEA4542434	Neisseria bergeri	1906581	Contig	02_11346_XS2_1	2023-08-04	2106480	66	258409	52				
+GCA_962747925.1	SAMEA4004527	Neisseria polysaccharea	489	Contig	01_13554_XS3_1	2023-08-04	2027189	74	98603	52				
+GCA_962747935.1	SAMEA1402148	Neisseria viridiae	2830648	Contig	M-225	2023-08-04	2017016	61	125825	52				
+GCA_962747945.1	SAMEA1402074	Neisseria viridiae	2830648	Contig	M-101	2023-08-04	2018023	54	149776	52				
+GCA_962747955.1	SAMEA4542423	Neisseria bergeri	1906581	Contig	02_11069_XS2_1	2023-08-04	2101596	61	151782	52				
+GCA_962747965.1	SAMEA1401939	Neisseria blantyrii	2830647	Contig	M-131	2023-08-04	2102907	71	146611	52				
+GCA_962747975.1	SAMEA4542433	Neisseria bergeri	1906581	Contig	02_11362_XS2_1	2023-08-04	2105245	64	141109	52				
+GCA_962747985.1	SAMEA1402036	Neisseria viridiae	2830648	Contig	M-457	2023-08-04	2018374	58	98062	52				
+GCA_962747995.1	SAMEA1402047	Neisseria viridiae	2830648	Contig	M-448	2023-08-04	2019266	63	103005	52				
+GCA_962748005.1	SAMEA4542442	Neisseria bergeri	1906581	Contig	01_07795_XS1_1	2023-08-04	2071134	53	170115	52				
+GCA_962748015.1	SAMEA1401911	Neisseria blantyrii	2830647	Contig	M-174	2023-08-04	2104599	65	135333	52				
+GCA_963264735.1	SAMEA114260461	Neisseria sicca	490	Contig	NZ_220527_assembly_004	2026-04-04	2417682	11	1848323	51			USA	2022
+GCA_963264865.1	SAMEA114260487	Neisseria flavescens	484	Complete Genome	NZ_220527_assembly_030	2026-04-01	2307654	1	2307654	49.5			USA	2022
+GCA_963281055.1	SAMEA114260481	Neisseria flavescens	484	Complete Genome	NZ_220527_assembly_024	2026-04-01	2302850	1	2302850	49			USA	2022
+GCA_963392895.1	SAMEA1401889	Neisseria bergeri	1906581	Contig	M-274	2023-08-27	2141171	91	154694	51.5			Malawi	not provided
+GCA_963392905.1	SAMEA1401903	Neisseria bergeri	1906581	Contig	M-290	2023-08-27	2176605	103	103565	52			Malawi	not provided
+GCA_963392915.1	SAMEA1402080	Neisseria polysaccharea	489	Contig	M-571	2023-08-27	2114309	48	143997	52			Malawi	not provided
+GCA_963392925.1	SAMEA1401921	Neisseria polysaccharea	489	Contig	M-198	2023-08-27	2029584	57	131824	52			Malawi	not provided
+GCA_963392935.1	SAMEA1401958	Neisseria bergeri	1906581	Contig	M-760	2023-08-27	2172467	96	120284	52			Malawi	not provided
+GCA_963392945.1	SAMEA1401892	Neisseria polysaccharea	489	Contig	M-264	2023-08-27	2001699	49	144493	52			Malawi	not provided
+GCA_963392955.1	SAMEA1401910	Neisseria polysaccharea	489	Contig	M-286	2023-08-27	2000976	56	131740	52			Malawi	not provided
+GCA_963392965.1	SAMEA1402177	Neisseria bergeri	1906581	Contig	M-214	2023-08-27	2160057	98	133116	51.5			Malawi	not provided
+GCA_963392975.1	SAMEA1402106	Neisseria bergeri	1906581	Contig	M-250	2023-08-27	2147307	93	142487	51.5			Malawi	not provided
+GCA_963392985.1	SAMEA1402061	Neisseria polysaccharea	489	Contig	M-104	2023-08-27	2016191	54	128553	52			Malawi	not provided
+GCA_963392995.1	SAMEA1402087	Neisseria bergeri	1906581	Contig	M-256C	2023-08-27	2129200	87	102305	52			Malawi	not provided
+GCA_963393015.1	SAMEA1402207	Neisseria bergeri	1906581	Contig	M-357	2023-08-27	2138500	103	142530	51.5			Malawi	not provided
+GCA_963393025.1	SAMEA1401888	Neisseria bergeri	1906581	Contig	M-038	2023-08-27	2145883	106	96544	51.5			Malawi	not provided
+GCA_963393035.1	SAMEA1401965	Neisseria bergeri	1906581	Contig	M-718M	2023-08-27	2135363	85	142661	52			Malawi	not provided
+GCA_963393055.1	SAMEA1401941	Neisseria bergeri	1906581	Contig	M-130	2023-08-27	2147336	109	142683	51.5			Malawi	not provided
+GCA_963393065.1	SAMEA1402056	Neisseria polysaccharea	489	Contig	M-442	2023-08-27	2009666	51	146759	52			Malawi	not provided
+GCA_963393075.1	SAMEA1402101	Neisseria bergeri	1906581	Contig	M-252	2023-08-27	2147627	106	90512	51.5			Malawi	not provided
+GCA_963393095.1	SAMEA1401876	Neisseria bergeri	1906581	Contig	M-262	2023-08-27	2123632	79	150636	51.5			Malawi	not provided
+GCA_963393105.1	SAMEA1401918	Neisseria bergeri	1906581	Contig	M-161	2023-08-27	2138751	100	147638	51.5			Malawi	not provided
+GCA_963393115.1	SAMEA1401954	Neisseria polysaccharea	489	Contig	M-856	2023-08-27	2000913	43	165269	52			Malawi	not provided
+GCA_963393125.1	SAMEA1402215	Neisseria bergeri	1906581	Contig	M-366	2023-08-27	2138112	93	163587	52			Malawi	not provided
+GCA_963393135.1	SAMEA1401925	Neisseria bergeri	1906581	Contig	M-190	2023-08-27	2131530	80	245163	52			Malawi	not provided
+GCA_963393145.1	SAMEA1402052	Neisseria polysaccharea	489	Contig	M-104A	2023-08-27	2016110	49	146949	52			Malawi	not provided
+GCA_963393155.1	SAMEA1401895	Neisseria bergeri	1906581	Contig	M-037	2023-08-27	2146909	108	101371	51.5			Malawi	not provided
+GCA_963393165.1	SAMEA4483188	Neisseria bergeri	1906581	Contig	M_676M	2023-08-27	2179209	73	112037	52			Malawi	2006
+GCA_963393175.1	SAMEA1402141	Neisseria polysaccharea	489	Contig	M-223	2023-08-27	2060076	44	175054	52			Malawi	not provided
+GCA_963393185.1	SAMEA1401898	Neisseria bergeri	1906581	Contig	M-052	2023-08-27	2117997	77	196355	52			Malawi	not provided
+GCA_963393195.1	SAMEA1402102	Neisseria polysaccharea	489	Contig	M-080	2023-08-27	2067297	54	147809	52			Malawi	not provided
+GCA_963393205.1	SAMEA1401930	Neisseria bergeri	1906581	Contig	M-129	2023-08-27	2140281	106	112592	51.5			Malawi	not provided
+GCA_963393215.1	SAMEA1401994	Neisseria bergeri	1906581	Contig	M-065	2023-08-27	2212088	116	130264	51.5			Malawi	not provided
+GCA_963394815.1	SAMEA678390	Neisseria lactamica	486	Contig	8206	2023-08-27	2162688	120	50091	52.5		Homo sapiens	United Kingdom	2000
+GCA_963394825.1	SAMEA678350	Neisseria cinerea	483	Contig	CCUG 27178 A	2023-08-27	1815848	42	188345	50.5		Homo sapiens		1983
+GCA_963394835.1	SAMEA678143	Neisseria mucosa	488	Contig	CCUG 32112	2023-08-27	2501603	167	39351	51				
+GCA_963394845.1	SAMEA678394	Neisseria lactamica	486	Contig	09002S1	2023-08-27	2179828	124	67204	52.5		Homo sapiens	United Kingdom	1999
+GCA_963394855.1	SAMEA678511	Neisseria polysaccharea	489	Contig	CCUG 18031	2023-08-27	2003518	45	114595	52	throat swab	Homo sapiens	Germany	1984
+GCA_963394865.1	SAMEA678349	Neisseria polysaccharea	489	Contig	CCUG 24846	2023-08-27	1992246	65	74180	52	throat swab	Homo sapiens		
+GCA_963394875.1	SAMEA678508	Neisseria polysaccharea	489	Contig	CCUG 24845	2023-08-27	2015242	51	80840	52	throat swab	Homo sapiens		
+GCA_963394885.1	SAMEA678346	Neisseria cinerea	483	Contig	CCUG 5746	2023-08-27	1940256	44	178729	51.5		Homo sapiens	Sweden	1977
+GCA_963394895.1	SAMEA678392	Neisseria lactamica	486	Contig	014-24	2023-08-27	2215879	129	50421	52		Homo sapiens	United Kingdom	1998
+GCA_963394905.1	SAMEA678343	Neisseria polysaccharea	489	Contig	CCUG 27182	2023-08-27	2043961	65	97242	52		Homo sapiens		
+GCA_963394915.1	SAMEA678510	Neisseria oralis	1107316	Contig	CCUG 26878 T	2023-08-27	2457526	621	7038	53			not collected	not provided
+GCA_963394925.1	SAMEA678502	Neisseria cinerea	483	Contig	CCUG 346 T	2023-08-27	2002810	57	156047	50.5		Homo sapiens		
+GCA_963394935.1	SAMEA678210	Neisseria mucosa	488	Contig	CCUG 41451 T	2023-08-27	2730464	146	52079	51				
+GCA_963394945.1	SAMEA678347	Neisseria cinerea	483	Contig	CCUG 25879	2023-08-27	1914781	32	196933	51		Homo sapiens	Sweden	1989
+GCA_963394955.1	SAMEA678022	Neisseria subflava	28449	Contig	CCUG 17913 T	2023-08-27	2213989	104	68283	49				
+GCA_963394965.1	SAMEA678325	Neisseria subflava	28449	Contig	CCUG 806	2023-08-27	2215124	112	65206	49				
+GCA_963394975.1	SAMEA678507	Neisseria mucosa	488	Contig	CCUG 32036	2023-08-27	2316150	52	133708	51				
+GCA_963394985.1	SAMEA678506	Neisseria mucosa	488	Contig	CCUG 12106	2023-08-27	2418616	217	24609	51.5		Homo sapiens	Sweden	1982
+GCA_963394995.1	SAMEA678023	Neisseria subflava	28449	Contig	CCUG 7826	2023-08-27	2232609	35	305075	49.5				
+GCA_963395005.1	SAMEA678326	Neisseria subflava	28449	Contig	CCUG 4788	2023-08-27	2253743	73	134717	49.5				
+GCA_963395015.1	SAMEA678498	Neisseria canis	493	Contig	CCUG 56775 T	2023-08-27	2503774	159	66535	49.5		Homo sapiens	Germany	1962
+GCA_963395025.1	SAMEA678189	Neisseria lactamica	486	Contig	030-24	2023-08-27	2151514	100	64699	52.5		Homo sapiens	United Kingdom	1999
+GCA_963395035.1	SAMEA678342	Neisseria dentiae	194197	Contig	CCUG 53898	2023-08-27	2684058	169	40197	54.5		Homo sapiens		
+GCA_963395045.1	SAMEA678319	Neisseria cinerea	483	Contig	CCUG 28662	2023-08-27	1789067	26	185072	51				
+GCA_963395055.1	SAMEA678303	Neisseria subflava	28449	Contig	CCUG 29761	2023-08-27	2137566	60	172047	49.5				
+GCA_963396185.1	SAMEA678207	Neisseria weaveri	28091	Contig	CCUG 4007 T	2023-08-28	2203321	51	148198	49		Homo sapiens	Sweden	1974
+GCA_963396195.1	SAMEA678505	Neisseria mucosa	488	Contig	CCUG 24847	2023-08-28	2421713	179	34121	51.5				
+GCA_963396205.1	SAMEA678203	Neisseria subflava	28449	Contig	CCUG 801	2023-08-28	2239536	58	151741	49.5		Homo sapiens		
+GCA_963396215.1	SAMEA678051	Neisseria subflava	28449	Contig	CCUG 24918	2023-08-28	2218205	17	585588	49.5				
+GCA_963396225.1	SAMEA678330	Neisseria subflava	28449	Contig	CCUG 23930 T	2023-08-28	2156389	67	280990	49.5	throat swab	Homo sapiens		
+GCA_963396235.1	SAMEA678331	Neisseria mucosa	488	Contig	CCUG 431	2023-08-28	2420334	133	45867	51				
+GCA_963396245.1	SAMEA678509	Neisseria subflava	28449	Contig	CCUG 25198	2023-08-28	2283276	126	67826	49.5		Homo sapiens	Sweden	1989
+GCA_963396255.1	SAMEA678351	Neisseria subflava	28449	Contig	CCUG 24960	2023-08-28	2155950	71	280663	49.5		Homo sapiens		
+GCA_963396265.1	SAMEA678208	Neisseria subflava	28449	Contig	CCUG 800	2023-08-28	2241736	77	80607	49.5		Homo sapiens		
+GCA_963456545.1	SAMEA114382501	uncultured Neisseria sp.	237778	Contig	SRR11085302_bin.21_MetaWRAP_v1.3_MAG	2023-09-21	2197681	99	35198	53.5	oral metagenome		USA	2012
+GCA_963456655.1	SAMEA114382574	Neisseria sicca	490	Contig	SRR11085312_bin.7_MetaWRAP_v1.3_MAG	2023-09-21	2432381	142	29787	51	oral metagenome		USA	2012
+GCA_963456805.1	SAMEA114382479	uncultured Neisseria sp.	237778	Contig	SRR11085298_bin.13_MetaWRAP_v1.3_MAG	2023-09-21	2585555	221	15253	51	oral metagenome		USA	2012
+GCA_963456835.1	SAMEA114382454	uncultured Neisseria sp.	237778	Contig	SRR11085291_bin.6_MetaWRAP_v1.3_MAG	2023-09-21	1869736	220	11001	49.5	oral metagenome		USA	2012
+GCA_963457265.1	SAMEA114382521	uncultured Neisseria sp.	237778	Contig	SRR11085304_bin.14_MetaWRAP_v1.3_MAG	2023-09-21	1487393	341	4384	51.5	oral metagenome		USA	2012
+GCA_963457395.1	SAMEA114382532	Neisseria sicca	490	Contig	SRR11085305_bin.15_MetaWRAP_v1.3_MAG	2023-09-21	2045879	258	10374	51	oral metagenome		USA	2012
+GCA_963507275.1	SAMEA114402338	uncultured Neisseria sp.	237778	Contig	SRR8290114_bin.23_MetaWRAP_v1.3_MAG	2023-09-23	2589848	147	28775	51	oral metagenome		not provided	not provided
+GCA_963508285.1	SAMEA114402231	uncultured Neisseria sp.	237778	Contig	SRR8290094_bin.5_MetaWRAP_v1.3_MAG	2023-09-23	2425119	112	37515	51.5	oral metagenome		not provided	not provided
+GCA_963508475.1	SAMEA114402209	Neisseria elongata	495	Contig	SRR8290089_bin.12_MetaWRAP_v1.3_MAG	2023-09-23	1988532	182	16241	54.5	oral metagenome		not provided	not provided
+GCA_963508615.1	SAMEA114402201	uncultured Neisseria sp.	237778	Contig	SRR8290086_bin.3_MetaWRAP_v1.3_MAG	2023-09-23	2128298	69	93954	49	oral metagenome		not provided	not provided
+GCA_963508715.1	SAMEA114402325	uncultured Neisseria sp.	237778	Contig	SRR8290111_bin.8_MetaWRAP_v1.3_MAG	2023-09-23	1357531	234	6075	48.5	oral metagenome		not provided	not provided
+GCA_963508745.1	SAMEA114402315	uncultured Neisseria sp.	237778	Contig	SRR8290109_bin.2_MetaWRAP_v1.3_MAG	2023-09-23	1901552	153	19563	53.5	oral metagenome		not provided	not provided
+GCA_963508855.1	SAMEA114402130	Neisseria cinerea	483	Contig	SRR8290070_bin.25_MetaWRAP_v1.3_MAG	2023-09-23	1786134	81	38098	51	oral metagenome		not provided	not provided
+GCA_963509085.1	SAMEA114402320	uncultured Neisseria sp.	237778	Contig	SRR8290111_bin.10_MetaWRAP_v1.3_MAG	2023-09-23	1915472	327	6636	51	oral metagenome		not provided	not provided
+GCA_963509685.1	SAMEA114402271	uncultured Neisseria sp.	237778	Contig	SRR8290101_bin.21_MetaWRAP_v1.3_MAG	2023-09-23	1916423	149	22675	49	oral metagenome		not provided	not provided
+GCA_963509945.1	SAMEA114402345	uncultured Neisseria sp.	237778	Contig	SRR8290116_bin.1_MetaWRAP_v1.3_MAG	2023-09-23	2149306	46	154596	49.5	oral metagenome		not provided	not provided
+GCA_963514165.1	SAMEA114443937	uncultured Neisseria sp.	237778	Contig	ERR981244_bin.20_MetaWRAP_v1.3_MAG	2023-10-01	1311395	266	5176	50.5	oral metagenome		United Kingdom	2006
+GCA_963514295.1	SAMEA114443869	uncultured Neisseria sp.	237778	Contig	SRR9684969_bin.1_MetaWRAP_v1.3_MAG	2023-10-01	2402409	112	36736	51.5	oral metagenome		USA	2014/2017
+GCA_963514805.1	SAMEA114443864	uncultured Neisseria sp.	237778	Contig	SRR9684959_bin.1_MetaWRAP_v1.3_MAG	2023-10-01	1933259	199	11970	49.5	oral metagenome		USA	2014/2017
+GCA_963515295.1	SAMEA114444406	uncultured Neisseria sp.	237778	Contig	ERR9968849_bin.5_MetaWRAP_v1.3_MAG	2023-10-01	1722090	121	20576	54.5	oral metagenome		Australia	2007-08-28
+GCA_963515425.1	SAMEA114445082	uncultured Neisseria sp.	237778	Contig	ERR9969103_bin.12_MetaWRAP_v1.3_MAG	2023-10-01	2243160	9	357293	49.5	oral metagenome		Australia	2008-07-08
+GCA_963515475.1	SAMEA114444707	uncultured Neisseria sp.	237778	Contig	ERR9968946_bin.40_MetaWRAP_v1.3_MAG	2023-10-01	2289543	57	77374	53	oral metagenome		Australia	2014-07-15
+GCA_963515795.1	SAMEA114445029	uncultured Neisseria sp.	237778	Contig	ERR9969079_bin.1_MetaWRAP_v1.3_MAG	2023-10-01	1897212	79	41919	51.5	oral metagenome		Australia	2007-09-02
+GCA_963518535.1	SAMEA114444045	uncultured Neisseria sp.	237778	Contig	ERR9968731_bin.10_MetaWRAP_v1.3_MAG	2023-10-01	2425622	119	28454	51	oral metagenome		Australia	2014-07-15
+GCA_963519405.1	SAMEA114444731	uncultured Neisseria sp.	237778	Contig	ERR9968952_bin.31_MetaWRAP_v1.3_MAG	2023-10-01	2729346	128	34495	51	oral metagenome		Australia	2014-09-29
+GCA_963521115.1	SAMEA114444612	uncultured Neisseria sp.	237778	Contig	ERR9968926_bin.5_MetaWRAP_v1.3_MAG	2023-10-01	2188814	15	344874	49	oral metagenome		Australia	2007-03-08
+GCA_963522635.1	SAMEA114444196	uncultured Neisseria sp.	237778	Contig	ERR9968776_bin.8_MetaWRAP_v1.3_MAG	2023-10-01	2413073	29	192299	48.5	oral metagenome		Australia	2007-03-02
+GCA_963524335.1	SAMEA114445028	uncultured Neisseria sp.	237778	Contig	ERR9969078_bin.8_MetaWRAP_v1.3_MAG	2023-10-01	2113482	67	67908	49.5	oral metagenome		Australia	2014-04-14
+GCA_963524815.1	SAMEA114444348	uncultured Neisseria sp.	237778	Contig	ERR9968829_bin.15_MetaWRAP_v1.3_MAG	2023-10-01	2359006	174	19133	51.5	oral metagenome		Australia	2014-10-02
+GCA_963524975.1	SAMEA114443961	Neisseria elongata	495	Contig	ERR9968701_bin.9_MetaWRAP_v1.3_MAG	2023-10-01	2206939	46	87483	54	oral metagenome		Australia	2014-04-14
+GCA_963526055.1	SAMEA114444832	Neisseria cinerea	483	Contig	ERR9968991_bin.23_MetaWRAP_v1.3_MAG	2023-10-01	1921913	22	135641	50.5	oral metagenome		Australia	2007-10-07
+GCA_963526215.1	SAMEA114444479	Neisseria elongata	495	Contig	ERR9968882_bin.28_MetaWRAP_v1.3_MAG	2023-10-01	1946930	129	22267	54.5	oral metagenome		Australia	2014-09-30
+GCA_963527815.1	SAMEA114445142	Neisseria bacilliformis	267212	Contig	ERR9969122_bin.13_MetaWRAP_v1.3_MAG	2023-10-01	2152216	117	26382	60	oral metagenome		Australia	2015-07-09
+GCA_963529965.1	SAMEA114445191	uncultured Neisseria sp.	237778	Contig	ERR9969139_bin.24_MetaWRAP_v1.3_MAG	2023-10-01	2651223	146	25073	51	oral metagenome		Australia	2014-09-30
+GCA_963530185.1	SAMEA114445411	uncultured Neisseria sp.	237778	Contig	ERR9969212_bin.1_MetaWRAP_v1.3_MAG	2023-10-01	2219762	168	23929	51	oral metagenome		Australia	2014-07-18
+GCA_963530675.1	SAMEA114447037	uncultured Neisseria sp.	237778	Contig	SRR5395399_bin.7_MetaWRAP_v1.3_MAG	2023-10-01	2424918	112	37515	51.5	oral metagenome		not provided	not provided
+GCA_963530685.1	SAMEA114447010	uncultured Neisseria sp.	237778	Contig	SRR5395393_bin.17_MetaWRAP_v1.3_MAG	2023-10-01	1476233	128	18080	53	oral metagenome		not provided	not provided
+GCA_963530975.1	SAMEA114447007	Neisseria cinerea	483	Contig	SRR5395393_bin.11_MetaWRAP_v1.3_MAG	2023-10-01	1786952	78	39402	51	oral metagenome		not provided	not provided
+GCA_963531095.1	SAMEA114447257	uncultured Neisseria sp.	237778	Contig	SRR15839767_bin.7_MetaWRAP_v1.3_MAG	2023-10-01	2274074	52	96016	49.5	oral metagenome		not provided	2018-08-30
+GCA_963531245.1	SAMEA114447242	uncultured Neisseria sp.	237778	Contig	SRR15839763_bin.23_MetaWRAP_v1.3_MAG	2023-10-01	2127507	376	6389	51.5	oral metagenome		not provided	2018-08-30
+GCA_963531275.1	SAMEA114447198	uncultured Neisseria sp.	237778	Contig	SRR15839757_bin.10_MetaWRAP_v1.3_MAG	2023-10-01	1557634	218	9032	50	oral metagenome		not provided	2018-06-09
+GCA_963531335.1	SAMEA114446926	uncultured Neisseria sp.	237778	Contig	SRR5395376_bin.5_MetaWRAP_v1.3_MAG	2023-10-01	2128298	69	93954	49	oral metagenome		not provided	not provided
+GCA_963532335.1	SAMEA114446909	uncultured Neisseria sp.	237778	Contig	SRR5395374_bin.13_MetaWRAP_v1.3_MAG	2023-10-01	2476352	164	24920	51.5	oral metagenome		not provided	not provided
+GCA_963532485.1	SAMEA114447231	uncultured Neisseria sp.	237778	Contig	SRR15839760_bin.8_MetaWRAP_v1.3_MAG	2023-10-01	2429411	115	36260	51.5	oral metagenome		not provided	2018-04-15
+GCA_963532755.1	SAMEA114447114	uncultured Neisseria sp.	237778	Contig	SRR5395417_bin.7_MetaWRAP_v1.3_MAG	2023-10-01	1817892	143	19808	54	oral metagenome		not provided	not provided
+GCA_963532895.1	SAMEA114447066	uncultured Neisseria sp.	237778	Contig	SRR5395405_bin.27_MetaWRAP_v1.3_MAG	2023-10-01	2098829	180	20447	51	oral metagenome		not provided	not provided
+GCA_963532975.1	SAMEA114447163	uncultured Neisseria sp.	237778	Contig	SRR5395423_bin.24_MetaWRAP_v1.3_MAG	2023-10-01	1371666	233	6326	49	oral metagenome		not provided	not provided
+GCA_963533145.1	SAMEA114447160	uncultured Neisseria sp.	237778	Contig	SRR5395423_bin.10_MetaWRAP_v1.3_MAG	2023-10-01	1920934	328	6670	51	oral metagenome		not provided	not provided
+GCA_963533245.1	SAMEA114447172	uncultured Neisseria sp.	237778	Contig	SRR5395426_bin.11_MetaWRAP_v1.3_MAG	2023-10-01	2588660	147	28775	51	oral metagenome		not provided	not provided
+GCA_963533515.1	SAMEA114447129	uncultured Neisseria sp.	237778	Contig	SRR5395420_bin.10_MetaWRAP_v1.3_MAG	2023-10-01	2149306	46	154596	49.5	oral metagenome		not provided	not provided
+GCA_963533785.1	SAMEA114446981	uncultured Neisseria sp.	237778	Contig	SRR5395386_bin.21_MetaWRAP_v1.3_MAG	2023-10-01	2061170	181	20401	49.5	oral metagenome		not provided	not provided
+GCA_963534015.1	SAMEA114447247	Neisseria lactamica	486	Contig	SRR15839764_bin.4_MetaWRAP_v1.3_MAG	2023-10-01	2433662	429	6336	49.5	oral metagenome		not provided	2018-08-30
+GCA_963534905.1	SAMEA114447639	uncultured Neisseria sp.	237778	Contig	DRR247343_bin.14_MetaWRAP_v1.3_MAG	2023-10-01	2252071	96	32085	49	oral metagenome		not provided	not provided
+GCA_963535405.1	SAMEA114447998	uncultured Neisseria sp.	237778	Contig	SRR15001309_bin.1_MetaWRAP_v1.3_MAG	2023-10-01	2318922	179	19423	51.5	oral metagenome		China	2020-12-28
+GCA_963535725.1	SAMEA114448172	uncultured Neisseria sp.	237778	Contig	SRR17301068_bin.9_MetaWRAP_v1.3_MAG	2023-10-01	1995887	319	7596	50.5	oral metagenome		China	2020-08-11
+GCA_963535915.1	SAMEA114448085	uncultured Neisseria sp.	237778	Contig	SRR17301054_bin.5_MetaWRAP_v1.3_MAG	2023-10-01	2198684	132	34568	51.5	oral metagenome		China	2020-08-11
+GCA_963536215.1	SAMEA114448009	Neisseria elongata	495	Contig	SRR15001311_bin.13_MetaWRAP_v1.3_MAG	2023-10-01	2229947	115	31085	54.5	oral metagenome		China	2020-12-28
+GCA_963536455.1	SAMEA114448061	uncultured Neisseria sp.	237778	Contig	SRR17301049_bin.7_MetaWRAP_v1.3_MAG	2023-10-01	2280578	338	7913	51	oral metagenome		China	2020-08-11
+GCA_963536785.1	SAMEA114447951	Neisseria cinerea	483	Contig	SRR15001303_bin.6_MetaWRAP_v1.3_MAG	2023-10-01	1721641	139	17852	51	oral metagenome		China	2020-12-28
+GCA_963536945.1	SAMEA114448020	uncultured Neisseria sp.	237778	Contig	SRR15001313_bin.1_MetaWRAP_v1.3_MAG	2023-10-01	2119701	30	120791	49	oral metagenome		China	2020-12-28
+GCA_963537385.1	SAMEA114447636	uncultured Neisseria sp.	237778	Contig	DRR247343_bin.11_MetaWRAP_v1.3_MAG	2023-10-01	1853001	237	9393	54	oral metagenome		not provided	not provided
+GCA_963537545.1	SAMEA114448091	uncultured Neisseria sp.	237778	Contig	SRR17301056_bin.14_MetaWRAP_v1.3_MAG	2023-10-01	2098647	21	204724	49.5	oral metagenome		China	2020-08-11
+GCA_963538715.1	SAMEA114448042	uncultured Neisseria sp.	237778	Contig	SRR17301045_bin.2_MetaWRAP_v1.3_MAG	2023-10-01	2254911	65	120528	49	oral metagenome		China	2020-08-11
+GCA_963538725.1	SAMEA114447701	uncultured Neisseria sp.	237778	Contig	DRR247346_bin.32_MetaWRAP_v1.3_MAG	2023-10-01	2516419	203	17932	51.5	oral metagenome		not provided	not provided
+GCA_963538775.1	SAMEA114447632	Neisseria elongata	495	Contig	DRR247342_bin.5_MetaWRAP_v1.3_MAG	2023-10-01	2076300	183	18098	54.5	oral metagenome		not provided	not provided
+GCA_963539435.1	SAMEA114447679	uncultured Neisseria sp.	237778	Contig	DRR247344_bin.5_MetaWRAP_v1.3_MAG	2023-10-01	2164673	17	158580	49.5	oral metagenome		not provided	not provided
+GCA_963539865.1	SAMEA114448809	Neisseria sicca	490	Contig	ERR10228878_bin.6_MetaWRAP_v1.3_MAG	2023-10-01	2340594	149	25944	51	oral metagenome		Papua New Guinea	2019-08-01
+GCA_963540025.1	SAMEA114448819	uncultured Neisseria sp.	237778	Contig	ERR10228880_bin.17_MetaWRAP_v1.3_MAG	2023-10-01	2121657	39	91093	49	oral metagenome		Papua New Guinea	2019-08-01
+GCA_963540715.1	SAMEA114448383	uncultured Neisseria sp.	237778	Contig	ERR10228828_bin.14_MetaWRAP_v1.3_MAG	2023-10-01	2474117	458	5800	49.5	oral metagenome		Papua New Guinea	2016-11-21
+GCA_963540785.1	SAMEA114448376	uncultured Neisseria sp.	237778	Contig	ERR10228827_bin.22_MetaWRAP_v1.3_MAG	2023-10-01	1923785	147	17979	51.5	oral metagenome		Papua New Guinea	2018-05-20
+GCA_963541315.1	SAMEA114448443	uncultured Neisseria sp.	237778	Contig	ERR10228838_bin.5_MetaWRAP_v1.3_MAG	2023-10-01	1677507	367	4783	51.5	oral metagenome		Papua New Guinea	2019-02-13
+GCA_963541575.1	SAMEA114448833	uncultured Neisseria sp.	237778	Contig	ERR10228883_bin.12_MetaWRAP_v1.3_MAG	2023-10-01	1223649	118	12669	49.5	oral metagenome		Papua New Guinea	2016-12-02
+GCA_963541675.1	SAMEA114448741	uncultured Neisseria sp.	237778	Contig	ERR10228872_bin.15_MetaWRAP_v1.3_MAG	2023-10-01	2195036	39	121204	49.5	oral metagenome		Papua New Guinea	2019-08-01
+GCA_963542425.1	SAMEA114448711	uncultured Neisseria sp.	237778	Contig	ERR10228870_bin.20_MetaWRAP_v1.3_MAG	2023-10-01	2376833	122	32242	51.5	oral metagenome		Papua New Guinea	2019-08-01
+GCA_963543725.1	SAMEA114448460	uncultured Neisseria sp.	237778	Contig	ERR10228843_bin.4_MetaWRAP_v1.3_MAG	2023-10-01	1416799	290	5181	49.5	oral metagenome		Papua New Guinea	2019-02-13
+GCA_963544195.1	SAMEA114448702	uncultured Neisseria sp.	237778	Contig	ERR10228869_bin.34_MetaWRAP_v1.3_MAG	2023-10-01	1825691	81	36176	54	oral metagenome		Papua New Guinea	2019-08-01
+GCA_963546155.1	SAMEA114449348	uncultured Neisseria sp.	237778	Contig	ERR10083845_bin.2_MetaWRAP_v1.3_MAG	2023-10-01	1298200	299	4303	53.5	oral metagenome		not provided	not provided
+GCA_963547165.1	SAMEA114449547	uncultured Neisseria sp.	237778	Contig	SRR23388441_bin.17_MetaWRAP_v1.3_MAG	2023-10-01	2029228	140	22828	51.5	oral metagenome		Hong Kong	2022
+GCA_963547395.1	SAMEA114449383	uncultured Neisseria sp.	237778	Contig	ERR10083939_bin.2_MetaWRAP_v1.3_MAG	2023-10-01	1397178	311	4416	52.5	oral metagenome		not provided	not provided
+GCA_963547685.1	SAMEA114448973	uncultured Neisseria sp.	237778	Contig	SRR13061513_bin.1_MetaWRAP_v1.3_MAG	2023-10-01	2122784	16	212197	49.5	oral metagenome		Denmark	2018-01
+GCA_963548445.1	SAMEA114449193	uncultured Neisseria sp.	237778	Contig	SRR13061599_bin.26_MetaWRAP_v1.3_MAG	2023-10-01	2162534	19	337608	49.5	oral metagenome		Denmark	2018-01
+GCA_963549195.1	SAMEA114449789	Neisseria bacilliformis	267212	Contig	SRR23388466_bin.14_MetaWRAP_v1.3_MAG	2023-10-01	2305648	77	52319	60.5	oral metagenome		Hong Kong	2022
+GCA_963549825.1	SAMEA114449412	Neisseria sicca	490	Contig	SRR23388425_bin.8_MetaWRAP_v1.3_MAG	2023-10-01	2324016	262	11072	51	oral metagenome		Hong Kong	2022
+GCA_963549965.1	SAMEA114449427	uncultured Neisseria sp.	237778	Contig	SRR23388428_bin.14_MetaWRAP_v1.3_MAG	2023-10-01	2211476	25	177081	49	oral metagenome		Hong Kong	2022
+GCA_963549995.1	SAMEA114449184	uncultured Neisseria sp.	237778	Contig	SRR13061576_bin.4_MetaWRAP_v1.3_MAG	2023-10-01	2110065	130	24822	53.5	oral metagenome		Denmark	2018-01
+GCA_963550065.1	SAMEA114449849	uncultured Neisseria sp.	237778	Contig	SRR23388471_bin.12_MetaWRAP_v1.3_MAG	2023-10-01	2225960	32	138337	49.5	oral metagenome		Hong Kong	2022
+GCA_963550385.1	SAMEA114449464	uncultured Neisseria sp.	237778	Contig	SRR23388433_bin.4_MetaWRAP_v1.3_MAG	2023-10-01	2551308	27	155565	52.5	oral metagenome		Hong Kong	2022
+GCA_963550425.1	SAMEA114449688	uncultured Neisseria sp.	237778	Contig	SRR23388451_bin.41_MetaWRAP_v1.3_MAG	2023-10-01	1735351	187	12354	54	oral metagenome		Hong Kong	2022
+GCA_963551475.1	SAMEA114449797	Neisseria elongata	495	Contig	SRR23388466_bin.43_MetaWRAP_v1.3_MAG	2023-10-01	1969552	180	13046	55	oral metagenome		Hong Kong	2022
+GCA_963551955.1	SAMEA114448919	Neisseria bacilliformis	267212	Contig	SRR13061492_bin.43_MetaWRAP_v1.3_MAG	2023-10-01	2235898	53	84409	60	oral metagenome		Denmark	2018-01
+GCA_963552075.1	SAMEA114449070	uncultured Neisseria sp.	237778	Contig	SRR13061535_bin.18_MetaWRAP_v1.3_MAG	2023-10-01	2640697	190	20014	51	oral metagenome		Denmark	2018-01
+GCA_963552515.1	SAMEA114449386	uncultured Neisseria sp.	237778	Contig	ERR5284057_bin.1_MetaWRAP_v1.3_MAG	2023-10-01	1621807	314	5668	55	oral metagenome		not provided	not provided
+GCA_963552535.1	SAMEA114449552	uncultured Neisseria sp.	237778	Contig	SRR23388441_bin.32_MetaWRAP_v1.3_MAG	2023-10-01	2035886	85	54819	49.5	oral metagenome		Hong Kong	2022
+GCA_963554345.1	SAMEA114450519	uncultured Neisseria sp.	237778	Contig	SRR15443036_bin.5_MetaWRAP_v1.3_MAG	2023-10-01	2417773	165	24574	51	oral metagenome		USA	2017-01-26
+GCA_963554515.1	SAMEA114450466	uncultured Neisseria sp.	237778	Contig	SRR15443024_bin.9_MetaWRAP_v1.3_MAG	2023-10-01	2392583	98	38101	51	oral metagenome		USA	2016-12-16
+GCA_963554535.1	SAMEA114450588	uncultured Neisseria sp.	237778	Contig	SRR15443065_bin.7_MetaWRAP_v1.3_MAG	2023-10-01	1914554	74	45392	49.5	oral metagenome		USA	2017-01-27
+GCA_963554765.1	SAMEA114450567	uncultured Neisseria sp.	237778	Contig	SRR15443050_bin.12_MetaWRAP_v1.3_MAG	2023-10-01	1605641	206	9632	52.5	oral metagenome		USA	2017-11-01
+GCA_963554965.1	SAMEA114450576	uncultured Neisseria sp.	237778	Contig	SRR15443059_bin.1_MetaWRAP_v1.3_MAG	2023-10-01	2161956	52	83013	49.5	oral metagenome		USA	2016-05-11
+GCA_963555305.1	SAMEA114450587	uncultured Neisseria sp.	237778	Contig	SRR15443065_bin.3_MetaWRAP_v1.3_MAG	2023-10-01	2002622	316	7042	50.5	oral metagenome		USA	2017-01-27
+GCA_963555345.1	SAMEA114450488	Neisseria sicca	490	Contig	SRR15443030_bin.11_MetaWRAP_v1.3_MAG	2023-10-01	2701894	184	20238	51.5	oral metagenome		USA	2017-11-03
+GCA_964367915.1	SAMEA117391361	uncultured Neisseria sp.	237778	Scaffold	ERP123247_co1_64	2025-01-11	3079716	200	32567	37	metagenome		Switzerland	2018-07-09
+GCA_964386295.1	SAMEA117292741	uncultured Neisseria sp.	237778	Scaffold	SRP219642_co6_43	2025-01-12	3522302	70	154584	35.5	freshwater metagenome		USA	2017-08-16
+GCA_964451565.1	SAMEA117384214	uncultured Neisseria sp.	237778	Scaffold	binchicken_co35_246	2025-01-09	2358435	441	8202	55	wastewater metagenome		Barbados	not provided
+GCA_964462055.1	SAMEA117287441	uncultured Neisseria sp.	237778	Scaffold	SRP296810_co1_147	2025-01-08	2041640	74	52143	34	wastewater metagenome		USA	2018-08
+GCA_964473835.1	SAMEA117205875	uncultured Neisseria sp.	237778	Scaffold	SRP278252_co1_211	2025-01-07	1406776	677	2643	33	freshwater metagenome		not provided	2018
+GCA_964481375.1	SAMEA117292704	uncultured Neisseria sp.	237778	Scaffold	SRP219642_co6_108	2025-01-08	1891268	393	9050	29	freshwater metagenome		USA	2017-08-16
+GCA_964488065.1	SAMEA117386282	uncultured Neisseria sp.	237778	Contig	SRP135725_co2_481	2025-01-10	2878253	157	33388	40.5	wastewater metagenome		Singapore	not provided
+GCA_964542265.1	SAMEA117373113	uncultured Neisseria sp.	237778	Scaffold	binchicken_co35_119	2025-01-09	2206546	232	14329	45.5	wastewater metagenome		Barbados	not provided
+GCA_964545465.1	SAMEA117363883	uncultured Neisseria sp.	237778	Scaffold	binchicken_co175_130	2025-01-07	1750993	204	15054	34	riverine metagenome		not applicable	not provided
+GCA_964563885.1	SAMEA117391076	uncultured Neisseria sp.	237778	Scaffold	binchicken_co386_19	2025-01-08	1918201	132	23378	42.5	wastewater metagenome		not applicable	not provided
+GCA_964611845.1	SAMEA117292657	uncultured Neisseria sp.	237778	Scaffold	SRP219642_co3_42	2025-01-10	2948070	140	45399	36.5	freshwater metagenome		USA	2017-08-18
+GCA_964652705.1	SAMEA117391708	uncultured Neisseria sp.	237778	Scaffold	SRP219642_co4_175	2025-01-09	2456958	106	44132	35	freshwater metagenome		USA	2017-08-17
+GCA_965239915.1	SAMEA117990875	uncultured Neisseria sp.	237778	Contig	SRR14736665_binner12_Refined_4	2025-04-11	2215846	101	38976	49	human oral metagenome		USA	2020-04-01/2021-03-01
+GCA_965241025.1	SAMEA117995513	uncultured Neisseria sp.	237778	Contig	SRR25048813_binner12_Refined_13	2025-04-14	2673269	282	13181	51.5	human oral metagenome		Germany	2021
+GCA_965241055.1	SAMEA117995638	Neisseria bacilliformis	267212	Contig	SRR25048841_binner23_Refined_7	2025-04-14	2289469	284	11533	60	human oral metagenome		Germany	2021
+GCA_965241165.1	SAMEA117995597	Neisseria sicca	490	Contig	SRR25048849_concoct_37	2025-04-14	2266873	439	6363	51	human oral metagenome		Germany	2021
+GCA_965241375.1	SAMEA117995486	uncultured Neisseria sp.	237778	Contig	SRR25048769_maxbin2_2	2025-04-14	2173100	214	16084	49.5	human oral metagenome		Germany	2021
+GCA_965241655.1	SAMEA117995564	uncultured Neisseria sp.	237778	Contig	SRR25048762_binner12_Refined_2	2025-04-14	2124269	72	44468	49	human oral metagenome		Germany	2021
+GCA_965241845.1	SAMEA117995478	uncultured Neisseria sp.	237778	Contig	SRR25048757_concoct_0	2025-04-14	2318326	248	13018	53.5	human oral metagenome		Germany	2021
+GCA_965241865.1	SAMEA117995569	uncultured Neisseria sp.	237778	Contig	SRR25048765_binner12_Refined_4	2025-04-14	2071493	110	26363	49.5	human oral metagenome		Germany	2021
+GCA_965241895.1	SAMEA117995487	uncultured Neisseria sp.	237778	Contig	SRR25048777_binner13_Refined_2	2025-04-14	1056540	426	2420	49.5	human oral metagenome		Germany	2021
+GCA_965242275.1	SAMEA117995614	Neisseria flavescens	484	Contig	SRR25048852_maxbin2_10	2025-04-14	2162088	120	29362	49.5	human oral metagenome		Germany	2021
+GCA_965242295.1	SAMEA117995616	uncultured Neisseria sp.	237778	Contig	SRR25048858_binner123_Refined_11	2025-04-14	2105567	92	32857	50	human oral metagenome		Germany	2021
+GCA_965244515.1	SAMEA117996223	uncultured Neisseria sp.	237778	Contig	SRR24825035_concoct_10	2025-04-17	2148639	32	110427	49	human oral metagenome		Belgium	2020-06-22
+GCA_965244665.1	SAMEA117996274	uncultured Neisseria sp.	237778	Contig	SRR24825126_concoct_61	2025-04-16	1171600	459	2629	50.5	human oral metagenome		Belgium	2019-04-29
+GCA_965245005.1	SAMEA118002929	uncultured Neisseria sp.	237778	Contig	SRR27033632_binner12_Refined_37	2025-04-17	2120326	94	39346	49.5	human oral metagenome		China	2022-06
+GCA_965245545.1	SAMEA118002787	Neisseria cinerea	483	Contig	SRR25914254_concoct_9	2025-04-16	1849973	314	7989	51	human oral metagenome		China	2020-05-07
+GCA_965246105.1	SAMEA118002775	uncultured Neisseria sp.	237778	Contig	SRR25914238_binner12_Refined_17	2025-04-17	2346868	285	11596	51.5	human oral metagenome		China	2020-05-21
+GCA_965246345.1	SAMEA118002826	uncultured Neisseria sp.	237778	Contig	SRR25914256_concoct_5	2025-04-17	2133970	475	5273	53	human oral metagenome		China	2020-05-05
+GCA_965246395.1	SAMEA118002799	uncultured Neisseria sp.	237778	Contig	SRR25914264_binner13_Refined_1	2025-04-17	2142711	318	8634	51.5	human oral metagenome		China	2020-04-28
+GCA_965246425.1	SAMEA118002802	uncultured Neisseria sp.	237778	Contig	SRR25914268_concoct_13	2025-04-16	1348088	446	3237	49.5	human oral metagenome		China	2020-04-24
+GCA_976989365.1	SAMEA120311920	Neisseria sicca	490	Contig	SRR27543491_concoct_10	2025-11-09	2382855	113	35950	51	human oral metagenome		China	2023-07-22
+GCA_976990245.1	SAMEA120311977	uncultured Neisseria sp.	237778	Contig	SRR27543510_binner13_Refined_22	2025-11-09	1649062	76	30192	49.5	human oral metagenome		China	2023-08-01
+GCA_976990295.1	SAMEA120311994	Neisseria elongata	495	Contig	SRR27543512_concoct_17	2025-11-09	2232928	156	20207	53.5	human oral metagenome		China	2023-07-29
+GCA_976990655.1	SAMEA120312012	uncultured Neisseria sp.	237778	Contig	SRR27543515_binner12_Refined_27	2025-11-09	2348072	16	418435	53	human oral metagenome		China	2023-07-17
+GCA_976991425.1	SAMEA120312790	uncultured Neisseria sp.	237778	Contig	SRR29249429_binner23_Refined_6	2025-11-09	2100225	48	71024	49.5	human oral metagenome		China	2022
+GCA_976991785.1	SAMEA120312792	Neisseria sicca	490	Contig	SRR29249429_concoct_44	2025-11-09	2662637	139	27658	51	human oral metagenome		China	2022
+GCA_976992055.1	SAMEA120312813	uncultured Neisseria sp.	237778	Contig	SRR29249431_binner13_Refined_7	2025-11-09	1839532	149	19467	49.5	human oral metagenome		China	2023
+GCA_976993425.1	SAMEA120313558	uncultured Neisseria sp.	237778	Contig	SRR23278429_binner12_Refined_15	2025-11-09	2198063	61	130623	49.5	human oral metagenome		China	2022-11-01
+GCA_976993765.1	SAMEA120313539	uncultured Neisseria sp.	237778	Contig	SRR23278405_metabat2_1	2025-11-09	1364763	482	2878	51	human oral metagenome		China	2022-10-27
+GCA_976994115.1	SAMEA120313563	uncultured Neisseria sp.	237778	Contig	SRR23278432_binner13_Refined_4	2025-11-09	1532512	547	2893	52.5	human oral metagenome		China	2022-10-25
+GCA_976994385.1	SAMEA120313446	Neisseria elongata	495	Contig	SRR23278395_concoct_6	2025-11-09	2450099	119	37304	53.5	human oral metagenome		China	2022-10-18
+GCA_976994485.1	SAMEA120313542	uncultured Neisseria sp.	237778	Contig	SRR23278416_binner12_Refined_4	2025-11-09	2468162	210	18097	51	human oral metagenome		China	2022-10-17
+GCA_976994735.1	SAMEA120313417	uncultured Neisseria sp.	237778	Contig	SRR23278393_concoct_10	2025-11-09	2406984	304	10073	51	human oral metagenome		China	2022-10-24
+GCA_976994935.1	SAMEA120313428	uncultured Neisseria sp.	237778	Contig	SRR23278389_binner123_Refined_5	2025-11-09	2146006	24	139512	49	human oral metagenome		China	2022-10-21
+GCA_976995285.1	SAMEA120314171	uncultured Neisseria sp.	237778	Contig	DRR247356_binner12_Refined_6	2025-11-09	1733516	576	3186	51	human oral metagenome		not provided	missing: third party data
+GCA_976995455.1	SAMEA120314176	uncultured Neisseria sp.	237778	Contig	DRR247356_concoct_15	2025-11-09	2142052	168	27404	49.5	human oral metagenome		not provided	missing: third party data
+GCA_976995635.1	SAMEA120314473	uncultured Neisseria sp.	237778	Contig	SRR25411496_binner123_Refined_6	2025-11-09	2160599	10	494543	49.5	human oral metagenome		USA	missing: third party data
+GCA_976995755.1	SAMEA120314490	uncultured Neisseria sp.	237778	Contig	SRR25411494_concoct_41	2025-11-09	2710888	207	24345	51	human oral metagenome		USA	missing: third party data
+GCA_976996255.1	SAMEA120314483	uncultured Neisseria sp.	237778	Contig	SRR25411526_binner123_Refined_8	2025-11-09	2264524	27	145781	49.5	human oral metagenome		USA	2021-03-26
+GCA_976996405.1	SAMEA120314530	Neisseria sicca	490	Contig	SRR25411521_binner13_Refined_29	2025-11-09	2164857	275	11578	52	human oral metagenome		USA	2021-05-27
+GCA_976998465.1	SAMEA120315672	uncultured Neisseria sp.	237778	Contig	SRR25744289_binner12_Refined_17	2025-11-09	2180407	58	70348	49.5	human oral metagenome		USA	2020
+GCA_976998885.1	SAMEA120315619	Neisseria sicca	490	Contig	SRR25744287_binner12_Refined_4	2025-11-09	2389852	92	40339	51.5	human oral metagenome		USA	2020
+GCA_976998985.1	SAMEA120315675	Neisseria elongata	495	Contig	SRR25744292_binner13_Refined_9	2025-11-09	2274746	70	54992	54	human oral metagenome		USA	2020
+GCA_976999155.1	SAMEA120315663	uncultured Neisseria sp.	237778	Contig	SRR25744284_binner13_Refined_11	2025-11-09	2060391	254	11193	53	human oral metagenome		USA	2020
+GCA_977000335.1	SAMEA120321923	uncultured Neisseria sp.	237778	Contig	SRR31548310_metabat2_1	2025-11-09	1863877	393	5587	50	human oral metagenome		Australia	2020/2021
+GCA_977000375.1	SAMEA120321926	uncultured Neisseria sp.	237778	Contig	SRR31548332_binner123_Refined_1	2025-11-09	2179531	29	114707	49.5	human oral metagenome		Australia	2020/2021
+GCA_977000875.1	SAMEA120323738	Neisseria elongata	495	Contig	SRR31188353_binner23_Refined_20	2025-11-09	2187119	55	67066	54.5	human oral metagenome		USA	2017/2022
+GCA_977001715.1	SAMEA120323724	uncultured Neisseria sp.	237778	Contig	SRR31188355_binner23_Refined_5	2025-11-09	2094996	104	29803	49.5	human oral metagenome		USA	2017/2022
+GCA_977001745.1	SAMEA120323608	uncultured Neisseria sp.	237778	Contig	SRR31188321_binner12_Refined_3	2025-11-09	2466563	272	16813	51	human oral metagenome		USA	2017/2022
+GCA_977002865.1	SAMEA120324266	uncultured Neisseria sp.	237778	Contig	SRR15043907_concoct_69	2025-11-09	2345390	464	5957	51	human oral metagenome		China	2017-11
+GCA_977003295.1	SAMEA120324234	uncultured Neisseria sp.	237778	Contig	SRR15043890_concoct_15	2025-11-09	1430481	569	2511	54	human oral metagenome		China	2017-11-14
+GCA_977004525.1	SAMEA120324304	uncultured Neisseria sp.	237778	Contig	SRR15043907_binner12_Refined_48	2025-11-09	2206905	29	208152	49.5	human oral metagenome		China	2017-11
+GCA_977004655.1	SAMEA120324345	uncultured Neisseria sp.	237778	Contig	SRR15043903_binner12_Refined_8	2025-11-09	2149277	22	213350	49	human oral metagenome		China	2019-08
+GCA_977005275.1	SAMEA120324851	uncultured Neisseria sp.	237778	Contig	SRR32675072_binner12_Refined_12	2025-11-09	2081155	46	73126	49.5	human oral metagenome		Spain	2021
+GCA_977005315.1	SAMEA120324775	Neisseria macacae	496	Contig	SRR32675061_concoct_24	2025-11-09	1604359	594	2814	52	human oral metagenome		Spain	2021
+GCA_977005505.1	SAMEA120324885	uncultured Neisseria sp.	237778	Contig	SRR32675067_concoct_44	2025-11-09	2258462	176	21546	53	human oral metagenome		Spain	2021
+GCA_977006055.1	SAMEA120324898	uncultured Neisseria sp.	237778	Contig	SRR32675080_concoct_1	2025-11-09	2227041	43	92547	49	human oral metagenome		Spain	2021
+GCA_977006075.1	SAMEA120324804	uncultured Neisseria sp.	237778	Contig	SRR32675108_concoct_27	2025-11-09	2276068	577	4687	52	human oral metagenome		Spain	2021
+GCA_977006735.1	SAMEA120324936	uncultured Neisseria sp.	237778	Contig	SRR27205906_concoct_30	2025-11-09	2079842	223	13885	49	human oral metagenome		Finland	2023-07-08
+GCA_977036265.1	SAMEA120502484	Neisseria lactamica	486	Contig	AGN042DU.38	2025-11-13	2064815	28	114252	52.5	human duodenal aspirate		Central African Republic	2018-10-09
+GCA_977037295.1	SAMEA120502198	Neisseria sp.	192066	Scaffold	AGN036GA.10	2025-11-13	2269979	296	10166	51.5	human gastric aspirate		Central African Republic	2018-09-24
+GCA_977038615.1	SAMEA120502330	Neisseria bergeri	1906581	Scaffold	AGN039DU.24	2025-11-13	2109292	28	153660	52	human duodenal aspirate		Central African Republic	2018-09-28
+GCA_977038655.1	SAMEA120502377	Neisseria sp.	192066	Scaffold	AGN039SA.64	2025-11-13	1890980	610	3762	51.5	human saliva		Central African Republic	2018-09-28
+GCA_977038685.1	SAMEA120502388	Neisseria sp.	192066	Scaffold	AGN040DU.42	2025-11-13	2158660	112	30823	49.5	human duodenal aspirate		Central African Republic	2018-10-01
+GCA_977038725.1	SAMEA120502373	Neisseria sp.	192066	Scaffold	AGN039SA.57	2025-11-13	1837914	434	4985	49.5	human saliva		Central African Republic	2018-09-28
+GCA_977039795.1	SAMEA120502785	Neisseria bergeri	1906581	Scaffold	AGN047GA.29	2025-11-13	2129368	33	104891	52.5	human gastric aspirate		Central African Republic	2018-10-11
+GCA_977041205.1	SAMEA120502784	Neisseria sp.	192066	Contig	AGN047GA.17	2025-11-13	1673060	453	4362	50	human gastric aspirate		Central African Republic	2018-10-11
+GCA_977041245.1	SAMEA120502735	Neisseria sp.	192066	Scaffold	AGN047DU.27	2025-11-13	1709969	420	5174	50	human duodenal aspirate		Central African Republic	2018-10-11
+GCA_977041275.1	SAMEA120502562	Neisseria lactamica	486	Scaffold	AGN043GA.5	2025-11-13	2087149	34	85691	52.5	human gastric aspirate		Central African Republic	2018-10-09
+GCA_977041825.1	SAMEA120502438	Neisseria sp.	192066	Contig	AGN041DU.8	2025-11-13	2180655	50	60656	49.5	human duodenal aspirate		Central African Republic	2018-10-10
+GCA_977041905.1	SAMEA120502201	Neisseria sp.	192066	Contig	AGN036GA.23	2025-11-13	2081944	76	40639	49.5	human gastric aspirate		Central African Republic	2018-09-24
+GCA_977042015.1	SAMEA120502697	Neisseria cinerea	483	Scaffold	AGN045SA.17	2025-11-13	1804773	46	74276	50.5	human saliva		Central African Republic	2018-10-11
+GCA_977042685.1	SAMEA120502275	Neisseria sp.	192066	Contig	AGN037GA.1	2025-11-13	1827459	328	6865	49.5	human gastric aspirate		Central African Republic	2018-09-24
+GCA_977043615.1	SAMEA120501276	Neisseria sp.	192066	Contig	AGN014GA.5	2025-11-13	2235788	46	80887	49.5	human gastric aspirate		Central African Republic	2018-07-30
+GCA_977043795.1	SAMEA120501130	Neisseria sicca	490	Scaffold	AGN011SA.89	2025-11-13	2219577	314	8675	51.5	human saliva		Central African Republic	2018-07-09
+GCA_977044895.1	SAMEA120501970	Neisseria sicca	490	Scaffold	AGN031SA.87	2025-11-13	2688939	87	58201	51	human saliva		Central African Republic	2018-09-18
+GCA_977045825.1	SAMEA120501869	Neisseria sp.	192066	Scaffold	AGN028SA.30	2025-11-13	2379029	73	48852	51.5	human saliva		Central African Republic	2018-08-09
+GCA_977047545.1	SAMEA120502100	Neisseria sp.	192066	Contig	AGN035DU.7	2025-11-13	2131409	115	28938	49.5	human duodenal aspirate		Central African Republic	2018-09-20
+GCA_977048085.1	SAMEA120501581	Neisseria sp.	192066	Scaffold	AGN021SA.37	2025-11-13	1950030	136	21379	53	human saliva		Central African Republic	2018-08-03
+GCA_977049245.1	SAMEA120501501	Neisseria cinerea	483	Contig	AGN019SA.73	2025-11-13	1538107	144	13574	51	human saliva		Central African Republic	2018-08-01
+GCA_977050065.1	SAMEA120501431	Neisseria sp.	192066	Scaffold	AGN018GA.8	2025-11-13	2163873	54	56573	49.5	human gastric aspirate		Central African Republic	2018-07-30
+GCA_977051015.1	SAMEA120501966	Neisseria cinerea	483	Scaffold	AGN031SA.55	2025-11-13	1658554	106	22513	51	human saliva		Central African Republic	2018-09-18
+GCA_977052155.1	SAMEA120501924	Neisseria sp.	192066	Scaffold	AGN030SA.35	2025-11-13	2420401	293	10564	51.5	human saliva		Central African Republic	2018-09-20
+GCA_977052405.1	SAMEA120501530	Neisseria cinerea	483	Scaffold	AGN020SA.25	2025-11-13	1549261	151	15851	51	human saliva		Central African Republic	2018-08-01
+GCA_977052475.1	SAMEA120502012	Neisseria sp.	192066	Contig	AGN033DU.30	2025-11-13	2098959	70	46888	49.5	human duodenal aspirate		Central African Republic	2018-09-18
+GCA_977052505.1	SAMEA120502015	Neisseria mucosa	488	Scaffold	AGN033DU.40	2025-11-13	2066044	357	7029	51.5	human duodenal aspirate		Central African Republic	2018-09-18
+GCA_977053115.1	SAMEA120501670	Neisseria sp.	192066	Contig	AGN023SA.30	2025-11-13	1985519	294	8947	49.5	human saliva		Central African Republic	2018-08-03
+GCA_977053905.1	SAMEA120501929	Neisseria sp.	192066	Scaffold	AGN030SA.61	2025-11-13	2019998	29	180715	50	human saliva		Central African Republic	2018-09-20
+GCA_977054565.1	SAMEA120500744	Neisseria sp.	192066	Scaffold	AGN002SA.70	2025-11-13	2309711	76	161327	49.5	human saliva		Central African Republic	2018-07-02
+GCA_977054875.1	SAMEA120500793	Neisseria sp.	192066	Contig	AGN003GA.9	2025-11-13	2228417	131	23819	49.5	human gastric aspirate		Central African Republic	2018-07-02
+GCA_977056385.1	SAMEA120501006	Neisseria cinerea	483	Contig	AGN009SA.1	2025-11-13	1710250	135	18592	51	human saliva		Central African Republic	2018-07-11
+GCA_977056685.1	SAMEA120500956	Neisseria sp.	192066	Contig	AGN007GA.6	2025-11-13	2174836	78	43354	49.5	human gastric aspirate		Central African Republic	2018-07-04
+GCA_977057175.1	SAMEA120500896	Neisseria sp.	192066	Contig	AGN005SA.53	2025-11-13	1959585	235	10974	53	human saliva		Central African Republic	2018-07-04
+GCA_978046715.1	SAMEA121025729	uncultured Neisseria sp.	237778	Contig	SRR31305741_bin_10204_mag	2026-03-01	1198799	436	2818	60	human oral metagenome		China	2022-11-18
+GCA_978992645.1	SAMEA121264298	Neisseria elongata	495	Scaffold	HUMAGS_133901	2026-07-30	1929233	199	14232	54.5	missing		missing	missing
+GCA_979286755.1	SAMEA121306398	Neisseria elongata	495	Scaffold	HUMAGS_157656	2026-07-30	2279296	78	58509	54.5	missing		missing	missing
+GCA_980943905.1	SAMEA121671853	uncultured Neisseria sp.	237778	Contig	DRR494469_bin_46	2026-02-28	1523913	359	5383	54	human oral metagenome		not provided	missing: data agreement established pre-2023
+GCA_980944255.1	SAMEA121671879	uncultured Neisseria sp.	237778	Contig	DRR494477_bin_4153	2026-02-28	2105926	41	87278	49.5	human oral metagenome		not provided	missing: data agreement established pre-2023
+GCA_980947175.1	SAMEA121671908	uncultured Neisseria sp.	237778	Contig	DRR494472_bin_1634	2026-02-28	2013772	184	15551	49.5	human oral metagenome		not provided	missing: data agreement established pre-2023
+GCA_981111505.1	SAMEA121724690	uncultured Neisseria sp.	237778	Contig	SRR21518471_bin_96	2026-02-28	2125695	15	346786	49.5	human oral metagenome		USA	2016-12-08
+GCA_981112325.1	SAMEA121724332	uncultured Neisseria sp.	237778	Contig	SRR21518430_bin_2203	2026-02-28	1728318	456	4488	50	human oral metagenome		USA	2016-12-01
+GCA_981114705.1	SAMEA121724735	uncultured Neisseria sp.	237778	Contig	SRR21518451_bin_5757	2026-02-28	2000870	681	3167	51	human oral metagenome		USA	2016-12-02
+GCA_981115375.1	SAMEA121724553	uncultured Neisseria sp.	237778	Contig	SRR21518449_bin_6820	2026-02-28	1448553	128	14176	49.5	human oral metagenome		USA	2016-12-08
+GCA_981116635.1	SAMEA121724108	uncultured Neisseria sp.	237778	Contig	SRR21518411_bin_9307	2026-02-28	2036068	539	4383	51	human oral metagenome		USA	2016-12-15
+GCA_981117225.1	SAMEA121724948	uncultured Neisseria sp.	237778	Contig	SRR21518422_bin_11134	2026-02-28	1159989	206	7586	49.5	human oral metagenome		USA	2016-12-05
+GCA_981118545.1	SAMEA121724496	uncultured Neisseria sp.	237778	Contig	SRR21518439_bin_12995	2026-02-28	2684652	318	12948	50.5	human oral metagenome		USA	2016-12-15
+GCA_981118575.1	SAMEA121724631	uncultured Neisseria sp.	237778	Contig	SRR21518455_bin_25	2026-02-28	2117935	76	74109	49.5	human oral metagenome		USA	2016-12-02
+GCA_981119405.1	SAMEA121724473	uncultured Neisseria sp.	237778	Contig	SRR21518467_bin_7678	2026-02-28	1700105	619	2912	51	human oral metagenome		USA	2016-12-05
+GCA_981120505.1	SAMEA121724291	uncultured Neisseria sp.	237778	Contig	SRR21518478_bin_1445	2026-02-28	1814230	442	5006	51.5	human oral metagenome		USA	2016-12-15
+GCA_981120685.1	SAMEA121724521	uncultured Neisseria sp.	237778	Contig	SRR21518458_bin_219	2026-02-28	1461462	52	38880	49.5	human oral metagenome		USA	2016-12-02
+GCA_981121355.1	SAMEA121724848	uncultured Neisseria sp.	237778	Contig	SRR21518481_bin_33	2026-02-28	2158635	14	253205	49	human oral metagenome		USA	2016-12-02
+GCA_981124285.1	SAMEA121724878	uncultured Neisseria sp.	237778	Contig	SRR21518448_bin_5601	2026-02-28	1307916	214	9043	49.5	human oral metagenome		USA	2016-12-15
+GCA_981124935.1	SAMEA121724709	uncultured Neisseria sp.	237778	Contig	SRR21518422_bin_6871	2026-02-28	1118055	118	14596	49.5	human oral metagenome		USA	2016-12-05
+GCA_981125915.1	SAMEA121724063	uncultured Neisseria sp.	237778	Contig	SRR21518407_bin_10223	2026-02-28	2202947	522	5644	50.5	human oral metagenome		USA	2016-12-02
+GCA_981125945.1	SAMEA121724540	uncultured Neisseria sp.	237778	Contig	SRR21518442_bin_989	2026-02-28	1709256	327	6284	50	human oral metagenome		USA	2016-12-02
+GCA_982186475.1	SAMEA121740862	Neisseria sp.	192066	Scaffold	ERS5710602-metaspades_075	2026-05-03	2262719	158	50139	53.5	dental plaque		Cameroon	2018
+GCA_982187055.1	SAMEA121740701	Neisseria sp.	192066	Scaffold	ERS5710596-metaspades_035	2026-05-02	1555208	138	26217	49	dental plaque		Cameroon	2018
+GCA_982187495.1	SAMEA121740890	Neisseria sp.	192066	Scaffold	ERS5710604-metaspades_002	2026-05-03	1959087	662	3757	54.5	dental plaque		Cameroon	2018
+GCA_982188025.1	SAMEA121740783	Neisseria sp.	192066	Scaffold	ERS5710600-metaspades_033	2026-05-02	1754819	174	19721	50.5	dental plaque		Cameroon	2018
+GCA_982188135.1	SAMEA121740964	Neisseria sp.	192066	Scaffold	ERS5710606-metaspades_041	2026-05-03	2321406	122	32746	58.5	dental plaque		Cameroon	2018
+GCA_982189025.1	SAMEA121741200	Neisseria sp.	192066	Scaffold	ERS5710615-metaspades_022	2026-05-02	1671293	293	7907	50	dental plaque		Cameroon	2018
+GCA_982189335.1	SAMEA121741027	Neisseria sp.	192066	Scaffold	ERS5710609-metaspades_024	2026-05-03	1980773	193	14073	59.5	dental plaque		Cameroon	2018
+GCA_982190125.1	SAMEA121741258	Neisseria sp.	192066	Scaffold	ERS5710615-metaspades_095	2026-05-03	2012515	256	11936	59	dental plaque		Cameroon	2018
+GCA_982190435.1	SAMEA121741197	Neisseria elongata	495	Scaffold	ERS5710615-metaspades_019	2026-05-03	2149768	66	59398	54.5	dental plaque		Cameroon	2018
+GCA_982191385.1	SAMEA121741159	Neisseria sp.	192066	Scaffold	ERS5710611-metaspades_032	2026-05-01	1525212	358	5343	54.5	dental plaque		Cameroon	2018
+GCA_982192285.1	SAMEA121741328	Neisseria sp.	192066	Scaffold	ERS5710617-metaspades_060	2026-05-03	2177031	433	6596	53	dental plaque		Cameroon	2018
+GCA_982192815.1	SAMEA121741376	Neisseria sp.	192066	Scaffold	ERS5710619-metaspades_018	2026-05-02	1799967	406	6014	55	dental plaque		Cameroon	2018
+GCA_982192945.1	SAMEA121741515	Neisseria sp.	192066	Scaffold	ERS5710626-metaspades_076	2026-05-02	1688450	270	8268	49.5	dental plaque		Cameroon	2018
+GCA_982193145.1	SAMEA121741419	Neisseria sp.	192066	Scaffold	ERS5710622-metaspades_013	2026-05-03	1974095	207	15538	54	dental plaque		Cameroon	2018
+GCA_982195035.1	SAMEA121741543	Neisseria macacae	496	Scaffold	ERS5710628-metaspades_016	2026-05-03	2155613	308	9244	51.5	dental plaque		Cameroon	2018
+GCA_982198405.1	SAMEA121741952	Neisseria bacilliformis	267212	Scaffold	ERS5710635-metaspades_105	2026-05-03	2326058	110	28198	60	dental plaque		Cameroon	2018
+GCA_982198745.1	SAMEA121741933	Neisseria sicca	490	Scaffold	ERS5710635-metaspades_083	2026-05-03	2031359	303	8828	51	dental plaque		Cameroon	2018
+GCA_982200735.1	SAMEA121742342	Neisseria sp.	192066	Scaffold	ERS5710647-metaspades_032	2026-05-01	1506725	293	6466	55	dental plaque		Cameroon	2018
+GCA_982202085.1	SAMEA121742169	Neisseria bacilliformis	267212	Scaffold	ERS5710643-metaspades_040	2026-05-03	2149703	264	11875	60	dental plaque		Cameroon	2018
+GCA_982204805.1	SAMEA121742253	Neisseria elongata	495	Scaffold	ERS5710645-metaspades_030	2026-05-03	1933545	125	33264	55	dental plaque		Cameroon	2018
+GCA_982204855.1	SAMEA121742242	Neisseria bacilliformis	267212	Scaffold	ERS5710645-metaspades_018	2026-05-03	2142672	502	5752	60.5	dental plaque		Cameroon	2018
+GCA_982205815.1	SAMEA121742373	Neisseria bacilliformis	267212	Scaffold	ERS5710649-metaspades_014	2026-05-03	2423621	160	25642	60	dental plaque		Cameroon	2018
+GCA_982205945.1	SAMEA121742451	Neisseria sp.	192066	Scaffold	ERS5710651-metaspades_010	2026-05-03	2269207	660	4176	51.5	dental plaque		Cameroon	2018
+GCA_982207055.1	SAMEA121742511	Neisseria sp.	192066	Scaffold	ERS5710653-metaspades_037	2026-05-02	1950732	50	60468	54	dental plaque		Cameroon	2018
+GCA_982207145.1	SAMEA121742635	Neisseria sp.	192066	Scaffold	ERS5710661-metaspades_051	2026-05-02	1845994	164	16213	54	dental plaque		Cameroon	2018
+GCA_982207325.1	SAMEA121742602	Neisseria sp.	192066	Scaffold	ERS5710661-metaspades_014	2026-05-01	1312337	142	13332	49	dental plaque		Cameroon	2018
+GCA_982207915.1	SAMEA121742580	Neisseria sp.	192066	Scaffold	ERS5710657-metaspades_069	2026-05-03	2138145	645	4430	51.5	dental plaque		Cameroon	2018
+GCA_982208255.1	SAMEA121742510	Neisseria sp.	192066	Scaffold	ERS5710653-metaspades_036	2026-05-01	1102380	310	3883	50.5	dental plaque		Cameroon	2018
+GCA_982210535.1	SAMEA121742953	Neisseria sp.	192066	Scaffold	ERS5710666-metaspades_039	2026-05-01	1498579	189	10585	52	dental plaque		Cameroon	2018
+GCA_982211945.1	SAMEA121742774	Neisseria sp.	192066	Scaffold	ERS5710664-metaspades_101	2026-05-02	1760528	203	12895	49.5	dental plaque		Cameroon	2018
+GCA_982212165.1	SAMEA121742951	Neisseria sp.	192066	Scaffold	ERS5710666-metaspades_037	2026-05-03	1875771	275	11406	50.5	dental plaque		Cameroon	2018
+GCA_982213465.1	SAMEA121743284	Neisseria sp.	192066	Scaffold	ERS5710607-metaspades_033	2026-05-02	1793298	160	15819	50	dental plaque		Cameroon	2018
+GCA_982214005.1	SAMEA121743456	Neisseria elongata	495	Scaffold	ERS5710624-metaspades_065	2026-05-03	1932472	318	7572	55	dental plaque		Cameroon	2018
+GCA_982214355.1	SAMEA121743313	Neisseria sp.	192066	Scaffold	ERS5710607-metaspades_066	2026-05-03	2392235	172	21989	51.5	dental plaque		Cameroon	2018
+GCA_982214495.1	SAMEA121742897	Neisseria sp.	192066	Scaffold	ERS5710665-metaspades_121	2026-05-03	2202212	327	8955	52	dental plaque		Cameroon	2018
+GCA_982214815.1	SAMEA121743338	Neisseria sp.	192066	Scaffold	ERS5710613-metaspades_017	2026-05-01	1535041	165	15284	54.5	dental plaque		Cameroon	2018
+GCA_982215435.1	SAMEA121742904	Neisseria sp.	192066	Scaffold	ERS5710665-metaspades_128	2026-05-01	1427587	288	5800	50	dental plaque		Cameroon	2018
+GCA_982216005.1	SAMEA121743375	Neisseria sp.	192066	Scaffold	ERS5710613-metaspades_060	2026-05-01	1474900	470	3696	53.5	dental plaque		Cameroon	2018
+GCA_982216995.1	SAMEA121743543	Neisseria sp.	192066	Scaffold	ERS5710630-metaspades_046	2026-05-02	1667297	900	1974	51.5	dental plaque		Cameroon	2018
+GCA_982219275.1	SAMEA121743232	Neisseria sp.	192066	Scaffold	ERS5710676-metaspades_032	2026-05-02	1666080	320	6223	54.5	dental plaque		Cameroon	2018
+GCA_982220985.1	SAMEA121743662	Neisseria sp.	192066	Scaffold	ERS5710641-metaspades_012	2026-05-03	2300984	108	37091	53.5	dental plaque		Cameroon	2018
+GCA_982220995.1	SAMEA121743612	Neisseria sp.	192066	Scaffold	ERS12745970-metaspades_045	2026-05-02	1885222	318	8056	54.5	dental plaque		Cameroon	2018
+GCA_982221875.1	SAMEA121743971	Neisseria sp.	192066	Scaffold	ERS5710667-metaspades_056	2026-05-03	1961380	259	15128	54	dental plaque		Cameroon	2018
+GCA_982223315.1	SAMEA121743984	Neisseria sp.	192066	Scaffold	ERS5710667-metaspades_071	2026-05-01	1467356	125	19871	49.5	dental plaque		Cameroon	2018
+GCA_982267395.1	SAMEA121929727	Neisseria sp.	192066	Scaffold	ERS1202873-metaspades_008	2026-05-01	1368047	582	2647	50	saliva		Philippines	2007
+GCA_982267655.1	SAMEA121929777	Neisseria sp.	192066	Scaffold	ERS1202881-metaspades_003	2026-05-01	1507327	449	4243	50.5	saliva		Philippines	2009
+GCA_982267885.1	SAMEA121929763	Neisseria sp.	192066	Scaffold	ERS1202879-metaspades_002	2026-05-01	1355720	431	3471	48.5	saliva		Philippines	2009
+GCA_982267935.1	SAMEA121929705	Neisseria sp.	192066	Scaffold	ERS1202869-metaspades_002	2026-05-05	1334078	459	3160	50.5	saliva		Philippines	2008
+GCA_982267995.1	SAMEA121929737	Neisseria sp.	192066	Scaffold	ERS1202876-metaspades_002	2026-05-01	1424316	752	2003	49	saliva		Philippines	2007
+GCA_982268045.1	SAMEA121929773	Neisseria sp.	192066	Scaffold	ERS1202880-metaspades_011	2026-05-01	1270257	422	3479	50	saliva		Philippines	2009
+GCA_982268205.1	SAMEA121929698	Neisseria sp.	192066	Scaffold	ERS1202868-metaspades_014	2026-05-02	1597084	280	7433	51.5	saliva		Philippines	2008
+GCA_982268255.1	SAMEA121929676	Neisseria sp.	192066	Scaffold	ERS1202866-metaspades_034	2026-05-05	2152157	843	3004	50.5	saliva		Philippines	2008
+GCA_982268355.1	SAMEA121929685	Neisseria sp.	192066	Scaffold	ERS1202867-metaspades_009	2026-04-30	769153	287	2824	50.5	saliva		Philippines	2008
+GCA_982268735.1	SAMEA121929626	Neisseria sp.	192066	Scaffold	ERS1202863-metaspades_003	2026-05-03	2127769	358	8460	51.5	saliva		Philippines	2008
+GCA_982268965.1	SAMEA121929664	Neisseria sp.	192066	Scaffold	ERS1202866-metaspades_020	2026-05-03	2126949	81	62503	49.5	saliva		Philippines	2008
+GCA_982269195.1	SAMEA121929955	Neisseria sp.	192066	Scaffold	ERS12516934-metaspades_013	2026-05-01	1582237	43	65971	49	saliva		Papua New Guinea	2019
+GCA_982269315.1	SAMEA121929961	Neisseria sicca	490	Scaffold	ERS12516934-metaspades_019	2026-05-03	2067976	184	15786	51.5	saliva		Papua New Guinea	2019
+GCA_982269395.1	SAMEA121930036	Neisseria sp.	192066	Scaffold	ERS12516936-metaspades_023	2026-05-02	1702104	454	4919	50	saliva		Papua New Guinea	2019
+GCA_982269435.1	SAMEA121929939	Neisseria flavescens	484	Scaffold	ERS12516933-metaspades_018	2026-05-03	1872969	243	12471	50	saliva		Papua New Guinea	2019
+GCA_982269695.1	SAMEA121929843	Neisseria sp.	192066	Scaffold	ERS12516930-metaspades_002	2026-05-05	2022359	139	29131	52	saliva		Papua New Guinea	2019
+GCA_982270035.1	SAMEA121930001	Neisseria sp.	192066	Scaffold	ERS12516935-metaspades_030	2026-05-02	1758534	346	5964	51.5	saliva		Papua New Guinea	2019
+GCA_982270125.1	SAMEA121929825	Neisseria sp.	192066	Scaffold	ERS1202885-metaspades_006	2026-05-02	1851836	360	10844	50.5	saliva		Philippines	2009
+GCA_982270245.1	SAMEA121929942	Neisseria sicca	490	Scaffold	ERS12516933-metaspades_022	2026-05-03	2178620	547	5392	50	saliva		Papua New Guinea	2019
+GCA_982271125.1	SAMEA121929913	Neisseria sp.	192066	Scaffold	ERS12516932-metaspades_018	2026-05-03	2442343	353	10377	50.5	saliva		Papua New Guinea	2019
+GCA_982271155.1	SAMEA121929904	Neisseria sp.	192066	Scaffold	ERS12516932-metaspades_009	2026-05-01	1077034	180	7123	49.5	saliva		Papua New Guinea	2019
+GCA_982271505.1	SAMEA121929893	Neisseria sp.	192066	Scaffold	ERS12516931-metaspades_026	2026-05-03	1948928	129	22746	49.5	saliva		Papua New Guinea	2019
+GCA_982272085.1	SAMEA121930226	Neisseria sp.	192066	Scaffold	ERS12516943-metaspades_002	2026-05-03	2216424	185	17265	51.5	saliva		Papua New Guinea	2019
+GCA_982272785.1	SAMEA121930353	Neisseria sp.	192066	Scaffold	ERS12516949-metaspades_006	2026-05-01	1378213	254	8932	51	saliva		Papua New Guinea	2019
+GCA_982273275.1	SAMEA121930383	Neisseria sp.	192066	Scaffold	ERS12516950-metaspades_024	2026-05-03	2177893	285	12058	51.5	saliva		Papua New Guinea	2019
+GCA_982273975.1	SAMEA121930241	Neisseria sp.	192066	Scaffold	ERS12516944-metaspades_009	2026-05-01	1550986	387	4504	50	saliva		Papua New Guinea	2019
+GCA_982274615.1	SAMEA121930450	Neisseria sp.	192066	Scaffold	ERS12516953-metaspades_007	2026-05-02	1672443	347	6158	49.5	saliva		Papua New Guinea	2019
+GCA_982274885.1	SAMEA121930232	Neisseria sp.	192066	Scaffold	ERS12516943-metaspades_008	2026-05-03	1962591	146	22082	49.5	saliva		Papua New Guinea	2019
+GCA_982274955.1	SAMEA121930310	Neisseria sp.	192066	Scaffold	ERS12516947-metaspades_017	2026-05-01	1477640	260	7043	50	saliva		Papua New Guinea	2019
+GCA_982274975.1	SAMEA121930306	Neisseria sp.	192066	Scaffold	ERS12516947-metaspades_013	2026-05-03	2434311	237	17181	51	saliva		Papua New Guinea	2019
+GCA_982275255.1	SAMEA121930393	Neisseria sp.	192066	Scaffold	ERS12516950-metaspades_034	2026-05-01	1561244	403	4612	49.5	saliva		Papua New Guinea	2019
+GCA_982275485.1	SAMEA121930284	Neisseria sp.	192066	Scaffold	ERS12516946-metaspades_017	2026-05-01	1283418	318	4736	50	saliva		Papua New Guinea	2019
+GCA_982275845.1	SAMEA121930168	Neisseria sp.	192066	Scaffold	ERS12516940-metaspades_009	2026-05-03	2155191	145	32247	49.5	saliva		Papua New Guinea	2019
+GCA_982276395.1	SAMEA121930940	Neisseria sp.	192066	Scaffold	ERS12516968-metaspades_030	2026-05-03	1892726	287	10192	52	saliva		Papua New Guinea	2019
+GCA_982276825.1	SAMEA121931017	Neisseria sp.	192066	Scaffold	ERS12516970-metaspades_035	2026-05-03	2142218	318	10689	53	saliva		Papua New Guinea	2019
+GCA_982277325.1	SAMEA121930631	Neisseria sp.	192066	Scaffold	ERS12516961-metaspades_005	2026-05-03	1990878	494	5490	51.5	saliva		Papua New Guinea	2019
+GCA_982277485.1	SAMEA121930833	Neisseria sp.	192066	Scaffold	ERS12516965-metaspades_008	2026-05-03	2175955	410	8289	49.5	saliva		Papua New Guinea	2019
+GCA_982277525.1	SAMEA121930827	Neisseria sp.	192066	Scaffold	ERS12516965-metaspades_002	2026-05-03	2106626	469	6181	51.5	saliva		Papua New Guinea	2019
+GCA_982277565.1	SAMEA121930821	Neisseria sp.	192066	Scaffold	ERS12516964-metaspades_045	2026-05-01	1190980	211	7409	61	saliva		Papua New Guinea	2019
+GCA_982277775.1	SAMEA121930570	Neisseria sp.	192066	Scaffold	ERS12516957-metaspades_007	2026-05-02	1710058	356	5887	51.5	saliva		Papua New Guinea	2019
+GCA_982277955.1	SAMEA121930567	Neisseria sp.	192066	Scaffold	ERS12516957-metaspades_004	2026-05-03	1991658	242	19044	50	saliva		Papua New Guinea	2019
+GCA_982278265.1	SAMEA121930777	Neisseria sp.	192066	Scaffold	ERS12516963-metaspades_049	2026-05-02	1792246	216	13678	49.5	saliva		Papua New Guinea	2019
+GCA_982278465.1	SAMEA121930736	Neisseria sp.	192066	Scaffold	ERS12516963-metaspades_004	2026-05-03	2012804	130	27414	52	saliva		Papua New Guinea	2019
+GCA_982278925.1	SAMEA121930583	Neisseria sicca	490	Scaffold	ERS12516959-metaspades_001	2026-05-03	2540932	418	8449	51	saliva		Papua New Guinea	2019
+GCA_982279155.1	SAMEA121930850	Neisseria sp.	192066	Scaffold	ERS12516966-metaspades_016	2026-05-02	1914095	378	6340	51.5	saliva		Papua New Guinea	2019
+GCA_982279495.1	SAMEA121930513	Neisseria sp.	192066	Scaffold	ERS12516955-metaspades_012	2026-05-02	1983957	26	130847	49.5	saliva		Papua New Guinea	2019
+GCA_982279925.1	SAMEA121930499	Neisseria sp.	192066	Scaffold	ERS12516954-metaspades_033	2026-05-03	2568975	675	4933	50	saliva		Papua New Guinea	2019
+GCA_982280235.1	SAMEA121930647	Neisseria sp.	192066	Scaffold	ERS12516961-metaspades_021	2026-05-05	2108200	135	47075	49.5	saliva		Papua New Guinea	2019
+GCA_982280615.1	SAMEA121930522	Neisseria sp.	192066	Scaffold	ERS12516955-metaspades_022	2026-05-03	1965235	146	21192	51	saliva		Papua New Guinea	2019
+GCA_982280705.1	SAMEA121930498	Neisseria sp.	192066	Scaffold	ERS12516954-metaspades_032	2026-05-03	2072406	97	59525	49.5	saliva		Papua New Guinea	2019
+GCA_982280835.1	SAMEA121930905	Neisseria sp.	192066	Scaffold	ERS12516967-metaspades_054	2026-05-02	1656542	396	5512	50.5	saliva		Papua New Guinea	2019
+GCA_982280875.1	SAMEA121930846	Neisseria sp.	192066	Scaffold	ERS12516966-metaspades_010	2026-05-01	1561481	416	4313	50	saliva		Papua New Guinea	2019
+GCA_982281385.1	SAMEA121931043	Neisseria sp.	192066	Scaffold	ERS12516970-metaspades_067	2026-05-03	2061693	94	46236	50	saliva		Papua New Guinea	2019
+GCA_982281865.1	SAMEA121931480	Neisseria sp.	192066	Scaffold	ERS12516981-metaspades_019	2026-05-03	2274684	306	10097	51	saliva		Papua New Guinea	2019
+GCA_982282345.1	SAMEA121931331	Neisseria sp.	192066	Scaffold	ERS12516978-metaspades_027	2026-05-03	2269399	203	17550	51	saliva		Papua New Guinea	2019
+GCA_982282655.1	SAMEA121931174	Neisseria sp.	192066	Scaffold	ERS12516973-metaspades_045	2026-05-02	1708860	274	8653	49.5	saliva		Papua New Guinea	2019
+GCA_982282725.1	SAMEA121931505	Neisseria sp.	192066	Scaffold	ERS12516982-metaspades_011	2026-05-02	1678000	310	8564	52.5	saliva		Papua New Guinea	2019
+GCA_982283545.1	SAMEA121931239	Neisseria sp.	192066	Scaffold	ERS12516976-metaspades_017	2026-05-03	1966782	117	31803	54	saliva		Papua New Guinea	2019
+GCA_982283835.1	SAMEA121931508	Neisseria sp.	192066	Scaffold	ERS12516982-metaspades_014	2026-05-02	1591849	330	6123	49.5	saliva		Papua New Guinea	2019
+GCA_982284045.1	SAMEA121931280	Neisseria sp.	192066	Scaffold	ERS12516977-metaspades_010	2026-05-03	2166796	68	55789	49.5	saliva		Papua New Guinea	2019
+GCA_982284185.1	SAMEA121931124	Neisseria sp.	192066	Scaffold	ERS12516971-metaspades_011	2026-05-03	2181267	142	25627	49	saliva		Papua New Guinea	2019
+GCA_982285785.1	SAMEA121931281	Neisseria sp.	192066	Scaffold	ERS12516977-metaspades_011	2026-05-03	2539458	150	32037	51.5	saliva		Papua New Guinea	2019
+GCA_982285965.1	SAMEA121931367	Neisseria sp.	192066	Scaffold	ERS12516979-metaspades_002	2026-05-03	2153718	33	136893	49.5	saliva		Papua New Guinea	2019
+GCA_982286855.1	SAMEA121931776	Neisseria sp.	192066	Scaffold	ERS12516991-metaspades_004	2026-05-01	1215697	277	5549	51	saliva		Papua New Guinea	2019
+GCA_982286995.1	SAMEA121931717	Neisseria sp.	192066	Scaffold	ERS12516990-metaspades_005	2026-05-01	1274393	126	13964	49.5	saliva		Papua New Guinea	2019
+GCA_982287105.1	SAMEA121931800	Neisseria sp.	192066	Contig	ERS12516992-metaspades_007	2026-05-03	2201270	52	87483	49.5	saliva		Papua New Guinea	2019
+GCA_982287115.1	SAMEA121931798	Neisseria sp.	192066	Scaffold	ERS12516992-metaspades_005	2026-05-05	2631489	163	25569	51	saliva		Papua New Guinea	2019
+GCA_982287625.1	SAMEA121931586	Neisseria sp.	192066	Scaffold	ERS12516985-metaspades_025	2026-05-01	1308302	31	76798	48.5	saliva		Papua New Guinea	2019
+GCA_982287915.1	SAMEA121931874	Neisseria sp.	192066	Scaffold	ERS12516993-metaspades_026	2026-05-03	2402595	139	27521	51.5	saliva		Papua New Guinea	2019
+GCA_982288055.1	SAMEA121931638	Neisseria sp.	192066	Scaffold	ERS12516987-metaspades_017	2026-05-03	2269592	131	27360	51.5	saliva		Papua New Guinea	2019
+GCA_982288185.1	SAMEA121931651	Neisseria flavescens	484	Scaffold	ERS12516988-metaspades_005	2026-05-03	2024766	168	33070	50	saliva		Papua New Guinea	2019
+GCA_982288415.1	SAMEA121931924	Neisseria sp.	192066	Scaffold	ERS12516994-metaspades_031	2026-05-01	1450307	246	9235	50	saliva		Papua New Guinea	2019
+GCA_982288485.1	SAMEA121931751	Neisseria sp.	192066	Scaffold	ERS12516990-metaspades_039	2026-05-03	2056586	160	20193	49.5	saliva		Papua New Guinea	2019
+GCA_982288975.1	SAMEA121931675	Neisseria sicca	490	Scaffold	ERS12516988-metaspades_029	2026-05-03	2032508	693	3728	52	saliva		Papua New Guinea	2019
+GCA_982289425.1	SAMEA121931934	Neisseria sp.	192066	Contig	SRS740679-megahit_002	2026-05-01	1115098	636	1800	49	saliva		Venezuela	2009
+GCA_982289515.1	SAMEA121931641	Neisseria sp.	192066	Scaffold	ERS12516987-metaspades_021	2026-05-03	2114648	38	99620	49	saliva		Papua New Guinea	2019
+GCA_982289655.1	SAMEA121931884	Neisseria sp.	192066	Scaffold	ERS12516993-metaspades_036	2026-05-03	2053247	190	16877	50.5	saliva		Papua New Guinea	2019
+GCA_982289905.1	SAMEA121931716	Neisseria sp.	192066	Scaffold	ERS12516990-metaspades_004	2026-05-03	2458240	156	25501	51.5	saliva		Papua New Guinea	2019
+GCA_982289955.1	SAMEA121931708	Neisseria elongata	495	Scaffold	ERS12516989-metaspades_013	2026-05-03	1935630	249	11511	55	saliva		Papua New Guinea	2019
+GCA_982290145.1	SAMEA121931591	Neisseria sp.	192066	Scaffold	ERS12516985-metaspades_030	2026-05-03	2346555	170	27448	51.5	saliva		Papua New Guinea	2019
+GCA_982290325.1	SAMEA121931936	Neisseria sp.	192066	Contig	SRS740687-megahit_001	2026-05-02	1576823	518	3710	49.5	saliva		Venezuela	2009
+GCA_982299115.1	SAMEA121960583	Neisseria sp.	192066	Scaffold	ERS3395767-metaspades_003	2026-05-01	1228317	511	2761	52.5	dental calculus		Spain	2019
+GCA_982299385.1	SAMEA121960523	Neisseria sp.	192066	Scaffold	ERS3395764-metaspades_009	2026-05-03	2301911	329	10526	51	dental calculus		Spain	2019
+GCA_982299495.1	SAMEA121960554	Neisseria elongata	495	Scaffold	ERS3395765-metaspades_016	2026-05-03	1976667	216	14022	54.5	dental calculus		Spain	2019
+GCA_982299505.1	SAMEA121960550	Neisseria sp.	192066	Scaffold	ERS3395765-metaspades_012	2026-05-03	2079335	205	17027	51.5	dental calculus		Spain	2019
+GCA_982300105.1	SAMEA121960673	Neisseria sp.	192066	Scaffold	ERS3395770-metaspades_017	2026-05-03	2204014	449	7989	51.5	dental calculus		Spain	2019
+GCA_982300295.1	SAMEA121960903	Neisseria sp.	192066	Scaffold	ERS3774489-metaspades_036	2026-05-01	1310378	657	2048	52.5	dental calculus		Spain	2021
+GCA_982300375.1	SAMEA121960919	Neisseria elongata	495	Scaffold	ERS3774490-metaspades_017	2026-05-03	1984804	314	9141	55.5	dental calculus		Spain	2021
+GCA_982300965.1	SAMEA121960947	Neisseria sp.	192066	Scaffold	ERS3774491-metaspades_014	2026-05-03	1917717	508	4578	51.5	dental calculus		Spain	2021
+GCA_982301225.1	SAMEA121960640	Neisseria elongata	495	Scaffold	ERS3395769-metaspades_011	2026-05-03	2211653	151	22725	54.5	dental calculus		Spain	2019
+GCA_982302055.1	SAMEA121960807	Neisseria sp.	192066	Scaffold	ERS3774485-metaspades_031	2026-05-01	1269278	636	2088	54.5	dental calculus		Spain	2021
+GCA_982302155.1	SAMEA121960839	Neisseria bacilliformis	267212	Scaffold	ERS3774487-metaspades_014	2026-05-03	1983067	174	15361	61	dental calculus		Spain	2021
+GCA_982302175.1	SAMEA121960852	Neisseria sp.	192066	Scaffold	ERS3774488-metaspades_013	2026-05-01	1485402	717	2129	52	dental calculus		Spain	2021
+GCA_982302215.1	SAMEA121960825	Neisseria sp.	192066	Scaffold	ERS3774486-metaspades_009	2026-05-01	1276789	769	1703	54	dental calculus		Spain	2021
+GCA_982302255.1	SAMEA121960833	Neisseria sp.	192066	Scaffold	ERS3774487-metaspades_008	2026-05-03	1941923	537	4412	52	dental calculus		Spain	2021
+GCA_982302305.1	SAMEA121960623	Neisseria sp.	192066	Scaffold	ERS3395768-metaspades_017	2026-05-03	2276417	677	4144	52	dental calculus		Spain	2019
+GCA_982302665.1	SAMEA121960634	Neisseria bacilliformis	267212	Scaffold	ERS3395769-metaspades_003	2026-05-03	2213095	87	36915	60	dental calculus		Spain	2019
+GCA_982314205.1	SAMEA121973651	uncultured Neisseria sp.	237778	Contig	SRR16124299_bin_1597	2026-03-20	1299238	500	2637	54	human gut metagenome		China	2018-01-01
+GCA_982345965.1	SAMEA121989090	Neisseria sicca	490	Contig	ERS11702740-megahit_002	2026-05-05	2158481	406	6613	51.5	dental calculus		Netherlands	2022
+GCA_982346225.1	SAMEA121989154	Neisseria sp.	192066	Contig	ERS11702760-megahit_003	2026-05-02	1781218	854	2207	50.5	dental calculus		Netherlands	2022
+GCA_982346605.1	SAMEA121989172	Neisseria sp.	192066	Contig	ERS11702766-megahit_003	2026-05-02	1636612	763	2311	50.5	dental calculus		Netherlands	2022
+GCA_982347845.1	SAMEA121989136	Neisseria sp.	192066	Contig	ERS11702753-megahit_001	2026-05-02	1824766	812	2500	51	dental calculus		Netherlands	2022
+GCA_982347955.1	SAMEA121989140	Neisseria sp.	192066	Contig	ERS11702754-megahit_004	2026-05-02	1802611	800	2520	51	dental calculus		Netherlands	2022
+GCA_982348875.1	SAMEA121989552	Neisseria sp.	192066	Contig	ERS2985758-megahit_001	2026-05-02	1696957	1031	1620	51	dental calculus		United Kingdom	2019
+GCA_982350195.1	SAMEA121989585	Neisseria sp.	192066	Contig	ERS2985761-megahit_011	2026-05-03	2069835	1047	2047	50	dental calculus		United Kingdom	2019
+GCA_982350255.1	SAMEA121989345	Neisseria sp.	192066	Contig	ERS11702796-megahit_002	2026-05-03	2348436	428	7408	51	dental calculus		Netherlands	2022
+GCA_982350345.1	SAMEA121989390	Neisseria sp.	192066	Contig	ERS11702807-megahit_001	2026-05-03	1346424	765	1817	52	dental calculus		Netherlands	2022
+GCA_982350555.1	SAMEA121989532	Neisseria sp.	192066	Contig	ERS2985755-megahit_002	2026-05-01	1439411	817	1767	52	dental calculus		United Kingdom	2019
+GCA_982350995.1	SAMEA121989422	Neisseria sp.	192066	Contig	ERS11702813-megahit_002	2026-05-02	1625587	731	2499	51	dental calculus		Netherlands	2022
+GCA_982351415.1	SAMEA121989613	Neisseria elongata	495	Contig	ERS2985767-megahit_018	2026-05-03	2035558	395	6419	53.5	dental calculus		United Kingdom	2019
+GCA_982355095.1	SAMEA121989861	Neisseria sp.	192066	Contig	ERS3774391-megahit_003	2026-05-03	2078029	585	4747	55.5	dental calculus		Democratic Republic of the Congo	2021
+GCA_982355115.1	SAMEA121989858	Neisseria sp.	192066	Contig	ERS3774390-megahit_004	2026-05-03	1384884	492	3008	56.5	dental calculus		Democratic Republic of the Congo	2021
+GCA_982355135.1	SAMEA121989853	Neisseria sp.	192066	Contig	ERS3774388-megahit_001	2026-05-03	2204055	478	6587	55.5	dental calculus		Democratic Republic of the Congo	2021
+GCA_982356315.1	SAMEA121989840	Neisseria sp.	192066	Contig	ERS3774384-megahit_001	2026-05-03	2281590	496	6174	54.5	dental calculus		Democratic Republic of the Congo	2021
+GCA_982356335.1	SAMEA121989835	Neisseria sp.	192066	Contig	ERS3774383-megahit_001	2026-05-03	2185151	602	4628	55	dental calculus		Democratic Republic of the Congo	2021
+GCA_982356975.1	SAMEA121989769	Neisseria sp.	192066	Contig	ERS3774378-megahit_024	2026-05-01	1561245	581	2968	60.5	dental calculus		Nicaragua	2021
+GCA_982357075.1	SAMEA121989886	Neisseria sp.	192066	Contig	ERS3774395-megahit_002	2026-05-02	1880149	800	2676	55.5	dental calculus		Democratic Republic of the Congo	2021
+GCA_982360715.1	SAMEA121990411	Neisseria sp.	192066	Contig	ERS4545903-megahit_003	2026-05-03	2390408	402	8071	54.5	dental calculus		Democratic Republic of the Congo	2020
+GCA_982365385.1	SAMEA121991132	Neisseria sp.	192066	Contig	ERS6955121-megahit_002	2026-05-05	2064582	295	10070	52.5	dental calculus		Sweden	2021
+GCA_982366265.1	SAMEA121991028	Neisseria sp.	192066	Contig	ERS6955103-megahit_001	2026-05-02	1805481	652	3267	53.5	dental calculus		Sweden	2021
+GCA_982366465.1	SAMEA121991091	Neisseria sp.	192066	Contig	ERS6955114-megahit_004	2026-05-03	2449196	269	13304	52	dental calculus		Sweden	2021
+GCA_982367235.1	SAMEA121991112	Neisseria sp.	192066	Contig	ERS6955115-megahit_005	2026-05-03	2470705	244	15040	52	dental calculus		Sweden	2021
+GCA_982367425.1	SAMEA121991319	Neisseria sp.	192066	Contig	ERS6955142-megahit_002	2026-05-02	1635525	524	3455	57.5	dental calculus		Sweden	2021
+GCA_982367525.1	SAMEA121991435	Neisseria sp.	192066	Contig	ERS6955152-megahit_007	2026-05-01	1471128	815	1892	53	dental calculus		Sweden	2021
+GCA_982367965.1	SAMEA121991523	Neisseria sp.	192066	Contig	ERS6955167-megahit_006	2026-05-03	2492588	245	15564	52	dental calculus		Sweden	2021
+GCA_982368405.1	SAMEA121991328	Neisseria sp.	192066	Contig	ERS6955142-megahit_011	2026-05-03	2182935	169	22486	52.5	dental calculus		Sweden	2021
+GCA_982369235.1	SAMEA121991399	Neisseria sp.	192066	Contig	ERS6955147-megahit_002	2026-05-03	1550461	855	1897	52	dental calculus		Sweden	2021
+GCA_982369455.1	SAMEA121991271	Neisseria sp.	192066	Contig	ERS6955135-megahit_019	2026-05-03	2445589	182	21373	52	dental calculus		Sweden	2021
+GCA_982369785.1	SAMEA121991292	Neisseria sp.	192066	Contig	ERS6955138-megahit_004	2026-05-03	2074147	431	5908	52.5	dental calculus		Sweden	2021
+GCA_982369925.1	SAMEA121991390	Neisseria sp.	192066	Contig	ERS6955145-megahit_002	2026-05-03	2498252	355	11251	52	dental calculus		Sweden	2021
+GCA_982369975.1	SAMEA121991222	Neisseria sp.	192066	Contig	ERS6955131-megahit_003	2026-05-03	2145232	413	6500	52.5	dental calculus		Sweden	2021
+GCA_982370495.1	SAMEA121991306	Neisseria sp.	192066	Contig	ERS6955139-megahit_006	2026-05-03	2429981	216	17189	52	dental calculus		Sweden	2021
+GCA_982370655.1	SAMEA121991363	Neisseria sp.	192066	Contig	ERS6955144-megahit_004	2026-05-03	2396312	157	23062	52	dental calculus		Sweden	2021
+GCA_982370865.1	SAMEA121991198	Neisseria sp.	192066	Contig	ERS6955130-megahit_022	2026-05-03	2402830	265	12957	52.5	dental calculus		Sweden	2021
+GCA_982371305.1	SAMEA121991443	Neisseria sp.	192066	Contig	ERS6955154-megahit_008	2026-05-03	2545031	172	24609	52	dental calculus		Sweden	2021
+GCA_982371415.1	SAMEA121991384	Neisseria sp.	192066	Contig	ERS6955144-megahit_026	2026-05-06	2147380	220	14291	40	dental calculus		Sweden	2021
+GCA_982371525.1	SAMEA121991509	Neisseria sp.	192066	Contig	ERS6955165-megahit_017	2026-05-02	1621644	466	3844	53	dental calculus		Sweden	2021
+GCA_982712965.1	SAMEA122247875	Neisseria flava	34026	Contig	SYSU0247	2026-06-07	2334193	138	26322	51	nasopharyngeal carcinoma	Homo sapiens	China	2024-08
+GCA_982715595.1	SAMEA122247850	Neisseria flavescens	484	Contig	SYSU0218	2026-06-06	2159303	32	123746	49.5	nasopharyngeal carcinoma	Homo sapiens	China	2024-08
+GCA_982717245.1	SAMEA122247926	Neisseria flava	34026	Contig	SYSU0302	2026-05-17	2438991	103	35397	51	nasopharyngeal carcinoma	Homo sapiens	China	2024-08
+GCA_982718285.1	SAMEA122247940	Neisseria flava	34026	Contig	SYSU0316	2026-05-17	2462551	94	45676	51	nasopharyngeal carcinoma	Homo sapiens	China	2024-08
+GCA_982725595.1	SAMEA122247929	Neisseria flava	34026	Contig	SYSU0305	2026-05-17	2485008	108	35750	51	nasopharyngeal carcinoma	Homo sapiens	China	2024-08
+GCA_982727535.1	SAMEA122248433	Neisseria mucosa	488	Contig	SYSU0821	2026-05-17	2508169	120	36898	51	nasopharyngeal carcinoma	Homo sapiens	China	2024-08
+GCA_984521355.1	SAMEA122372351	Neisseria sp.	192066	Scaffold	ZHAO22-1_SAMN09979600_MAG_00000010	2026-06-07	2240686	169	21804	49	marine sediment metagenome		Atlantic Ocean	2011-11-08

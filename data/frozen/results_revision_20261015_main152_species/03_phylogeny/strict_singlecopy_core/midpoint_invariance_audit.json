@@ -1,0 +1,15 @@
+{
+ "n_tips_unrooted": 152,
+ "n_tips_midpoint": 152,
+ "tip_sets_identical": true,
+ "unrooted_RF": 0,
+ "max_abs_patristic_diff": 2.7755575615628914e-17,
+ "total_length_unrooted": 2.1967659955999994,
+ "total_length_midpoint": 2.1967659955999994,
+ "total_length_abs_diff": 0.0,
+ "n_nontrivial_splits_unrooted": 149,
+ "n_nontrivial_splits_midpoint": 149,
+ "split_key_sets_equal": true,
+ "tolerance": 1e-08,
+ "status": "PASS"
+}

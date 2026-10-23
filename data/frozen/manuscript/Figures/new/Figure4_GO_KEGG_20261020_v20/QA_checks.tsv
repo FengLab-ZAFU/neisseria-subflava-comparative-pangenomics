@@ -1,0 +1,4 @@
+figure	width_mm	height_mm	minimum_font_pt	embedded_fonts	bounds
+Figure_4_GO_KEGG_20261020_v20	290	230	9.5	TRUE	PASS
+Figure4B_presence_absence	180	105	10	TRUE	PASS
+Figure4D_KEGG_functional_profiles	180	110	9.99999942870478	TRUE	PASS

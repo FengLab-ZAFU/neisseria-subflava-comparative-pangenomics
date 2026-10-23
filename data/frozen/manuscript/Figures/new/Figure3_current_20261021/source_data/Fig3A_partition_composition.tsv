@@ -1,0 +1,9 @@
+partition	n_clusters	Group	legend_label
+Core_ge99	1347	Core	Core
+1,347 (10.19%)
+Soft_core	214	Soft core	Soft core
+214 (1.62%)
+Shell	851	Shell	Shell
+851 (6.44%)
+Cloud	10803	Cloud	Cloud
+10,803 (81.75%)

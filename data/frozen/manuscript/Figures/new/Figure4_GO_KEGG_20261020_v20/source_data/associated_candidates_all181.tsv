@@ -1,0 +1,182 @@
+target_group	cluster	rank	prevalence_difference	q	product	annotation_status	cog_letters	association_id	plot_row	partition
+subflava	clust_3521	5	1	2.98312460165305e-24	PilC family type IV pilus tip adhesin	annotated	NW	subflava:clust_3521	1	Shell
+subflava	clust_4327	6	1	2.98312460165305e-24	BCCT family transporter	annotated	M	subflava:clust_4327	2	Shell
+subflava	clust_7070	7	1	2.98312460165305e-24	SnoaL-like domain-containing protein	annotated	R	subflava:clust_7070	3	Shell
+subflava	clust_1394	8	1	2.98312460165305e-24	aldo/keto reductase	matched_no_cog	-	subflava:clust_1394	4	Shell
+subflava	clust_3391	54	0.991735537190083	5.36962428297548e-23	Tetracenomycin polyketide synthesis O-methyltransferase TcmP	annotated	Q	subflava:clust_3391	5	Shell
+subflava	clust_157	61	0.983471074380165	5.65223608734264e-22	uroporphyrinogen-III synthase	annotated	H	subflava:clust_157	6	Shell
+subflava	clust_7056	63	0.956521739130435	2.56899671577651e-22	phosphoadenylyl-sulfate reductase	annotated	EH	subflava:clust_7056	7	Cloud
+subflava	clust_2616	71	0.91304347826087	1.1677765505845e-20	serine O-acetyltransferase;Serine acetyltransferase	annotated	E	subflava:clust_2616	8	Cloud
+subflava	clust_3635	72	0.91304347826087	1.1677765505845e-20	hypothetical protein	annotated	S	subflava:clust_3635	9	Cloud
+subflava	clust_8397	73	0.91304347826087	1.1677765505845e-20	siroheme synthase CysG	annotated	H	subflava:clust_8397	10	Cloud
+subflava	clust_3144	74	0.91304347826087	1.1677765505845e-20	calcium-binding protein	matched_no_cog	-	subflava:clust_3144	11	Cloud
+subflava	clust_1931	87	0.873877111031261	2.95061654911668e-15	Sulfatase	annotated	M	subflava:clust_1931	12	Shell
+subflava	clust_2220	88	0.869565217391304	3.364140123502e-19	sulfate adenylyltransferase	annotated	P	subflava:clust_2220	13	Cloud
+subflava	clust_3957	89	0.869565217391304	3.364140123502e-19	Phage associated protein;hypothetical protein	annotated	S	subflava:clust_3957	14	Cloud
+subflava	clust_6623	90	0.869565217391304	3.364140123502e-19	autotransporter outer membrane beta-barrel domain-containing protein	annotated	MU	subflava:clust_6623	15	Cloud
+subflava	clust_7485	91	0.869565217391304	3.364140123502e-19	hypothetical protein	annotated	UW	subflava:clust_7485	16	Cloud
+subflava	clust_9324	92	0.869565217391304	3.364140123502e-19	hypothetical protein	matched_no_emapper_row	-	subflava:clust_9324	17	Cloud
+subflava	clust_2160	123	0.85303629177147	4.37003957331064e-17	ISXO2-like transposase domain-containing protein;Insertion element IS1016 transposase;IS1595 family ISNesp1 transposase	annotated	X	subflava:clust_2160	18	Cloud
+subflava	clust_2385	130	0.840819259791592	1.47596970136285e-13	serine/threonine protein phosphatase;PAP2 family protein;phosphatase PAP2 family protein	annotated	I	subflava:clust_2385	19	Shell
+subflava	clust_2624	139	0.826086956521739	7.08014184155394e-18	Sulfite reductase [NADPH] flavoprotein alpha-component;assimilatory sulfite reductase (NADPH) flavoprotein subunit	annotated	FP	subflava:clust_2624	20	Cloud
+subflava	clust_4210	144	0.818181818181818	1.16037872879574e-12	Lipooligosaccharide glycosyl transferase G;Mannosylfructose-phosphate synthase	annotated	M	subflava:clust_4210	21	Shell
+subflava	clust_5790	145	0.817822493711822	1.1402724438948e-16	hypothetical protein	annotated	S	subflava:clust_5790	22	Cloud
+subflava	clust_3523	147	0.801293568091987	5.34790328495663e-15	hemagglutinin repeat-containing protein	annotated	U	subflava:clust_3523	23	Cloud
+subflava	clust_214	148	0.799496945742005	5.61321688445872e-12	hypothetical protein	matched_no_emapper_row	-	subflava:clust_214	24	Shell
+subflava	clust_1379	153	0.786920589292131	1.9261068957401e-12	Secreted protein;Periplasmic protein;hypothetical protein	annotated	S	subflava:clust_1379	25	Shell
+subflava	clust_13200	154	0.776500179662235	4.42315125706895e-13	Transcription factor zinc-finger domain-containing protein	annotated	S	subflava:clust_13200	26	Shell
+subflava	clust_2996	155	0.776500179662235	4.42315125706895e-13	Hyaluronan synthase	annotated	M	subflava:clust_2996	27	Shell
+subflava	clust_6020	156	0.776500179662235	4.42315125706895e-13	Capsular biosynthesis protein	annotated	S	subflava:clust_6020	28	Shell
+subflava	clust_6331	157	0.776500179662235	4.42315125706895e-13	Glycosyltransferase sugar-binding region containing DXD motif;capsular polysaccharide synthesis protein;Capsular polysaccharide synthesis protein	annotated	S	subflava:clust_6331	29	Shell
+subflava	clust_2749	164	0.747754222062522	2.04434477142816e-10	Dioxygenase;hypothetical protein	annotated	S	subflava:clust_2749	30	Shell
+subflava	clust_6997	165	0.747754222062522	2.04434477142816e-10	YadA-like family protein	annotated	M	subflava:clust_6997	31	Shell
+subflava	clust_5039	171	0.718648939992814	3.00773396318669e-10	acetyl-CoA carboxylase%2C carboxyltransferase subunit beta;acetyl-CoA carboxylase_ carboxyltransferase subunit beta	annotated	I	subflava:clust_5039	32	Shell
+subflava	clust_2836	174	0.702120014372979	1.26448730330293e-09	FimV domain protein;Periplasmic protein	matched_no_cog	-	subflava:clust_2836	33	Shell
+subflava	clust_2784	178	0.679482572763205	1.45832182351874e-08	Slam-dependent surface lipoprotein	annotated	R	subflava:clust_2784	34	Shell
+subflava	clust_7708	179	0.677326625943227	8.9905565965747e-09	P-type DNA transfer ATPase VirB11	annotated	W	subflava:clust_7708	35	Shell
+subflava	clust_1520	181	0.669062163133309	1.5832982020354e-08	calcium-binding protein	annotated	Q	subflava:clust_1520	36	Shell
+perflava	clust_2732	1	1	2.88549960053838e-28	sulfate adenylyltransferase	annotated	P	perflava:clust_2732	1	Shell
+perflava	clust_2745	2	1	2.88549960053838e-28	phosphoadenylyl-sulfate reductase	annotated	EH	perflava:clust_2745	2	Shell
+perflava	clust_3364	3	1	2.88549960053838e-28	Filamentous haemagglutinin FhaB/tRNA nuclease CdiA-like TPS domain-containing protein;Filamentous hemeagglutinin family domain protein	annotated	U	perflava:clust_3364	3	Shell
+perflava	clust_691	4	1	2.88549960053838e-28	right-handed parallel beta-helix repeat-containing protein;Right handed beta helix domain-containing protein;Pectate lyase superfamily protein	annotated	G	perflava:clust_691	4	Shell
+perflava	clust_2055	55	0.991228070175439	5.96336584111267e-27	Hemolysin transporter protein ShlB	annotated	U	perflava:clust_2055	5	Shell
+perflava	clust_1126	56	0.991228070175439	5.96336584111267e-27	Type 1 secretion protein;calcium-binding protein	matched_no_cog	-	perflava:clust_1126	6	Shell
+perflava	clust_2226	65	0.956140350877193	2.67635858949137e-23	Protein-(Glutamine-N5) methyltransferase;Integral membrane protein	annotated	J	perflava:clust_2226	7	Shell
+perflava	clust_12970	68	0.933333333333333	9.62314116779552e-25	Sulfite reductase [NADPH] flavoprotein alpha-component;assimilatory sulfite reductase (NADPH) flavoprotein subunit	annotated	FP	perflava:clust_12970	8	Shell
+perflava	clust_3398	69	0.933333333333333	9.62314116779552e-25	uroporphyrinogen-III C-methyltransferase;siroheme synthase CysG	annotated	H	perflava:clust_3398	9	Shell
+perflava	clust_13032	80	0.9	2.30955388027092e-23	Sulfite reductase subunit beta;assimilatory sulfite reductase (NADPH) hemoprotein subunit	annotated	P	perflava:clust_13032	10	Shell
+perflava	clust_2927	86	0.878947368421053	1.6802435224344e-18	lipooligosaccharide phosphoethanolamine transferase;Arylsulfatase;Sulfatase	matched_no_cog	-	perflava:clust_2927	11	Shell
+perflava	clust_470	93	0.859649122807018	2.11922600291766e-17	hypothetical protein;Chorismate mutase;aminotransferase class IV	annotated	EH	perflava:clust_470	12	Shell
+perflava	clust_1882	121	0.856140350877193	1.5656958901854e-18	TonB-dependent receptor	annotated	P	perflava:clust_1882	13	Shell
+perflava	clust_526	124	0.850877192982456	5.55066624912798e-17	outer membrane beta-barrel protein;Outer membrane insertion signal domain protein;Outer membrane protein beta-barrel domain-containing protein	annotated	M	perflava:clust_526	14	Shell
+perflava	clust_1816	141	0.824561403508772	7.35088232992623e-16	Glycosyltransferase%2C group 2 family protein;glycosyltransferase family 2 protein;Glycosyltransferase_ group 2 family protein	annotated	M	perflava:clust_1816	15	Shell
+perflava	clust_1983	142	0.821052631578947	3.19806734025915e-16	UDP-glucose 4-epimerase GalE	annotated	M	perflava:clust_1983	16	Shell
+perflava	clust_4606	143	0.821052631578947	3.19806734025915e-16	TIGR00645 family protein;UPF0114 protein KCG54_08535	annotated	S	perflava:clust_4606	17	Shell
+perflava	clust_32	146	0.815789473684211	1.61947868374541e-18	peptide chain release factor H	annotated	J	perflava:clust_32	18	Shell
+perflava	clust_13161	152	0.791228070175439	3.35737718113921e-14	threonine--tRNA ligase	annotated	J	perflava:clust_13161	19	Shell
+perflava	clust_1391	158	0.773684210526316	1.62360869371783e-13	Cell division protein FtsN	annotated	S	perflava:clust_1391	20	Shell
+perflava	clust_907	162	0.754385964912281	7.68553089407008e-14	Ferripyoverdine receptor	annotated	P	perflava:clust_907	21	Shell
+perflava	clust_5208	163	0.750877192982456	1.04403611494855e-12	RNA ligase domain-containing protein	annotated	L	perflava:clust_5208	22	Shell
+perflava	clust_1745	169	0.742105263157895	2.27975321950316e-12	HD domain-containing protein	annotated	R	perflava:clust_1745	23	Shell
+perflava	clust_11825	172	0.708771929824561	2.73716233881591e-11	Glycosyltransferase	annotated	S	perflava:clust_11825	24	Shell
+perflava	clust_4076	175	0.7	5.86622824126962e-11	hypothetical protein;Capsular biosynthesis protein	annotated	S	perflava:clust_4076	25	Shell
+perflava	clust_777	177	0.682456140350877	2.05062128952782e-10	DUF4148 domain-containing protein;Secreted protein	matched_no_emapper_row	-	perflava:clust_777	26	Shell
+flavescens	clust_10730	9	1	1.74984928069931e-10	hypothetical protein	annotated	G	flavescens:clust_10730	1	Cloud
+flavescens	clust_10963	10	1	1.74984928069931e-10	Fe(3+) ions import ATP-binding protein FbpC	annotated	E	flavescens:clust_10963	2	Cloud
+flavescens	clust_12859	11	1	1.74984928069931e-10	heme ABC transporter substrate-binding protein FbpA	annotated	G	flavescens:clust_12859	3	Cloud
+flavescens	clust_216	12	1	1.74984928069931e-10	Trimeric autotransporter adhesin YadA-like C-terminal membrane anchor domain-containing protein;YadA-like family protein;Outer membrane insertion signal domain protein	annotated	UW	flavescens:clust_216	4	Cloud
+flavescens	clust_2544	13	1	1.74984928069931e-10	choline kinase family protein;Choline/ethanolamine kinase;Putative LicA	annotated	H	flavescens:clust_2544	5	Cloud
+flavescens	clust_2838	14	1	1.74984928069931e-10	Periplasmic protein	annotated	S	flavescens:clust_2838	6	Cloud
+flavescens	clust_2842	15	1	1.74984928069931e-10	MobA-like NTP transferase domain-containing protein	annotated	I	flavescens:clust_2842	7	Cloud
+flavescens	clust_3375	16	1	1.74984928069931e-10	PilC1 protein;PilC family type IV pilus tip adhesin	annotated	NW	flavescens:clust_3375	8	Cloud
+flavescens	clust_4066	17	1	1.74984928069931e-10	MafI family immunity protein	annotated	S	flavescens:clust_4066	9	Cloud
+flavescens	clust_4201	18	1	1.74984928069931e-10	Suppressor of fused-like domain-containing protein;Suppressor of fused domain protein	annotated	S	flavescens:clust_4201	10	Cloud
+flavescens	clust_4371	19	1	1.74984928069931e-10	hypothetical protein	annotated	S	flavescens:clust_4371	11	Cloud
+flavescens	clust_4617	20	1	1.74984928069931e-10	DUF4375 domain-containing protein	annotated	R	flavescens:clust_4617	12	Cloud
+flavescens	clust_4622	21	1	1.74984928069931e-10	Dithiobiotin synthetase;pimeloyl-ACP methyl esterase BioG family protein	annotated	S	flavescens:clust_4622	13	Cloud
+flavescens	clust_4632	22	1	1.74984928069931e-10	Hep/Hag repeat protein	annotated	UW	flavescens:clust_4632	14	Cloud
+flavescens	clust_5017	23	1	1.74984928069931e-10	Lipoprotein	annotated	S	flavescens:clust_5017	15	Cloud
+flavescens	clust_5092	24	1	1.74984928069931e-10	Phosphorylcholine transferase	annotated	I	flavescens:clust_5092	16	Cloud
+flavescens	clust_5117	25	1	1.74984928069931e-10	carbonic anhydrase family protein;carbonic anhydrase	annotated	P	flavescens:clust_5117	17	Cloud
+flavescens	clust_53	26	1	1.74984928069931e-10	Inner membrane protein	annotated	S	flavescens:clust_53	18	Cloud
+flavescens	clust_5301	27	1	1.74984928069931e-10	Outer membrane efflux protein	annotated	M	flavescens:clust_5301	19	Cloud
+flavescens	clust_5402	28	1	1.74984928069931e-10	Opacity protein opA54;opacity family porin;Opacity protein opA53	annotated	M	flavescens:clust_5402	20	Cloud
+flavescens	clust_5414	29	1	1.74984928069931e-10	GAF domain-containing protein	annotated	TV	flavescens:clust_5414	21	Cloud
+flavescens	clust_5625	30	1	1.74984928069931e-10	hypothetical protein	annotated	V	flavescens:clust_5625	22	Cloud
+flavescens	clust_5774	31	1	1.74984928069931e-10	NeuD/PglB/VioB family sugar acetyltransferase;Lipid carrier: UDP-N-acetylgalactosaminyltransferase	annotated	R	flavescens:clust_5774	23	Cloud
+flavescens	clust_5777	32	1	1.74984928069931e-10	8-amino-7-oxononanoate synthase	annotated	H	flavescens:clust_5777	24	Cloud
+flavescens	clust_6461	33	1	1.74984928069931e-10	DUF4926 domain-containing protein	annotated	S	flavescens:clust_6461	25	Cloud
+flavescens	clust_6776	34	1	1.74984928069931e-10	Regulator of ribonuclease activity B domain-containing protein	annotated	A	flavescens:clust_6776	26	Cloud
+flavescens	clust_7336	35	1	1.74984928069931e-10	hypothetical protein	annotated	E	flavescens:clust_7336	27	Cloud
+flavescens	clust_8344	36	1	1.74984928069931e-10	Putative LicB	annotated	ER	flavescens:clust_8344	28	Cloud
+flavescens	clust_8516	37	1	1.74984928069931e-10	heme ABC transporter permease FbpB	annotated	P	flavescens:clust_8516	29	Cloud
+flavescens	clust_8579	38	1	1.74984928069931e-10	putative membrane transporter protein	annotated	P	flavescens:clust_8579	30	Cloud
+flavescens	clust_9139	39	1	1.74984928069931e-10	Ankyrin repeat protein;hypothetical protein	annotated	T	flavescens:clust_9139	31	Cloud
+flavescens	clust_9709	40	1	1.74984928069931e-10	malonyl-ACP O-methyltransferase BioC	annotated	HJ	flavescens:clust_9709	32	Cloud
+flavescens	clust_12171	41	1	1.74984928069931e-10	DUF2185 domain-containing protein	matched_no_cog	-	flavescens:clust_12171	33	Cloud
+flavescens	clust_12178	42	1	1.74984928069931e-10	Acetyltransferase_ GNAT family	matched_no_cog	-	flavescens:clust_12178	34	Cloud
+flavescens	clust_1321	43	1	1.74984928069931e-10	Glycosyltransferase 2-like domain-containing protein	matched_no_cog	-	flavescens:clust_1321	35	Cloud
+flavescens	clust_6125	44	1	1.74984928069931e-10	AbgT family antimetabolite efflux transporter MtrF	matched_no_cog	-	flavescens:clust_6125	36	Cloud
+flavescens	clust_7226	45	1	1.74984928069931e-10	Glycosyltransferase 2-like domain-containing protein;hypothetical protein	matched_no_cog	-	flavescens:clust_7226	37	Cloud
+flavescens	clust_9294	46	1	1.74984928069931e-10	hypothetical protein	matched_no_cog	-	flavescens:clust_9294	38	Cloud
+flavescens	clust_10406	47	1	1.74984928069931e-10	hypothetical protein	matched_no_emapper_row	-	flavescens:clust_10406	39	Cloud
+flavescens	clust_6539	48	1	1.74984928069931e-10	hypothetical protein	matched_no_emapper_row	-	flavescens:clust_6539	40	Cloud
+flavescens	clust_13107	49	0.992700729927007	1.12263057748761e-09	hypothetical protein	annotated	S	flavescens:clust_13107	41	Cloud
+flavescens	clust_5520	50	0.992700729927007	1.12263057748761e-09	TonB-dependent copper receptor	annotated	P	flavescens:clust_5520	42	Cloud
+flavescens	clust_7228	51	0.992700729927007	1.12263057748761e-09	hypothetical protein	annotated	S	flavescens:clust_7228	43	Cloud
+flavescens	clust_270	52	0.992700729927007	1.12263057748761e-09	Tetratricopeptide repeat protein;sel1 repeat family protein	matched_no_cog	-	flavescens:clust_270	44	Cloud
+flavescens	clust_6462	53	0.992700729927007	1.12263057748761e-09	hypothetical protein	matched_no_emapper_row	-	flavescens:clust_6462	45	Cloud
+flavescens	clust_5171	57	0.985401459854015	4.28640765949813e-09	Cold-shock DNA-binding domain protein;Putative cold-shock dna-binding domain protein	annotated	S	flavescens:clust_5171	46	Cloud
+flavescens	clust_9538	58	0.985401459854015	4.28640765949813e-09	phosphoethanolamine transferase;Arylsulfatase;Sulfatase	matched_no_cog	-	flavescens:clust_9538	47	Cloud
+flavescens	clust_3720	59	0.985401459854015	4.28640765949813e-09	hypothetical protein	matched_no_emapper_row	-	flavescens:clust_3720	48	Cloud
+flavescens	clust_4199	60	0.985401459854015	4.28640765949813e-09	Transporter_ small conductance mechanosensitive ion channel MscS family protein;hypothetical protein	matched_no_emapper_row	-	flavescens:clust_4199	49	Cloud
+flavescens	clust_10428	62	0.978102189781022	1.36488243894546e-08	Transcription factor zinc-finger domain-containing protein	annotated	S	flavescens:clust_10428	50	Cloud
+flavescens	clust_9039	64	0.956204379562044	1.50137068284e-07	Adhesin MafA;adhesin;adhesin MafA	matched_no_cog	-	flavescens:clust_9039	51	Cloud
+flavescens	clust_5558	66	0.948905109489051	2.75716400491807e-07	Serine/threonine protein kinase;Serine/threonine protein phosphatase	annotated	J	flavescens:clust_5558	52	Cloud
+flavescens	clust_5178	67	0.934306569343066	8.01379921472677e-07	hypothetical protein	matched_no_emapper_row	-	flavescens:clust_5178	53	Cloud
+flavescens	clust_723	70	0.91970802919708	2.00506403304908e-06	DUF2059 domain-containing protein	annotated	S	flavescens:clust_723	54	Cloud
+flavescens	clust_4425	75	0.912408759124088	3.09791424926054e-06	DUF262 domain-containing protein	annotated	V	flavescens:clust_4425	55	Cloud
+flavescens	clust_634	76	0.912408759124088	3.09791424926054e-06	Esterase;hypothetical protein;subtype B tannase	annotated	I	flavescens:clust_634	56	Cloud
+flavescens	clust_763	77	0.912408759124088	3.09791424926054e-06	trimeric porin PorB;porin;Major outer membrane protein P-IB	annotated	M	flavescens:clust_763	57	Cloud
+flavescens	clust_1085	78	0.905109489051095	4.5094393151054e-06	SWIM zinc finger domain-containing protein;hypothetical protein;SWIM zinc finger domain protein;SWIM-type domain-containing protein	annotated	S	flavescens:clust_1085	58	Cloud
+flavescens	clust_920	79	0.905109489051095	4.5094393151054e-06	hypothetical protein	annotated	S	flavescens:clust_920	59	Cloud
+flavescens	clust_1248	81	0.897810218978102	6.57823313702221e-06	replication initiation factor domain-containing protein;Replication initiation protein-like C-terminal domain-containing protein;Replication initiation factor	annotated	S	flavescens:clust_1248	60	Shell
+flavescens	clust_2229	82	0.897810218978102	6.57823313702221e-06	Zeta toxin domain-containing protein	annotated	R	flavescens:clust_2229	61	Cloud
+flavescens	clust_5648	83	0.897810218978102	6.57823313702221e-06	hypothetical protein	annotated	S	flavescens:clust_5648	62	Cloud
+flavescens	clust_7779	84	0.89051094890511	9.41395849868619e-06	Transcriptional regulator_ AsnC family;Transcriptional regulator%2C AsnC family	annotated	K	flavescens:clust_7779	63	Cloud
+flavescens	clust_3711	85	0.883211678832117	1.25100338402331e-05	DEAD/DEAH box helicase	annotated	V	flavescens:clust_3711	64	Shell
+flavescens	clust_10462	94	0.857142857142857	1.45832182351874e-08	hypothetical protein	annotated	S	flavescens:clust_10462	65	Cloud
+flavescens	clust_10548	95	0.857142857142857	1.45832182351874e-08	Methyltransferase domain protein	annotated	R	flavescens:clust_10548	66	Cloud
+flavescens	clust_10965	96	0.857142857142857	1.45832182351874e-08	DUF3616 domain-containing protein	annotated	R	flavescens:clust_10965	67	Cloud
+flavescens	clust_13116	97	0.857142857142857	1.45832182351874e-08	hypothetical protein	annotated	S	flavescens:clust_13116	68	Cloud
+flavescens	clust_2277	98	0.857142857142857	1.45832182351874e-08	Prepilin-type cleavage/methylation N-terminal domain protein;hypothetical protein	annotated	NW	flavescens:clust_2277	69	Cloud
+flavescens	clust_2843	99	0.857142857142857	1.45832182351874e-08	Putative adhesin MafB;Intein C-terminal splicing region;polymorphic toxin MafB class 1	annotated	S	flavescens:clust_2843	70	Cloud
+flavescens	clust_3020	100	0.857142857142857	1.45832182351874e-08	Novel toxin 15 domain-containing protein	annotated	S	flavescens:clust_3020	71	Cloud
+flavescens	clust_4806	101	0.857142857142857	1.45832182351874e-08	Glycosyl transferase CAP10 domain-containing protein	annotated	M	flavescens:clust_4806	72	Cloud
+flavescens	clust_5018	102	0.857142857142857	1.45832182351874e-08	hypothetical protein	annotated	V	flavescens:clust_5018	73	Cloud
+flavescens	clust_5019	103	0.857142857142857	1.45832182351874e-08	Autotransporter outer membrane beta-barrel domain-containing protein;Pertactin central region domain-containing protein	annotated	S	flavescens:clust_5019	74	Cloud
+flavescens	clust_5430	104	0.857142857142857	1.45832182351874e-08	Suppressor of fused-like domain-containing protein	annotated	S	flavescens:clust_5430	75	Cloud
+flavescens	clust_5436	105	0.857142857142857	1.45832182351874e-08	Autotransporter beta-domain protein;Virulence associated protein;hypothetical protein;Outer membrane autotransporter	annotated	S	flavescens:clust_5436	76	Cloud
+flavescens	clust_5919	106	0.857142857142857	1.45832182351874e-08	Putative 8-amino-7-oxononanoate synthase	annotated	H	flavescens:clust_5919	77	Cloud
+flavescens	clust_6223	107	0.857142857142857	1.45832182351874e-08	Putative outer membrane protein NMB0088;Outer membrane protein transport protein_ Ompp1/FadL/TodX family	annotated	I	flavescens:clust_6223	78	Cloud
+flavescens	clust_6697	108	0.857142857142857	1.45832182351874e-08	MafB-related protein;HINT domain-containing protein	annotated	S	flavescens:clust_6697	79	Cloud
+flavescens	clust_7303	109	0.857142857142857	1.45832182351874e-08	hypothetical protein	annotated	V	flavescens:clust_7303	80	Cloud
+flavescens	clust_766	110	0.857142857142857	1.45832182351874e-08	Autotransporter;P-94;Outer membrane autotransporter barrel domain protein	annotated	MU	flavescens:clust_766	81	Cloud
+flavescens	clust_8517	111	0.857142857142857	1.45832182351874e-08	Type I secretion system ATPase	annotated	V	flavescens:clust_8517	82	Cloud
+flavescens	clust_8768	112	0.857142857142857	1.45832182351874e-08	Phage associated protein	annotated	S	flavescens:clust_8768	83	Cloud
+flavescens	clust_9114	113	0.857142857142857	1.45832182351874e-08	Suppressor of fused-like domain-containing protein	annotated	S	flavescens:clust_9114	84	Cloud
+flavescens	clust_12798	114	0.857142857142857	1.45832182351874e-08	Immunity protein 30 domain-containing protein	matched_no_cog	-	flavescens:clust_12798	85	Cloud
+flavescens	clust_3148	115	0.857142857142857	1.45832182351874e-08	hypothetical protein	matched_no_cog	-	flavescens:clust_3148	86	Cloud
+flavescens	clust_5419	116	0.857142857142857	1.45832182351874e-08	hypothetical protein	matched_no_cog	-	flavescens:clust_5419	87	Cloud
+flavescens	clust_4618	117	0.857142857142857	1.45832182351874e-08	Lipoprotein	matched_no_emapper_row	-	flavescens:clust_4618	88	Cloud
+flavescens	clust_4623	118	0.857142857142857	1.45832182351874e-08	hypothetical protein	matched_no_emapper_row	-	flavescens:clust_4623	89	Cloud
+flavescens	clust_5407	119	0.857142857142857	1.45832182351874e-08	hypothetical protein	matched_no_emapper_row	-	flavescens:clust_5407	90	Cloud
+flavescens	clust_6857	120	0.857142857142857	1.45832182351874e-08	hypothetical protein	matched_no_emapper_row	-	flavescens:clust_6857	91	Cloud
+flavescens	clust_5024	122	0.854014598540146	4.03170071654026e-05	Phage associated protein;hypothetical protein	annotated	S	flavescens:clust_5024	92	Shell
+flavescens	clust_6026	125	0.849843587069864	8.80943230232313e-08	Periplasmic binding protein	annotated	P	flavescens:clust_6026	93	Cloud
+flavescens	clust_6239	126	0.849843587069864	8.80943230232313e-08	hypothetical protein	annotated	S	flavescens:clust_6239	94	Cloud
+flavescens	clust_2468	127	0.849843587069864	8.80943230232313e-08	Phage associated protein	matched_no_cog	-	flavescens:clust_2468	95	Cloud
+flavescens	clust_7996	128	0.846715328467153	5.29221521150822e-05	DUF2523 domain-containing protein	annotated	S	flavescens:clust_7996	96	Shell
+flavescens	clust_33	129	0.842544316996872	3.0374289856753e-07	hypothetical protein	annotated	S	flavescens:clust_33	97	Cloud
+flavescens	clust_11984	131	0.835245046923879	7.99488211066198e-07	DUF2523 domain-containing protein	annotated	S	flavescens:clust_11984	98	Cloud
+flavescens	clust_5797	132	0.835245046923879	7.99488211066198e-07	hypothetical protein;Tat pathway signal sequence domain protein	annotated	S	flavescens:clust_5797	99	Cloud
+flavescens	clust_6777	133	0.835245046923879	7.99488211066198e-07	hypothetical protein	annotated	S	flavescens:clust_6777	100	Cloud
+flavescens	clust_1379	134	0.832116788321168	7.75924834140184e-05	Secreted protein;Periplasmic protein;hypothetical protein	annotated	S	flavescens:clust_1379	101	Shell
+flavescens	clust_178	135	0.832116788321168	7.75924834140184e-05	Peptidase;C39 family peptidase	annotated	V	flavescens:clust_178	102	Shell
+flavescens	clust_5034	136	0.832116788321168	7.75924834140184e-05	ATP synthase subunit I	annotated	C	flavescens:clust_5034	103	Shell
+flavescens	clust_1935	137	0.827945776850886	1.81184318435027e-06	Cell division protein FtsN	annotated	D	flavescens:clust_1935	104	Cloud
+flavescens	clust_2989	138	0.827945776850886	1.81184318435027e-06	hypothetical protein;RHS repeat-associated core domain-containing protein;RHS repeat-associated core domain protein	annotated	S	flavescens:clust_2989	105	Cloud
+flavescens	clust_6394	140	0.824817518248175	9.82152471371327e-05	RNA-binding protein;Lipoprotein	matched_no_cog	-	flavescens:clust_6394	106	Shell
+flavescens	clust_2425	149	0.798748696558915	1.90396978104721e-05	hypothetical protein	matched_no_emapper_row	-	flavescens:clust_2425	107	Cloud
+flavescens	clust_13054	150	0.791449426485923	3.01753002765231e-05	hypothetical protein	annotated	S	flavescens:clust_13054	108	Cloud
+flavescens	clust_277	151	0.791449426485923	3.01753002765231e-05	hypothetical protein;Glycosyltransferase EpsE	annotated	M	flavescens:clust_277	109	Cloud
+flavescens	clust_266	159	0.769551616266945	8.91843407633071e-05	hypothetical protein	annotated	S	flavescens:clust_266	110	Cloud
+flavescens	clust_6547	160	0.762252346193952	0.000127583872601951	Integral membrane protein	annotated	S	flavescens:clust_6547	111	Cloud
+flavescens	clust_175	161	0.754953076120959	0.000176934069489329	Phage associated protein;hypothetical protein	annotated	S	flavescens:clust_175	112	Cloud
+flavescens	clust_11	166	0.747653806047967	0.000243370625882589	Major capsid protein;Phage associated protein;hypothetical protein;major capsid protein	annotated	S	flavescens:clust_11	113	Cloud
+flavescens	clust_2472	167	0.747653806047967	0.000243370625882589	Phage associated protein;hypothetical protein	annotated	S	flavescens:clust_2472	114	Cloud
+flavescens	clust_3568	168	0.747653806047967	0.000243370625882589	replication endonuclease;Phasyl DNA replicon protein arp family protein	annotated	S	flavescens:clust_3568	115	Shell
+flavescens	clust_2469	170	0.740354535974974	0.000319876430012471	hypothetical protein	annotated	S	flavescens:clust_2469	116	Cloud
+flavescens	clust_6109	173	0.70385818561001	0.00104582536298265	CNA-B domain-containing protein;Integral membrane protein	annotated	S	flavescens:clust_6109	117	Shell
+flavescens	clust_1594	176	0.689259645464025	0.00158300431008092	Iron-sulfur cluster biosynthesis family protein	annotated	S	flavescens:clust_1594	118	Shell
+flavescens	clust_4053	180	0.67466110531804	0.00221788109651376	Phage associated protein;hypothetical protein	annotated	S	flavescens:clust_4053	119	Shell

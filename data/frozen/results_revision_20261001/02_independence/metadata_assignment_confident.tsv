@@ -1,0 +1,221 @@
+strain	biosample	group_for_testing	unit_id	study_namespace	participant_id	host	isolation_source	host_disease	geo_loc_name	collection_date	n_contigs	genome_size	assembly_level
+GCA_000173935.1	SAMN00008839	flavescens		PRJNA30473	unknown	Homo sapiens	missing		not determined	not determined	117	2205588	Contig
+GCA_000173955.1	SAMN00008843	perflava		PRJNA30483	unknown	Homo sapiens	missing		not determined	not determined	63	2292986	Contig
+GCA_000186165.1	SAMN02463751	perflava		PRJNA38747	unknown	Homo sapiens	missing		not provided	not provided	23	2169437	Scaffold
+GCA_000763635.1	SAMN02996611	perflava		PRJNA246622	unknown	Homo sapiens	sputum		Malaysia	2012	34	2138952	Contig
+GCA_001064605.1	SAMN03197528	perflava		PRJNA267549	unknown	Homo sapiens	missing		USA: WA	missing	62	2154030	Scaffold
+GCA_001618065.1	SAMN03329001	perflava		PRJNA274665	not_applicable_culture	Homo sapiens	duodenal mucosa	coeliac disease	Italy: Naples	2012	73	2345024	Contig
+GCA_001618075.1	SAMN03329002	perflava		PRJNA274665	not_applicable_culture	Homo sapiens	duodenal mucosa	Coeliac disease	Italy: Naples	2012	37	2333017	Contig
+GCA_001618085.1	SAMN03329021	perflava		PRJNA274665	not_applicable_culture	Homo sapiens	oropharyngeal swab		Italy: Naples	2013	67	2316621	Contig
+GCA_001808255.1	SAMN03287028	perflava		PRJNA269876	unknown	Homo sapiens	missing				85	2178870	Scaffold
+GCA_001809345.1	SAMN04477501	perflava		PRJNA296208	unknown	Homo sapiens	sputum				91	2217005	Scaffold
+GCA_001810035.1	SAMN04477541	perflava		PRJNA296303	unknown	Homo sapiens	throat				111	2261793	Scaffold
+GCA_001811065.1	SAMN04477595	perflava		PRJNA299932	unknown	Homo sapiens	tracheal aspirate				151	2328563	Scaffold
+GCA_001811365.1	SAMN04477613	perflava		PRJNA299951	unknown	Homo sapiens	sputum				82	2229188	Scaffold
+GCA_001811855.1	SAMN04477637	perflava		PRJNA299978	unknown	Homo sapiens	sputum				95	2206325	Scaffold
+GCA_001811945.1	SAMN04477641	perflava		PRJNA299982	unknown	Homo sapiens	throat				101	2271132	Scaffold
+GCA_001812055.1	SAMN04477646	perflava		PRJNA299988	unknown	Homo sapiens	Bronchoalveolar lavage				94	2302917	Scaffold
+GCA_001812725.1	SAMN04480039	perflava		PRJNA300025	unknown	Homo sapiens	bronchial washing				82	2304183	Scaffold
+GCA_001812735.1	SAMN04480040	subflava		PRJNA300026	unknown	Homo sapiens	sputum				126	2272351	Scaffold
+GCA_001812885.1	SAMN04480047	perflava		PRJNA300034	unknown	Homo sapiens	bronchial washing				86	2302204	Scaffold
+GCA_001814095.1	SAMN04480384	perflava		PRJNA300106	unknown	Homo sapiens	sputum				78	2209874	Scaffold
+GCA_001814445.1	SAMN04480396	perflava		PRJNA300126	unknown	Homo sapiens	trachael aspirate				183	2249644	Scaffold
+GCA_001815375.1	SAMN04480440	perflava		PRJNA300175	unknown	Homo sapiens	sputum				102	2314384	Scaffold
+GCA_001815615.1	SAMN04480456	perflava		PRJNA300190	unknown	Homo sapiens	sputum induced				103	2227657	Scaffold
+GCA_001815685.1	SAMN04480460	subflava		PRJNA300195	unknown	Homo sapiens	trach aspirate				153	2247105	Scaffold
+GCA_001836315.1	SAMN04498579	perflava		PRJNA296174	unknown	Homo sapiens	trach aspirate				81	2239820	Scaffold
+GCA_001836705.1	SAMN04498636	perflava		PRJNA296268	unknown	Homo sapiens	sputum				94	2267122	Scaffold
+GCA_001836795.1	SAMN04498643	perflava		PRJNA296282	unknown	Homo sapiens	sputum				88	2240849	Scaffold
+GCA_001837185.1	SAMN04498601	perflava		PRJNA296215	unknown	Homo sapiens	sputum				111	2259121	Scaffold
+GCA_001837365.1	SAMN04498639	perflava		PRJNA296276	unknown	Homo sapiens	trachael aspirate				108	2217149	Scaffold
+GCA_001837375.1	SAMN04498571	perflava		PRJNA296158	unknown	Homo sapiens	trachael aspirate				59	2147245	Scaffold
+GCA_001837635.1	SAMN04498603	perflava		PRJNA296213	unknown	Homo sapiens	throat				63	2171707	Scaffold
+GCA_001838135.1	SAMN04498575	perflava		PRJNA296167	unknown	Homo sapiens	abdominal fluid				73	2238578	Scaffold
+GCA_002847985.1	SAMN08193709	perflava		PRJNA316969	not_applicable_culture	Homo sapiens			USA: Maywood, IL	2015	28	2311158	Scaffold
+GCA_002863305.2	SAMN08193708	perflava		PRJNA316969	not_applicable_culture	Homo sapiens			USA: Maywood, IL	2015	1	2344520	Complete Genome
+GCA_003044355.1	SAMN08299198	perflava		PRJNA428750	not_applicable_collection	Homo sapiens	not applicable	not collected	USA: Minnesota	2005-01-01	42	2355736	Contig
+GCA_003044385.1	SAMN08299200	perflava		PRJNA428750	not_applicable_collection	Homo sapiens	not applicable	not collected	USA: Minnesota	2007-01-01	38	2286423	Contig
+GCA_003044525.1	SAMN08299208	perflava		PRJNA428750	not_applicable_collection	Homo sapiens	not applicable	not collected	USA: Minnesota	2009-01-01	21	2176785	Contig
+GCA_003044585.1	SAMN08299215	perflava		PRJNA428750	not_applicable_collection	Homo sapiens	not applicable	not collected	USA: Minnesota	2011-01-01	20	2226776	Contig
+GCA_003044645.1	SAMN08299216	perflava		PRJNA428750	not_applicable_collection	Homo sapiens	not applicable	not collected	USA: Minnesota	2011-01-01	23	2313531	Contig
+GCA_003044925.1	SAMN08299217	perflava		PRJNA428750	not_applicable_collection	Homo sapiens	not applicable	not collected	USA: Minnesota	2011-01-01	28	2422689	Contig
+GCA_003044935.1	SAMN08299220	perflava		PRJNA428750	not_applicable_collection	Homo sapiens	not applicable	not collected	USA: Minnesota	2012-01-01	9	2159006	Contig
+GCA_003044965.1	SAMN08299218	perflava		PRJNA428750	not_applicable_collection	Homo sapiens	not applicable	not collected	USA: Minnesota	2011-01-01	31	2291329	Contig
+GCA_003045025.1	SAMN08299232	perflava		PRJNA428750	not_applicable_collection	Homo sapiens	not applicable	not collected	USA: Minnesota	2014-01-01	23	2231960	Contig
+GCA_003351665.1	SAMN09704641	perflava		PRJNA428178	not_applicable_culture	Homo sapiens	not collected	not collected	not applicable	not applicable	1	2321871	Complete Genome
+GCA_005221285.1	SAMN11461057	flavescens		PRJNA533546	not_applicable_culture	not applicable	not applicable		not applicable	not applicable	1	2231882	Complete Genome
+GCA_005221305.1	SAMN11461056	subflava		PRJNA533546	not_applicable_culture	not applicable	not applicable		not applicable	not applicable	1	2195659	Complete Genome
+GCA_013267835.1	SAMN11056473	perflava		PRJNA231221	unknown	Homo sapiens	expectorated sputum		USA:VA	missing	1	2224757	Complete Genome
+GCA_014596425.2	SAMN05362870	perflava		PRJNA328015	unknown	Homo sapiens			United Kingdom: Egham	2012-11	1	2223142	Complete Genome
+GCA_015263375.1	SAMN14570852	perflava		PRJNA624185	unknown	Homo sapiens	saliva		USA: UCLA School of Dentistry	2017	71	2148734	Scaffold
+GCA_015263395.1	SAMN14570853	perflava		PRJNA624185	unknown	Homo sapiens	saliva		USA: UCLA School of Dentistry	2017	125	2097332	Scaffold
+GCA_023472875.1	SAMN28187201	perflava	U00020	PRJNA305687	not_applicable_culture	Missing	Missing	Missing	Missing	Missing	85	2265569	Contig
+GCA_023635035.1	SAMN18320770	perflava		PRJNA714914	unknown	Homo sapiens			Singapore: Singapore	2019	3	2250070	Contig
+GCA_023635065.1	SAMN18320764	subflava		PRJNA714914	unknown	Homo sapiens			Singapore: Singapore	2018	2	2277765	Contig
+GCA_023635105.1	SAMN18320763	subflava		PRJNA714914	unknown	Homo sapiens			Singapore: Singapore	2018	4	2457335	Contig
+GCA_024205685.1	SAMN18320771	perflava		PRJNA714914	unknown	Homo sapiens			Singapore: Singapore	2019	1	2243952	Complete Genome
+GCA_024205705.1	SAMN18320769	perflava		PRJNA714914	unknown	Homo sapiens			Singapore: Singapore	2018	1	2479061	Complete Genome
+GCA_030218065.1	SAMN34996481	perflava		PRJNA970254	not_applicable_culture	Homo sapiens			USA: Maywood, IL	2019-11	229	2332356	Contig
+GCA_031190635.1	SAMN37162767	subflava		PRJNA1009867	not_applicable_culture	Homo sapiens			USA	2023-02-16	1	2195884	Complete Genome
+GCA_032563455.1	SAMN11390051	perflava		PRJNA294605	unknown		infant feces		USA: Pittsburgh, Magee-Womens Hospital of UPMC	2014	160	2122815	Contig
+GCA_038738605.1	SAMN40982432	perflava		PRJNA316969	not_applicable_culture	Homo sapiens			USA: Maywood, IL	unknown	42	2273827	Contig
+GCA_041433145.1	SAMN30825717	perflava		PRJNA578828	unknown	Homo sapiens	lung		United Kingdom: London	2015-07	9	2245292	Contig
+GCA_041433195.1	SAMN30825715	subflava		PRJNA578828	unknown	Homo sapiens	lung		United Kingdom: London	2015-07	36	2309083	Contig
+GCA_041433205.1	SAMN30825716	perflava		PRJNA578828	not_applicable_culture	Homo sapiens	lung		United Kingdom: London	2015-07	22	2266113	Contig
+GCA_041433235.1	SAMN30825714	perflava		PRJNA578828	unknown	Homo sapiens	lung		United Kingdom: London	2015-07	46	2400344	Contig
+GCA_041433255.1	SAMN30825713	perflava		PRJNA578828	unknown	Homo sapiens	lung		United Kingdom: London	2015-07	34	2154226	Contig
+GCA_041433265.1	SAMN30825712	perflava		PRJNA578828	not_applicable_culture	Homo sapiens	lung		United Kingdom: London	2015-07	58	2393694	Contig
+GCA_042536675.1	SAMN18012343	perflava	U00001	PRJNA514245	MO02	Homo sapiens	pharyngeal	Nonpathogenic	Belgium: Antwerp	2019-02-07	28	2288740	Contig
+GCA_042536725.1	SAMN18012345	perflava	U00002	PRJNA514245	MO03	Homo sapiens	pharyngeal	Nonpathogenic	Belgium: Antwerp	2019-02-28	52	2398872	Contig
+GCA_042536745.1	SAMN18012347	perflava	U00005	PRJNA514245	MO07	Homo sapiens	pharyngeal	Nonpathogenic	Belgium: Antwerp	2019-03-11	37	2292631	Contig
+GCA_042536925.1	SAMN18012344	flavescens	U00003	PRJNA514245	MO03	Homo sapiens	pharyngeal	Nonpathogenic	Belgium: Antwerp	2019-02-28	68	2243211	Contig
+GCA_042536985.1	SAMN18012346	perflava		PRJNA514245	MO04	Homo sapiens	pharyngeal	Nonpathogenic	Belgium: Antwerp	2019-02-28	23	2239355	Contig
+GCA_042537105.1	SAMN15454056	perflava		PRJNA514245	unknown	not applicable	not applicable		not applicable	2020-04-20	31	2217434	Contig
+GCA_042537125.1	SAMN15454055	perflava		PRJNA514245	unknown	not applicable	not applicable		not applicable	2020-04-20	77	2322588	Contig
+GCA_042537145.1	SAMN15454057	perflava		PRJNA514245	unknown	not applicable	not applicable		not applicable	2020-04-20	44	2196689	Contig
+GCA_042537165.1	SAMN15454054	perflava		PRJNA514245	unknown	not applicable	not applicable		not applicable	2020-04-20	28	2158372	Contig
+GCA_042537275.1	SAMEA6155527	flavescens		PRJNA514245	unknown	Homo sapiens	human		China	2014-12-24	72	2317258	Contig
+GCA_042537445.1	SAMEA6124619	flavescens		PRJNA514245	unknown	Homo sapiens	human		China	2014-12-24	74	2315230	Contig
+GCA_042557445.1	SAMN20296568	perflava		PRJNA514245	unknown	Homo sapiens	throat	n/a	USA	2020	29	2378730	Contig
+GCA_042557505.2	SAMEA111504224	perflava		PRJNA514245	unknown	Homo sapiens	aspirate		Czech Republic	2020-04-06	68	2314938	Contig
+GCA_042557565.1	SAMD00749874	perflava		PRJNA514245	unknown	Homo sapiens	oral cavity	missing	Japan:Hiroshima	2022	95	2365168	Contig
+GCA_042666255.1	SAMN43284530	perflava		PRJNA595761	unknown		missing		missing	2023	21	2214867	Contig
+GCA_050328085.1	SAMN46179532	subflava		PRJNA514245	P0017	Homo sapiens			USA: Rochester, New York	2024	110	2257007	Contig
+GCA_050328385.1	SAMN46179457	perflava		PRJNA514245	P0007	Homo sapiens			USA: Rochester, New York	2024	43	2222243	Contig
+GCA_050328765.1	SAMN46179430	perflava	U00007	PRJNA514245	P0004	Homo sapiens			USA: Rochester, New York	2024	26	2296556	Contig
+GCA_050328965.1	SAMN46179520	perflava	U00013	PRJNA514245	P0015	Homo sapiens			USA: Rochester, New York	2024	29	2267213	Contig
+GCA_050329225.1	SAMN46179480	perflava	U00010	PRJNA514245	P0010	Homo sapiens			USA: Rochester, New York	2024	69	2344074	Contig
+GCA_050329485.1	SAMN46179499	subflava	U00011	PRJNA514245	P0013	Homo sapiens			USA: Rochester, New York	2024	51	2267936	Contig
+GCA_050331995.1	SAMN46179452	perflava	U00008	PRJNA514245	P0006	Homo sapiens			USA: Rochester, New York	2024	15	2125073	Contig
+GCA_050360595.1	SAMN46179469	perflava	U00009	PRJNA514245	P0009	Homo sapiens			USA: Rochester, New York	2024	58	2257094	Contig
+GCA_051956595.1	SAMN48969142	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	102	2294373	Scaffold
+GCA_051956655.1	SAMN48969138	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	328	2439196	Scaffold
+GCA_051956975.1	SAMN48969109	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	98	2178998	Scaffold
+GCA_051957095.1	SAMN48969100	subflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	126	2252640	Scaffold
+GCA_051957115.1	SAMN48969091	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	125	2288734	Scaffold
+GCA_051957155.1	SAMN48969090	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	206	2398379	Scaffold
+GCA_051957275.1	SAMN48969082	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	166	2242311	Scaffold
+GCA_051957375.1	SAMN48969077	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	55	2275252	Scaffold
+GCA_051957445.1	SAMN48969076	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	143	2298570	Scaffold
+GCA_051957495.1	SAMN48969075	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	125	2291854	Scaffold
+GCA_051957575.1	SAMN48969073	subflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	214	2317617	Scaffold
+GCA_051957655.1	SAMN48969072	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	100	2285486	Scaffold
+GCA_051957675.1	SAMN48969071	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	90	2282384	Scaffold
+GCA_051957695.1	SAMN48969070	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	103	2287024	Scaffold
+GCA_051957755.1	SAMN48969069	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	163	2303349	Scaffold
+GCA_051958015.1	SAMN48969057	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	805	2430213	Scaffold
+GCA_051958105.1	SAMN48969050	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	727	2404207	Scaffold
+GCA_051958155.1	SAMN48969047	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	338	2417956	Scaffold
+GCA_051958215.1	SAMN48969046	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	440	2444728	Scaffold
+GCA_051958235.1	SAMN48969042	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	1014	2623084	Scaffold
+GCA_051958355.1	SAMN48969037	subflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	229	2360300	Scaffold
+GCA_051958375.1	SAMN48969035	subflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	152	2302368	Scaffold
+GCA_051958415.1	SAMN48969032	subflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	259	2377045	Scaffold
+GCA_051958425.1	SAMN48969033	subflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	123	2293470	Scaffold
+GCA_051958495.1	SAMN48969030	subflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	142	2298450	Scaffold
+GCA_051958535.1	SAMN48969024	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	116	2192168	Scaffold
+GCA_051958615.1	SAMN48969007	subflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	126	2276945	Scaffold
+GCA_051962615.1	SAMN48969003	subflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	368	2341274	Scaffold
+GCA_051962655.1	SAMN48969002	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	335	2317462	Scaffold
+GCA_051962735.1	SAMN48969000	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	147	2337887	Scaffold
+GCA_051962805.1	SAMN48968991	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	36	2217642	Scaffold
+GCA_051962855.1	SAMN48968985	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	58	2140563	Scaffold
+GCA_051962915.1	SAMN48968984	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	44	2136276	Scaffold
+GCA_051962935.1	SAMN48968980	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	91	2223802	Scaffold
+GCA_051963015.1	SAMN48968979	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	51	2212333	Scaffold
+GCA_051963055.1	SAMN48968965	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	68	2268422	Scaffold
+GCA_051963075.1	SAMN48968974	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	163	2291344	Scaffold
+GCA_051963095.1	SAMN48968966	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	53	2264387	Scaffold
+GCA_051963175.1	SAMN48968963	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	36	2258956	Scaffold
+GCA_051963195.1	SAMN48968964	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	45	2263013	Scaffold
+GCA_051963215.1	SAMN48968962	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	79	2269966	Scaffold
+GCA_051963275.1	SAMN48968961	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	38	2260129	Scaffold
+GCA_051963315.1	SAMN48968959	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	47	2262614	Scaffold
+GCA_051963335.1	SAMN48968960	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	29	2258658	Scaffold
+GCA_051963395.1	SAMN48968958	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	40	2259935	Scaffold
+GCA_051963435.1	SAMN48968951	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	158	2224923	Scaffold
+GCA_051963455.1	SAMN48968957	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	46	2262567	Scaffold
+GCA_051963515.1	SAMN48968950	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	360	2280232	Scaffold
+GCA_051963555.1	SAMN48968946	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	1014	2582493	Scaffold
+GCA_051963575.1	SAMN48968945	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	162	2295194	Scaffold
+GCA_051963635.1	SAMN48968942	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	381	2356337	Scaffold
+GCA_051963655.1	SAMN48968943	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	86	2275504	Scaffold
+GCA_051963675.1	SAMN48968944	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	97	2277305	Scaffold
+GCA_051963775.1	SAMN48968939	perflava		PRJNA1273950	unknown	Homo sapiens			USA: Rochester, New York	2025	130	2287430	Scaffold
+GCA_052858825.1	SAMN51436597	perflava		PRJNA514245	unknown		Homo sapiens		Japan: Tokyo	missing	29	2226788	Contig
+GCA_052858845.1	SAMN51436598	perflava		PRJNA514245	unknown		Homo sapiens		Japan: Tokyo	missing	35	2208689	Contig
+GCA_052858865.1	SAMN51436591	perflava		PRJNA514245	unknown		Homo sapiens		Japan: Tokyo	missing	18	2196994	Contig
+GCA_052858915.1	SAMN51436602	perflava		PRJNA514245	unknown		Homo sapiens		Japan: Tokyo	missing	52	2407705	Contig
+GCA_052858975.1	SAMN51436596	perflava		PRJNA514245	unknown		Homo sapiens		Japan: Tokyo	missing	32	2143331	Contig
+GCA_052859025.1	SAMN51436600	perflava		PRJNA514245	unknown		Homo sapiens		Japan: Tokyo	missing	39	2267104	Contig
+GCA_052859065.1	SAMN51436604	perflava		PRJNA514245	unknown		Homo sapiens		Japan: Tokyo	missing	52	2225599	Contig
+GCA_052859145.1	SAMN51436594	perflava		PRJNA514245	unknown		Homo sapiens		Japan: Tokyo	missing	25	2197933	Contig
+GCA_052859185.1	SAMN51436590	perflava		PRJNA514245	unknown		Homo sapiens		Japan: Tokyo	missing	16	2197290	Contig
+GCA_052859205.1	SAMN51436605	perflava		PRJNA514245	unknown		Homo sapiens		Japan: Tokyo	missing	67	2233028	Contig
+GCA_052859245.1	SAMN51436592	perflava		PRJNA514245	unknown		Homo sapiens		Japan: Tokyo	missing	17	2291272	Contig
+GCA_052859265.1	SAMN51436603	perflava		PRJNA514245	unknown		Homo sapiens		Japan: Tokyo	missing	50	2450102	Contig
+GCA_056638355.1	SAMN56832053	perflava		PRJNA1446065	not_applicable_culture		Plumbing		Ukraine	2023-11-27	30	2291312	Contig
+GCA_057315555.1	SAMN47002320	flavescens		PRJNA1206836	unknown	Homo sapiens	oral cavity		USA	2024	48	2157695	Scaffold
+GCA_057315755.1	SAMN47002310	perflava		PRJNA1206836	unknown	Homo sapiens	oral cavity		Germany	2024	10	2193324	Scaffold
+GCA_058214815.1	SAMN60412776	perflava		PRJNA269675	not_applicable_culture	Homo sapiens	sputum		Russia: Moscow	2024-11-05	31	2209816	Contig
+GCA_060726575.1	SAMN38604352	perflava		PRJNA799247	unknown	Homo sapiens	stool		USA: Louisville	2012	19	2219540	Scaffold
+GCA_900453805.1	SAMEA3936792	flavescens		PRJEB6403	not_applicable_culture	not available	not available: to be reported later			1900/1952	4	2291788	Contig
+GCA_900654165.1	SAMEA5208238	perflava		PRJEB30649	not_applicable_culture		Semen				34	2207472	Contig
+GCA_900654185.1	SAMEA5208240	perflava		PRJEB30649	not_applicable_culture		Semen				36	2268952	Contig
+GCA_900654195.1	SAMEA5208241	subflava		PRJEB30649	not_applicable_culture		Semen				79	2194968	Contig
+GCA_901873995.1	SAMEA5664366	flavescens		PRJEB32184	not_applicable_culture						76	2211994	Contig
+GCA_902485275.1	SAMEA5852894	perflava		PRJEB33885	unknown		human gut		USA		16	2136685	Contig
+GCA_905371675.1	SAMEA8395104	subflava		PRJEB43277	unknown		not provided		not provided	not provided	57	2245144	Contig
+GCA_916048815.1	SAMEA9943325	perflava		PRJEB41354	unknown		human oral metagenome		France	2004-01-01	13	2203954	Contig
+GCA_927911295.1	SAMEA12514454	perflava		PRJEB49987	unknown		human oral metagenome		not provided	not provided	115	2246445	Contig
+GCA_937936115.1	SAMEA14086109	perflava		PRJEB51075	unknown		human gut metagenome		Luxembourg	2012-10-19	23	2144886	Contig
+GCA_946902045.1	SAMEA111348536	perflava		PRJEB55195	unknown						1	2354813	Complete Genome
+GCA_963264865.1	SAMEA114260487	flavescens		PRJEB61647	not_applicable_culture				USA	2022	1	2307654	Complete Genome
+GCA_963281055.1	SAMEA114260481	flavescens		PRJEB61647	not_applicable_culture				USA	2022	1	2302850	Complete Genome
+GCA_963394955.1	SAMEA678022	flavescens		PRJEB2090	not_applicable_collection						104	2213989	Contig
+GCA_963394965.1	SAMEA678325	flavescens		PRJEB2090	not_applicable_collection						112	2215124	Contig
+GCA_963394995.1	SAMEA678023	perflava		PRJEB2090	not_applicable_collection						35	2232609	Contig
+GCA_963395005.1	SAMEA678326	subflava		PRJEB2090	not_applicable_collection						73	2253743	Contig
+GCA_963395055.1	SAMEA678303	subflava		PRJEB2090	not_applicable_collection						60	2137566	Contig
+GCA_963396205.1	SAMEA678203	subflava		PRJEB2090	not_applicable_collection	Homo sapiens					58	2239536	Contig
+GCA_963396215.1	SAMEA678051	perflava		PRJEB2090	not_applicable_collection						17	2218205	Contig
+GCA_963396225.1	SAMEA678330	subflava		PRJEB2090	not_applicable_collection	Homo sapiens	throat swab				67	2156389	Contig
+GCA_963396245.1	SAMEA678509	subflava		PRJEB2090	not_applicable_collection	Homo sapiens			Sweden	1989	126	2283276	Contig
+GCA_963396255.1	SAMEA678351	subflava		PRJEB2090	not_applicable_collection	Homo sapiens					71	2155950	Contig
+GCA_963396265.1	SAMEA678208	subflava		PRJEB2090	not_applicable_collection	Homo sapiens					77	2241736	Contig
+GCA_963521115.1	SAMEA114444612	perflava		PRJEB65351	unknown		oral metagenome		Australia	2007-03-08	15	2188814	Contig
+GCA_963522635.1	SAMEA114444196	perflava		PRJEB65351	unknown		oral metagenome		Australia	2007-03-02	29	2413073	Contig
+GCA_963534905.1	SAMEA114447639	perflava		PRJEB56901	unknown		oral metagenome		not provided	not provided	96	2252071	Contig
+GCA_963537545.1	SAMEA114448091	perflava		PRJEB56572	unknown		oral metagenome		China	2020-08-11	21	2098647	Contig
+GCA_963539435.1	SAMEA114447679	perflava		PRJEB56901	unknown		oral metagenome		not provided	not provided	17	2164673	Contig
+GCA_963547685.1	SAMEA114448973	perflava		PRJEB65451	unknown		oral metagenome		Denmark	2018-01	16	2122784	Contig
+GCA_963548445.1	SAMEA114449193	perflava		PRJEB65451	unknown		oral metagenome		Denmark	2018-01	19	2162534	Contig
+GCA_963550065.1	SAMEA114449849	perflava		PRJEB65452	unknown		oral metagenome		Hong Kong	2022	32	2225960	Contig
+GCA_963552535.1	SAMEA114449552	subflava		PRJEB65452	unknown		oral metagenome		Hong Kong	2022	85	2035886	Contig
+GCA_965239915.1	SAMEA117990875	perflava		PRJEB87718	unknown		human oral metagenome		USA	2020-04-01/2021-03-01	101	2215846	Contig
+GCA_965241375.1	SAMEA117995486	perflava		PRJEB87751	unknown		human oral metagenome		Germany	2021	214	2173100	Contig
+GCA_965241655.1	SAMEA117995564	perflava		PRJEB87751	unknown		human oral metagenome		Germany	2021	72	2124269	Contig
+GCA_965241865.1	SAMEA117995569	perflava		PRJEB87751	unknown		human oral metagenome		Germany	2021	110	2071493	Contig
+GCA_965242275.1	SAMEA117995614	flavescens		PRJEB87751	unknown		human oral metagenome		Germany	2021	120	2162088	Contig
+GCA_965242295.1	SAMEA117995616	perflava		PRJEB87751	unknown		human oral metagenome		Germany	2021	92	2105567	Contig
+GCA_965244515.1	SAMEA117996223	perflava		PRJEB87750	unknown		human oral metagenome		Belgium	2020-06-22	32	2148639	Contig
+GCA_976991425.1	SAMEA120312790	perflava		PRJEB88579	unknown		human oral metagenome		China	2022	48	2100225	Contig
+GCA_976995455.1	SAMEA120314176	perflava		PRJEB88198	unknown		human oral metagenome		not provided	missing: third party data	168	2142052	Contig
+GCA_976995635.1	SAMEA120314473	perflava		PRJEB87797	unknown		human oral metagenome		USA	missing: third party data	10	2160599	Contig
+GCA_976996255.1	SAMEA120314483	perflava		PRJEB87797	unknown		human oral metagenome		USA	2021-03-26	27	2264524	Contig
+GCA_976998465.1	SAMEA120315672	subflava		PRJEB88019	unknown		human oral metagenome		USA	2020	58	2180407	Contig
+GCA_977001715.1	SAMEA120323724	perflava		PRJEB88167	unknown		human oral metagenome		USA	2017/2022	104	2094996	Contig
+GCA_977004525.1	SAMEA120324304	perflava		PRJEB88590	unknown		human oral metagenome		China	2017-11	29	2206905	Contig
+GCA_977005275.1	SAMEA120324851	perflava		PRJEB88030	unknown		human oral metagenome		Spain	2021	46	2081155	Contig
+GCA_977006055.1	SAMEA120324898	perflava		PRJEB88030	unknown		human oral metagenome		Spain	2021	43	2227041	Contig
+GCA_977006735.1	SAMEA120324936	perflava		PRJEB89748	unknown		human oral metagenome		Finland	2023-07-08	223	2079842	Contig
+GCA_977038685.1	SAMEA120502388	flavescens		PRJEB102291	unknown		human duodenal aspirate		Central African Republic	2018-10-01	112	2158660	Scaffold
+GCA_977041825.1	SAMEA120502438	flavescens		PRJEB102291	unknown		human duodenal aspirate		Central African Republic	2018-10-10	50	2180655	Contig
+GCA_977043615.1	SAMEA120501276	flavescens		PRJEB102291	unknown		human gastric aspirate		Central African Republic	2018-07-30	46	2235788	Contig
+GCA_977047545.1	SAMEA120502100	flavescens		PRJEB102291	unknown		human duodenal aspirate		Central African Republic	2018-09-20	115	2131409	Contig
+GCA_977050065.1	SAMEA120501431	flavescens		PRJEB102291	unknown		human gastric aspirate		Central African Republic	2018-07-30	54	2163873	Scaffold
+GCA_977054875.1	SAMEA120500793	flavescens		PRJEB102291	unknown		human gastric aspirate		Central African Republic	2018-07-02	131	2228417	Contig
+GCA_980944255.1	SAMEA121671879	perflava		PRJEB88459	unknown		human oral metagenome		not provided	missing: data agreement established pre-2023	41	2105926	Contig
+GCA_981111505.1	SAMEA121724690	perflava		PRJEB89475	unknown		human oral metagenome		USA	2016-12-08	15	2125695	Contig
+GCA_981118575.1	SAMEA121724631	perflava		PRJEB89475	unknown		human oral metagenome		USA	2016-12-02	76	2117935	Contig
+GCA_981121355.1	SAMEA121724848	perflava		PRJEB89475	unknown		human oral metagenome		USA	2016-12-02	14	2158635	Contig

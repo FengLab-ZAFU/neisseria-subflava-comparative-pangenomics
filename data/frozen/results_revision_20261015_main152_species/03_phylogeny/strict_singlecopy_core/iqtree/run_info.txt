@@ -1,0 +1,6 @@
+start_utc 2026-10-15T04:27:04Z
+threads=96 seed=20261015
+iqtree_version=IQ-TREE multicore version 2.4.0 for Linux x86 64-bit built Feb 12 2025
+cmd: iqtree2 -s ../core_alignment.fasta -m GTR+F+I+R4 -B 1000 -alrt 1000 -seed 20261015 -T 96 -keep-ident --prefix main152
+end_utc 2026-10-15T11:58:23Z
+exit_code=0

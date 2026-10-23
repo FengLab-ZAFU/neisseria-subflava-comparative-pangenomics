@@ -1,0 +1,4 @@
+set=main152_orth95 tool=pgap2 orth_id=0.95
+n_samples=152 n_clusters=12998 n_occurrences=328376
+partitions={'Shell': 838, 'Cloud': 10601, 'Strict_core': 1119, 'Soft_core': 209, 'Core': 231}
+assertions=ALL_PASS

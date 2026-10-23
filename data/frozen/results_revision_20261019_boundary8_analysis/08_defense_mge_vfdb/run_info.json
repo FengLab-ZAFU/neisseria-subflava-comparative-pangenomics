@@ -1,0 +1,57 @@
+{
+  "module": "D2_defense_vfdb_mge_gi_descriptive",
+  "run_id": "boundary8_D2_20261019",
+  "status": "COMPLETED",
+  "utc_finalized": "2026-10-19T05:27:46.633108+00:00",
+  "python": "3.14.6",
+  "r_environment": "boundary8_r",
+  "scopes": {
+    "primary144": {
+      "n": 144,
+      "subflava": 23,
+      "perflava": 114,
+      "flavescens": 7
+    },
+    "sensitivity152": {
+      "n": 152,
+      "subflava": 31,
+      "perflava": 114,
+      "flavescens": 7
+    },
+    "descriptive8": {
+      "n": 8,
+      "display_group": "unresolved_species"
+    },
+    "participant_subset_from144": {
+      "n": 95,
+      "subflava": 11,
+      "perflava": 78,
+      "flavescens": 6
+    }
+  },
+  "outputs": {
+    "08_defense_mge_vfdb": [
+      "defense_stats.tsv",
+      "defense_family_tests.tsv",
+      "defense_prevalence.tsv",
+      "defense_assembly_model.tsv",
+      "model_diagnostics.tsv",
+      "participant_subset_manifest.tsv",
+      "sensitivity_defense.tsv",
+      "vfdb_prevalence.tsv",
+      "vfdb_feature_tests.tsv",
+      "mge_gi_descriptive_by_group.tsv",
+      "run_info.json"
+    ],
+    "09_interval_overlap": [
+      "occurrence_overlap.tsv",
+      "gi_mge_overlap.tsv"
+    ]
+  },
+  "notes": [
+    "KW omnibus and Fisher exact computed with R stats::kruskal.test and stats::fisher.test (two-sided, conditional MLE).",
+    "Assembly model: rank(n_complete_systems) ~ species_group + assembly_class + log1p(n_contigs) + genome_size_Mb on 144 complete cases.",
+    "Participant subset: 95 representatives selected from 144 by (study_namespace, participant_id) grouping and quality rank.",
+    "MGE/GI descriptive table summarises per_genome_features.tsv and 09_interval_overlap tables; no new hypothesis tests."
+  ]
+}

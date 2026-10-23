@@ -1,0 +1,40 @@
+case_id	case_kind	edge_types	accession	feature_id	contig_id	gene_start	gene_end	strand	main_overlap_bp	naive_overlap_bp	main_any_bp	naive_any_bp	main_half_gene	naive_half_gene	match	notes
+R001	real	boundary_touch_no_overlap	GCA_001618065.1	N001618065_01651	LAEI01000001.1	72926	73310	+	0	0	False	False	False	False	TRUE	gene_len=384;n_mge_intervals_contig=1
+R002	real	same_contig_name_cross_accession	GCA_001618085.1	N001618085_00001	LAEK01000014.1	0	339	+	234	234	True	True	True	True	TRUE	gene_len=339;n_mge_intervals_contig=1
+R003	real	half_threshold_just_above	GCA_001810105.1	N001810105_01889	KV799997.1	6	195	+	98	98	True	True	True	True	TRUE	gene_len=189;n_mge_intervals_contig=1
+R004	real	same_contig_name_cross_accession	GCA_001811365.1	N001811365_00145	KV804556.1	141764	142457	-	0	0	False	False	False	False	TRUE	gene_len=693;n_mge_intervals_contig=3
+R005	real	half_threshold_just_above	GCA_001811855.1	N001811855_00904	KV806766.1	76399	76912	+	266	266	True	True	True	True	TRUE	gene_len=513;n_mge_intervals_contig=2
+R006	real	random_filler	GCA_002863305.2	N002863305_01890	CP136962.1	2018429	2019728	-	0	0	False	False	False	False	TRUE	gene_len=1299;n_mge_intervals_contig=11
+R007	real	circular_contig_gene	GCA_005221305.1	N005221305_00994	CP039887.1	1026331	1026922	+	0	0	False	False	False	False	TRUE	gene_len=591;n_mge_intervals_contig=33
+R008	real	circular_contig_gene	GCA_005221305.1	N005221305_01307	CP039887.1	1361936	1362893	-	0	0	False	False	False	False	TRUE	gene_len=957;n_mge_intervals_contig=33
+R009	real	boundary_touch_no_overlap	GCA_024205725.1	N024205725_01271	CP073116.1	1279005	1279827	+	0	0	False	False	False	False	TRUE	gene_len=822;n_mge_intervals_contig=18
+R010	real	circular_contig_gene	GCA_024205785.1	N024205785_01713	CP073119.1	1761293	1762352	-	0	0	False	False	False	False	TRUE	gene_len=1059;n_mge_intervals_contig=25
+R011	real	1bp_overlap	GCA_030218065.1	N030218065_00834	JASOPA010000001.1	455207	456299	-	1	1	True	True	False	False	TRUE	gene_len=1092;n_mge_intervals_contig=6
+R012	real	plus_strand	GCA_041433235.1	N041433235_00268	JAPWBB010000001.1	282064	283390	+	1326	1326	True	True	True	True	TRUE	gene_len=1326;n_mge_intervals_contig=1
+R013	real	plus_strand	GCA_050330235.1	N050330235_01892	DBIOTM010000015.1	733	907	+	174	174	True	True	True	True	TRUE	gene_len=174;n_mge_intervals_contig=1
+R014	real	1bp_overlap	GCA_051957115.1	N051957115_00240	JBQCWT010000001.1	261921	262011	-	1	1	True	True	False	False	TRUE	gene_len=90;n_mge_intervals_contig=5
+R015	real	minus_strand	GCA_051957155.1	N051957155_00922	JBQCWS010000002.1	262850	263234	-	384	384	True	True	True	True	TRUE	gene_len=384;n_mge_intervals_contig=1
+R016	real	minus_strand	GCA_051962735.1	N051962735_00126	JBQCVB010000001.1	130332	130995	-	663	663	True	True	True	True	TRUE	gene_len=663;n_mge_intervals_contig=1
+R017	real	half_threshold_just_below	GCA_051962735.1	N051962735_02268	JBQCVB010000015.1	1493	2006	+	234	234	True	True	False	False	TRUE	gene_len=513;n_mge_intervals_contig=1
+R018	real	half_threshold_just_below	GCA_051962935.1	N051962935_02114	JBQCUT010000017.1	4360	4549	-	89	89	True	True	False	False	TRUE	gene_len=189;n_mge_intervals_contig=1
+R019	real	half_threshold_just_below	GCA_056638355.1	N056638355_00397	JBWVND010000002.1	2791	3151	+	171	171	True	True	False	False	TRUE	gene_len=360;n_mge_intervals_contig=2
+R020	real	half_threshold_just_above	GCA_900453805.1	N900453805_00369	UGQV01000004.1	357373	357496	+	62	62	True	True	True	True	TRUE	gene_len=123;n_mge_intervals_contig=47
+R021	real	1bp_overlap	GCA_900453805.1	N900453805_00378	UGQV01000004.1	362149	363475	+	1	1	True	True	False	False	TRUE	gene_len=1326;n_mge_intervals_contig=47
+R022	real	plus_strand	GCA_963394965.1	N963394965_00603	CAUJPW010000005.1	16446	16839	+	393	393	True	True	True	True	TRUE	gene_len=393;n_mge_intervals_contig=1
+R023	real	minus_strand	GCA_963396205.1	N963396205_00827	CAUJRH010000005.1	10362	10737	-	375	375	True	True	True	True	TRUE	gene_len=375;n_mge_intervals_contig=2
+R024	real	boundary_touch_no_overlap	GCA_963396245.1	N963396245_01608	CAUJRL010000019.1	25761	26145	+	0	0	False	False	False	False	TRUE	gene_len=384;n_mge_intervals_contig=1
+S01	synthetic	boundary_touch_no_overlap	SYNTHETIC	S01	SYNTHETIC	100	200	NA	0	0	False	False	False	False	TRUE	synthetic unit case; intervals=[(200, 350)]
+S02	synthetic	1bp_overlap	SYNTHETIC	S02	SYNTHETIC	100	200	NA	1	1	True	True	False	False	TRUE	synthetic unit case; intervals=[(199, 350)]
+S03	synthetic	half_threshold_exact	SYNTHETIC	S03	SYNTHETIC	100	300	NA	100	100	True	True	True	True	TRUE	synthetic unit case; intervals=[(150, 250)]
+S04	synthetic	half_threshold_just_below	SYNTHETIC	S04	SYNTHETIC	100	300	NA	99	99	True	True	False	False	TRUE	synthetic unit case; intervals=[(151, 250)]
+S05	synthetic	mge_union_double_count_guard	SYNTHETIC	S05	SYNTHETIC	100	300	NA	160	160	True	True	True	True	TRUE	synthetic unit case; intervals=[(120, 220), (180, 280)]
+S06	synthetic	circular_wrap_offset	SYNTHETIC	S06	SYNTHETIC_CIRC_L1000	960	990	NA	30	30	True	True	NA	NA	TRUE	circular L=1000 offset=850 shifted=[(950, 1000), (0, 50)]
+S07	synthetic	circular_wrap_origin_segment	SYNTHETIC	S07	SYNTHETIC_CIRC_L1000	0	40	NA	40	40	True	True	NA	NA	TRUE	circular L=1000 offset=850 shifted=[(950, 1000), (0, 50)]
+DEG_GCA_001814445.1_KV816499.1	degenerate_check	single_legal_offset_exclusion	GCA_001814445.1	NA	KV816499.1	NA	NA	NA	NA	NA	NA	NA	NA	NA	TRUE	L=3196;span=[0,3196);n_legal_offsets=1;n_genes_on_contig=1;all_ineligible=True
+DEG_GCA_003044665.1_POXO01000025.1	degenerate_check	single_legal_offset_exclusion	GCA_003044665.1	NA	POXO01000025.1	NA	NA	NA	NA	NA	NA	NA	NA	NA	TRUE	L=1216;span=[0,1216);n_legal_offsets=1;n_genes_on_contig=1;all_ineligible=True
+DEG_GCA_038738605.1_JBCGFA010000029.1	degenerate_check	single_legal_offset_exclusion	GCA_038738605.1	NA	JBCGFA010000029.1	NA	NA	NA	NA	NA	NA	NA	NA	NA	TRUE	L=1218;span=[0,1218);n_legal_offsets=1;n_genes_on_contig=1;all_ineligible=True
+SYNTH_CIRC_WORKER	synthetic	circular_wrap_all_1000_iterations_through_main_worker	SYNTH_CIRC	4 genes x 1000 iters x 2 criteria	SYNTH_C1	NA	NA	NA	NA	NA	NA	NA	NA	NA	TRUE	main worker vs naive position circle; mismatches=0 of 8000 checks
+NULL_flavescens_Soft_core_any_bp_iter1	null_iteration_recheck	end_to_end_seed_to_hits;combo=flavescens/Soft_core/any_bp	MULTI	NA	MULTI	NA	NA	NA	NA	NA	NA	NA	NA	NA	TRUE	iteration=1;seed=6159951166603022639;main_hits=33;naive_hits=33;n_eligible=197
+NULL_flavescens_Soft_core_any_bp_iter500	null_iteration_recheck	end_to_end_seed_to_hits;combo=flavescens/Soft_core/any_bp	MULTI	NA	MULTI	NA	NA	NA	NA	NA	NA	NA	NA	NA	TRUE	iteration=500;seed=10973764023746993531;main_hits=22;naive_hits=22;n_eligible=197
+NULL_flavescens_Soft_core_any_bp_iter1000	null_iteration_recheck	end_to_end_seed_to_hits;combo=flavescens/Soft_core/any_bp	MULTI	NA	MULTI	NA	NA	NA	NA	NA	NA	NA	NA	NA	TRUE	iteration=1000;seed=2287024693733413730;main_hits=36;naive_hits=36;n_eligible=197
+NULL_pooled_Strict_core_any_bp_iter7	null_iteration_recheck	end_to_end_seed_to_hits;combo=pooled/Strict_core/any_bp	MULTI	NA	MULTI	NA	NA	NA	NA	NA	NA	NA	NA	NA	TRUE	iteration=7;seed=6332130069200129828;main_hits=1002;naive_hits=1002;n_eligible=1118

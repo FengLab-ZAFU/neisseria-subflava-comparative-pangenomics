@@ -1,0 +1,13 @@
+{
+ "module": "M0b",
+ "status": "PASS",
+ "cache_binding": "152/152 sha256 match",
+ "directional_pairs": 23104,
+ "unordered_nonself_pairs": 11476,
+ "self_ani_min": 99.9999,
+ "self_ani_max": 100.0,
+ "offdiag_ani_min": 93.2921,
+ "offdiag_ani_max": 99.99985,
+ "matrix_order": "main152_accessions.txt row order",
+ "note": "symmetric matrices built from mean/min of both directions; self pairs keep measured values; no ANI>=95 rescreening applied"
+}

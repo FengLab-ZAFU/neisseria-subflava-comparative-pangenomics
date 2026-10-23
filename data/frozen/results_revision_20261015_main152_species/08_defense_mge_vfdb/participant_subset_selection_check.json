@@ -1,0 +1,16 @@
+{
+ "n_selected": 121,
+ "group_counts": {
+  "flavescens": 7,
+  "perflava": 90,
+  "subflava": 24
+ },
+ "expected_n": 121,
+ "expected_groups": {
+  "subflava": 24,
+  "perflava": 90,
+  "flavescens": 7
+ },
+ "mismatches": [],
+ "status": "PASS"
+}

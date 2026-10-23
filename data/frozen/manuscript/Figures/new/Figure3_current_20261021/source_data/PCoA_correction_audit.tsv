@@ -1,0 +1,5 @@
+feature_set	scope	n	min_raw_eigenvalue	constant_added	max_corrected_eigenvalue_negative	tolerance_relative	within_tolerance
+shell_cloud	overall152	152	-0.00879131757571	0.0175826351514	-2.34590597362e-16	1e-08	TRUE
+all_variable	overall152	152	-0.0159542866242	0.0319085732483	0	1e-08	TRUE
+shell_cloud	primary144	144	-0.00783308330836	0.0156661666167	-2.705970518e-16	1e-08	TRUE
+all_variable	primary144	144	-0.0151241305443	0.0302482610885	-4.28910755955e-17	1e-08	TRUE

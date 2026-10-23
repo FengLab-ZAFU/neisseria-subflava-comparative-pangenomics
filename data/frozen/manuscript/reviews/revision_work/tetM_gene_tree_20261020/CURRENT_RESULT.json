@@ -1,0 +1,10 @@
+{
+  "current_analysis": "all52_direct",
+  "input_sequences": 52,
+  "carrier_genomes": 38,
+  "primary_tree": "all52_direct/tetM_all52_ML.treefile",
+  "primary_figure": "all52_direct/tetM_all52_direct_gene_tree.pdf",
+  "prior_haplotype_analysis": "retained for provenance; not the current full-sequence result",
+  "preferred_visualization": "haplotype_alignment_view/tetM_sequence_types_and_variable_sites.pdf",
+  "preferred_visualization_analysis": "original seven-sequence-type inference with its own supports; the direct 52-tip result remains separately retained"
+}

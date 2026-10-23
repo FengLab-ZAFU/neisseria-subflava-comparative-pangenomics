@@ -1,0 +1,7 @@
+stage	n	rule
+candidate_assemblies	1303	genus-wide freeze snapshot 2026-10-01, 1303 records
+type_reference_membership_pass	327	ANI>=95% and min bidirectional AF>=0.70 to a type-anchored reference channel with margin>=0.10 pp
+after_provenance_and_QC	243	provenance corrections + CheckM2 completeness>=90%, contamination<=5%, N50>=10 kb
+dereplicated_representatives_before_final_reference_assignment_filter	169	independent-unit dereplication representatives
+excluded_non_unique_reference_assignment	17	17 records without a unique reference assignment (ledger retained for traceability only)
+final_main_cohort	152	152 genomes: subflava 31, perflava 114, flavescens 7

@@ -1,0 +1,9 @@
+Numerical-family decision, recorded before formal bootstrap and comparisons:
+All four default Tweedie point fits reached the IRLS iteration limit and are excluded from inference.
+Independent fixed-p diagnosis at maxit=200 converged but does not validate the package profile optimisation or bootstrap at default maxit.
+Use the officially supported Gaussian identity-link alternative uniformly for all primary and root-sensitivity scopes.
+Retain the full default formula including istip:core. Report estimates as linear branch-change associations, never exponentiated rate ratios.
+Use 1000 branch-bootstrap replicates per fit and per pairwise comparison; compare_pangenomes uses group-stratified resampling.
+Primary multiplicity family: three pairwise core-interaction tests, BH adjusted. Secondary tip/depth comparisons adjusted separately across six tests.
+Require >=95% finite full-rank bootstrap coefficient vectors; keep failed comparisons explicitly unestimated.
+Report residual, influence, small-group and rooting sensitivity diagnostics. No recombination-filtered or time-calibrated claim.

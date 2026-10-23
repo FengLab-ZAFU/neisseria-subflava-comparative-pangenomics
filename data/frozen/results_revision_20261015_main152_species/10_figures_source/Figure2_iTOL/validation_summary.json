@@ -1,0 +1,7 @@
+{
+ "n_internal_nodes": 151,
+ "n_symbol_edges": 119,
+ "n_root_split_duplicates": 1,
+ "unique_internal_ids": true,
+ "note": "server delivers text inputs only; no image rendering"
+}

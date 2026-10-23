@@ -1,0 +1,7 @@
+analysis_id	burden	n	k_groups	H	df	p	q_BH_within_3_burdens	epsilon2	epsilon2_untruncated	family_id	status	reason
+main152_primary	n_complete_systems	152	3	21.01863337	2	2.728109226e-05	8.184327677e-05	0.1276418347	0.1276418347	defense_burden_KW_omnibus	OK	
+main152_primary	n_complete_families	152	3	12.85574413	2	0.001615885681	0.001615885681	0.07285734313	0.07285734313	defense_burden_KW_omnibus	OK	
+main152_primary	n_partial_systems	152	3	14.42693873	2	0.0007365971941	0.001104895791	0.08340227333	0.08340227333	defense_burden_KW_omnibus	OK	
+participant_subset_121	n_complete_systems	121	3	12.94921735	2	0.001542102279	0.003170666928	0.09278997758	0.09278997758	defense_burden_KW_omnibus	OK	
+participant_subset_121	n_complete_families	121	3	8.558200626	2	0.01385512176	0.01385512176	0.0555779714	0.0555779714	defense_burden_KW_omnibus	OK	
+participant_subset_121	n_partial_systems	121	3	12.31855687	2	0.002113777952	0.003170666928	0.08744539718	0.08744539718	defense_burden_KW_omnibus	OK	

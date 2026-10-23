@@ -1,0 +1,77 @@
+{
+  "module": "D1",
+  "status": "COMPLETE",
+  "date": "2026-10-19",
+  "expected_tetM_counts": {
+    "overall152": {
+      "positive_genomes": 38,
+      "loci": 57
+    },
+    "primary144": {
+      "positive_genomes": 35,
+      "loci": 54
+    },
+    "descriptive8": {
+      "positive_genomes": 3,
+      "loci": 3
+    },
+    "subflava": {
+      "positive_genomes": 0,
+      "evaluable_genomes": 23
+    },
+    "perflava": {
+      "positive_genomes": 35,
+      "evaluable_genomes": 114
+    },
+    "flavescens": {
+      "positive_genomes": 0,
+      "evaluable_genomes": 7
+    }
+  },
+  "observed_tetM_genome_counts": {
+    "overall152": {
+      "positive": 38,
+      "evaluable": 152
+    },
+    "primary144": {
+      "positive": 35,
+      "evaluable": 144
+    },
+    "descriptive8": {
+      "positive": 3,
+      "evaluable": 8
+    },
+    "subflava": {
+      "positive": 0,
+      "evaluable": 23
+    },
+    "perflava": {
+      "positive": 35,
+      "evaluable": 114
+    },
+    "flavescens": {
+      "positive": 0,
+      "evaluable": 7
+    }
+  },
+  "observed_tetM_locus_counts": {
+    "overall152": 57,
+    "primary144": 54,
+    "descriptive8": 3,
+    "subflava": 0,
+    "perflava": 54,
+    "flavescens": 0
+  },
+  "benchmark_pass": true,
+  "notes": "Observed tet(M) counts match expected benchmarks.",
+  "output_summary": {
+    "carriage_by_group_rows": 60,
+    "amr_association_all_rows": 36,
+    "feature_evaluable_matrix_rows": 1824,
+    "sensitivity_amr_tetm_rows": 36,
+    "n_features": 12,
+    "n_primary144_association_tests": 36,
+    "n_valid_primary144_association_tests": 9,
+    "n_participant_subset": 95
+  }
+}

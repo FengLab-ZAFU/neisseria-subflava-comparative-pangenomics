@@ -1,0 +1,153 @@
+accession	biosample	unit_id	display_label	label_source	submitted_strain	submitted_isolate	submitted_sample_name	operational_label	ANI_color	geo_loc_name	collection_region	tetM_state	tetM_label
+GCA_000173955.1	SAMN00008843	CU00005	NJ9703	strain	NJ9703			perflava	#E76F51	not determined	Unknown / not applicable	negative	tet(M)-
+GCA_001809345.1	SAMN04477501	CU00046	HMSC072B12	strain	HMSC072B12			perflava	#E76F51		Unknown / not applicable	negative	tet(M)-
+GCA_001810035.1	SAMN04477541	CU00048	HMSC058F07	strain	HMSC058F07			perflava	#E76F51		Unknown / not applicable	positive	tet(M)+
+GCA_051957375.1	SAMN48969077	CU00472	P0017.S009	strain	P0017.S009			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_051957755.1	SAMN48969069	CU00474	P0017.S001	strain	P0017.S001			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_001811065.1	SAMN04477595	CU00052	HMSC075C12	strain	HMSC075C12			perflava	#E76F51		Unknown / not applicable	positive	tet(M)+
+GCA_001812055.1	SAMN04477646	CU00056	HMSC067H04	strain	HMSC067H04			perflava	#E76F51		Unknown / not applicable	positive	tet(M)+
+GCA_001812885.1	SAMN04480047	CU00060	HMSC067G11	strain	HMSC067G11			perflava	#E76F51		Unknown / not applicable	positive	tet(M)+
+GCA_001812725.1	SAMN04480039	CU00058	HMSC067G12	strain	HMSC067G12			perflava	#E76F51		Unknown / not applicable	positive	tet(M)+
+GCA_041433205.1	SAMN30825716	CU00274	27098_8_142	strain	27098_8_142			perflava	#E76F51	United Kingdom: London	Europe	positive	tet(M)+
+GCA_038738605.1	SAMN40982432	CU00270	UMB0578	strain	UMB0578			perflava	#E76F51	USA: Maywood, IL	United States	negative	tet(M)-
+GCA_058214815.1	SAMN60412776	CU00549	SCPM-O-B-17838 (M314)	strain	SCPM-O-B-17838 (M314)			perflava	#E76F51	Russia: Moscow	Europe	negative	tet(M)-
+GCA_001811945.1	SAMN04477641	CU00055	HMSC071A01	strain	HMSC071A01			perflava	#E76F51		Unknown / not applicable	negative	tet(M)-
+GCA_051963075.1	SAMN48968974	CU00487	P0005.S008	strain	P0005.S008			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_001814095.1	SAMN04480384	CU00062	HMSC068C12	strain	HMSC068C12			perflava	#E76F51		Unknown / not applicable	negative	tet(M)-
+GCA_963394995.1	SAMEA678023	CU00780	CCUG 7826	strain	CCUG 7826		7826-sc-2010-05-07-9943	perflava	#E76F51		Unknown / not applicable	negative	tet(M)-
+GCA_900654165.1	SAMEA5208238	CU00573	N13	strain	N13		PRJEB30649-R19	perflava	#E76F51		Unknown / not applicable	negative	tet(M)-
+GCA_051956975.1	SAMN48969109	CU00463	P0021.S002	strain	P0021.S002			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_051958535.1	SAMN48969024	CU00480	P0012.S006	strain	P0012.S006			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_051963435.1	SAMN48968951	CU00488	P0003.S004	strain	P0003.S004			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_051963515.1	SAMN48968950	CU00489	P0003.S003	strain	P0003.S003			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_003044525.1	SAMN08299208	CU00109	C2009010520	strain	C2009010520			perflava	#E76F51	USA: Minnesota	United States	negative	tet(M)-
+GCA_023472875.1	SAMN28187201	CU00227	CCUG 17915	strain	CCUG 17915			perflava	#E76F51	Missing	Unknown / not applicable	negative	tet(M)-
+GCA_001811855.1	SAMN04477637	CU00054	HMSC063B05	strain	HMSC063B05			perflava	#E76F51		Unknown / not applicable	negative	tet(M)-
+GCA_051962735.1	SAMN48969000	CU00483	P0009.S001	strain	P0009.S001			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_051962805.1	SAMN48968991	CU00484	P0008.S002	strain	P0008.S002			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_003044355.1	SAMN08299198	CU00101	C2005001510	strain	C2005001510			perflava	#E76F51	USA: Minnesota	United States	negative	tet(M)-
+GCA_003044585.1	SAMN08299215	CU00112	C2011004960	strain	C2011004960			perflava	#E76F51	USA: Minnesota	United States	negative	tet(M)-
+GCA_042536745.1	SAMN18012347	CU00351	MO07 (strain 1)	isolate + submitted strain	1	MO07		perflava	#E76F51	Belgium: Antwerp	Europe	negative	tet(M)-
+GCA_042536955.1	SAMN18012348	CU00357	MO07 (strain 2)	isolate + submitted strain	2	MO07		perflava	#E76F51	Belgium: Antwerp	Europe	negative	tet(M)-
+GCA_900654185.1	SAMEA5208240	CU00575	N57	strain	N57		PRJEB30649_R21	perflava	#E76F51		Unknown / not applicable	negative	tet(M)-
+GCA_051962935.1	SAMN48968980	CU00485	P0006.S005	strain	P0006.S005			perflava	#E76F51	USA: Rochester, New York	United States	positive	tet(M)+
+GCA_946902045.1	SAMEA111348536	CU00621	Marseille-Q5346	strain	Marseille-Q5346		PRJEB55195	perflava	#E76F51		Unknown / not applicable	negative	tet(M)-
+GCA_001618075.1	SAMN03329002	CU00039	CD-NF3	strain	CD-NF3			perflava	#E76F51	Italy: Naples	Europe	negative	tet(M)-
+GCA_001815375.1	SAMN04480440	CU00066	HMSC065C04	strain	HMSC065C04			perflava	#E76F51		Unknown / not applicable	negative	tet(M)-
+GCA_002847985.1	SAMN08193709	CU00096	UMB0210	strain	UMB0210			perflava	#E76F51	USA: Maywood, IL	United States	negative	tet(M)-
+GCA_002863305.2	SAMN08193708	CU00098	UMB0023	strain	UMB0023			perflava	#E76F51	USA: Maywood, IL	United States	negative	tet(M)-
+GCA_003044925.1	SAMN08299217	CU00129	C2011020198	strain	C2011020198			perflava	#E76F51	USA: Minnesota	United States	positive	tet(M)+
+GCA_052858915.1	SAMN51436602	CU00504	164878	strain	164878			perflava	#E76F51	Japan: Tokyo	East / Southeast Asia	positive	tet(M)+
+GCA_052859265.1	SAMN51436603	CU00520	164872	strain	164872			perflava	#E76F51	Japan: Tokyo	East / Southeast Asia	positive	tet(M)+
+GCA_003351665.1	SAMN09704641	CU00139	M18660	strain	M18660			perflava	#E76F51	not applicable	Unknown / not applicable	negative	tet(M)-
+GCA_003044935.1	SAMN08299220	CU00130	C2012011976	strain	C2012011976			perflava	#E76F51	USA: Minnesota	United States	negative	tet(M)-
+GCA_051962855.1	SAMN48968985	CU00425	P0006.S010	strain	P0006.S010			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_041433145.1	SAMN30825717	CU00272	27098_8_158	strain	27098_8_158			perflava	#E76F51	United Kingdom: London	Europe	negative	tet(M)-
+GCA_963396215.1	SAMEA678051	CU00790	CCUG 24918	strain	CCUG 24918		24918-sc-2010-05-07-9940	perflava	#E76F51		Unknown / not applicable	negative	tet(M)-
+GCA_014596425.2	SAMN05362870	CU00197	RH3002v2g	strain	RH3002v2g			perflava	#E76F51	United Kingdom: Egham	Europe	positive	tet(M)+
+GCA_051956595.1	SAMN48969142	CU00455	P0024.S006	strain	P0024.S006			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_051956655.1	SAMN48969138	CU00457	P0024.S002	strain	P0024.S002			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_052858825.1	SAMN51436597	CU00499	164874	strain	164874			perflava	#E76F51	Japan: Tokyo	East / Southeast Asia	negative	tet(M)-
+GCA_052858845.1	SAMN51436598	CU00500	164875	strain	164875			perflava	#E76F51	Japan: Tokyo	East / Southeast Asia	negative	tet(M)-
+GCA_051963175.1	SAMN48968963	CU00424	P0004.S007	strain	P0004.S007			perflava	#E76F51	USA: Rochester, New York	United States	positive	tet(M)+
+GCA_052859025.1	SAMN51436600	CU00508	164862	strain	164862			perflava	#E76F51	Japan: Tokyo	East / Southeast Asia	negative	tet(M)-
+GCA_041433255.1	SAMN30825713	CU00276	20925_1_37	strain	20925_1_37			perflava	#E76F51	United Kingdom: London	Europe	negative	tet(M)-
+GCA_001618085.1	SAMN03329021	CU00040	CNF	strain	CNF			perflava	#E76F51	Italy: Naples	Europe	negative	tet(M)-
+GCA_001837185.1	SAMN04498601	CU00073	HMSC064D07	strain	HMSC064D07			perflava	#E76F51		Unknown / not applicable	negative	tet(M)-
+GCA_052859205.1	SAMN51436605	CU00517	164869	strain	164869			perflava	#E76F51	Japan: Tokyo	East / Southeast Asia	negative	tet(M)-
+GCA_041433265.1	SAMN30825712	CU00277	20925_1_23	strain	20925_1_23			perflava	#E76F51	United Kingdom: London	Europe	negative	tet(M)-
+GCA_050330235.1	SAMN46179506	CU00447	P0014S004	strain	P0014S004			perflava	#E76F51	USA: Rochester, New York	United States	positive	tet(M)+
+GCA_051958155.1	SAMN48969047	CU00444	P0014.S009	strain	P0014.S009			perflava	#E76F51	USA: Rochester, New York	United States	positive	tet(M)+
+GCA_051958215.1	SAMN48969046	CU00450	P0014.S008	strain	P0014.S008			perflava	#E76F51	USA: Rochester, New York	United States	positive	tet(M)+
+GCA_042536725.1	SAMN18012345	CU00350	MO03 (strain 2)	isolate + submitted strain	2	MO03		perflava	#E76F51	Belgium: Antwerp	Europe	negative	tet(M)-
+GCA_042536675.1	SAMN18012343	CU00348	MO02 (strain 2)	isolate + submitted strain	2	MO02		perflava	#E76F51	Belgium: Antwerp	Europe	positive	tet(M)+
+GCA_042557445.1	SAMN20296568	CU00381	CM010	strain	CM010			perflava	#E76F51	USA	United States	positive	tet(M)+
+GCA_051957155.1	SAMN48969090	CU00468	P0019.S002	strain	P0019.S002			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_001618065.1	SAMN03329001	CU00038	CD-NF2	strain	CD-NF2			perflava	#E76F51	Italy: Naples	Europe	negative	tet(M)-
+GCA_003044645.1	SAMN08299216	CU00115	C2011009653	strain	C2011009653			perflava	#E76F51	USA: Minnesota	United States	negative	tet(M)-
+GCA_001811365.1	SAMN04477613	CU00053	HMSC061E12	strain	HMSC061E12			perflava	#E76F51		Unknown / not applicable	positive	tet(M)+
+GCA_001814445.1	SAMN04480396	CU00065	HMSC066B07	strain	HMSC066B07			perflava	#E76F51		Unknown / not applicable	positive	tet(M)+
+GCA_001837365.1	SAMN04498639	CU00075	HMSC066F04	strain	HMSC066F04			perflava	#E76F51		Unknown / not applicable	positive	tet(M)+
+GCA_001836315.1	SAMN04498579	CU00070	HMSC056A04	strain	HMSC056A04			perflava	#E76F51		Unknown / not applicable	positive	tet(M)+
+GCA_050328825.1	SAMN46179515	CU00433	P0015S004	strain	P0015S004			perflava	#E76F51	USA: Rochester, New York	United States	positive	tet(M)+
+GCA_050328885.1	SAMN46179517	CU00434	P0015S006	strain	P0015S006			perflava	#E76F51	USA: Rochester, New York	United States	positive	tet(M)+
+GCA_050328965.1	SAMN46179520	CU00436	P0015S010	strain	P0015S010			perflava	#E76F51	USA: Rochester, New York	United States	positive	tet(M)+
+GCA_051958015.1	SAMN48969057	CU00435	P0015.S009	strain	P0015.S009			perflava	#E76F51	USA: Rochester, New York	United States	positive	tet(M)+
+GCA_051958105.1	SAMN48969050	CU00446	P0015.S002	strain	P0015.S002			perflava	#E76F51	USA: Rochester, New York	United States	positive	tet(M)+
+GCA_051962655.1	SAMN48969002	CU00451	P0009.S003	strain	P0009.S003			perflava	#E76F51	USA: Rochester, New York	United States	positive	tet(M)+
+GCA_001838135.1	SAMN04498575	CU00079	HMSC078H04	strain	HMSC078H04			perflava	#E76F51		Unknown / not applicable	positive	tet(M)+
+GCA_024205705.1	SAMN18320769	CU00235	TT0077	strain	TT0077			perflava	#E76F51	Singapore: Singapore	East / Southeast Asia	positive	tet(M)+
+GCA_051957115.1	SAMN48969091	CU00467	P0019.S003	strain	P0019.S003			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_041433235.1	SAMN30825714	CU00275	27098_8_112	strain	27098_8_112			perflava	#E76F51	United Kingdom: London	Europe	negative	tet(M)-
+GCA_042536705.1	SAMN18012342	CU00349	MO02 (strain 1)	isolate + submitted strain	1	MO02		perflava	#E76F51	Belgium: Antwerp	Europe	positive	tet(M)+
+GCA_050329205.1	SAMN46179479	CU00432	P0010S003	strain	P0010S003			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_042537005.1	SAMN18012351	CU00359	MO10 (strain 1) (GCA_042537005.1)	isolate + submitted strain	1	MO10		perflava	#E76F51	Belgium: Antwerp	Europe	negative	tet(M)-
+GCA_052859065.1	SAMN51436604	CU00510	164864	strain	164864			perflava	#E76F51	Japan: Tokyo	East / Southeast Asia	negative	tet(M)-
+GCA_042537145.1	SAMN15454057	CU00362	AR-0956	strain	AR-0956			perflava	#E76F51	not applicable	Unknown / not applicable	negative	tet(M)-
+GCA_001808255.1	SAMN03287028	CU00043	HMSC15G01	strain	HMSC15G01			perflava	#E76F51		Unknown / not applicable	negative	tet(M)-
+GCA_050329065.1	SAMN46179460	CU00437	P0008S004	strain	P0008S004			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_003044965.1	SAMN08299218	CU00131	C2011020199	strain	C2011020199			perflava	#E76F51	USA: Minnesota	United States	negative	tet(M)-
+GCA_050329085.1	SAMN46179471	CU00438	P0009S005	strain	P0009S005			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_051958545.1	SAMN48969009	CU00439	P0009.S010	strain	P0009.S010			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_003044385.1	SAMN08299200	CU00102	C2007002879	strain	C2007002879			perflava	#E76F51	USA: Minnesota	United States	positive	tet(M)+
+GCA_019334725.1	SAMN20114564	CU00217	LPB0400	strain	LPB0400			perflava	#E76F51	South Korea	East / Southeast Asia	positive	tet(M)+
+GCA_003044845.1	SAMN08299207	CU00125	C2008002238	strain	C2008002238			perflava	#E76F51	USA: Minnesota	United States	negative	tet(M)-
+GCA_003045025.1	SAMN08299232	CU00134	C2014021188	strain	C2014021188			perflava	#E76F51	USA: Minnesota	United States	negative	tet(M)-
+GCA_042557545.1	SAMD00749883	CU00386	HN296	strain	HN296		HN296	perflava	#E76F51	Japan:Hiroshima	East / Southeast Asia	negative	tet(M)-
+GCA_001809585.1	SAMN04477517	CU00047	HMSC072C05	strain	HMSC072C05			perflava	#E76F51		Unknown / not applicable	negative	tet(M)-
+GCA_051957235.1	SAMN48969081	CU00470	P0018.S003	strain	P0018.S003			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_051957315.1	SAMN48969080	CU00469	P0018.S002	strain	P0018.S002			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_051957275.1	SAMN48969082	CU00471	P0018.S004	strain	P0018.S004			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_001815615.1	SAMN04480456	CU00067	HMSC075C10	strain	HMSC075C10			perflava	#E76F51		Unknown / not applicable	negative	tet(M)-
+GCA_001837635.1	SAMN04498603	CU00077	HMSC070H10	strain	HMSC070H10			perflava	#E76F51		Unknown / not applicable	negative	tet(M)-
+GCA_003044665.1	SAMN08299219	CU00116	C2011033015	strain	C2011033015			perflava	#E76F51	USA: Minnesota	United States	negative	tet(M)-
+GCA_051962875.1	SAMN48968989	CU00429	P0007.S010	strain	P0007.S010			perflava	#E76F51	USA: Rochester, New York	United States	positive	tet(M)+
+GCA_030218065.1	SAMN34996481	CU00245	UMB1050	strain	UMB1050			perflava	#E76F51	USA: Maywood, IL	United States	negative	tet(M)-
+GCA_056638355.1	SAMN56832053	CU00524	131566	strain	131566			perflava	#E76F51	Ukraine	Europe	positive	tet(M)+
+GCA_051957055.1	SAMN48969102	CU00465	P0020.S005	strain	P0020.S005			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_001812605.1	SAMN04480033	CU00057	HMSC073G10	strain	HMSC073G10			perflava	#E76F51		Unknown / not applicable	negative	tet(M)-
+GCA_042557505.2	SAMEA111504224	CU00384	DTU_2020_1000486_1_SI_CZE_PLZ_040	isolate		DTU_2020_1000486_1_SI_CZE_PLZ_040	DTU_2020_1000486_1_SI_CZE_PLZ_040	perflava	#E76F51	Czech Republic	Europe	negative	tet(M)-
+GCA_042666255.1	SAMN43284530	CU00396	LUN94A	strain	LUN94A			perflava	#E76F51	missing	Unknown / not applicable	negative	tet(M)-
+GCA_051963555.1	SAMN48968946	CU00490	P0001.S010	strain	P0001.S010			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_051963675.1	SAMN48968944	CU00492	P0001.S008	strain	P0001.S008			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_051963575.1	SAMN48968945	CU00491	P0001.S009	strain	P0001.S009			perflava	#E76F51	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_042536645.1	SAMN18012341	CU00347	MO01 (strain 2)	isolate + submitted strain	2	MO01		perflava	#E76F51	Belgium: Antwerp	Europe	positive	tet(M)+
+GCA_042536765.1	SAMN18012350	CU00352	MO10 (strain 1) (GCA_042536765.1)	isolate + submitted strain	1	MO10		perflava	#E76F51	Belgium: Antwerp	Europe	negative	tet(M)-
+GCA_001810105.1	SAMN04477543	CU00049	HMSC068C04	strain	HMSC068C04			subflava	#2A9D8F		Unknown / not applicable	positive	tet(M)+
+GCA_052859045.1	SAMN51436606	CU00509	164863	strain	164863			subflava	#2A9D8F	Japan: Tokyo	East / Southeast Asia	negative	tet(M)-
+GCA_023635085.1	SAMN18320762	CU00230	SG0010	strain	SG0010			subflava	#2A9D8F	Singapore: Singapore	East / Southeast Asia	positive	tet(M)+
+GCA_024205785.1	SAMN18320765	CU00239	HP0069	strain	HP0069			subflava	#2A9D8F	Singapore: Singapore	East / Southeast Asia	negative	tet(M)-
+GCA_024205745.1	SAMN18320767	CU00237	HP0015	strain	HP0015			subflava	#2A9D8F	Singapore: Singapore	East / Southeast Asia	negative	tet(M)-
+GCA_052073865.1	SAMN05362769	CU00194	KU1003-01	strain	KU1003-01			subflava	#2A9D8F	United Kingdom: Kingston upon Thames	Europe	positive	tet(M)+
+GCA_052859165.1	SAMN51436609	CU00515	164888	strain	164888			subflava	#2A9D8F	Japan: Tokyo	East / Southeast Asia	negative	tet(M)-
+GCA_024205725.1	SAMN18320768	CU00236	TT0073	strain	TT0073			subflava	#2A9D8F	Singapore: Singapore	East / Southeast Asia	negative	tet(M)-
+GCA_001812735.1	SAMN04480040	CU00059	HMSC069H12	strain	HMSC069H12			subflava	#2A9D8F		Unknown / not applicable	negative	tet(M)-
+GCA_051957095.1	SAMN48969100	CU00466	P0020.S003	strain	P0020.S003			subflava	#2A9D8F	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_041433195.1	SAMN30825715	CU00273	27098_8_139	strain	27098_8_139			subflava	#2A9D8F	United Kingdom: London	Europe	negative	tet(M)-
+GCA_050328165.1	SAMN46179523	CU00426	P0016S003	strain	P0016S003			subflava	#2A9D8F	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_963395055.1	SAMEA678303	CU00786	CCUG 29761	strain	CCUG 29761		29761-sc-2010-05-07-9896	subflava	#2A9D8F		Unknown / not applicable	negative	tet(M)-
+GCA_001815685.1	SAMN04480460	CU00069	HMSC056A03	strain	HMSC056A03			subflava	#2A9D8F		Unknown / not applicable	negative	tet(M)-
+GCA_900654195.1	SAMEA5208241	CU00576	N78	strain	N78		PRJEB30649_R23	subflava	#2A9D8F		Unknown / not applicable	negative	tet(M)-
+GCA_005221305.1	SAMN11461056	CU00178	ATCC 49275	strain	ATCC 49275			subflava	#2A9D8F	not applicable	Unknown / not applicable	negative	tet(M)-
+GCA_963396255.1	SAMEA678351	CU00793	CCUG 24960	strain	CCUG 24960		24960-sc-2010-05-07-9917	subflava	#2A9D8F		Unknown / not applicable	negative	tet(M)-
+GCA_023635065.1	SAMN18320764	CU00229	TT0074	strain	TT0074			subflava	#2A9D8F	Singapore: Singapore	East / Southeast Asia	negative	tet(M)-
+GCA_023635105.1	SAMN18320763	CU00231	HP0001	strain	HP0001			subflava	#2A9D8F	Singapore: Singapore	East / Southeast Asia	negative	tet(M)-
+GCA_050328445.1	SAMN46179470	CU00430	P0009S004	strain	P0009S004			subflava	#2A9D8F	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_050328485.1	SAMN46179474	CU00431	P0009S008	strain	P0009S008			subflava	#2A9D8F	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_050332295.1	SAMN46179518	CU00449	P0015S007	strain	P0015S007			subflava	#2A9D8F	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_963396245.1	SAMEA678509	CU00792	CCUG 25198	strain	CCUG 25198		25198-sc-2010-05-07-9907	subflava	#2A9D8F	Sweden	Europe	negative	tet(M)-
+GCA_051957575.1	SAMN48969073	CU00423	P0017.S005	strain	P0017.S005			subflava	#2A9D8F	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_051958375.1	SAMN48969035	CU00442	P0013.S007	strain	P0013.S007			subflava	#2A9D8F	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_051958425.1	SAMN48969033	CU00441	P0013.S005	strain	P0013.S005			subflava	#2A9D8F	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_051958415.1	SAMN48969032	CU00479	P0013.S004	strain	P0013.S004			subflava	#2A9D8F	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_051958495.1	SAMN48969030	CU00440	P0013.S002	strain	P0013.S002			subflava	#2A9D8F	USA: Rochester, New York	United States	negative	tet(M)-
+GCA_963395005.1	SAMEA678326	CU00781	CCUG 4788	strain	CCUG 4788		4788-sc-2010-05-07-9925	subflava	#2A9D8F		Unknown / not applicable	negative	tet(M)-
+GCA_963396205.1	SAMEA678203	CU00789	CCUG 801	strain	CCUG 801		801-sc-2010-05-07-9938	subflava	#2A9D8F		Unknown / not applicable	negative	tet(M)-
+GCA_963396265.1	SAMEA678208	CU00794	CCUG 800	strain	CCUG 800		800-sc-2010-05-07-9937	subflava	#2A9D8F		Unknown / not applicable	negative	tet(M)-
+GCA_000173935.1	SAMN00008839	CU00004	NRL30031/H210	strain	NRL30031/H210			flavescens	#457B9D	not determined	Unknown / not applicable	negative	tet(M)-
+GCA_900453805.1	SAMEA3936792	CU00177	NCTC8263	strain	NCTC8263		f2622790-07db-11e6-b3a6-3c4a9275d6c8	flavescens	#457B9D		Unknown / not applicable	negative	tet(M)-
+GCA_963394965.1	SAMEA678325	CU00777	CCUG 806	strain	CCUG 806		806-sc-2010-05-07-9924	flavescens	#457B9D		Unknown / not applicable	negative	tet(M)-
+GCA_042536925.1	SAMN18012344	CU00356	MO03 (strain 1)	isolate + submitted strain	1	MO03		flavescens	#457B9D	Belgium: Antwerp	Europe	negative	tet(M)-
+GCA_901873995.1	SAMEA5664366	CU00579	BgEED22	sample_name			Neisseria_subflava_BgEED22	flavescens	#457B9D		Unknown / not applicable	negative	tet(M)-
+GCA_042537275.1	SAMEA6155527	CU00369	Nei438	strain	Nei438	Nei438	Nei438	flavescens	#457B9D	China	East / Southeast Asia	negative	tet(M)-
+GCA_042537445.1	SAMEA6124619	CU00374	Nei437	strain	Nei437	Nei437	Nei437	flavescens	#457B9D	China	East / Southeast Asia	negative	tet(M)-

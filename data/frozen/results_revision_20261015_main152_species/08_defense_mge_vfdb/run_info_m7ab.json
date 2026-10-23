@@ -1,0 +1,136 @@
+{
+  "run_id": "main152_20261015",
+  "plan_id": "main152_species_midpoint_v3_audited",
+  "module": "M7a/M7b defense + MGE/GI per-genome summary and group statistics (VFDB excluded, M7c agent)",
+  "hostname": "gkhzr0024",
+  "utc_finished": "2026-10-15T04:26:08+00:00",
+  "project_root": "/mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava",
+  "scripts": {
+    "scripts_main152/m7a_aggregate.py": "82a8ba1c159b7197a910871ec3ca8ef44cc02fd843231f4d74c21de4fe689a08",
+    "scripts_main152/m7b_stats.R": "dec0c9198f93ceb37787a5950870580633ba79b9466463fb3c86fed64fb5fd75",
+    "scripts_main152/m7_finalize.py": "86ced0dd988f02287d7668036864c186dd0b7b8d2be4a89fa55c493bdfe3c884"
+  },
+  "software": {
+    "python3": "3.14.6",
+    "R": "Rscript (R) version 4.3.3 (2024-02-29)",
+    "detection_tools": {
+      "defense_finder": {
+        "software_version": "mdmparis-defense-finder 3.0.0 / MacSyFinder 2.1.4",
+        "db_version": "defense-finder-models vers 3.1.0 + CasFinder (~/.macsyfinder/models, installed 2026-05-14, predates 2026-10-02 runs)",
+        "evidence": "env export results_revision_20261001/12_delivery/envs_export/defense-finder.yml; current env pip metadata identical"
+      },
+      "genomad": {
+        "software_version": "genomad 1.12.0",
+        "db_version": "genomad_db version.txt=1.9 (/mnt/NexData_file/home/lixiangchen/db/genomad_db)",
+        "evidence": "per-genome log header 'Executing geNomad annotate (v1.12.0)'; env export genomad.yml"
+      },
+      "islandpath": {
+        "software_version": "islandpath 1.0.6",
+        "db_version": "n/a (no db)",
+        "evidence": "env export islandpath.yml (historical, 2026-10-06 delivery)"
+      },
+      "mob_suite": {
+        "software_version": "mob-suite 3.1.9 (mob_recon)",
+        "db_version": "bundled mob_suite db (env)",
+        "evidence": "per-genome log 'MOB-recon version 3.1.9'; current env pip metadata identical"
+      },
+      "integron_finder": {
+        "software_version": "integron_finder 2.0.6",
+        "db_version": "n/a",
+        "evidence": "per-genome log 'integron_finder version 2.0.6'; env export integron_finder.yml"
+      },
+      "isescan": {
+        "software_version": "isescan 1.7.3",
+        "db_version": "n/a",
+        "evidence": "env export isescan.yml; current env isescan.py --version = 1.7.3"
+      }
+    }
+  },
+  "inputs": {
+    "main152_metadata.tsv": "0363db013ab7e5025ba7873a6fb125bdaf7829587309d80360e9b914596e9bc6",
+    "main152_accessions.txt": "5edbf93fa8e1f79f11fa2ec605979b64c81fe9761edb5e379666326dad536752",
+    "per_tool_coverage_historical_main152.tsv": "e8b353af26213d5a8fa1588e92d2afca6fb6ca54f98f66d73c861e6a7ef8ea77",
+    "assembly_metrics.tsv": "a6d7de2e8d1c451d596a0dc86e4d09915dff2b00dd6bf43701b44a4e01eb8032",
+    "participant_subset_manifest.tsv": "071caf4b03ee7465b804ae62b6e51d3246dd6022b02832958868e4d25521dca7",
+    "per_genome_tool_versions.tsv": "474b55727e7153f7d08a397d187c3cd83a35715bcd8cae9358c321ebbd6209fd"
+  },
+  "randomness": "none (KW, Fisher exact, Wilson, OLS are deterministic; no permutation in this module)",
+  "statistical_conventions": {
+    "run_status": "success_hits/success_empty = parsed cleanly (hits or zero hits); failed = evidence present but parse error; missing = no evidence file. Failures are never written as 0.",
+    "wilson_ci": "z=qnorm(0.975), standard Wilson score interval on the evaluable binomial denominator",
+    "kw": "stats::kruskal.test; BH q within exactly the three prespecified burden omnibus tests per analysis_id; epsilon2=max(0,(H-k+1)/(n-k)) with untruncated value also reported",
+    "fisher": "stats::fisher.test two-sided, conditional MLE OR/CI; rows=target/rest, cols=present/absent; a=target present etc.; carrier_total>=5 prespecified filter; BH family defense_prevalence (main) and defense_prevalence_participant_subset (sensitivity, corrected separately)",
+    "assembly_model": "rank(n_complete_systems, ties.average) ~ species_group + assembly_class + log1p(n_contigs) + genome_size_Mb; coefficients in rank units; partial F of species_group vs assembly-covariate-only model; does NOT adjust for phylogenetic or study-source confounding",
+    "group_sizes_main152": {
+      "subflava": 31,
+      "perflava": 114,
+      "flavescens": 7
+    },
+    "group_sizes_participant_subset": {
+      "subflava": 24,
+      "perflava": 90,
+      "flavescens": 7
+    },
+    "rest_denominators_main152_evaluable": {
+      "subflava": 121,
+      "perflava": 38,
+      "flavescens": 145
+    },
+    "flavescens_n7": "no strong negative/specificity claims for the 7-genome group"
+  },
+  "coordinate_provenance_for_M8": "m7a_coordinate_sources.tsv",
+  "outputs": {
+    "tool_coverage.tsv": {
+      "sha256": "290f1c271ade85b5826f5aae521585aec0c09486e487428802b9837eb3e84d08",
+      "n_bytes": 223388
+    },
+    "m7a_evidence_files.tsv": {
+      "sha256": "c456845fb7ba7f35ec315401421c9967935b3910d481d2bd6d38fd068e8812ff",
+      "n_bytes": 905024
+    },
+    "defense_per_genome.tsv": {
+      "sha256": "5c1d1f20a0e22b3d99d61859ec9362f274cfd3845f80befce20917c72288e81d",
+      "n_bytes": 10916
+    },
+    "intermediate/defense_type_counts.tsv": {
+      "sha256": "d2637fc220a27e4d0d168160b9d7d9a9f215224315380055f18a455c57bfd161",
+      "n_bytes": 504254
+    },
+    "per_genome_features.tsv": {
+      "sha256": "ab93116694ffe577b0470c6f52faf41dfe31c24a9826df0badf91346a3c1271b",
+      "n_bytes": 23059
+    },
+    "m7a_coordinate_sources.tsv": {
+      "sha256": "a7b54198559b7e3165d6b34a773030af8b507f3b024aa7a4a1307b6e943a542e",
+      "n_bytes": 1753
+    },
+    "m7a_qc_notes.tsv": {
+      "sha256": "e2b50d9cda1cf73245f8eddb40c912be1e018a2b903e0547753618acc7ae6d5e",
+      "n_bytes": 20
+    },
+    "defense_type_prevalence.tsv": {
+      "sha256": "601bdb5b14b0214e84be5445162ff4bea95731b3ff3f238a535e122d7a264fb4",
+      "n_bytes": 14044
+    },
+    "defense_stats.tsv": {
+      "sha256": "65c67ac21a904d6db968c604fc6f21bfcf5b097fbc8f331426d3f740b50fb2e4",
+      "n_bytes": 989
+    },
+    "defense_family_tests.tsv": {
+      "sha256": "6bd9a9179e3389cfd12c79ad109da4a83db4f916be24a24e6157d3e240162e41",
+      "n_bytes": 32502
+    },
+    "defense_assembly_model.tsv": {
+      "sha256": "ff7ec2777d2a69728a82de0247ddfe9d92bae707ed3f2c280aaeaac1791f0eef",
+      "n_bytes": 1033
+    },
+    "model_diagnostics.tsv": {
+      "sha256": "e4bcca4b9ad3f395348839c85af7894208b4578b99344ebe3c0808e897c9cce1",
+      "n_bytes": 1751
+    },
+    "sensitivity_defense.tsv": {
+      "sha256": "9752e2c7fe1fe7a734db45fdf6be8c01d8d63d220b4725e74acf8ee4870dbd10",
+      "n_bytes": 144981
+    }
+  }
+}

@@ -1,0 +1,8 @@
+PASS: 52 sequences used directly with identical records explicitly retained.
+PASS: native ML tree and all 1000 bootstrap trees retain the exact 52 input identifiers.
+PASS: input alignment unchanged and covers all 38 carrier genomes.
+PASS: all 49 branch supports exported; two meet the dual threshold; 45 are near-zero internal edges.
+PASS: no underflow warning after final model selection; candidate-screening warnings retained.
+PASS: midpoint tree preserves pairwise tip distances; all 52 IDs are present in extractable PDF text.
+Visual QA: all locus labels and four displayed non-near-zero branch supports are readable and clear of edges.
+No haplotype expansion, topology constraint, reconciliation or manuscript replacement performed.

@@ -1,0 +1,49 @@
+{
+  "status": "PASS",
+  "tips": 152,
+  "species_counts": {
+    "perflava": 114,
+    "subflava": 31,
+    "flavescens": 7
+  },
+  "unique_display_labels": 152,
+  "tetM_counts": {
+    "negative": 114,
+    "positive_complete": 38
+  },
+  "region_counts": {
+    "Unknown / not applicable": 45,
+    "United States": 63,
+    "Europe": 24,
+    "East / Southeast Asia": 20
+  },
+  "all_four_tip_files_exact152": true,
+  "internal_nodes": 151,
+  "support_symbols": 119,
+  "support_threshold": "SH-aLRT >=80 AND UFBoot >=95",
+  "root_support_fabricated": false,
+  "duplicate_root_edge_symbol_suppressed": true,
+  "symbol_maximum_size_px": 4,
+  "midpoint_verified_independently": true,
+  "diameter_endpoints": [
+    "GCA_042536925.1",
+    "GCA_052858845.1"
+  ],
+  "diameter_length": 0.1188762059,
+  "root_to_diameter_endpoints": [
+    0.05943810295,
+    0.05943810295
+  ],
+  "unrooted_RF": 0,
+  "nontrivial_splits": 149,
+  "max_abs_patristic_diff": 9.71445146547012e-17,
+  "tree_sha256": "e2c02aed734c1e926e877f34ca760e213d149dafea55ca28618b4e88f9c710c7",
+  "official_format_references": [
+    "https://itol.embl.de/help/dataset_symbols_template.txt",
+    "https://itol.embl.de/help/dataset_color_strip_template.txt",
+    "https://itol.embl.de/help/labels_template.txt"
+  ],
+  "raw_newick_ids_unquoted": true,
+  "raw_ids_match_all_tip_annotations": true,
+  "website_import_performed": false
+}

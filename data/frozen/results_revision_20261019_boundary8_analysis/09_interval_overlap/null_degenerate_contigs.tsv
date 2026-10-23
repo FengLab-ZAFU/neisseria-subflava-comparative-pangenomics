@@ -1,0 +1,4 @@
+accession	contig_id	topology	length_bp	n_merged_mge_intervals	span_start	span_end	n_legal_offsets
+GCA_001814445.1	KV816499.1	linear	3196	1	0	3196	1
+GCA_003044665.1	POXO01000025.1	linear	1216	1	0	1216	1
+GCA_038738605.1	JBCGFA010000029.1	linear	1218	1	0	1218	1

@@ -1,0 +1,25 @@
+[
+  {
+    "tree": "CORE962",
+    "perflava114_plus_boundary8_exact_split": true,
+    "SHaLRT_UFBoot": [
+      "100/100"
+    ],
+    "contains_perflava_type": true,
+    "contains_subflava_type": false
+  },
+  {
+    "tree": "HK7",
+    "perflava114_plus_boundary8_exact_split": false,
+    "SHaLRT_UFBoot": [],
+    "contains_perflava_type": true,
+    "contains_subflava_type": false
+  },
+  {
+    "tree": "RIB46",
+    "perflava114_plus_boundary8_exact_split": false,
+    "SHaLRT_UFBoot": [],
+    "contains_perflava_type": true,
+    "contains_subflava_type": false
+  }
+]

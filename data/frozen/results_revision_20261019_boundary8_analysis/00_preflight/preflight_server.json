@@ -1,0 +1,859 @@
+{
+  "packet_version": "v2",
+  "package_checks": [
+    {
+      "path": "00_cohort/analysis_contract.json",
+      "matches_manifest": true
+    },
+    {
+      "path": "00_cohort/boundary8_accessions.txt",
+      "matches_manifest": true
+    },
+    {
+      "path": "00_cohort/boundary8_evidence.tsv",
+      "matches_manifest": true
+    },
+    {
+      "path": "00_cohort/comparison144_accessions.txt",
+      "matches_manifest": true
+    },
+    {
+      "path": "00_cohort/metadata_comparison144.tsv",
+      "matches_manifest": true
+    },
+    {
+      "path": "00_cohort/metadata_overall152.tsv",
+      "matches_manifest": true
+    },
+    {
+      "path": "00_cohort/overall152_accessions.txt",
+      "matches_manifest": true
+    },
+    {
+      "path": "00_cohort/required_outputs.tsv",
+      "matches_manifest": true
+    },
+    {
+      "path": "00_cohort/required_source_files.tsv",
+      "matches_manifest": true
+    },
+    {
+      "path": "01_local_audit/AMR_matrix_verification.json",
+      "matches_manifest": true
+    },
+    {
+      "path": "01_local_audit/input_availability.tsv",
+      "matches_manifest": true
+    },
+    {
+      "path": "01_local_audit/pcoa_lingoes_implementation_audit.tsv",
+      "matches_manifest": true
+    },
+    {
+      "path": "01_local_audit/permdisp_implementation_audit.txt",
+      "matches_manifest": true
+    },
+    {
+      "path": "01_local_audit/structure_audit_sessionInfo.txt",
+      "matches_manifest": true
+    },
+    {
+      "path": "01_local_audit/tetM_recount.tsv",
+      "matches_manifest": true
+    },
+    {
+      "path": "01_local_audit/verification.json",
+      "matches_manifest": true
+    },
+    {
+      "path": "01_local_audit/交接包复核记录_v2.md",
+      "matches_manifest": true
+    },
+    {
+      "path": "02_evidence/AMR_feature_evaluable_matrix152.tsv",
+      "matches_manifest": true
+    },
+    {
+      "path": "02_evidence/boundary8_downstream_impact_review_20261016.md",
+      "matches_manifest": true
+    },
+    {
+      "path": "02_evidence/boundary8_taxonomy_evidence.tsv",
+      "matches_manifest": true
+    },
+    {
+      "path": "02_evidence/GGDC_check_file_audit_20261016.md",
+      "matches_manifest": true
+    },
+    {
+      "path": "02_evidence/ggdc_results_26-10-16-10-31-263564542.csv",
+      "matches_manifest": true
+    },
+    {
+      "path": "02_evidence/ggdc_results_26-10-16-10-31-553564542.csv",
+      "matches_manifest": true
+    },
+    {
+      "path": "02_evidence/ggdc_results_26-10-16-10-32-103566849.csv",
+      "matches_manifest": true
+    },
+    {
+      "path": "02_evidence/historical_type_anchored_topology_audit.json",
+      "matches_manifest": true
+    },
+    {
+      "path": "02_evidence/README.md",
+      "matches_manifest": true
+    },
+    {
+      "path": "02_evidence/type_reference_mapping.tsv",
+      "matches_manifest": true
+    },
+    {
+      "path": "03_tools/audit_structure_implementation.R",
+      "matches_manifest": true
+    },
+    {
+      "path": "03_tools/preflight_boundary8.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/12_delivery/limitations_main152.md",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/12_delivery/methods_actual.md",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/historical_scripts_manifest.tsv",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/audit_main152.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/common.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m0_finalize.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m0_reuse_ledger.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m0b_pairwise_ani.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m10_checklist.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m10_commands_manifest.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m10_manifest.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m10_package.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m1_annotation_binding.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m2_panaroo_run.sh",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m2_pav_tables.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m2_pgap2_run.sh",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m2b_panaroo_pav.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m3a_run_mafft.sh",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m3a_select_core.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m3b_concat.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m3b_iqtree_resume.sh",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m3b_iqtree_run.sh",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m3c_root_itol.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m4_accumulation.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m4_distance_pcoa.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m4_distance_stats.R",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m4_mantel.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m4_power_fit.R",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m4_prevalence_sharing.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m4_verify.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m5_01_build_bridge.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m5_02_supp_emapper.sh",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m5_03_association_prep.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m5_04_fisher.R",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m5_05_finalize_association.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m5_06_cog_enrichment.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m5_07_coverage.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m6_amr_tetm.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m6_fisher.R",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m7_finalize.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m7_participant_amr.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m7_participant_subset.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m7a_aggregate.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m7b_stats.R",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m7c_summarize.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m7c_vfdb_run.sh",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m7c_vfdb_tests.R",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m8_build_intervals.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m8_coordinate_audit.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m8_finalize.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m8_gi_cases.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m8_overlap_null.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m9_feature_assoc_merge.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m9_itol_assembly.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m9_tables.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/m9_tip_metadata.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "04_source_records/scripts_main152/module_status.py",
+      "matches_manifest": true
+    },
+    {
+      "path": "05_current_Figure2/annotations/01_tip_labels.txt",
+      "matches_manifest": true
+    },
+    {
+      "path": "05_current_Figure2/annotations/02_operational_ANI_assignment.txt",
+      "matches_manifest": true
+    },
+    {
+      "path": "05_current_Figure2/annotations/03_collection_region.txt",
+      "matches_manifest": true
+    },
+    {
+      "path": "05_current_Figure2/annotations/04_tetM_carriage.txt",
+      "matches_manifest": true
+    },
+    {
+      "path": "05_current_Figure2/annotations/05_branch_support.txt",
+      "matches_manifest": true
+    },
+    {
+      "path": "05_current_Figure2/Figure2_main152_midpoint_iTOL.nwk",
+      "matches_manifest": true
+    },
+    {
+      "path": "05_current_Figure2/reference/branch_support.tsv",
+      "matches_manifest": true
+    },
+    {
+      "path": "05_current_Figure2/reference/itol_node_id_map.tsv",
+      "matches_manifest": true
+    },
+    {
+      "path": "05_current_Figure2/reference/tip_metadata.tsv",
+      "matches_manifest": true
+    },
+    {
+      "path": "README.md",
+      "matches_manifest": true
+    },
+    {
+      "path": "服务器补充分析任务书.md",
+      "matches_manifest": true
+    }
+  ],
+  "source_checks": [
+    {
+      "path": "00_freeze/input_packet_snapshot/00_input/reference_sources/checkm2_main152.tsv",
+      "role": "metadata_and_participant_ranking",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "00_input/cohort/main152_accessions.txt",
+      "role": "metadata_and_participant_ranking",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "00_input/cohort/main152_metadata.tsv",
+      "role": "metadata_and_participant_ranking",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "00_preflight/assembly_metrics.tsv",
+      "role": "metadata_and_participant_ranking",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "02_pangenome/panaroo_main152_strict/pav_tables/cluster_frequency.tsv",
+      "role": "protected_dictionary",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "02_pangenome/panaroo_main152_strict/pav_tables/pav_binary.tsv",
+      "role": "protected_dictionary",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "02_pangenome/pgap2_main152/pav_tables/partition_table.tsv",
+      "role": "protected_dictionary",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "02_pangenome/pgap2_main152/pav_tables/pav_binary.tsv",
+      "role": "protected_dictionary",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "02_pangenome/pgap2_main152/pav_tables/per_genome_gene_burden.tsv",
+      "role": "frequency_accumulation_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "02_pangenome/pgap2_main152_orth95/pav_tables/partition_table.tsv",
+      "role": "protected_dictionary",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "02_pangenome/pgap2_main152_orth95/pav_tables/pav_binary.tsv",
+      "role": "protected_dictionary",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "03_phylogeny/strict_singlecopy_core/core_alignment.fasta",
+      "role": "protected_reuse_no_rebuild",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "03_phylogeny/strict_singlecopy_core/iqtree/main152.log",
+      "role": "protected_reuse_no_rebuild",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "03_phylogeny/strict_singlecopy_core/iqtree/main152.treefile",
+      "role": "protected_reuse_no_rebuild",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "03_phylogeny/strict_singlecopy_core/main152_ML_midpoint_display.nwk",
+      "role": "protected_reuse_no_rebuild",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "03_phylogeny/strict_singlecopy_core/main152_ML_unrooted.nwk",
+      "role": "protected_reuse_no_rebuild",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "04_species_pangenome/accumulation_raw.tsv",
+      "role": "frequency_accumulation_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "04_species_pangenome/accumulation_summary.tsv",
+      "role": "frequency_accumulation_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "04_species_pangenome/group_conserved.tsv",
+      "role": "frequency_accumulation_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "04_species_pangenome/matched_sampling_effects.tsv",
+      "role": "frequency_accumulation_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "04_species_pangenome/matched_sampling_summary.tsv",
+      "role": "frequency_accumulation_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "04_species_pangenome/sharing_patterns.tsv",
+      "role": "frequency_accumulation_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "05_structure/distance_statistics.tsv",
+      "role": "structure_or_legacy_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "05_structure/eigenvalues.tsv",
+      "role": "structure_or_legacy_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "05_structure/feature_set_manifest.tsv",
+      "role": "structure_or_legacy_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "05_structure/jaccard_distance_all_variable.tsv",
+      "role": "structure_or_legacy_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "05_structure/jaccard_distance_shell_cloud.tsv",
+      "role": "structure_or_legacy_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "05_structure/mantel_results.tsv",
+      "role": "structure_or_legacy_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "05_structure/pcoa_coordinates.tsv",
+      "role": "structure_or_legacy_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "05_structure/pcoa_summary.tsv",
+      "role": "structure_or_legacy_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "06_function/COG_composition.tsv",
+      "role": "COG_mapping_or_legacy_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "06_function/COG_enrichment_all.tsv",
+      "role": "COG_mapping_or_legacy_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "06_function/associated_candidates_ranked.tsv",
+      "role": "COG_mapping_or_legacy_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "06_function/association_all_tests.tsv",
+      "role": "COG_mapping_or_legacy_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "06_function/cluster_cog_map.tsv",
+      "role": "COG_mapping_or_legacy_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "06_function/cluster_filter_ledger.tsv",
+      "role": "COG_mapping_or_legacy_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "07_amr_tetm/amr_association_all.tsv",
+      "role": "AMR_detection_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "07_amr_tetm/amr_tetm_per_genome.tsv",
+      "role": "AMR_detection_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "07_amr_tetm/carriage_by_species.tsv",
+      "role": "AMR_detection_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "07_amr_tetm/tetm_locus_evidence.tsv",
+      "role": "AMR_detection_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "07_amr_tetm/tetm_reconciliation.tsv",
+      "role": "AMR_detection_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "08_defense_mge_vfdb/VFDB_presence_long.tsv",
+      "role": "detection_coverage_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "08_defense_mge_vfdb/defense_assembly_model.tsv",
+      "role": "detection_coverage_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "08_defense_mge_vfdb/defense_family_tests.tsv",
+      "role": "detection_coverage_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "08_defense_mge_vfdb/defense_per_genome.tsv",
+      "role": "detection_coverage_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "08_defense_mge_vfdb/defense_stats.tsv",
+      "role": "detection_coverage_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "08_defense_mge_vfdb/intermediate/defense_type_counts.tsv",
+      "role": "detection_coverage_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "08_defense_mge_vfdb/model_diagnostics.tsv",
+      "role": "detection_coverage_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "08_defense_mge_vfdb/participant_subset_manifest.tsv",
+      "role": "detection_coverage_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "08_defense_mge_vfdb/per_genome_features.tsv",
+      "role": "detection_coverage_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "08_defense_mge_vfdb/sensitivity_amr_tetm.tsv",
+      "role": "detection_coverage_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "08_defense_mge_vfdb/sensitivity_defense.tsv",
+      "role": "detection_coverage_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "08_defense_mge_vfdb/tool_coverage.tsv",
+      "role": "detection_coverage_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "08_defense_mge_vfdb/vfdb/vfdb_run_status.tsv",
+      "role": "detection_coverage_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "08_defense_mge_vfdb/vfdb_feature_tests.tsv",
+      "role": "detection_coverage_or_baseline",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "09_interval_overlap/interval_null_results.tsv",
+      "role": "interval_unchanged_scope_reuse",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "09_interval_overlap/null_eligibility.tsv",
+      "role": "interval_unchanged_scope_reuse",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "09_interval_overlap/null_permutation_counts.tsv",
+      "role": "interval_unchanged_scope_reuse",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "09_interval_overlap/occurrence_overlap.tsv",
+      "role": "optional_observed_overlap_cache",
+      "required": false,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "09_interval_overlap/overlap_summary.tsv",
+      "role": "interval_unchanged_scope_reuse",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "09_interval_overlap/tables/contigs.tsv",
+      "role": "required_interval_tables",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "09_interval_overlap/tables/genes.tsv",
+      "role": "required_interval_tables",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "09_interval_overlap/tables/gi.tsv",
+      "role": "required_interval_tables",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "09_interval_overlap/tables/mge_local.tsv",
+      "role": "required_interval_tables",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    },
+    {
+      "path": "09_interval_overlap/tables/whole_contig.tsv",
+      "role": "required_interval_tables",
+      "required": true,
+      "present": true,
+      "matches_expected_hash": true
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "jobs_submitted": false,
+  "requested_output": "/mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava/results_revision_20261019_boundary8_analysis",
+  "source_root": "/mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava/results_revision_20261015_main152_species",
+  "overall_n": 152,
+  "comparison_n": 144,
+  "boundary_n": 8,
+  "status": "PASS_PREFLIGHT"
+}

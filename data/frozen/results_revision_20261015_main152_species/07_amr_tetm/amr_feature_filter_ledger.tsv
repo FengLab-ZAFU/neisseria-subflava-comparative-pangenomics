@@ -1,0 +1,13 @@
+feature	carriers_152	tested	reason
+gene:tet(M)	38	yes	
+family:APH(3'')	4	no	carrier<5_in_152
+family:APH(3')	1	no	carrier<5_in_152
+family:APH(6)	4	no	carrier<5_in_152
+family:ROB beta-lactamase	1	no	carrier<5_in_152
+family:TEM beta-lactamase	3	no	carrier<5_in_152
+family:major facilitator superfamily (MFS) antibiotic efflux pump	2	no	carrier<5_in_152
+family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	1	no	carrier<5_in_152
+family:small multidrug resistance (SMR) antibiotic efflux pump	7	yes	
+family:streptothricin acetyltransferase (SAT)	1	no	carrier<5_in_152
+family:sulfonamide resistant sul	3	no	carrier<5_in_152
+family:tetracycline-resistant ribosomal protection protein	38	yes	

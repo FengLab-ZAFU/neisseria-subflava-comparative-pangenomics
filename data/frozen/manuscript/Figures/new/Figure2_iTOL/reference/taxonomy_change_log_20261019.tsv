@@ -1,0 +1,9 @@
+accession	display_label	species_group	collection_region	tetM_status	unit_id	reference_ANI_assignment_original	taxonomy_status	included_overall152	included_species_comparison144
+GCA_001810105.1	HMSC068C04	unresolved_species	Unknown / not applicable	positive_complete	CU00049	subflava	unresolved_species	1	0
+GCA_023635085.1	SG0010	unresolved_species	East / Southeast Asia	positive_complete	CU00230	subflava	unresolved_species	1	0
+GCA_024205725.1	TT0073	unresolved_species	East / Southeast Asia	negative	CU00236	subflava	unresolved_species	1	0
+GCA_024205745.1	HP0015	unresolved_species	East / Southeast Asia	negative	CU00237	subflava	unresolved_species	1	0
+GCA_024205785.1	HP0069	unresolved_species	East / Southeast Asia	negative	CU00239	subflava	unresolved_species	1	0
+GCA_052073865.1	KU1003-01	unresolved_species	Europe	positive_complete	CU00194	subflava	unresolved_species	1	0
+GCA_052859045.1	164863	unresolved_species	East / Southeast Asia	negative	CU00509	subflava	unresolved_species	1	0
+GCA_052859165.1	164888	unresolved_species	East / Southeast Asia	negative	CU00515	subflava	unresolved_species	1	0

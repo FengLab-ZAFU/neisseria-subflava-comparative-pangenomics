@@ -1,0 +1,3 @@
+permutation_design	estimable	n_configs	complete_enumeration	seed	labels_file	total_label_space
+free	yes	999	no	20261015990001	permutation_labels_free.tsv	12439980506431242567684130764702507063744000
+restricted_within_study_namespace	yes	999	no	20261015990002	permutation_labels_restricted.tsv	53270128054791648

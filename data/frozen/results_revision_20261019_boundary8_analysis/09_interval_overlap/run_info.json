@@ -1,0 +1,15 @@
+{
+  "run_id": "main152_m8_20261015",
+  "module": "E_interval_overlap",
+  "master_seed": 20261015,
+  "n_iter": 1000,
+  "family_id": "interval_main_and_species",
+  "n_workers": 8,
+  "n_combos_total": 40,
+  "n_combos_testable": 40,
+  "n_combos_not_estimable": 0,
+  "n_degenerate_layout_contigs": 3,
+  "runtime_sec": 36.4,
+  "status": "COMPLETE",
+  "utc_finalized": "2026-10-19T05:42:05.171028+00:00"
+}

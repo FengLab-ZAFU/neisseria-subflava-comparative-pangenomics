@@ -1,0 +1,25 @@
+feature	label	analysis_group	n	n_positive	mean	median	q025	q1	q3	q975	min	max
+genomad_plasmid_contig_count	Plasmid-like contigs	flavescens	7	6	1.42857142857143	2	0.15	1	2	2	0	2
+genomad_plasmid_contig_count	Plasmid-like contigs	perflava	114	81	1.64912280701754	1	0	0	2	5.175	0	10
+genomad_plasmid_contig_count	Plasmid-like contigs	subflava	23	18	1.21739130434783	1	0	1	2	3	0	3
+genomad_plasmid_contig_count	Plasmid-like contigs	unresolved_species	8	3	1.75	0	0	0	3	7.125	0	8
+genomad_provirus_count	Proviruses	flavescens	7	6	1.85714285714286	1	0.15	1	3	4	0	4
+genomad_provirus_count	Proviruses	perflava	114	81	1.26315789473684	1	0	0	2	4	0	5
+genomad_provirus_count	Proviruses	subflava	23	19	1.73913043478261	2	0	1	2	4	0	4
+genomad_provirus_count	Proviruses	unresolved_species	8	5	1.375	1	0	0	2.25	3.825	0	4
+genomad_virus_contig_count	Viral contigs	flavescens	7	7	3.14285714285714	3	2	2.5	3.5	4.85	2	5
+genomad_virus_contig_count	Viral contigs	perflava	114	45	1.35087719298246	0	0	0	2	7	0	12
+genomad_virus_contig_count	Viral contigs	subflava	23	9	2.08695652173913	0	0	0	4	8	0	8
+genomad_virus_contig_count	Viral contigs	unresolved_species	8	3	1.25	0	0	0	2.25	4.65	0	5
+gi_coverage_percent	GI coverage (%)	flavescens	7	7	3.65619428571429	3.07423	2.0082108	2.1651805	4.60339	6.6869881	1.984047	6.997942
+gi_coverage_percent	GI coverage (%)	perflava	114	114	3.25676672807018	3.137023	1.227369275	2.31664575	3.8990005	7.038220725	0.484289	8.339693
+gi_coverage_percent	GI coverage (%)	subflava	23	23	3.404529	2.908495	1.2891424	2.648707	3.7651615	6.9898482	0.930593	7.822865
+gi_coverage_percent	GI coverage (%)	unresolved_species	8	8	3.4257705	3.58684	0.801556925	1.39104725	5.12451925	6.104587225	0.781325	6.108569
+isescan_is_count	Insertion sequences	flavescens	7	7	20.2857142857143	17	11.45	14.5	18.5	43.8	11	48
+isescan_is_count	Insertion sequences	perflava	114	114	10.0614035087719	8.5	3.825	7	12	26	2	33
+isescan_is_count	Insertion sequences	subflava	23	23	23.7826086956522	22	11.2	19.5	28.5	39.35	9	41
+isescan_is_count	Insertion sequences	unresolved_species	8	8	15.75	15	7	10	19.75	27.475	7	28
+islandpath_gi_count	Genomic islands	flavescens	7	7	8.42857142857143	7	5.15	6	11.5	12	5	12
+islandpath_gi_count	Genomic islands	perflava	114	114	7.2280701754386	7.5	3	5	9	12.175	2	15
+islandpath_gi_count	Genomic islands	subflava	23	23	6.78260869565217	7	4.1	6	7	10.45	3	11
+islandpath_gi_count	Genomic islands	unresolved_species	8	8	6.5	7	2.175	4.5	9	9.825	2	10

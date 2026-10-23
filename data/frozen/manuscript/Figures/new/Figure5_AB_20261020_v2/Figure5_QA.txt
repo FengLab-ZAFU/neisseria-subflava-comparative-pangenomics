@@ -1,0 +1,13 @@
+PASS: independent exported-table count checks.
+PASS: effective PDF text size 9.958 to 14.000 pt on the 290 mm working canvas.
+At 183 mm width the smallest text would be 6.284 pt.
+PASS: required panel tags and key numeric labels are present in extractable PDF text.
+PASS: no negative text coordinates; final border clearance is checked visually.
+Source validator: 18 PASS, two reviewed WARN, zero FAIL. R parsed and rendered the source successfully; working width explicitly 290 mm.
+The lightweight PDF Tf-only scanner reports 1 pt for Cairo; Poppler resolves the text matrices and confirms the effective sizes above.
+Visual QA A: four groups, all counts visible, separated labels and no significance marks.
+Visual QA B: all 11 families, including single-genome annotations, readable labels and count endpoints.
+Supplementary Figure S3 effective PDF text size: 9.389 to 10.000 pt.
+Supplementary Figure S3 retains all 38 columns and 57 mapped loci; no C panel tag.
+All panels use descriptive genome counts; no repeat-level stochastic aggregate or inferential interval is displayed.
+No original figure, source analysis result or manuscript document was overwritten.

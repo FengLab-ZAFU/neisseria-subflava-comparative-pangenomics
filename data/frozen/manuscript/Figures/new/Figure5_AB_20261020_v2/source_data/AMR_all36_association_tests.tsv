@@ -1,0 +1,37 @@
+family_id	feature	target_group	a	b	c	d	target_n	rest_n	target_frequency	rest_frequency	OR	CI_low	CI_high	p	q	status	reason
+AMR_prevalence	gene:tet(M)	subflava	0	23	35	86	23	121	0	0.289256198347107	0	0	0.461173525339812	0.00114887159587181	0.00258496109071158	VALID	
+AMR_prevalence	gene:tet(M)	perflava	35	79	0	30	114	30	0.307017543859649	0	Inf	3.1251400599361	Inf	8.87955244428571e-05	0.000399579859992857	VALID	
+AMR_prevalence	gene:tet(M)	flavescens	0	7	35	102	7	137	0	0.255474452554745	0	0	2.14035061277782	0.195205175121285	0.219605822011446	VALID	
+AMR_prevalence	family:APH(3'')	subflava	0	23	4	117	23	121	0	0.0330578512396694	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:APH(3'')	perflava	4	110	0	30	114	30	0.0350877192982456	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:APH(3'')	flavescens	0	7	4	133	7	137	0	0.0291970802919708	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:APH(3')	subflava	0	23	1	120	23	121	0	0.00826446280991736	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:APH(3')	perflava	1	113	0	30	114	30	0.0087719298245614	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:APH(3')	flavescens	0	7	1	136	7	137	0	0.0072992700729927	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:APH(6)	subflava	0	23	4	117	23	121	0	0.0330578512396694	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:APH(6)	perflava	4	110	0	30	114	30	0.0350877192982456	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:APH(6)	flavescens	0	7	4	133	7	137	0	0.0291970802919708	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:ROB beta-lactamase	subflava	0	23	1	120	23	121	0	0.00826446280991736	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:ROB beta-lactamase	perflava	1	113	0	30	114	30	0.0087719298245614	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:ROB beta-lactamase	flavescens	0	7	1	136	7	137	0	0.0072992700729927	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:TEM beta-lactamase	subflava	0	23	3	118	23	121	0	0.0247933884297521	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:TEM beta-lactamase	perflava	3	111	0	30	114	30	0.0263157894736842	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:TEM beta-lactamase	flavescens	0	7	3	134	7	137	0	0.0218978102189781	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:major facilitator superfamily (MFS) antibiotic efflux pump	subflava	1	22	1	120	23	121	0.0434782608695652	0.00826446280991736	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:major facilitator superfamily (MFS) antibiotic efflux pump	perflava	1	113	1	29	114	30	0.0087719298245614	0.0333333333333333	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:major facilitator superfamily (MFS) antibiotic efflux pump	flavescens	0	7	2	135	7	137	0	0.0145985401459854	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	subflava	0	23	1	120	23	121	0	0.00826446280991736	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	perflava	1	113	0	30	114	30	0.0087719298245614	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	flavescens	0	7	1	136	7	137	0	0.0072992700729927	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:small multidrug resistance (SMR) antibiotic efflux pump	subflava	3	20	3	118	23	121	0.130434782608696	0.0247933884297521	5.78839830906815	0.724387274132313	46.3544561055478	0.0519118233916129	0.0778677350874193	VALID	
+AMR_prevalence	family:small multidrug resistance (SMR) antibiotic efflux pump	perflava	2	112	4	26	114	30	0.0175438596491228	0.133333333333333	0.118565570176295	0.0102117686425085	0.876982809222687	0.0173515879023993	0.0312328582243187	VALID	
+AMR_prevalence	family:small multidrug resistance (SMR) antibiotic efflux pump	flavescens	1	6	5	132	7	137	0.142857142857143	0.0364963503649635	4.31788604977281	0.0798638672269169	49.3308804048516	0.262478318675135	0.262478318675135	VALID	
+AMR_prevalence	family:streptothricin acetyltransferase (SAT)	subflava	0	23	1	120	23	121	0	0.00826446280991736	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:streptothricin acetyltransferase (SAT)	perflava	1	113	0	30	114	30	0.0087719298245614	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:streptothricin acetyltransferase (SAT)	flavescens	0	7	1	136	7	137	0	0.0072992700729927	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:sulfonamide resistant sul	subflava	0	23	3	118	23	121	0	0.0247933884297521	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:sulfonamide resistant sul	perflava	3	111	0	30	114	30	0.0263157894736842	0	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:sulfonamide resistant sul	flavescens	0	7	3	134	7	137	0	0.0218978102189781	NA	NA	NA	NA	NA	FILTERED	carrier<5_in_primary144
+AMR_prevalence	family:tetracycline-resistant ribosomal protection protein	subflava	0	23	35	86	23	121	0	0.289256198347107	0	0	0.461173525339812	0.00114887159587181	0.00258496109071158	VALID	
+AMR_prevalence	family:tetracycline-resistant ribosomal protection protein	perflava	35	79	0	30	114	30	0.307017543859649	0	Inf	3.1251400599361	Inf	8.87955244428571e-05	0.000399579859992857	VALID	
+AMR_prevalence	family:tetracycline-resistant ribosomal protection protein	flavescens	0	7	35	102	7	137	0	0.255474452554745	0	0	2.14035061277782	0.195205175121285	0.219605822011446	VALID	

@@ -1,0 +1,6 @@
+threshold_snp	n_units	n_multi_member_units	largest_unit	member_occurrences	unique_members	note
+5	1232	57	6	1303	1303	threshold applied over isolate nodes within verified participant groups
+10	1219	56	12	1303	1303	threshold applied over isolate nodes within verified participant groups
+20	1208	51	20	1303	1303	threshold applied over isolate nodes within verified participant groups
+50	1202	50	20	1303	1303	threshold applied over isolate nodes within verified participant groups
+250	1190	47	20	1303	1303	historical audit reference only; no pre-merge at any threshold

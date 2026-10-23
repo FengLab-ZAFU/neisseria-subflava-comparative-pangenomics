@@ -1,0 +1,672 @@
+{
+  "status": "Input and topology checks only; no model analysis or bootstrap performed",
+  "package_version": "0.4.0",
+  "pav": {
+    "rows": 13215,
+    "genomes": 152,
+    "duplicated_clusters": 0,
+    "duplicated_genomes": 0,
+    "binary_only": true,
+    "missing": 0,
+    "invariant_present": 1118,
+    "invariant_absent": 0
+  },
+  "metadata": {
+    "n": 144,
+    "group_counts": {
+      "flavescens": 7,
+      "perflava": 114,
+      "subflava": 23
+    },
+    "study_namespace_counts": {
+      "ITM_PRJNA703317": 9,
+      "PRJDB17561": 1,
+      "PRJEB2090": 9,
+      "PRJEB30649": 3,
+      "PRJEB32184": 1,
+      "PRJEB35093": 2,
+      "PRJEB55195": 1,
+      "PRJEB56918": 1,
+      "PRJEB6403": 1,
+      "PRJNA1322130": 7,
+      "PRJNA1446065": 1,
+      "PRJNA269675": 1,
+      "PRJNA269876": 1,
+      "PRJNA274665": 3,
+      "PRJNA296167": 1,
+      "PRJNA296174": 1,
+      "PRJNA296208": 1,
+      "PRJNA296213": 1,
+      "PRJNA296215": 1,
+      "PRJNA296240": 1,
+      "PRJNA296276": 1,
+      "PRJNA296303": 1,
+      "PRJNA299932": 1,
+      "PRJNA299951": 1,
+      "PRJNA299978": 1,
+      "PRJNA299982": 1,
+      "PRJNA299988": 1,
+      "PRJNA300019": 1,
+      "PRJNA300025": 1,
+      "PRJNA300026": 1,
+      "PRJNA300034": 1,
+      "PRJNA300106": 1,
+      "PRJNA300126": 1,
+      "PRJNA300175": 1,
+      "PRJNA300190": 1,
+      "PRJNA300195": 1,
+      "PRJNA30473": 1,
+      "PRJNA30483": 1,
+      "PRJNA305687": 1,
+      "PRJNA316969": 3,
+      "PRJNA328015": 1,
+      "PRJNA428178": 1,
+      "PRJNA428750": 11,
+      "PRJNA533546": 1,
+      "PRJNA578828": 6,
+      "PRJNA595761": 1,
+      "PRJNA644200": 1,
+      "PRJNA714914": 3,
+      "PRJNA744662": 1,
+      "PRJNA747821": 1,
+      "PRJNA970254": 1,
+      "Regan2026_Rochester_study": 47
+    },
+    "n_study_namespaces": 52,
+    "study_by_group": [
+      {
+        "flavescens": 1,
+        "perflava": 8,
+        "subflava": 0,
+        "_row": "ITM_PRJNA703317"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJDB17561"
+      },
+      {
+        "flavescens": 1,
+        "perflava": 2,
+        "subflava": 6,
+        "_row": "PRJEB2090"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 2,
+        "subflava": 1,
+        "_row": "PRJEB30649"
+      },
+      {
+        "flavescens": 1,
+        "perflava": 0,
+        "subflava": 0,
+        "_row": "PRJEB32184"
+      },
+      {
+        "flavescens": 2,
+        "perflava": 0,
+        "subflava": 0,
+        "_row": "PRJEB35093"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJEB55195"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJEB56918"
+      },
+      {
+        "flavescens": 1,
+        "perflava": 0,
+        "subflava": 0,
+        "_row": "PRJEB6403"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 7,
+        "subflava": 0,
+        "_row": "PRJNA1322130"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA1446065"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA269675"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA269876"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 3,
+        "subflava": 0,
+        "_row": "PRJNA274665"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA296167"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA296174"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA296208"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA296213"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA296215"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA296240"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA296276"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA296303"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA299932"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA299951"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA299978"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA299982"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA299988"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA300019"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA300025"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 0,
+        "subflava": 1,
+        "_row": "PRJNA300026"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA300034"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA300106"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA300126"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA300175"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA300190"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 0,
+        "subflava": 1,
+        "_row": "PRJNA300195"
+      },
+      {
+        "flavescens": 1,
+        "perflava": 0,
+        "subflava": 0,
+        "_row": "PRJNA30473"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA30483"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA305687"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 3,
+        "subflava": 0,
+        "_row": "PRJNA316969"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA328015"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA428178"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 11,
+        "subflava": 0,
+        "_row": "PRJNA428750"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 0,
+        "subflava": 1,
+        "_row": "PRJNA533546"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 5,
+        "subflava": 1,
+        "_row": "PRJNA578828"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA595761"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA644200"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 2,
+        "_row": "PRJNA714914"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA744662"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA747821"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 1,
+        "subflava": 0,
+        "_row": "PRJNA970254"
+      },
+      {
+        "flavescens": 0,
+        "perflava": 37,
+        "subflava": 10,
+        "_row": "Regan2026_Rochester_study"
+      }
+    ],
+    "duplicated_accessions": 0,
+    "all_in_pav": true,
+    "excluded_from_comparison": ["GCA_001810105.1", "GCA_023635085.1", "GCA_024205725.1", "GCA_024205745.1", "GCA_024205785.1", "GCA_052073865.1", "GCA_052859045.1", "GCA_052859165.1"]
+  },
+  "trees": {
+    "unrooted": {
+      "tree": {
+        "n_tips": 152,
+        "tip_quotes_removed": 152,
+        "n_nodes": 150,
+        "rooted": false,
+        "n_edges": 301,
+        "finite_lengths": true,
+        "min_length": 1.104e-07,
+        "max_length": 0.035691130100000003,
+        "zero_lengths": 0,
+        "negative_lengths": 0,
+        "tiny_below_1e_8": 0,
+        "total_length": 2.1967659955999999
+      },
+      "groups": {
+        "flavescens": {
+          "group": "flavescens",
+          "n": 7,
+          "unrooted_split_monophyletic": true,
+          "matching_edges": 5,
+          "retained_parent_edges": 12,
+          "minimal_containing_split_size": 7,
+          "minimal_containing_split_extra_tips": [],
+          "preserved_patristic_max_abs_diff": 0,
+          "prune_total_branch_length": 0.090065378900000007,
+          "prune_nedge": 11,
+          "prune_min_branch_length": 1.104e-07,
+          "prune_zero_branches": 0,
+          "prune_internal_min": 9.3239999999999996e-07,
+          "midpoint_nedge": 12,
+          "midpoint_min_branch": 1.104e-07,
+          "midpoint_zero_branches": 0,
+          "varying_gene_clusters": 1419
+        },
+        "perflava": {
+          "group": "perflava",
+          "n": 114,
+          "unrooted_split_monophyletic": true,
+          "matching_edges": 7,
+          "retained_parent_edges": 226,
+          "minimal_containing_split_size": 114,
+          "minimal_containing_split_extra_tips": [],
+          "preserved_patristic_max_abs_diff": 0,
+          "prune_total_branch_length": 1.5762978217000001,
+          "prune_nedge": 226,
+          "prune_min_branch_length": 1.104e-07,
+          "prune_zero_branches": 0,
+          "prune_internal_min": 1.105e-07,
+          "midpoint_nedge": 226,
+          "midpoint_min_branch": 1.104e-07,
+          "midpoint_zero_branches": 0,
+          "varying_gene_clusters": 8922
+        },
+        "subflava": {
+          "group": "subflava",
+          "n": 23,
+          "unrooted_split_monophyletic": true,
+          "matching_edges": 249,
+          "retained_parent_edges": 44,
+          "minimal_containing_split_size": 23,
+          "minimal_containing_split_extra_tips": [],
+          "preserved_patristic_max_abs_diff": 0,
+          "prune_total_branch_length": 0.32529413870000001,
+          "prune_nedge": 44,
+          "prune_min_branch_length": 1.104e-07,
+          "prune_zero_branches": 0,
+          "prune_internal_min": 1.105e-07,
+          "midpoint_nedge": 44,
+          "midpoint_min_branch": 1.104e-07,
+          "midpoint_zero_branches": 0,
+          "varying_gene_clusters": 3377
+        }
+      },
+      "shared_edges": [
+        {
+          "group_a": "flavescens",
+          "group_b": "perflava",
+          "shared_parent_edges": 0
+        },
+        {
+          "group_a": "flavescens",
+          "group_b": "subflava",
+          "shared_parent_edges": 0
+        },
+        {
+          "group_a": "perflava",
+          "group_b": "subflava",
+          "shared_parent_edges": 0
+        }
+      ]
+    },
+    "midpoint_display": {
+      "tree": {
+        "n_tips": 152,
+        "tip_quotes_removed": 152,
+        "n_nodes": 151,
+        "rooted": true,
+        "n_edges": 302,
+        "finite_lengths": true,
+        "min_length": 1.104e-07,
+        "max_length": 0.035691130100000003,
+        "zero_lengths": 0,
+        "negative_lengths": 0,
+        "tiny_below_1e_8": 0,
+        "total_length": 2.1967659955999999
+      },
+      "groups": {
+        "flavescens": {
+          "group": "flavescens",
+          "n": 7,
+          "unrooted_split_monophyletic": true,
+          "matching_edges": 290,
+          "retained_parent_edges": 12,
+          "minimal_containing_split_size": 7,
+          "minimal_containing_split_extra_tips": [],
+          "preserved_patristic_max_abs_diff": 0,
+          "prune_total_branch_length": 0.090065378900000007,
+          "prune_nedge": 12,
+          "prune_min_branch_length": 1.104e-07,
+          "prune_zero_branches": 0,
+          "prune_internal_min": 9.3239999999999996e-07,
+          "midpoint_nedge": 12,
+          "midpoint_min_branch": 1.104e-07,
+          "midpoint_zero_branches": 0,
+          "varying_gene_clusters": 1419
+        },
+        "perflava": {
+          "group": "perflava",
+          "n": 114,
+          "unrooted_split_monophyletic": true,
+          "matching_edges": 228,
+          "retained_parent_edges": 227,
+          "minimal_containing_split_size": 114,
+          "minimal_containing_split_extra_tips": [],
+          "preserved_patristic_max_abs_diff": 1.3877787807814457e-17,
+          "prune_total_branch_length": 1.5762978217000001,
+          "prune_nedge": 226,
+          "prune_min_branch_length": 1.104e-07,
+          "prune_zero_branches": 0,
+          "prune_internal_min": 1.105e-07,
+          "midpoint_nedge": 226,
+          "midpoint_min_branch": 1.104e-07,
+          "midpoint_zero_branches": 0,
+          "varying_gene_clusters": 8922
+        },
+        "subflava": {
+          "group": "subflava",
+          "n": 23,
+          "unrooted_split_monophyletic": true,
+          "matching_edges": 245,
+          "retained_parent_edges": 44,
+          "minimal_containing_split_size": 23,
+          "minimal_containing_split_extra_tips": [],
+          "preserved_patristic_max_abs_diff": 0,
+          "prune_total_branch_length": 0.32529413870000001,
+          "prune_nedge": 44,
+          "prune_min_branch_length": 1.104e-07,
+          "prune_zero_branches": 0,
+          "prune_internal_min": 1.105e-07,
+          "midpoint_nedge": 44,
+          "midpoint_min_branch": 1.104e-07,
+          "midpoint_zero_branches": 0,
+          "varying_gene_clusters": 3377
+        }
+      },
+      "shared_edges": [
+        {
+          "group_a": "flavescens",
+          "group_b": "perflava",
+          "shared_parent_edges": 0
+        },
+        {
+          "group_a": "flavescens",
+          "group_b": "subflava",
+          "shared_parent_edges": 0
+        },
+        {
+          "group_a": "perflava",
+          "group_b": "subflava",
+          "shared_parent_edges": 0
+        }
+      ]
+    },
+    "fasttree": {
+      "tree": {
+        "n_tips": 152,
+        "tip_quotes_removed": 0,
+        "n_nodes": 150,
+        "rooted": false,
+        "n_edges": 301,
+        "finite_lengths": true,
+        "min_length": 0,
+        "max_length": 0.033709442999999999,
+        "zero_lengths": 6,
+        "negative_lengths": 0,
+        "tiny_below_1e_8": 28,
+        "total_length": 2.2950726779999999
+      },
+      "groups": {
+        "flavescens": {
+          "group": "flavescens",
+          "n": 7,
+          "unrooted_split_monophyletic": true,
+          "matching_edges": 38,
+          "retained_parent_edges": 12,
+          "minimal_containing_split_size": 7,
+          "minimal_containing_split_extra_tips": [],
+          "preserved_patristic_max_abs_diff": 0,
+          "prune_total_branch_length": 0.092900480000000007,
+          "prune_nedge": 12,
+          "prune_min_branch_length": 6e-09,
+          "prune_zero_branches": 0,
+          "prune_internal_min": 1.124e-06,
+          "midpoint_nedge": 12,
+          "midpoint_min_branch": 6e-09,
+          "midpoint_zero_branches": 0,
+          "varying_gene_clusters": 1419
+        },
+        "perflava": {
+          "group": "perflava",
+          "n": 114,
+          "unrooted_split_monophyletic": false,
+          "matching_edges": [],
+          "retained_parent_edges": 227,
+          "minimal_containing_split_size": 122,
+          "minimal_containing_split_extra_tips": ["GCA_001810105.1", "GCA_023635085.1", "GCA_024205725.1", "GCA_024205745.1", "GCA_024205785.1", "GCA_052073865.1", "GCA_052859045.1", "GCA_052859165.1"],
+          "preserved_patristic_max_abs_diff": 0,
+          "prune_total_branch_length": 1.6530825179999999,
+          "prune_nedge": 225,
+          "prune_min_branch_length": 0,
+          "prune_zero_branches": 2,
+          "prune_internal_min": 6e-09,
+          "midpoint_nedge": 226,
+          "midpoint_min_branch": 0,
+          "midpoint_zero_branches": 2,
+          "varying_gene_clusters": 8922
+        },
+        "subflava": {
+          "group": "subflava",
+          "n": 23,
+          "unrooted_split_monophyletic": true,
+          "matching_edges": 51,
+          "retained_parent_edges": 44,
+          "minimal_containing_split_size": 23,
+          "minimal_containing_split_extra_tips": [],
+          "preserved_patristic_max_abs_diff": 0,
+          "prune_total_branch_length": 0.33844090999999998,
+          "prune_nedge": 44,
+          "prune_min_branch_length": 0,
+          "prune_zero_branches": 4,
+          "prune_internal_min": 6e-09,
+          "midpoint_nedge": 44,
+          "midpoint_min_branch": 0,
+          "midpoint_zero_branches": 4,
+          "varying_gene_clusters": 3377
+        }
+      },
+      "shared_edges": [
+        {
+          "group_a": "flavescens",
+          "group_b": "perflava",
+          "shared_parent_edges": 0
+        },
+        {
+          "group_a": "flavescens",
+          "group_b": "subflava",
+          "shared_parent_edges": 0
+        },
+        {
+          "group_a": "perflava",
+          "group_b": "subflava",
+          "shared_parent_edges": 0
+        }
+      ]
+    }
+  }
+}

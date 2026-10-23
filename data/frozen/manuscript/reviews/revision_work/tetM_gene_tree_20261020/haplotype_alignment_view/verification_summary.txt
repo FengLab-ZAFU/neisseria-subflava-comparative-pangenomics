@@ -1,0 +1,7 @@
+PASS: 7 rows x 29 variable columns = 203 verified nucleotide cells.
+PASS: every matrix row matches the corresponding tree tip and source sequence.
+PASS: branch support values belong to the seven-sequence-type inference, not the full 52-tip tree.
+PASS: source preflight 18 PASS, two reviewed warnings (R source execution and dynamic width), zero FAIL.
+PASS: R source executed and 290 x 145 mm exports inspected; minimum effective PDF text 7.967 pt.
+The Tf-only PDF scanner does not resolve Cairo matrices; saved Poppler effective font geometry resolves that limitation.
+Visual QA: all row labels, 29 coordinates, 203 letters, branch labels and legends inspected; no clipping or collisions.

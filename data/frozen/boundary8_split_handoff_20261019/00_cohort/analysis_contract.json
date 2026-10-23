@@ -1,0 +1,118 @@
+{
+  "packet_version": "v2",
+  "date": "2026-10-19",
+  "archive_top_folder": "boundary8_split_handoff_20261019",
+  "original_result_dirname": "results_revision_20261015_main152_species",
+  "new_output_dirname": "results_revision_20261019_boundary8_analysis",
+  "overall_n": 152,
+  "comparison_n": 144,
+  "boundary_n": 8,
+  "primary_group_sizes": {
+    "subflava": 23,
+    "perflava": 114,
+    "flavescens": 7
+  },
+  "sensitivity_group_sizes": {
+    "subflava": 31,
+    "perflava": 114,
+    "flavescens": 7
+  },
+  "dictionary_id": "pgap2_main152_orth0.98",
+  "dictionary_n_clusters": 13215,
+  "partitions_defined_on_n": 152,
+  "rebuild_tree": false,
+  "rerun_detection": false,
+  "recompute_overall152_pcoa": true,
+  "pcoa": {
+    "implementation": "vegan::wcmdscale",
+    "add": "lingoes",
+    "squared_distance_addition": "2 * max(0, -minimum_eigenvalue)",
+    "axis_fraction_denominator": "sum_of_all_positive_corrected_eigenvalues",
+    "numerical_eigenvalue_tolerance_relative": 1e-08
+  },
+  "permanova": {
+    "distance": "raw_jaccard",
+    "n_permutations_target": 999,
+    "permutation_unit": "unique_nonidentity_group_label_configuration",
+    "designs": [
+      "free",
+      "within_study_namespace"
+    ],
+    "primary_design": "within_study_namespace",
+    "seeds": {
+      "free": 20261015990001,
+      "restricted": 20261015990002
+    },
+    "p": "(1+b)/(B+1)",
+    "BH": "not_prespecified_do_not_add"
+  },
+  "permdisp": {
+    "geometry": "vegan::betadisper",
+    "type": "median",
+    "bias_adjust": true,
+    "add": "lingoes",
+    "test": "vegan::permutest.betadisper",
+    "permutation_unit": "nonidentity_sample_index_permutation_of_model_residuals",
+    "designs": [
+      "free",
+      "within_study_namespace"
+    ],
+    "primary_design": "within_study_namespace",
+    "n_permutations_target": 999,
+    "seeds": {
+      "free": 2026101901,
+      "restricted": 2026101902
+    },
+    "repeat_with_same_method_on_sensitivity152": true,
+    "legacy_method_label": "legacy_manual_label_permutation"
+  },
+  "accumulation": {
+    "n_iterations": 1000,
+    "seed_base": 20261015000000,
+    "group_order": [
+      "pooled152",
+      "subflava",
+      "perflava",
+      "flavescens"
+    ],
+    "three_group_depth": 7,
+    "subflava_perflava_depth": 23,
+    "iteration_is_not_biological_replicate": true
+  },
+  "association": {
+    "carrier_minimum": 5,
+    "carrier_denominator": "primary144_evaluable_genomes",
+    "fisher_alternative": "two.sided",
+    "OR": "conditional_MLE",
+    "CI": 0.95,
+    "candidate_target_frequency_gt": 0.8,
+    "candidate_rest_frequency_lt": 0.2,
+    "candidate_q_lt": 0.05,
+    "use_unrounded_thresholds": true
+  },
+  "bh_families": {
+    "gene_species_main": "all_valid_cluster_x_target_group_tests",
+    "COG_species_associated": "all_valid_associated_group_x_category_tests",
+    "AMR_prevalence": "all_valid_AMR_feature_x_target_group_tests",
+    "defense_prevalence": "all_valid_defense_type_x_target_group_tests",
+    "VFDB_prevalence": "all_valid_candidate_feature_x_target_group_tests",
+    "defense_burden_KW_omnibus": "three_burdens_within_each_analysis_scope",
+    "interval_main_and_species": "all_valid_pooled152_plus_three_group144_x_5_partitions_x_2_criteria"
+  },
+  "mge_randomization": {
+    "MASTER_SEED": 20261015,
+    "RNG_RUN_ID": "main152_m8_20261015",
+    "iterations": 1000,
+    "coordinate_system": "0-based_half-open",
+    "pooled_n": 152,
+    "group_sizes": {
+      "subflava": 23,
+      "perflava": 114,
+      "flavescens": 7
+    },
+    "expected_combinations": 40,
+    "default_workers": 8
+  },
+  "status": "PREPARED_NOT_EXECUTED",
+  "remote_jobs_submitted": false
+}

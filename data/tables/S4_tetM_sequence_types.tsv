@@ -1,0 +1,8 @@
+haplotype	n_loci	n_genomes	identity_American_pct	identity_Dutch_pct	diagnostic_sites	American_alleles	Dutch_alleles	other_alleles	reference_like_assignment
+H01	41	33	97.57105943152455	98.39793281653746	68	26	42	0	mixed_reference_profile
+H02	3	3	98.08785529715762	98.39793281653746	68	31	37	0	mixed_reference_profile
+H03	2	2	98.44961240310077	97.9328165374677	68	39	29	0	mixed_reference_profile
+H04	2	2	98.13953488372093	98.34625322997417	68	32	36	0	mixed_reference_profile
+H05	2	2	97.2609819121447	98.81136950904393	68	19	49	0	mixed_reference_profile
+H06	1	1	97.51937984496124	98.34625322997417	68	26	42	0	mixed_reference_profile
+H07	1	1	97.51937984496124	98.34625322997417	68	26	42	0	mixed_reference_profile

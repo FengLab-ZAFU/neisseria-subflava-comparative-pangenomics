@@ -1,0 +1,4 @@
+assembly_accession	strain_label	contamination_percent	number_of_contigs	N50_bp	genome_size_bp	local_status	local_candidate
+GCA_051958015.1	P0015.S009	1.33	802	379271	2430213	LOCAL_MISSING	Genomes/SAMN48969057.fna
+GCA_051958105.1	P0015.S002	0.5	724	379271	2404207	LOCAL_MISSING	Genomes/SAMN48969050.fna
+GCA_051963555.1	P0001.S010	4.22	1002	120870	2582493	LOCAL_MISSING	Genomes/SAMN48968946.fna

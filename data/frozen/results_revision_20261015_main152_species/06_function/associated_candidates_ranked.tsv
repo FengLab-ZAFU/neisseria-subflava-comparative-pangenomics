@@ -1,0 +1,132 @@
+target_group	cluster	rank	prevalence_difference	q	product	annotation_status
+flavescens	clust_10730	1	1	1.69092039e-10	hypothetical protein	annotated
+flavescens	clust_10963	2	1	1.69092039e-10	Fe(3+) ions import ATP-binding protein FbpC	annotated
+flavescens	clust_12859	3	1	1.69092039e-10	heme ABC transporter substrate-binding protein FbpA	annotated
+flavescens	clust_216	4	1	1.69092039e-10	Trimeric autotransporter adhesin YadA-like C-terminal membrane anchor domain-containing protein;YadA-like family protein;Outer membrane insertion signal domain protein	annotated
+flavescens	clust_2544	5	1	1.69092039e-10	choline kinase family protein;Choline/ethanolamine kinase;Putative LicA	annotated
+flavescens	clust_2838	6	1	1.69092039e-10	Periplasmic protein	annotated
+flavescens	clust_2842	7	1	1.69092039e-10	MobA-like NTP transferase domain-containing protein	annotated
+flavescens	clust_3375	8	1	1.69092039e-10	PilC1 protein;PilC family type IV pilus tip adhesin	annotated
+flavescens	clust_4066	9	1	1.69092039e-10	MafI family immunity protein	annotated
+flavescens	clust_4201	10	1	1.69092039e-10	Suppressor of fused-like domain-containing protein;Suppressor of fused domain protein	annotated
+flavescens	clust_4371	11	1	1.69092039e-10	hypothetical protein	annotated
+flavescens	clust_4617	12	1	1.69092039e-10	DUF4375 domain-containing protein	annotated
+flavescens	clust_4622	13	1	1.69092039e-10	Dithiobiotin synthetase;pimeloyl-ACP methyl esterase BioG family protein	annotated
+flavescens	clust_4632	14	1	1.69092039e-10	Hep/Hag repeat protein	annotated
+flavescens	clust_5017	15	1	1.69092039e-10	Lipoprotein	annotated
+flavescens	clust_5092	16	1	1.69092039e-10	Phosphorylcholine transferase	annotated
+flavescens	clust_5117	17	1	1.69092039e-10	carbonic anhydrase family protein;carbonic anhydrase	annotated
+flavescens	clust_53	18	1	1.69092039e-10	Inner membrane protein	annotated
+flavescens	clust_5301	19	1	1.69092039e-10	Outer membrane efflux protein	annotated
+flavescens	clust_5402	20	1	1.69092039e-10	Opacity protein opA54;opacity family porin;Opacity protein opA53	annotated
+flavescens	clust_5414	21	1	1.69092039e-10	GAF domain-containing protein	annotated
+flavescens	clust_5625	22	1	1.69092039e-10	hypothetical protein	annotated
+flavescens	clust_5774	23	1	1.69092039e-10	NeuD/PglB/VioB family sugar acetyltransferase;Lipid carrier: UDP-N-acetylgalactosaminyltransferase	annotated
+flavescens	clust_5777	24	1	1.69092039e-10	8-amino-7-oxononanoate synthase	annotated
+flavescens	clust_6461	25	1	1.69092039e-10	DUF4926 domain-containing protein	annotated
+flavescens	clust_6776	26	1	1.69092039e-10	Regulator of ribonuclease activity B domain-containing protein	annotated
+flavescens	clust_7336	27	1	1.69092039e-10	hypothetical protein	annotated
+flavescens	clust_8344	28	1	1.69092039e-10	Putative LicB	annotated
+flavescens	clust_8516	29	1	1.69092039e-10	heme ABC transporter permease FbpB	annotated
+flavescens	clust_8579	30	1	1.69092039e-10	putative membrane transporter protein	annotated
+flavescens	clust_9139	31	1	1.69092039e-10	Ankyrin repeat protein;hypothetical protein	annotated
+flavescens	clust_9709	32	1	1.69092039e-10	malonyl-ACP O-methyltransferase BioC	annotated
+flavescens	clust_12171	33	1	1.69092039e-10	DUF2185 domain-containing protein	matched_no_cog
+flavescens	clust_12178	34	1	1.69092039e-10	Acetyltransferase_ GNAT family	matched_no_cog
+flavescens	clust_1321	35	1	1.69092039e-10	Glycosyltransferase 2-like domain-containing protein	matched_no_cog
+flavescens	clust_6125	36	1	1.69092039e-10	AbgT family antimetabolite efflux transporter MtrF	matched_no_cog
+flavescens	clust_7226	37	1	1.69092039e-10	Glycosyltransferase 2-like domain-containing protein;hypothetical protein	matched_no_cog
+flavescens	clust_9294	38	1	1.69092039e-10	hypothetical protein	matched_no_cog
+flavescens	clust_10406	39	1	1.69092039e-10	hypothetical protein	matched_no_emapper_row
+flavescens	clust_6539	40	1	1.69092039e-10	hypothetical protein	matched_no_emapper_row
+flavescens	clust_13107	41	0.9931034483	1.132523424e-09	hypothetical protein	annotated
+flavescens	clust_5520	42	0.9931034483	1.132523424e-09	TonB-dependent copper receptor	annotated
+flavescens	clust_7228	43	0.9931034483	1.132523424e-09	hypothetical protein	annotated
+flavescens	clust_270	44	0.9931034483	1.132523424e-09	Tetratricopeptide repeat protein;sel1 repeat family protein	matched_no_cog
+flavescens	clust_6462	45	0.9931034483	1.132523424e-09	hypothetical protein	matched_no_emapper_row
+flavescens	clust_5171	46	0.9862068966	4.400467521e-09	Cold-shock DNA-binding domain protein;Putative cold-shock dna-binding domain protein	annotated
+flavescens	clust_9538	47	0.9862068966	4.400467521e-09	phosphoethanolamine transferase;Arylsulfatase;Sulfatase	matched_no_cog
+flavescens	clust_3720	48	0.9862068966	4.400467521e-09	hypothetical protein	matched_no_emapper_row
+flavescens	clust_4199	49	0.9862068966	4.400467521e-09	Transporter_ small conductance mechanosensitive ion channel MscS family protein;hypothetical protein	matched_no_emapper_row
+flavescens	clust_10428	50	0.9793103448	1.378259639e-08	Transcription factor zinc-finger domain-containing protein	annotated
+flavescens	clust_9039	51	0.9586206897	1.363685353e-07	Adhesin MafA;adhesin;adhesin MafA	matched_no_cog
+flavescens	clust_5558	52	0.9448275862	4.630243706e-07	Serine/threonine protein kinase;Serine/threonine protein phosphatase	annotated
+flavescens	clust_5178	53	0.9310344828	1.198239586e-06	hypothetical protein	matched_no_emapper_row
+flavescens	clust_723	54	0.924137931	1.895525066e-06	DUF2059 domain-containing protein	annotated
+flavescens	clust_634	55	0.9172413793	2.921214741e-06	Esterase;hypothetical protein;subtype B tannase	annotated
+flavescens	clust_4425	56	0.9103448276	4.20578017e-06	DUF262 domain-containing protein	annotated
+flavescens	clust_763	57	0.9103448276	4.20578017e-06	trimeric porin PorB;porin;Major outer membrane protein P-IB	annotated
+flavescens	clust_920	58	0.9103448276	4.20578017e-06	hypothetical protein	annotated
+flavescens	clust_1085	59	0.9034482759	5.859543068e-06	SWIM zinc finger domain-containing protein;hypothetical protein;SWIM zinc finger domain protein;SWIM-type domain-containing protein	annotated
+flavescens	clust_2229	60	0.9034482759	5.859543068e-06	Zeta toxin domain-containing protein	annotated
+flavescens	clust_5648	61	0.9034482759	5.859543068e-06	hypothetical protein	annotated
+flavescens	clust_7779	62	0.8965517241	8.399310495e-06	Transcriptional regulator_ AsnC family;Transcriptional regulator%2C AsnC family	annotated
+flavescens	clust_1248	63	0.8896551724	1.169551326e-05	replication initiation factor domain-containing protein;Replication initiation protein-like C-terminal domain-containing protein;Replication initiation factor	annotated
+flavescens	clust_3711	64	0.8896551724	1.169551326e-05	DEAD/DEAH box helicase	annotated
+flavescens	clust_10462	65	0.8571428571	1.452202217e-08	hypothetical protein	annotated
+flavescens	clust_10548	66	0.8571428571	1.452202217e-08	Methyltransferase domain protein	annotated
+flavescens	clust_10965	67	0.8571428571	1.452202217e-08	DUF3616 domain-containing protein	annotated
+flavescens	clust_13116	68	0.8571428571	1.452202217e-08	hypothetical protein	annotated
+flavescens	clust_2277	69	0.8571428571	1.452202217e-08	Prepilin-type cleavage/methylation N-terminal domain protein;hypothetical protein	annotated
+flavescens	clust_2843	70	0.8571428571	1.452202217e-08	Putative adhesin MafB;Intein C-terminal splicing region;polymorphic toxin MafB class 1	annotated
+flavescens	clust_3020	71	0.8571428571	1.452202217e-08	Novel toxin 15 domain-containing protein	annotated
+flavescens	clust_4806	72	0.8571428571	1.452202217e-08	Glycosyl transferase CAP10 domain-containing protein	annotated
+flavescens	clust_5018	73	0.8571428571	1.452202217e-08	hypothetical protein	annotated
+flavescens	clust_5019	74	0.8571428571	1.452202217e-08	Autotransporter outer membrane beta-barrel domain-containing protein;Pertactin central region domain-containing protein	annotated
+flavescens	clust_5430	75	0.8571428571	1.452202217e-08	Suppressor of fused-like domain-containing protein	annotated
+flavescens	clust_5436	76	0.8571428571	1.452202217e-08	Autotransporter beta-domain protein;Virulence associated protein;hypothetical protein;Outer membrane autotransporter	annotated
+flavescens	clust_5919	77	0.8571428571	1.452202217e-08	Putative 8-amino-7-oxononanoate synthase	annotated
+flavescens	clust_6223	78	0.8571428571	1.452202217e-08	Putative outer membrane protein NMB0088;Outer membrane protein transport protein_ Ompp1/FadL/TodX family	annotated
+flavescens	clust_6697	79	0.8571428571	1.452202217e-08	MafB-related protein;HINT domain-containing protein	annotated
+flavescens	clust_7303	80	0.8571428571	1.452202217e-08	hypothetical protein	annotated
+flavescens	clust_766	81	0.8571428571	1.452202217e-08	Autotransporter;P-94;Outer membrane autotransporter barrel domain protein	annotated
+flavescens	clust_8517	82	0.8571428571	1.452202217e-08	Type I secretion system ATPase	annotated
+flavescens	clust_8768	83	0.8571428571	1.452202217e-08	Phage associated protein	annotated
+flavescens	clust_9114	84	0.8571428571	1.452202217e-08	Suppressor of fused-like domain-containing protein	annotated
+flavescens	clust_12798	85	0.8571428571	1.452202217e-08	Immunity protein 30 domain-containing protein	matched_no_cog
+flavescens	clust_3148	86	0.8571428571	1.452202217e-08	hypothetical protein	matched_no_cog
+flavescens	clust_5419	87	0.8571428571	1.452202217e-08	hypothetical protein	matched_no_cog
+flavescens	clust_4618	88	0.8571428571	1.452202217e-08	Lipoprotein	matched_no_emapper_row
+flavescens	clust_4623	89	0.8571428571	1.452202217e-08	hypothetical protein	matched_no_emapper_row
+flavescens	clust_5407	90	0.8571428571	1.452202217e-08	hypothetical protein	matched_no_emapper_row
+flavescens	clust_6857	91	0.8571428571	1.452202217e-08	hypothetical protein	matched_no_emapper_row
+flavescens	clust_5024	92	0.8551724138	4.638109758e-05	Phage associated protein;hypothetical protein	annotated
+perflava	clust_1882	93	0.850877193	7.439961004e-21	TonB-dependent receptor	annotated
+flavescens	clust_6026	94	0.8502463054	8.380366421e-08	Periplasmic binding protein	annotated
+flavescens	clust_2468	95	0.8502463054	8.380366421e-08	Phage associated protein	matched_no_cog
+flavescens	clust_33	96	0.8433497537	3.0361415e-07	hypothetical protein	annotated
+flavescens	clust_6239	97	0.8433497537	3.0361415e-07	hypothetical protein	annotated
+flavescens	clust_178	98	0.8413793103	7.565660945e-05	Peptidase;C39 family peptidase	annotated
+flavescens	clust_7996	99	0.8413793103	7.565660945e-05	DUF2523 domain-containing protein	annotated
+flavescens	clust_11984	100	0.836453202	7.639578322e-07	DUF2523 domain-containing protein	annotated
+flavescens	clust_5797	101	0.836453202	7.639578322e-07	hypothetical protein;Tat pathway signal sequence domain protein	annotated
+flavescens	clust_6777	102	0.836453202	7.639578322e-07	hypothetical protein	annotated
+flavescens	clust_2989	103	0.8295566502	1.797378337e-06	hypothetical protein;RHS repeat-associated core domain-containing protein;RHS repeat-associated core domain protein	annotated
+flavescens	clust_5034	104	0.8275862069	0.000109449895	ATP synthase subunit I	annotated
+flavescens	clust_6394	105	0.8275862069	0.000109449895	RNA-binding protein;Lipoprotein	matched_no_cog
+flavescens	clust_1935	106	0.8226600985	3.710880663e-06	Cell division protein FtsN	annotated
+perflava	clust_3364	107	0.8157894737	6.303043482e-22	Filamentous haemagglutinin FhaB/tRNA nuclease CdiA-like TPS domain-containing protein;Filamentous hemeagglutinin family domain protein	annotated
+perflava	clust_4606	108	0.8157894737	2.432584066e-18	TIGR00645 family protein;UPF0114 protein KCG54_08535	annotated
+flavescens	clust_1379	109	0.8068965517	0.0002051289286	Secreted protein;Periplasmic protein;hypothetical protein	annotated
+flavescens	clust_2425	110	0.8019704433	1.92111749e-05	hypothetical protein	matched_no_emapper_row
+flavescens	clust_277	111	0.7950738916	2.850576017e-05	hypothetical protein;Glycosyltransferase EpsE	annotated
+flavescens	clust_13054	112	0.7881773399	4.367183081e-05	hypothetical protein	annotated
+perflava	clust_1391	113	0.7807017544	3.489238137e-16	Cell division protein FtsN	annotated
+flavescens	clust_266	114	0.7743842365	8.965242655e-05	hypothetical protein	annotated
+perflava	clust_1816	115	0.7719298246	1.096082298e-15	Glycosyltransferase%2C group 2 family protein;glycosyltransferase family 2 protein;Glycosyltransferase_ group 2 family protein	annotated
+flavescens	clust_6547	116	0.7674876847	0.0001180972368	Integral membrane protein	annotated
+flavescens	clust_175	117	0.760591133	0.0001603272406	Phage associated protein;hypothetical protein	annotated
+flavescens	clust_2472	118	0.7536945813	0.0002194611351	Phage associated protein;hypothetical protein	annotated
+flavescens	clust_11	119	0.7467980296	0.0002922335006	Major capsid protein;Phage associated protein;hypothetical protein;major capsid protein	annotated
+flavescens	clust_2469	120	0.7467980296	0.0002922335006	hypothetical protein	annotated
+subflava	clust_214	121	0.7462010131	8.677045875e-13	hypothetical protein	matched_no_emapper_row
+flavescens	clust_3568	122	0.7399014778	0.000357989073	replication endonuclease;Phasyl DNA replicon protein arp family protein	annotated
+subflava	clust_1379	123	0.7238069848	4.435684915e-13	Secreted protein;Periplasmic protein;hypothetical protein	annotated
+flavescens	clust_6109	124	0.7054187192	0.001133674551	CNA-B domain-containing protein;Integral membrane protein	annotated
+perflava	clust_526	125	0.6929824561	1.167854772e-12	outer membrane beta-barrel protein;Outer membrane insertion signal domain protein;Outer membrane protein beta-barrel domain-containing protein	annotated
+flavescens	clust_1594	126	0.6778325123	0.002207121557	Iron-sulfur cluster biosynthesis family protein	annotated
+perflava	clust_470	127	0.6754385965	3.611860976e-12	hypothetical protein;Chorismate mutase;aminotransferase class IV	annotated
+flavescens	clust_4053	128	0.6709359606	0.002639632905	Phage associated protein;hypothetical protein	annotated
+flavescens	clust_1609	129	0.6640394089	0.003129060031	Immunity protein 35 domain-containing protein	annotated
+perflava	clust_13161	130	0.6403508772	1.152751448e-10	threonine--tRNA ligase	annotated
+subflava	clust_2439	131	0.6246334311	4.981078151e-09	MFS transporter	annotated

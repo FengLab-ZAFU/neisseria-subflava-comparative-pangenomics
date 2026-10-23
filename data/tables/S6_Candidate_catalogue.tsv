@@ -1,0 +1,20 @@
+candidate	vfdb_accession	vfdb_product	n_positive_overall152	min_identity_percent	min_coverage_percent
+fbpA	WP_002214250	(fbpA) iron(III) ABC transporter periplasmic binding protein [FbpABC (VF0272) - Nutritional/Metabolic factor (VFC0272)] [Neisseria meningitidis MC58]	7	97.29	100
+fbpB	WP_002214251	(fbpB) iron(III) ABC transporter permease protein [FbpABC (VF0272) - Nutritional/Metabolic factor (VFC0272)] [Neisseria meningitidis MC58]	7	96.31	100
+fbpC	WP_002219640	(fbpC) iron(III) ABC transporter ATP-binding protein [FbpABC (VF0272) - Nutritional/Metabolic factor (VFC0272)] [Neisseria meningitidis MC58]	7	92.26	100
+hmbR	WP_002222141	(hmbR) hemoglobin receptor [HmbR (VF0048) - Nutritional/Metabolic factor (VFC0272)] [Neisseria meningitidis MC58]	77	85.86	99.71
+lbpA	WP_002247545	(lbpA) lactoferrin-binding protein A [Lbp (VF0047) - Nutritional/Metabolic factor (VFC0272)] [Neisseria meningitidis MC58]	39	93.45	99.15
+ctrD	WP_002224750	(ctrD) capsule polysaccharide export ATP-binding protein CtrD [Capsule (VF0079) - Immune modulation (VFC0258)] [Neisseria meningitidis MC58]	93	93.39	100
+lipA	WP_002224756	(lipA) capsule polysaccharide modification protein LipA [Capsule (VF0079) - Immune modulation (VFC0258)] [Neisseria meningitidis MC58]	137	94.49	88.37
+lipB	WP_002223278	(lipB) capsule polysaccharide modification protein LipB [Capsule (VF0079) - Immune modulation (VFC0258)] [Neisseria meningitidis MC58]	124	90.88	82.62
+rfaC	WP_002218264	(rfaC) lipopolysaccharide heptosyltransferase I [LOS (VF0078) - Immune modulation (VFC0258)] [Neisseria meningitidis MC58]	19	80	97.94
+lgtF	WP_002224973	(lgtF) glycosyltransferase family 2 protein [LOS (VF0078) - Immune modulation (VFC0258)] [Neisseria meningitidis MC58]	2	94.99	100
+rfaK	WP_002222112	(rfaK) glycosyltransferase family 4 protein [LOS (VF0078) - Immune modulation (VFC0258)] [Neisseria meningitidis MC58]	2	95.96	99.91
+fHbp	WP_010981001	(fHbp) factor H binding protein  [FHbp (VF0452) - Immune modulation (VFC0258)] [Neisseria meningitidis MC58]	2	94.5	99.9
+mntC	WP_002225548	(mntC) periplasmic binding protein MntC [MntABC (VF0455) - Stress survival (VFC0282)] [Neisseria meningitidis MC58]	78	80	96.17
+katA	WP_002218620	(katA) catalase [KatA (VF0454) - Stress survival (VFC0282)] [Neisseria meningitidis MC58]	125	91.62	99.47
+msrA/B (pilB)	WP_010980745	(msrA/B(pilB)) trifunctional thioredoxin/methionine sulfoxide reductase A/B protein [MsrAB (VF0456) - Stress survival (VFC0282)] [Neisseria meningitidis MC58]	150	88.91	99.87
+recN	WP_002247552	(recN) DNA repair protein RecN [RecN (VF0457) - Stress survival (VFC0282)] [Neisseria meningitidis MC58]	150	80.01	96.3
+mtrC	WP_002224968	(mtrC) membrane fusion protein MtrC [MtrCDE (VF0451) - Antimicrobial activity/Competitive advantage (VFC0325)] [Neisseria meningitidis MC58]	27	80	82.97
+mtrD	WP_002224969	(mtrD) multiple transferable resistance system protein MtrD [MtrCDE (VF0451) - Antimicrobial activity/Competitive advantage (VFC0325)] [Neisseria meningitidis MC58]	152	80.38	99.06
+pilT	WP_002218487	(pilT) twitching motility protein PilT [Type IV pili (VF0075) - Adherence (VFC0001)] [Neisseria meningitidis MC58]	152	82.61	90.71

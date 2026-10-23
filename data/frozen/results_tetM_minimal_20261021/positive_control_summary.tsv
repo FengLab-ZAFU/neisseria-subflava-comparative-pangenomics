@@ -1,0 +1,77 @@
+marker_id	description	length_aa	self_match_detected
+GU479464_1__2	MarR transcriptional regulator	15	False
+GU479464_1__3	zeta_1 toxin	401	True
+GU479464_1__4	epsilon_1 antitoxin	61	True
+GU479464_1__5	zeta_2 toxin	402	True
+GU479464_1__6	epsilon_2 antitoxin	84	True
+GU479464_1__7	hypothetical protein similar to NgonSK_11375	173	True
+GU479464_1__9	hypothetical protein similar to NgonSK_11390	157	True
+GU479466_1__1	TraC DNA primase	999	True
+GU479466_1__2	transcription elongation factor similar to NgonSK_11420	164	True
+GU479466_1__3	YegA conserved hypothetical protein with TAT signal sequence and DUF88 domain	186	True
+GU479466_1__4	hypothetical protein similar to NgonSK_11410	119	True
+GU479466_1__5	hypothetical protein similar to NgonSK_11405	122	True
+GU479466_1__6	hypothetical protein NgonSK_11400	113	True
+GU479466_1__7	putative DNA modification methylase similar to NgonSK_11395	298	True
+GU479466_1__8	hypothetical protein similar to NgonSK_11390	157	True
+GU479466_1__10	hypothetical protein similar to NgonSK_11375	173	True
+GU479466_1__11	epsilon_2 antitoxin	84	True
+GU479466_1__12	zeta_2 toxin	402	True
+GU479466_1__13	epsilon_1 antitoxin	61	True
+GU479466_1__14	zeta_1 toxin	401	True
+GU479466_1__15	MarR transcriptional regulator	143	True
+GU479466_1__16	Res putative resolvase	184	True
+GU479466_1__17	VapD toxin; putative virulence-associated protein D	110	True
+GU479466_1__18	TrbN lytic transglycosylase	199	True
+GU479466_1__19	TrbM involved in conjugative transfer	192	True
+GU479466_1__20	TrbL VirB6-like inner membrane protein	542	True
+GU479466_1__21	TrbK putative entry exclusion protein	46	True
+GU479466_1__22	TrbJ similar to VirB5	258	True
+GU479466_1__23	TrbI VirB10-like core complex component	479	True
+GU479466_1__24	TrbH VirB7-like core complex component	136	True
+GU479466_1__25	TrbG VirB9-like core complex component	288	True
+GU479466_1__26	TrbF DNA transfer protein	235	True
+GU479466_1__27	TrbE VirB4-like conjugal transfer ATPase	854	True
+GU479466_1__28	TrbD similar to VirB3	105	True
+GU479466_1__29	TrbC VirB2 prepilin	127	True
+GU479466_1__30	TrbB VirB11-like conjugal transfer ATPase	332	True
+GU479466_1__31	TrbA transcriptional repressor	121	True
+GU479466_1__32	Ssb putative single standed DNA binding protein	127	True
+GU479466_1__33	TrfA oriV activator protein; plasmid replication	292	True
+GU479466_1__34	KorC regulator of plasmid partitioning	115	True
+GU479466_1__35	KleE involved in plasmid partitioning	81	True
+GU479466_1__36	IncC2 ATP binding protein; involved in plasmid partitioning	251	True
+GU479466_1__37	ParB DNA binding protein; involved in plasmid partitioning	305	True
+GU479466_1__38	KfrB putative KfrB/TraO; involved in plasmid partitioning	118	True
+GU479466_1__39	KfrC putative KfrC/TraN protein; involved in plasmid partitioning	178	True
+GU479466_1__40	TraM involved in conjugal transfer	160	True
+GU479466_1__41	TraL involved in conjugal transfer	241	True
+GU479466_1__42	TraK involved in conjugal transfer	139	True
+GU479466_1__43	TraJ oriT binding rptoein	125	True
+GU479466_1__44	TraI DNA relaxase	797	True
+GU479466_1__45	TraG conjugal coupling protein	629	True
+GU479466_1__46	TraF conjugal prepilin peptidase	170	True
+GU479466_1__47	TraE DNA topoisomerase III	731	True
+GU479466_1__48	TraD involved in conjugal transfer	54	True
+U09422_1__2	ORF24	39	True
+U09422_1__3	ORF23	104	True
+U09422_1__4	ORF22	128	True
+U09422_1__5	ORF21	461	True
+U09422_1__6	ORF20	329	True
+U09422_1__7	ORF19	73	True
+U09422_1__8	ORF18	165	True
+U09422_1__9	ORF17	168	True
+U09422_1__10	ORF16	815	True
+U09422_1__11	ORF15	754	True
+U09422_1__12	ORF14	333	True
+U09422_1__13	ORF13	310	True
+U09422_1__18	ORF6	62	True
+U09422_1__19	ORF9	117	True
+U09422_1__20	ORF10	23	True
+U09422_1__21	ORF7	157	True
+U09422_1__22	ORF8	76	True
+U09422_1__23	ORF5	83	True
+U09422_1__25	Xis-Tn ORF1	67	True
+U09422_1__27	Int-Tn ORF2	405	True
+U09422_1__28	Int-Tn ORF3	361	True
+U09422_1__29	Int-Tn ORF4	324	True

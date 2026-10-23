@@ -1,0 +1,10 @@
+{
+  "seed": 20261021,
+  "replicates": 1000,
+  "coefficients_identical": true,
+  "coefficients_maxdiff": 0,
+  "raw_bootstrap_identical": true,
+  "raw_bootstrap_maxdiff": 0,
+  "point_summary_identical": true,
+  "branch_data_identical": true
+}

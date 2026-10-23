@@ -1,0 +1,2 @@
+model_equation	fit_response	fit_range	n_points	A	gamma	rmse	r_squared	converged	convergence_message	resid_mean	resid_sd	resid_min	resid_max	resid_cor_with_n	resid_cor_with_fitted	status	reason
+P(n) = A * n^gamma	pan_mean (mean over 1000 random-order iterations)	n=2..152	151	1713.636774	0.4061537112	32.60856497	0.999856917	TRUE	nls converged (Gauss-Newton, default tol)	1.847178743	32.66454474	-17.93387034	275.1883185	-0.01826348582	-0.1966178061	OK	exploratory single fit on the mean curve; iterations are not 1000 independent cohorts

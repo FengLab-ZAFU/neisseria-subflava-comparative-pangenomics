@@ -1,0 +1,7 @@
+feature_set	group	n	mean_distance_to_centroid	median_distance_to_centroid	sd_distance_to_centroid
+shell_cloud	flavescens	7	0.4500702175	0.5340635345	0.1283413431
+shell_cloud	perflava	114	0.5366204003	0.5408275221	0.04868364084
+shell_cloud	subflava	31	0.5472126746	0.5559466306	0.0846447084
+all_variable	flavescens	7	0.3460207334	0.4031985354	0.08224358795
+all_variable	perflava	114	0.3847967152	0.3887726717	0.04823059356
+all_variable	subflava	31	0.4013069327	0.3955266516	0.06745099746

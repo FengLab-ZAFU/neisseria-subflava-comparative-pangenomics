@@ -1,0 +1,9 @@
+stage	n	rule
+candidate_assemblies	1303	genus-wide freeze snapshot 2026-10-01, 1303 records
+type_reference_membership_pass	327	At least one type-culture reference channel with bidirectional mean ANI>=95% and minimum bidirectional AF>=0.70; ANI margin is not a membership criterion
+after_provenance_and_QC	243	provenance corrections + CheckM2 completeness>=90%, contamination<=5%, N50>=10 kb
+dereplicated_representatives_before_final_reference_assignment_filter	169	independent-unit dereplication representatives
+excluded_non_unique_reference_assignment	17	16 multiple-channel and 12 margin<0.10 pp records, overlapping in 11; union=17 excluded
+final_main_cohort	152	152 overall genomes; primary three-group comparisons use 144 (23/114/7); 8 unresolved retained overall
+three_group_comparison_stratum	144	Analysis subset, not an additional whole-study exclusion
+unresolved_species_descriptive_stratum	8	Retained in overall152; excluded from all three-group target/rest sets

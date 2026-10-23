@@ -1,0 +1,54 @@
+{
+  "overall_152": {
+    "scope": "overall_152",
+    "status": "FIT",
+    "converged": false,
+    "rank": 4,
+    "n_parameters": 4,
+    "condition_number": 260.7356,
+    "finite_coefficients": true,
+    "internal_events": 12253.8725,
+    "tip_events": 25477.2256,
+    "warnings": "glm.fit: algorithm did not converge",
+    "seconds": 3.89
+  },
+  "subflava": {
+    "scope": "subflava",
+    "status": "FIT",
+    "converged": false,
+    "rank": 4,
+    "n_parameters": 4,
+    "condition_number": 170.4151,
+    "finite_coefficients": true,
+    "internal_events": 2019.2357,
+    "tip_events": 3770.0857,
+    "warnings": "glm.fit: algorithm did not converge",
+    "seconds": 0.57
+  },
+  "perflava": {
+    "scope": "perflava",
+    "status": "FIT",
+    "converged": false,
+    "rank": 4,
+    "n_parameters": 4,
+    "condition_number": 261.4345,
+    "finite_coefficients": true,
+    "internal_events": 8321.5693,
+    "tip_events": 18177.3552,
+    "warnings": "glm.fit: algorithm did not converge",
+    "seconds": 2.39
+  },
+  "flavescens": {
+    "scope": "flavescens",
+    "status": "FIT",
+    "converged": false,
+    "rank": 4,
+    "n_parameters": 4,
+    "condition_number": 218.7346,
+    "finite_coefficients": true,
+    "internal_events": 853.2167,
+    "tip_events": 821.05,
+    "warnings": "glm.fit: algorithm did not converge",
+    "seconds": 0.27
+  }
+}

@@ -1,0 +1,8 @@
+haplotype	x	y	group	n_genomes	n_loci	label	anchor
+H01	53.5351074101734	2	perflava	33	41	H01  (33 genomes; 41 loci)	60
+H02	31.0376277277339	6	unresolved_species	3	3	H02  (3 genomes; 3 loci)	60
+H03	56	5	perflava	2	2	H03  (2 genomes; 2 loci)	60
+H04	28.6483184949136	7	perflava	2	2	H04  (2 genomes; 2 loci)	60
+H05	24.04260059335	4	perflava	2	2	H05  (2 genomes; 2 loci)	60
+H07	55.9941878129379	3	perflava	1	1	H07  (1 genome; 1 locus)	60
+H06	56	1	perflava	1	1	H06  (1 genome; 1 locus)	60

@@ -1,0 +1,8 @@
+Item	Definition
+Scope	Overall cohort: 152 genomes. Primary reference-group comparisons: 144 genomes (23 subflava, 114 perflava, 7 flavescens). Eight species-unresolved genomes are descriptive only.
+Grouping	Species names denote operational reference assignments. ANI_reference_assignment records the ANI reference channel; analysis_group additionally accounts for unresolved species status.
+ANI and AF	ANI values are percentages; AF is a proportion. The perflava channel uses the better of two CCUG 17915 assemblies. ANI margin is in percentage points.
+References	subflava: GCA_005221305.1; perflava: GCA_023472875.1 / GCA_042649725.1; flavescens: GCA_005221285.1. GGDC Formula 2 uses the first perflava assembly.
+Screening	The 1,303-record ledger uses final exclusion decisions: 327 ANI candidates, 243 source/QC-eligible records, 169 dereplicated representatives, and 152 retained genomes. Margins are supplied for the 169 representatives.
+Clone thresholds	Counts summarize grouping of the same 243 eligible genomes at 5, 10, 20 and 50 SNPs, before the final unique-reference filter; they are not alternative final main-cohort sizes.
+Missing metadata	Blank/NR denotes unavailable or unreported information, not biological absence. Participant and unit identifiers are study-scoped; 152 units are not asserted to be fully independent epidemiological observations.

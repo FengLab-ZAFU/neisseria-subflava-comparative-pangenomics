@@ -1,0 +1,13 @@
+SOURCE: ATCC product page https://www.atcc.org/products/29256
+ACCESSED: 2026-10-09 (UTC), via FetchURL text extraction
+KEY EXTRACT (verbatim excerpts):
+
+"Neisseria sicca (von Lingelsheim) Bergey et al. - 29256"
+"Neisseria sicca strain 6b is a whole-genome sequenced bacterial type strain
+ that was isolated from the pharyngeal mucosa of a healthy man."
+Strain designation: 6b [ATCC 49276; CDN 16; NRL 30016]
+Type strain: Yes
+Genome sequenced strain: Yes
+Isolation source: Pharyngeal mucosa of healthy man
+Deposited as: Neisseria sicca (von Lingelsheim) Bergey et al.
+Chain of custody: ATCC <-- U Berger <-- [ATCC 49276; CDN 16; NRL 30016]

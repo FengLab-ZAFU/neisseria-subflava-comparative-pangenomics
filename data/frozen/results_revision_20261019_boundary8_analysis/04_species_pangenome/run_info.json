@@ -1,0 +1,20 @@
+{
+  "status": "DONE",
+  "dictionary_id": "pgap2_main152_orth0.98",
+  "n_clusters": 13215,
+  "n_iter": 1000,
+  "seed_base": 20261015000000,
+  "primary_groups": {
+    "subflava": 23,
+    "perflava": 114,
+    "flavescens": 7
+  },
+  "sensitivity_groups": {
+    "subflava": 31,
+    "perflava": 114,
+    "flavescens": 7
+  },
+  "sharing_total_144": 12465,
+  "boundary8_only": 750,
+  "notes": "All primary144 and sensitivity152 accumulation curves recomputed deterministically."
+}

@@ -1,0 +1,14 @@
+assembly_accession	biosample	unit_id	best_ref	margin	group_for_testing	completeness	contamination	qc_source	derivative_flag
+GCA_023635085.1	SAMN18320762	S_GCA_023635085.1	subflava	0.1271	subflava			sg0010_control_set	natural_baseline_repeat
+GCA_056611915.1	SAMN35359261	S_GCA_056611915.1	subflava	0.2262	subflava			sg0010_control_set	natural_baseline_repeat
+GCA_056850555.1	SAMN35532495	S_GCA_056850555.1	subflava	0.1673	subflava			sg0010_control_set	experimental
+GCA_056850565.1	SAMN35532494	S_GCA_056850565.1	subflava	0.1109	ambiguous			sg0010_control_set	experimental
+GCA_056850575.1	SAMN35532493	S_GCA_056850575.1	subflava	0.1876	subflava			sg0010_control_set	experimental
+GCA_056850585.1	SAMN35554046	S_GCA_056850585.1	subflava	0.1662	subflava			sg0010_control_set	experimental
+GCA_056850595.1	SAMN35554047	S_GCA_056850595.1	subflava	0.1897	subflava			sg0010_control_set	experimental
+GCA_056850675.1	SAMN35554045	S_GCA_056850675.1	subflava	0.1312	subflava			sg0010_control_set	experimental
+GCA_056850685.1	SAMN35554044	S_GCA_056850685.1	subflava	0.1615	subflava			sg0010_control_set	experimental
+GCA_056880575.1	SAMN34163274	S_GCA_056880575.1	subflava	0.2023	subflava			sg0010_control_set	experimental
+GCA_056880585.1	SAMN34163273	S_GCA_056880585.1	subflava	0.195	subflava			sg0010_control_set	experimental
+GCA_056880595.1	SAMN34163271	S_GCA_056880595.1	subflava	0.1865	subflava			sg0010_control_set	experimental
+GCA_056880605.1	SAMN34163272	S_GCA_056880605.1	subflava	0.2021	subflava			sg0010_control_set	experimental

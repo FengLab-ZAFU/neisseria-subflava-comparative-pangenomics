@@ -1,0 +1,5 @@
+scope	n_tips	n_branches	n_internal	zero_branches	min_branch	max_branch	detected_clusters	variable_clusters	rooted	binary
+overall_152	152	302	150	0	1.104e-07	0.0356911301	13215	12097	TRUE	TRUE
+subflava	23	44	21	0	1.104e-07	0.0356911301	4927	3377	TRUE	TRUE
+perflava	114	226	112	0	1.104e-07	0.0315382936	10206	8922	TRUE	TRUE
+flavescens	7	12	5	0	1.104e-07	0.0214123275	3068	1419	TRUE	TRUE

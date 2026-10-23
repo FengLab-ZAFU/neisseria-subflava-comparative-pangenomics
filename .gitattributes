@@ -1,0 +1,9 @@
+* -text
+*.py text eol=lf
+*.R text eol=lf
+*.sh text eol=lf
+*.gz binary
+*.xlsx binary
+*.rds binary
+*.part* binary
+/data/frozen/** binary

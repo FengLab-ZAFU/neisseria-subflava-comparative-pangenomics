@@ -1,0 +1,913 @@
+accession	analysis_group	assembly_class	participant_selected	feature	value	label	group
+GCA_000173935.1	flavescens	Draft	TRUE	isescan_is_count	11	Insertion sequences	flavescens
+GCA_000173935.1	flavescens	Draft	TRUE	genomad_provirus_count	2	Proviruses	flavescens
+GCA_000173935.1	flavescens	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	flavescens
+GCA_000173935.1	flavescens	Draft	TRUE	genomad_virus_contig_count	4	Viral contigs	flavescens
+GCA_000173935.1	flavescens	Draft	TRUE	islandpath_gi_count	6	Genomic islands	flavescens
+GCA_000173935.1	flavescens	Draft	TRUE	gi_coverage_percent	2.185222	GI coverage (%)	flavescens
+GCA_000173955.1	perflava	Draft	TRUE	isescan_is_count	9	Insertion sequences	perflava
+GCA_000173955.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_000173955.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_000173955.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_000173955.1	perflava	Draft	TRUE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_000173955.1	perflava	Draft	TRUE	gi_coverage_percent	2.998754	GI coverage (%)	perflava
+GCA_001618065.1	perflava	Draft	TRUE	isescan_is_count	11	Insertion sequences	perflava
+GCA_001618065.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_001618065.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_001618065.1	perflava	Draft	TRUE	genomad_virus_contig_count	1	Viral contigs	perflava
+GCA_001618065.1	perflava	Draft	TRUE	islandpath_gi_count	9	Genomic islands	perflava
+GCA_001618065.1	perflava	Draft	TRUE	gi_coverage_percent	3.455359	GI coverage (%)	perflava
+GCA_001618075.1	perflava	Draft	TRUE	isescan_is_count	13	Insertion sequences	perflava
+GCA_001618075.1	perflava	Draft	TRUE	genomad_provirus_count	3	Proviruses	perflava
+GCA_001618075.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_001618075.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_001618075.1	perflava	Draft	TRUE	islandpath_gi_count	13	Genomic islands	perflava
+GCA_001618075.1	perflava	Draft	TRUE	gi_coverage_percent	4.465334	GI coverage (%)	perflava
+GCA_001618085.1	perflava	Draft	TRUE	isescan_is_count	8	Insertion sequences	perflava
+GCA_001618085.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_001618085.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_001618085.1	perflava	Draft	TRUE	genomad_virus_contig_count	1	Viral contigs	perflava
+GCA_001618085.1	perflava	Draft	TRUE	islandpath_gi_count	7	Genomic islands	perflava
+GCA_001618085.1	perflava	Draft	TRUE	gi_coverage_percent	2.624944	GI coverage (%)	perflava
+GCA_001808255.1	perflava	Draft	TRUE	isescan_is_count	7	Insertion sequences	perflava
+GCA_001808255.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_001808255.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	4	Plasmid-like contigs	perflava
+GCA_001808255.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_001808255.1	perflava	Draft	TRUE	islandpath_gi_count	5	Genomic islands	perflava
+GCA_001808255.1	perflava	Draft	TRUE	gi_coverage_percent	2.9172	GI coverage (%)	perflava
+GCA_001809345.1	perflava	Draft	TRUE	isescan_is_count	6	Insertion sequences	perflava
+GCA_001809345.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_001809345.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_001809345.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_001809345.1	perflava	Draft	TRUE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_001809345.1	perflava	Draft	TRUE	gi_coverage_percent	2.749701	GI coverage (%)	perflava
+GCA_001809585.1	perflava	Draft	TRUE	isescan_is_count	9	Insertion sequences	perflava
+GCA_001809585.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_001809585.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_001809585.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_001809585.1	perflava	Draft	TRUE	islandpath_gi_count	5	Genomic islands	perflava
+GCA_001809585.1	perflava	Draft	TRUE	gi_coverage_percent	1.13166	GI coverage (%)	perflava
+GCA_001810035.1	perflava	Draft	TRUE	isescan_is_count	7	Insertion sequences	perflava
+GCA_001810035.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_001810035.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_001810035.1	perflava	Draft	TRUE	genomad_virus_contig_count	4	Viral contigs	perflava
+GCA_001810035.1	perflava	Draft	TRUE	islandpath_gi_count	7	Genomic islands	perflava
+GCA_001810035.1	perflava	Draft	TRUE	gi_coverage_percent	2.874932	GI coverage (%)	perflava
+GCA_001810105.1	unresolved_species	Draft	FALSE	isescan_is_count	7	Insertion sequences	unresolved_species
+GCA_001810105.1	unresolved_species	Draft	FALSE	genomad_provirus_count	0	Proviruses	unresolved_species
+GCA_001810105.1	unresolved_species	Draft	FALSE	genomad_plasmid_contig_count	3	Plasmid-like contigs	unresolved_species
+GCA_001810105.1	unresolved_species	Draft	FALSE	genomad_virus_contig_count	5	Viral contigs	unresolved_species
+GCA_001810105.1	unresolved_species	Draft	FALSE	islandpath_gi_count	5	Genomic islands	unresolved_species
+GCA_001810105.1	unresolved_species	Draft	FALSE	gi_coverage_percent	1.555751	GI coverage (%)	unresolved_species
+GCA_001811065.1	perflava	Draft	TRUE	isescan_is_count	9	Insertion sequences	perflava
+GCA_001811065.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_001811065.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	8	Plasmid-like contigs	perflava
+GCA_001811065.1	perflava	Draft	TRUE	genomad_virus_contig_count	6	Viral contigs	perflava
+GCA_001811065.1	perflava	Draft	TRUE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_001811065.1	perflava	Draft	TRUE	gi_coverage_percent	4.473188	GI coverage (%)	perflava
+GCA_001811365.1	perflava	Draft	TRUE	isescan_is_count	4	Insertion sequences	perflava
+GCA_001811365.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_001811365.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_001811365.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_001811365.1	perflava	Draft	TRUE	islandpath_gi_count	6	Genomic islands	perflava
+GCA_001811365.1	perflava	Draft	TRUE	gi_coverage_percent	2.971575	GI coverage (%)	perflava
+GCA_001811855.1	perflava	Draft	TRUE	isescan_is_count	10	Insertion sequences	perflava
+GCA_001811855.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_001811855.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_001811855.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_001811855.1	perflava	Draft	TRUE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_001811855.1	perflava	Draft	TRUE	gi_coverage_percent	3.743012	GI coverage (%)	perflava
+GCA_001811945.1	perflava	Draft	TRUE	isescan_is_count	9	Insertion sequences	perflava
+GCA_001811945.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_001811945.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_001811945.1	perflava	Draft	TRUE	genomad_virus_contig_count	3	Viral contigs	perflava
+GCA_001811945.1	perflava	Draft	TRUE	islandpath_gi_count	7	Genomic islands	perflava
+GCA_001811945.1	perflava	Draft	TRUE	gi_coverage_percent	3.744344	GI coverage (%)	perflava
+GCA_001812055.1	perflava	Draft	TRUE	isescan_is_count	7	Insertion sequences	perflava
+GCA_001812055.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_001812055.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_001812055.1	perflava	Draft	TRUE	genomad_virus_contig_count	7	Viral contigs	perflava
+GCA_001812055.1	perflava	Draft	TRUE	islandpath_gi_count	7	Genomic islands	perflava
+GCA_001812055.1	perflava	Draft	TRUE	gi_coverage_percent	4.202105	GI coverage (%)	perflava
+GCA_001812605.1	perflava	Draft	TRUE	isescan_is_count	13	Insertion sequences	perflava
+GCA_001812605.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_001812605.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_001812605.1	perflava	Draft	TRUE	genomad_virus_contig_count	4	Viral contigs	perflava
+GCA_001812605.1	perflava	Draft	TRUE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_001812605.1	perflava	Draft	TRUE	gi_coverage_percent	3.800288	GI coverage (%)	perflava
+GCA_001812725.1	perflava	Draft	TRUE	isescan_is_count	5	Insertion sequences	perflava
+GCA_001812725.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_001812725.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_001812725.1	perflava	Draft	TRUE	genomad_virus_contig_count	7	Viral contigs	perflava
+GCA_001812725.1	perflava	Draft	TRUE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_001812725.1	perflava	Draft	TRUE	gi_coverage_percent	3.588387	GI coverage (%)	perflava
+GCA_001812735.1	subflava	Draft	TRUE	isescan_is_count	13	Insertion sequences	subflava
+GCA_001812735.1	subflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	subflava
+GCA_001812735.1	subflava	Draft	TRUE	genomad_plasmid_contig_count	3	Plasmid-like contigs	subflava
+GCA_001812735.1	subflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	subflava
+GCA_001812735.1	subflava	Draft	TRUE	islandpath_gi_count	6	Genomic islands	subflava
+GCA_001812735.1	subflava	Draft	TRUE	gi_coverage_percent	2.75424	GI coverage (%)	subflava
+GCA_001812885.1	perflava	Draft	TRUE	isescan_is_count	6	Insertion sequences	perflava
+GCA_001812885.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_001812885.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_001812885.1	perflava	Draft	TRUE	genomad_virus_contig_count	7	Viral contigs	perflava
+GCA_001812885.1	perflava	Draft	TRUE	islandpath_gi_count	6	Genomic islands	perflava
+GCA_001812885.1	perflava	Draft	TRUE	gi_coverage_percent	3.333545	GI coverage (%)	perflava
+GCA_001814095.1	perflava	Draft	TRUE	isescan_is_count	7	Insertion sequences	perflava
+GCA_001814095.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_001814095.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_001814095.1	perflava	Draft	TRUE	genomad_virus_contig_count	2	Viral contigs	perflava
+GCA_001814095.1	perflava	Draft	TRUE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_001814095.1	perflava	Draft	TRUE	gi_coverage_percent	3.638578	GI coverage (%)	perflava
+GCA_001814445.1	perflava	Draft	TRUE	isescan_is_count	6	Insertion sequences	perflava
+GCA_001814445.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_001814445.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	3	Plasmid-like contigs	perflava
+GCA_001814445.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_001814445.1	perflava	Draft	TRUE	islandpath_gi_count	4	Genomic islands	perflava
+GCA_001814445.1	perflava	Draft	TRUE	gi_coverage_percent	1.601942	GI coverage (%)	perflava
+GCA_001815375.1	perflava	Draft	TRUE	isescan_is_count	7	Insertion sequences	perflava
+GCA_001815375.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_001815375.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_001815375.1	perflava	Draft	TRUE	genomad_virus_contig_count	1	Viral contigs	perflava
+GCA_001815375.1	perflava	Draft	TRUE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_001815375.1	perflava	Draft	TRUE	gi_coverage_percent	3.077104	GI coverage (%)	perflava
+GCA_001815615.1	perflava	Draft	TRUE	isescan_is_count	9	Insertion sequences	perflava
+GCA_001815615.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_001815615.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_001815615.1	perflava	Draft	TRUE	genomad_virus_contig_count	1	Viral contigs	perflava
+GCA_001815615.1	perflava	Draft	TRUE	islandpath_gi_count	5	Genomic islands	perflava
+GCA_001815615.1	perflava	Draft	TRUE	gi_coverage_percent	1.831925	GI coverage (%)	perflava
+GCA_001815685.1	subflava	Draft	TRUE	isescan_is_count	9	Insertion sequences	subflava
+GCA_001815685.1	subflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	subflava
+GCA_001815685.1	subflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	subflava
+GCA_001815685.1	subflava	Draft	TRUE	genomad_virus_contig_count	7	Viral contigs	subflava
+GCA_001815685.1	subflava	Draft	TRUE	islandpath_gi_count	5	Genomic islands	subflava
+GCA_001815685.1	subflava	Draft	TRUE	gi_coverage_percent	1.916555	GI coverage (%)	subflava
+GCA_001836315.1	perflava	Draft	TRUE	isescan_is_count	5	Insertion sequences	perflava
+GCA_001836315.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_001836315.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_001836315.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_001836315.1	perflava	Draft	TRUE	islandpath_gi_count	6	Genomic islands	perflava
+GCA_001836315.1	perflava	Draft	TRUE	gi_coverage_percent	3.29781	GI coverage (%)	perflava
+GCA_001837185.1	perflava	Draft	TRUE	isescan_is_count	2	Insertion sequences	perflava
+GCA_001837185.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_001837185.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_001837185.1	perflava	Draft	TRUE	genomad_virus_contig_count	2	Viral contigs	perflava
+GCA_001837185.1	perflava	Draft	TRUE	islandpath_gi_count	9	Genomic islands	perflava
+GCA_001837185.1	perflava	Draft	TRUE	gi_coverage_percent	3.902358	GI coverage (%)	perflava
+GCA_001837365.1	perflava	Draft	TRUE	isescan_is_count	2	Insertion sequences	perflava
+GCA_001837365.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_001837365.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_001837365.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_001837365.1	perflava	Draft	TRUE	islandpath_gi_count	4	Genomic islands	perflava
+GCA_001837365.1	perflava	Draft	TRUE	gi_coverage_percent	1.638095	GI coverage (%)	perflava
+GCA_001837635.1	perflava	Draft	TRUE	isescan_is_count	11	Insertion sequences	perflava
+GCA_001837635.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_001837635.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	3	Plasmid-like contigs	perflava
+GCA_001837635.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_001837635.1	perflava	Draft	TRUE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_001837635.1	perflava	Draft	TRUE	gi_coverage_percent	3.778364	GI coverage (%)	perflava
+GCA_001838135.1	perflava	Draft	TRUE	isescan_is_count	7	Insertion sequences	perflava
+GCA_001838135.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_001838135.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_001838135.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_001838135.1	perflava	Draft	TRUE	islandpath_gi_count	7	Genomic islands	perflava
+GCA_001838135.1	perflava	Draft	TRUE	gi_coverage_percent	2.460223	GI coverage (%)	perflava
+GCA_002847985.1	perflava	Draft	TRUE	isescan_is_count	10	Insertion sequences	perflava
+GCA_002847985.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_002847985.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_002847985.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_002847985.1	perflava	Draft	TRUE	islandpath_gi_count	5	Genomic islands	perflava
+GCA_002847985.1	perflava	Draft	TRUE	gi_coverage_percent	2.160995	GI coverage (%)	perflava
+GCA_002863305.2	perflava	Complete	TRUE	isescan_is_count	11	Insertion sequences	perflava
+GCA_002863305.2	perflava	Complete	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_002863305.2	perflava	Complete	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_002863305.2	perflava	Complete	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_002863305.2	perflava	Complete	TRUE	islandpath_gi_count	6	Genomic islands	perflava
+GCA_002863305.2	perflava	Complete	TRUE	gi_coverage_percent	2.854188	GI coverage (%)	perflava
+GCA_003044355.1	perflava	Draft	FALSE	isescan_is_count	9	Insertion sequences	perflava
+GCA_003044355.1	perflava	Draft	FALSE	genomad_provirus_count	3	Proviruses	perflava
+GCA_003044355.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	5	Plasmid-like contigs	perflava
+GCA_003044355.1	perflava	Draft	FALSE	genomad_virus_contig_count	5	Viral contigs	perflava
+GCA_003044355.1	perflava	Draft	FALSE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_003044355.1	perflava	Draft	FALSE	gi_coverage_percent	3.313402	GI coverage (%)	perflava
+GCA_003044385.1	perflava	Draft	FALSE	isescan_is_count	22	Insertion sequences	perflava
+GCA_003044385.1	perflava	Draft	FALSE	genomad_provirus_count	1	Proviruses	perflava
+GCA_003044385.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_003044385.1	perflava	Draft	FALSE	genomad_virus_contig_count	1	Viral contigs	perflava
+GCA_003044385.1	perflava	Draft	FALSE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_003044385.1	perflava	Draft	FALSE	gi_coverage_percent	3.870675	GI coverage (%)	perflava
+GCA_003044525.1	perflava	Draft	FALSE	isescan_is_count	7	Insertion sequences	perflava
+GCA_003044525.1	perflava	Draft	FALSE	genomad_provirus_count	0	Proviruses	perflava
+GCA_003044525.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_003044525.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_003044525.1	perflava	Draft	FALSE	islandpath_gi_count	4	Genomic islands	perflava
+GCA_003044525.1	perflava	Draft	FALSE	gi_coverage_percent	1.596575	GI coverage (%)	perflava
+GCA_003044585.1	perflava	Draft	FALSE	isescan_is_count	10	Insertion sequences	perflava
+GCA_003044585.1	perflava	Draft	FALSE	genomad_provirus_count	1	Proviruses	perflava
+GCA_003044585.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_003044585.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_003044585.1	perflava	Draft	FALSE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_003044585.1	perflava	Draft	FALSE	gi_coverage_percent	4.423705	GI coverage (%)	perflava
+GCA_003044645.1	perflava	Draft	FALSE	isescan_is_count	11	Insertion sequences	perflava
+GCA_003044645.1	perflava	Draft	FALSE	genomad_provirus_count	0	Proviruses	perflava
+GCA_003044645.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_003044645.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_003044645.1	perflava	Draft	FALSE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_003044645.1	perflava	Draft	FALSE	gi_coverage_percent	4.535491	GI coverage (%)	perflava
+GCA_003044665.1	perflava	Draft	FALSE	isescan_is_count	18	Insertion sequences	perflava
+GCA_003044665.1	perflava	Draft	FALSE	genomad_provirus_count	0	Proviruses	perflava
+GCA_003044665.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_003044665.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_003044665.1	perflava	Draft	FALSE	islandpath_gi_count	4	Genomic islands	perflava
+GCA_003044665.1	perflava	Draft	FALSE	gi_coverage_percent	2.13902	GI coverage (%)	perflava
+GCA_003044845.1	perflava	Draft	FALSE	isescan_is_count	16	Insertion sequences	perflava
+GCA_003044845.1	perflava	Draft	FALSE	genomad_provirus_count	0	Proviruses	perflava
+GCA_003044845.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_003044845.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_003044845.1	perflava	Draft	FALSE	islandpath_gi_count	9	Genomic islands	perflava
+GCA_003044845.1	perflava	Draft	FALSE	gi_coverage_percent	4.311045	GI coverage (%)	perflava
+GCA_003044925.1	perflava	Draft	FALSE	isescan_is_count	10	Insertion sequences	perflava
+GCA_003044925.1	perflava	Draft	FALSE	genomad_provirus_count	1	Proviruses	perflava
+GCA_003044925.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	3	Plasmid-like contigs	perflava
+GCA_003044925.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_003044925.1	perflava	Draft	FALSE	islandpath_gi_count	11	Genomic islands	perflava
+GCA_003044925.1	perflava	Draft	FALSE	gi_coverage_percent	4.206524	GI coverage (%)	perflava
+GCA_003044935.1	perflava	Draft	TRUE	isescan_is_count	5	Insertion sequences	perflava
+GCA_003044935.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_003044935.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_003044935.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_003044935.1	perflava	Draft	TRUE	islandpath_gi_count	6	Genomic islands	perflava
+GCA_003044935.1	perflava	Draft	TRUE	gi_coverage_percent	3.511477	GI coverage (%)	perflava
+GCA_003044965.1	perflava	Draft	FALSE	isescan_is_count	21	Insertion sequences	perflava
+GCA_003044965.1	perflava	Draft	FALSE	genomad_provirus_count	0	Proviruses	perflava
+GCA_003044965.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_003044965.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_003044965.1	perflava	Draft	FALSE	islandpath_gi_count	9	Genomic islands	perflava
+GCA_003044965.1	perflava	Draft	FALSE	gi_coverage_percent	6.633137	GI coverage (%)	perflava
+GCA_003045025.1	perflava	Draft	FALSE	isescan_is_count	17	Insertion sequences	perflava
+GCA_003045025.1	perflava	Draft	FALSE	genomad_provirus_count	1	Proviruses	perflava
+GCA_003045025.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_003045025.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_003045025.1	perflava	Draft	FALSE	islandpath_gi_count	9	Genomic islands	perflava
+GCA_003045025.1	perflava	Draft	FALSE	gi_coverage_percent	5.209771	GI coverage (%)	perflava
+GCA_003351665.1	perflava	Complete	TRUE	isescan_is_count	9	Insertion sequences	perflava
+GCA_003351665.1	perflava	Complete	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_003351665.1	perflava	Complete	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_003351665.1	perflava	Complete	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_003351665.1	perflava	Complete	TRUE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_003351665.1	perflava	Complete	TRUE	gi_coverage_percent	3.879587	GI coverage (%)	perflava
+GCA_005221305.1	subflava	Complete	TRUE	isescan_is_count	33	Insertion sequences	subflava
+GCA_005221305.1	subflava	Complete	TRUE	genomad_provirus_count	0	Proviruses	subflava
+GCA_005221305.1	subflava	Complete	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	subflava
+GCA_005221305.1	subflava	Complete	TRUE	genomad_virus_contig_count	0	Viral contigs	subflava
+GCA_005221305.1	subflava	Complete	TRUE	islandpath_gi_count	8	Genomic islands	subflava
+GCA_005221305.1	subflava	Complete	TRUE	gi_coverage_percent	6.181333	GI coverage (%)	subflava
+GCA_014596425.2	perflava	Complete	TRUE	isescan_is_count	5	Insertion sequences	perflava
+GCA_014596425.2	perflava	Complete	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_014596425.2	perflava	Complete	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_014596425.2	perflava	Complete	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_014596425.2	perflava	Complete	TRUE	islandpath_gi_count	6	Genomic islands	perflava
+GCA_014596425.2	perflava	Complete	TRUE	gi_coverage_percent	1.728724	GI coverage (%)	perflava
+GCA_019334725.1	perflava	Complete	TRUE	isescan_is_count	23	Insertion sequences	perflava
+GCA_019334725.1	perflava	Complete	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_019334725.1	perflava	Complete	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_019334725.1	perflava	Complete	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_019334725.1	perflava	Complete	TRUE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_019334725.1	perflava	Complete	TRUE	gi_coverage_percent	7.501134	GI coverage (%)	perflava
+GCA_023472875.1	perflava	Draft	TRUE	isescan_is_count	7	Insertion sequences	perflava
+GCA_023472875.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_023472875.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	3	Plasmid-like contigs	perflava
+GCA_023472875.1	perflava	Draft	TRUE	genomad_virus_contig_count	4	Viral contigs	perflava
+GCA_023472875.1	perflava	Draft	TRUE	islandpath_gi_count	5	Genomic islands	perflava
+GCA_023472875.1	perflava	Draft	TRUE	gi_coverage_percent	1.505317	GI coverage (%)	perflava
+GCA_023635065.1	subflava	Draft	TRUE	isescan_is_count	38	Insertion sequences	subflava
+GCA_023635065.1	subflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	subflava
+GCA_023635065.1	subflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	subflava
+GCA_023635065.1	subflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	subflava
+GCA_023635065.1	subflava	Draft	TRUE	islandpath_gi_count	7	Genomic islands	subflava
+GCA_023635065.1	subflava	Draft	TRUE	gi_coverage_percent	6.308289	GI coverage (%)	subflava
+GCA_023635085.1	unresolved_species	Draft	FALSE	isescan_is_count	28	Insertion sequences	unresolved_species
+GCA_023635085.1	unresolved_species	Draft	FALSE	genomad_provirus_count	1	Proviruses	unresolved_species
+GCA_023635085.1	unresolved_species	Draft	FALSE	genomad_plasmid_contig_count	0	Plasmid-like contigs	unresolved_species
+GCA_023635085.1	unresolved_species	Draft	FALSE	genomad_virus_contig_count	3	Viral contigs	unresolved_species
+GCA_023635085.1	unresolved_species	Draft	FALSE	islandpath_gi_count	9	Genomic islands	unresolved_species
+GCA_023635085.1	unresolved_species	Draft	FALSE	gi_coverage_percent	6.085816	GI coverage (%)	unresolved_species
+GCA_023635105.1	subflava	Draft	TRUE	isescan_is_count	36	Insertion sequences	subflava
+GCA_023635105.1	subflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	subflava
+GCA_023635105.1	subflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	subflava
+GCA_023635105.1	subflava	Draft	TRUE	genomad_virus_contig_count	2	Viral contigs	subflava
+GCA_023635105.1	subflava	Draft	TRUE	islandpath_gi_count	11	Genomic islands	subflava
+GCA_023635105.1	subflava	Draft	TRUE	gi_coverage_percent	7.822865	GI coverage (%)	subflava
+GCA_024205705.1	perflava	Complete	TRUE	isescan_is_count	33	Insertion sequences	perflava
+GCA_024205705.1	perflava	Complete	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_024205705.1	perflava	Complete	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_024205705.1	perflava	Complete	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_024205705.1	perflava	Complete	TRUE	islandpath_gi_count	12	Genomic islands	perflava
+GCA_024205705.1	perflava	Complete	TRUE	gi_coverage_percent	7.56722	GI coverage (%)	perflava
+GCA_024205725.1	unresolved_species	Complete	FALSE	isescan_is_count	18	Insertion sequences	unresolved_species
+GCA_024205725.1	unresolved_species	Complete	FALSE	genomad_provirus_count	2	Proviruses	unresolved_species
+GCA_024205725.1	unresolved_species	Complete	FALSE	genomad_plasmid_contig_count	0	Plasmid-like contigs	unresolved_species
+GCA_024205725.1	unresolved_species	Complete	FALSE	genomad_virus_contig_count	0	Viral contigs	unresolved_species
+GCA_024205725.1	unresolved_species	Complete	FALSE	islandpath_gi_count	10	Genomic islands	unresolved_species
+GCA_024205725.1	unresolved_species	Complete	FALSE	gi_coverage_percent	4.804087	GI coverage (%)	unresolved_species
+GCA_024205745.1	unresolved_species	Complete	FALSE	isescan_is_count	18	Insertion sequences	unresolved_species
+GCA_024205745.1	unresolved_species	Complete	FALSE	genomad_provirus_count	0	Proviruses	unresolved_species
+GCA_024205745.1	unresolved_species	Complete	FALSE	genomad_plasmid_contig_count	0	Plasmid-like contigs	unresolved_species
+GCA_024205745.1	unresolved_species	Complete	FALSE	genomad_virus_contig_count	0	Viral contigs	unresolved_species
+GCA_024205745.1	unresolved_species	Complete	FALSE	islandpath_gi_count	2	Genomic islands	unresolved_species
+GCA_024205745.1	unresolved_species	Complete	FALSE	gi_coverage_percent	0.896936	GI coverage (%)	unresolved_species
+GCA_024205785.1	unresolved_species	Complete	FALSE	isescan_is_count	25	Insertion sequences	unresolved_species
+GCA_024205785.1	unresolved_species	Complete	FALSE	genomad_provirus_count	0	Proviruses	unresolved_species
+GCA_024205785.1	unresolved_species	Complete	FALSE	genomad_plasmid_contig_count	0	Plasmid-like contigs	unresolved_species
+GCA_024205785.1	unresolved_species	Complete	FALSE	genomad_virus_contig_count	0	Viral contigs	unresolved_species
+GCA_024205785.1	unresolved_species	Complete	FALSE	islandpath_gi_count	9	Genomic islands	unresolved_species
+GCA_024205785.1	unresolved_species	Complete	FALSE	gi_coverage_percent	6.108569	GI coverage (%)	unresolved_species
+GCA_030218065.1	perflava	Draft	TRUE	isescan_is_count	30	Insertion sequences	perflava
+GCA_030218065.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_030218065.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_030218065.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_030218065.1	perflava	Draft	TRUE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_030218065.1	perflava	Draft	TRUE	gi_coverage_percent	2.356073	GI coverage (%)	perflava
+GCA_038738605.1	perflava	Draft	TRUE	isescan_is_count	8	Insertion sequences	perflava
+GCA_038738605.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_038738605.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_038738605.1	perflava	Draft	TRUE	genomad_virus_contig_count	1	Viral contigs	perflava
+GCA_038738605.1	perflava	Draft	TRUE	islandpath_gi_count	9	Genomic islands	perflava
+GCA_038738605.1	perflava	Draft	TRUE	gi_coverage_percent	4.014465	GI coverage (%)	perflava
+GCA_041433145.1	perflava	Draft	TRUE	isescan_is_count	8	Insertion sequences	perflava
+GCA_041433145.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_041433145.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_041433145.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_041433145.1	perflava	Draft	TRUE	islandpath_gi_count	7	Genomic islands	perflava
+GCA_041433145.1	perflava	Draft	TRUE	gi_coverage_percent	3.701657	GI coverage (%)	perflava
+GCA_041433195.1	subflava	Draft	TRUE	isescan_is_count	18	Insertion sequences	subflava
+GCA_041433195.1	subflava	Draft	TRUE	genomad_provirus_count	4	Proviruses	subflava
+GCA_041433195.1	subflava	Draft	TRUE	genomad_plasmid_contig_count	1	Plasmid-like contigs	subflava
+GCA_041433195.1	subflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	subflava
+GCA_041433195.1	subflava	Draft	TRUE	islandpath_gi_count	7	Genomic islands	subflava
+GCA_041433195.1	subflava	Draft	TRUE	gi_coverage_percent	3.472547	GI coverage (%)	subflava
+GCA_041433205.1	perflava	Draft	TRUE	isescan_is_count	5	Insertion sequences	perflava
+GCA_041433205.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_041433205.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_041433205.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_041433205.1	perflava	Draft	TRUE	islandpath_gi_count	7	Genomic islands	perflava
+GCA_041433205.1	perflava	Draft	TRUE	gi_coverage_percent	2.186519	GI coverage (%)	perflava
+GCA_041433235.1	perflava	Draft	TRUE	isescan_is_count	8	Insertion sequences	perflava
+GCA_041433235.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_041433235.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_041433235.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_041433235.1	perflava	Draft	TRUE	islandpath_gi_count	13	Genomic islands	perflava
+GCA_041433235.1	perflava	Draft	TRUE	gi_coverage_percent	4.7097	GI coverage (%)	perflava
+GCA_041433255.1	perflava	Draft	TRUE	isescan_is_count	11	Insertion sequences	perflava
+GCA_041433255.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_041433255.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_041433255.1	perflava	Draft	TRUE	genomad_virus_contig_count	1	Viral contigs	perflava
+GCA_041433255.1	perflava	Draft	TRUE	islandpath_gi_count	5	Genomic islands	perflava
+GCA_041433255.1	perflava	Draft	TRUE	gi_coverage_percent	2.90768	GI coverage (%)	perflava
+GCA_041433265.1	perflava	Draft	TRUE	isescan_is_count	6	Insertion sequences	perflava
+GCA_041433265.1	perflava	Draft	TRUE	genomad_provirus_count	3	Proviruses	perflava
+GCA_041433265.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_041433265.1	perflava	Draft	TRUE	genomad_virus_contig_count	5	Viral contigs	perflava
+GCA_041433265.1	perflava	Draft	TRUE	islandpath_gi_count	15	Genomic islands	perflava
+GCA_041433265.1	perflava	Draft	TRUE	gi_coverage_percent	5.577614	GI coverage (%)	perflava
+GCA_042536645.1	perflava	Draft	TRUE	isescan_is_count	8	Insertion sequences	perflava
+GCA_042536645.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_042536645.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_042536645.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_042536645.1	perflava	Draft	TRUE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_042536645.1	perflava	Draft	TRUE	gi_coverage_percent	4.484936	GI coverage (%)	perflava
+GCA_042536675.1	perflava	Draft	FALSE	isescan_is_count	11	Insertion sequences	perflava
+GCA_042536675.1	perflava	Draft	FALSE	genomad_provirus_count	1	Proviruses	perflava
+GCA_042536675.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	3	Plasmid-like contigs	perflava
+GCA_042536675.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_042536675.1	perflava	Draft	FALSE	islandpath_gi_count	5	Genomic islands	perflava
+GCA_042536675.1	perflava	Draft	FALSE	gi_coverage_percent	2.635511	GI coverage (%)	perflava
+GCA_042536705.1	perflava	Draft	TRUE	isescan_is_count	14	Insertion sequences	perflava
+GCA_042536705.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_042536705.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_042536705.1	perflava	Draft	TRUE	genomad_virus_contig_count	2	Viral contigs	perflava
+GCA_042536705.1	perflava	Draft	TRUE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_042536705.1	perflava	Draft	TRUE	gi_coverage_percent	3.868344	GI coverage (%)	perflava
+GCA_042536725.1	perflava	Draft	FALSE	isescan_is_count	15	Insertion sequences	perflava
+GCA_042536725.1	perflava	Draft	FALSE	genomad_provirus_count	3	Proviruses	perflava
+GCA_042536725.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	3	Plasmid-like contigs	perflava
+GCA_042536725.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_042536725.1	perflava	Draft	FALSE	islandpath_gi_count	9	Genomic islands	perflava
+GCA_042536725.1	perflava	Draft	FALSE	gi_coverage_percent	3.7937	GI coverage (%)	perflava
+GCA_042536745.1	perflava	Draft	FALSE	isescan_is_count	7	Insertion sequences	perflava
+GCA_042536745.1	perflava	Draft	FALSE	genomad_provirus_count	2	Proviruses	perflava
+GCA_042536745.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_042536745.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_042536745.1	perflava	Draft	FALSE	islandpath_gi_count	7	Genomic islands	perflava
+GCA_042536745.1	perflava	Draft	FALSE	gi_coverage_percent	3.875373	GI coverage (%)	perflava
+GCA_042536765.1	perflava	Draft	TRUE	isescan_is_count	7	Insertion sequences	perflava
+GCA_042536765.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_042536765.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_042536765.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_042536765.1	perflava	Draft	TRUE	islandpath_gi_count	6	Genomic islands	perflava
+GCA_042536765.1	perflava	Draft	TRUE	gi_coverage_percent	2.213517	GI coverage (%)	perflava
+GCA_042536925.1	flavescens	Draft	TRUE	isescan_is_count	14	Insertion sequences	flavescens
+GCA_042536925.1	flavescens	Draft	TRUE	genomad_provirus_count	1	Proviruses	flavescens
+GCA_042536925.1	flavescens	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	flavescens
+GCA_042536925.1	flavescens	Draft	TRUE	genomad_virus_contig_count	2	Viral contigs	flavescens
+GCA_042536925.1	flavescens	Draft	TRUE	islandpath_gi_count	6	Genomic islands	flavescens
+GCA_042536925.1	flavescens	Draft	TRUE	gi_coverage_percent	2.145139	GI coverage (%)	flavescens
+GCA_042536955.1	perflava	Draft	TRUE	isescan_is_count	7	Insertion sequences	perflava
+GCA_042536955.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_042536955.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_042536955.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_042536955.1	perflava	Draft	TRUE	islandpath_gi_count	7	Genomic islands	perflava
+GCA_042536955.1	perflava	Draft	TRUE	gi_coverage_percent	2.977146	GI coverage (%)	perflava
+GCA_042537005.1	perflava	Draft	FALSE	isescan_is_count	9	Insertion sequences	perflava
+GCA_042537005.1	perflava	Draft	FALSE	genomad_provirus_count	4	Proviruses	perflava
+GCA_042537005.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_042537005.1	perflava	Draft	FALSE	genomad_virus_contig_count	1	Viral contigs	perflava
+GCA_042537005.1	perflava	Draft	FALSE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_042537005.1	perflava	Draft	FALSE	gi_coverage_percent	2.313979	GI coverage (%)	perflava
+GCA_042537145.1	perflava	Draft	TRUE	isescan_is_count	4	Insertion sequences	perflava
+GCA_042537145.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_042537145.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_042537145.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_042537145.1	perflava	Draft	TRUE	islandpath_gi_count	4	Genomic islands	perflava
+GCA_042537145.1	perflava	Draft	TRUE	gi_coverage_percent	1.852197	GI coverage (%)	perflava
+GCA_042537275.1	flavescens	Draft	TRUE	isescan_is_count	17	Insertion sequences	flavescens
+GCA_042537275.1	flavescens	Draft	TRUE	genomad_provirus_count	4	Proviruses	flavescens
+GCA_042537275.1	flavescens	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	flavescens
+GCA_042537275.1	flavescens	Draft	TRUE	genomad_virus_contig_count	3	Viral contigs	flavescens
+GCA_042537275.1	flavescens	Draft	TRUE	islandpath_gi_count	12	Genomic islands	flavescens
+GCA_042537275.1	flavescens	Draft	TRUE	gi_coverage_percent	4.924916	GI coverage (%)	flavescens
+GCA_042537445.1	flavescens	Draft	TRUE	isescan_is_count	17	Insertion sequences	flavescens
+GCA_042537445.1	flavescens	Draft	TRUE	genomad_provirus_count	4	Proviruses	flavescens
+GCA_042537445.1	flavescens	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	flavescens
+GCA_042537445.1	flavescens	Draft	TRUE	genomad_virus_contig_count	3	Viral contigs	flavescens
+GCA_042537445.1	flavescens	Draft	TRUE	islandpath_gi_count	11	Genomic islands	flavescens
+GCA_042537445.1	flavescens	Draft	TRUE	gi_coverage_percent	4.281864	GI coverage (%)	flavescens
+GCA_042557445.1	perflava	Draft	TRUE	isescan_is_count	7	Insertion sequences	perflava
+GCA_042557445.1	perflava	Draft	TRUE	genomad_provirus_count	3	Proviruses	perflava
+GCA_042557445.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_042557445.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_042557445.1	perflava	Draft	TRUE	islandpath_gi_count	10	Genomic islands	perflava
+GCA_042557445.1	perflava	Draft	TRUE	gi_coverage_percent	4.598546	GI coverage (%)	perflava
+GCA_042557505.2	perflava	Draft	TRUE	isescan_is_count	13	Insertion sequences	perflava
+GCA_042557505.2	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_042557505.2	perflava	Draft	TRUE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_042557505.2	perflava	Draft	TRUE	genomad_virus_contig_count	3	Viral contigs	perflava
+GCA_042557505.2	perflava	Draft	TRUE	islandpath_gi_count	9	Genomic islands	perflava
+GCA_042557505.2	perflava	Draft	TRUE	gi_coverage_percent	3.101681	GI coverage (%)	perflava
+GCA_042557545.1	perflava	Draft	TRUE	isescan_is_count	16	Insertion sequences	perflava
+GCA_042557545.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_042557545.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	10	Plasmid-like contigs	perflava
+GCA_042557545.1	perflava	Draft	TRUE	genomad_virus_contig_count	4	Viral contigs	perflava
+GCA_042557545.1	perflava	Draft	TRUE	islandpath_gi_count	2	Genomic islands	perflava
+GCA_042557545.1	perflava	Draft	TRUE	gi_coverage_percent	0.484289	GI coverage (%)	perflava
+GCA_042666255.1	perflava	Draft	TRUE	isescan_is_count	14	Insertion sequences	perflava
+GCA_042666255.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_042666255.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_042666255.1	perflava	Draft	TRUE	genomad_virus_contig_count	2	Viral contigs	perflava
+GCA_042666255.1	perflava	Draft	TRUE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_042666255.1	perflava	Draft	TRUE	gi_coverage_percent	3.742076	GI coverage (%)	perflava
+GCA_050328165.1	subflava	Draft	TRUE	isescan_is_count	19	Insertion sequences	subflava
+GCA_050328165.1	subflava	Draft	TRUE	genomad_provirus_count	4	Proviruses	subflava
+GCA_050328165.1	subflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	subflava
+GCA_050328165.1	subflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	subflava
+GCA_050328165.1	subflava	Draft	TRUE	islandpath_gi_count	6	Genomic islands	subflava
+GCA_050328165.1	subflava	Draft	TRUE	gi_coverage_percent	2.528822	GI coverage (%)	subflava
+GCA_050328445.1	subflava	Draft	FALSE	isescan_is_count	20	Insertion sequences	subflava
+GCA_050328445.1	subflava	Draft	FALSE	genomad_provirus_count	2	Proviruses	subflava
+GCA_050328445.1	subflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	subflava
+GCA_050328445.1	subflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	subflava
+GCA_050328445.1	subflava	Draft	FALSE	islandpath_gi_count	7	Genomic islands	subflava
+GCA_050328445.1	subflava	Draft	FALSE	gi_coverage_percent	2.834676	GI coverage (%)	subflava
+GCA_050328485.1	subflava	Draft	FALSE	isescan_is_count	23	Insertion sequences	subflava
+GCA_050328485.1	subflava	Draft	FALSE	genomad_provirus_count	2	Proviruses	subflava
+GCA_050328485.1	subflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	subflava
+GCA_050328485.1	subflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	subflava
+GCA_050328485.1	subflava	Draft	FALSE	islandpath_gi_count	5	Genomic islands	subflava
+GCA_050328485.1	subflava	Draft	FALSE	gi_coverage_percent	2.828796	GI coverage (%)	subflava
+GCA_050328825.1	perflava	Draft	FALSE	isescan_is_count	5	Insertion sequences	perflava
+GCA_050328825.1	perflava	Draft	FALSE	genomad_provirus_count	0	Proviruses	perflava
+GCA_050328825.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_050328825.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_050328825.1	perflava	Draft	FALSE	islandpath_gi_count	3	Genomic islands	perflava
+GCA_050328825.1	perflava	Draft	FALSE	gi_coverage_percent	1.235998	GI coverage (%)	perflava
+GCA_050328885.1	perflava	Draft	FALSE	isescan_is_count	5	Insertion sequences	perflava
+GCA_050328885.1	perflava	Draft	FALSE	genomad_provirus_count	0	Proviruses	perflava
+GCA_050328885.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_050328885.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_050328885.1	perflava	Draft	FALSE	islandpath_gi_count	3	Genomic islands	perflava
+GCA_050328885.1	perflava	Draft	FALSE	gi_coverage_percent	1.356418	GI coverage (%)	perflava
+GCA_050328965.1	perflava	Draft	FALSE	isescan_is_count	6	Insertion sequences	perflava
+GCA_050328965.1	perflava	Draft	FALSE	genomad_provirus_count	0	Proviruses	perflava
+GCA_050328965.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_050328965.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_050328965.1	perflava	Draft	FALSE	islandpath_gi_count	3	Genomic islands	perflava
+GCA_050328965.1	perflava	Draft	FALSE	gi_coverage_percent	1.264857	GI coverage (%)	perflava
+GCA_050329065.1	perflava	Draft	FALSE	isescan_is_count	18	Insertion sequences	perflava
+GCA_050329065.1	perflava	Draft	FALSE	genomad_provirus_count	1	Proviruses	perflava
+GCA_050329065.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	5	Plasmid-like contigs	perflava
+GCA_050329065.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_050329065.1	perflava	Draft	FALSE	islandpath_gi_count	6	Genomic islands	perflava
+GCA_050329065.1	perflava	Draft	FALSE	gi_coverage_percent	3.131094	GI coverage (%)	perflava
+GCA_050329085.1	perflava	Draft	FALSE	isescan_is_count	15	Insertion sequences	perflava
+GCA_050329085.1	perflava	Draft	FALSE	genomad_provirus_count	1	Proviruses	perflava
+GCA_050329085.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	3	Plasmid-like contigs	perflava
+GCA_050329085.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_050329085.1	perflava	Draft	FALSE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_050329085.1	perflava	Draft	FALSE	gi_coverage_percent	2.638317	GI coverage (%)	perflava
+GCA_050329205.1	perflava	Draft	TRUE	isescan_is_count	13	Insertion sequences	perflava
+GCA_050329205.1	perflava	Draft	TRUE	genomad_provirus_count	3	Proviruses	perflava
+GCA_050329205.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	6	Plasmid-like contigs	perflava
+GCA_050329205.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_050329205.1	perflava	Draft	TRUE	islandpath_gi_count	7	Genomic islands	perflava
+GCA_050329205.1	perflava	Draft	TRUE	gi_coverage_percent	2.050073	GI coverage (%)	perflava
+GCA_050330235.1	perflava	Draft	FALSE	isescan_is_count	7	Insertion sequences	perflava
+GCA_050330235.1	perflava	Draft	FALSE	genomad_provirus_count	2	Proviruses	perflava
+GCA_050330235.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_050330235.1	perflava	Draft	FALSE	genomad_virus_contig_count	3	Viral contigs	perflava
+GCA_050330235.1	perflava	Draft	FALSE	islandpath_gi_count	10	Genomic islands	perflava
+GCA_050330235.1	perflava	Draft	FALSE	gi_coverage_percent	3.867752	GI coverage (%)	perflava
+GCA_050332295.1	subflava	Draft	FALSE	isescan_is_count	21	Insertion sequences	subflava
+GCA_050332295.1	subflava	Draft	FALSE	genomad_provirus_count	1	Proviruses	subflava
+GCA_050332295.1	subflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	subflava
+GCA_050332295.1	subflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	subflava
+GCA_050332295.1	subflava	Draft	FALSE	islandpath_gi_count	5	Genomic islands	subflava
+GCA_050332295.1	subflava	Draft	FALSE	gi_coverage_percent	1.582501	GI coverage (%)	subflava
+GCA_051956595.1	perflava	Draft	TRUE	isescan_is_count	7	Insertion sequences	perflava
+GCA_051956595.1	perflava	Draft	TRUE	genomad_provirus_count	5	Proviruses	perflava
+GCA_051956595.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_051956595.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_051956595.1	perflava	Draft	TRUE	islandpath_gi_count	9	Genomic islands	perflava
+GCA_051956595.1	perflava	Draft	TRUE	gi_coverage_percent	4.22233	GI coverage (%)	perflava
+GCA_051956655.1	perflava	Draft	FALSE	isescan_is_count	10	Insertion sequences	perflava
+GCA_051956655.1	perflava	Draft	FALSE	genomad_provirus_count	5	Proviruses	perflava
+GCA_051956655.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_051956655.1	perflava	Draft	FALSE	genomad_virus_contig_count	8	Viral contigs	perflava
+GCA_051956655.1	perflava	Draft	FALSE	islandpath_gi_count	9	Genomic islands	perflava
+GCA_051956655.1	perflava	Draft	FALSE	gi_coverage_percent	4.054697	GI coverage (%)	perflava
+GCA_051956975.1	perflava	Draft	TRUE	isescan_is_count	8	Insertion sequences	perflava
+GCA_051956975.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_051956975.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_051956975.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_051956975.1	perflava	Draft	TRUE	islandpath_gi_count	5	Genomic islands	perflava
+GCA_051956975.1	perflava	Draft	TRUE	gi_coverage_percent	2.280957	GI coverage (%)	perflava
+GCA_051957055.1	perflava	Draft	FALSE	isescan_is_count	14	Insertion sequences	perflava
+GCA_051957055.1	perflava	Draft	FALSE	genomad_provirus_count	0	Proviruses	perflava
+GCA_051957055.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_051957055.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_051957055.1	perflava	Draft	FALSE	islandpath_gi_count	9	Genomic islands	perflava
+GCA_051957055.1	perflava	Draft	FALSE	gi_coverage_percent	5.432703	GI coverage (%)	perflava
+GCA_051957095.1	subflava	Draft	TRUE	isescan_is_count	32	Insertion sequences	subflava
+GCA_051957095.1	subflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	subflava
+GCA_051957095.1	subflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	subflava
+GCA_051957095.1	subflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	subflava
+GCA_051957095.1	subflava	Draft	TRUE	islandpath_gi_count	10	Genomic islands	subflava
+GCA_051957095.1	subflava	Draft	TRUE	gi_coverage_percent	4.034555	GI coverage (%)	subflava
+GCA_051957115.1	perflava	Draft	TRUE	isescan_is_count	15	Insertion sequences	perflava
+GCA_051957115.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_051957115.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_051957115.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_051957115.1	perflava	Draft	TRUE	islandpath_gi_count	5	Genomic islands	perflava
+GCA_051957115.1	perflava	Draft	TRUE	gi_coverage_percent	2.636654	GI coverage (%)	perflava
+GCA_051957155.1	perflava	Draft	FALSE	isescan_is_count	7	Insertion sequences	perflava
+GCA_051957155.1	perflava	Draft	FALSE	genomad_provirus_count	2	Proviruses	perflava
+GCA_051957155.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_051957155.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_051957155.1	perflava	Draft	FALSE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_051957155.1	perflava	Draft	FALSE	gi_coverage_percent	3.169474	GI coverage (%)	perflava
+GCA_051957235.1	perflava	Draft	FALSE	isescan_is_count	25	Insertion sequences	perflava
+GCA_051957235.1	perflava	Draft	FALSE	genomad_provirus_count	1	Proviruses	perflava
+GCA_051957235.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_051957235.1	perflava	Draft	FALSE	genomad_virus_contig_count	1	Viral contigs	perflava
+GCA_051957235.1	perflava	Draft	FALSE	islandpath_gi_count	9	Genomic islands	perflava
+GCA_051957235.1	perflava	Draft	FALSE	gi_coverage_percent	3.049344	GI coverage (%)	perflava
+GCA_051957275.1	perflava	Draft	TRUE	isescan_is_count	26	Insertion sequences	perflava
+GCA_051957275.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_051957275.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_051957275.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_051957275.1	perflava	Draft	TRUE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_051957275.1	perflava	Draft	TRUE	gi_coverage_percent	2.56744	GI coverage (%)	perflava
+GCA_051957315.1	perflava	Draft	FALSE	isescan_is_count	26	Insertion sequences	perflava
+GCA_051957315.1	perflava	Draft	FALSE	genomad_provirus_count	1	Proviruses	perflava
+GCA_051957315.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_051957315.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_051957315.1	perflava	Draft	FALSE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_051957315.1	perflava	Draft	FALSE	gi_coverage_percent	2.785643	GI coverage (%)	perflava
+GCA_051957375.1	perflava	Draft	TRUE	isescan_is_count	7	Insertion sequences	perflava
+GCA_051957375.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_051957375.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_051957375.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_051957375.1	perflava	Draft	TRUE	islandpath_gi_count	4	Genomic islands	perflava
+GCA_051957375.1	perflava	Draft	TRUE	gi_coverage_percent	1.591472	GI coverage (%)	perflava
+GCA_051957575.1	subflava	Draft	FALSE	isescan_is_count	23	Insertion sequences	subflava
+GCA_051957575.1	subflava	Draft	FALSE	genomad_provirus_count	2	Proviruses	subflava
+GCA_051957575.1	subflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	subflava
+GCA_051957575.1	subflava	Draft	FALSE	genomad_virus_contig_count	8	Viral contigs	subflava
+GCA_051957575.1	subflava	Draft	FALSE	islandpath_gi_count	7	Genomic islands	subflava
+GCA_051957575.1	subflava	Draft	FALSE	gi_coverage_percent	2.559698	GI coverage (%)	subflava
+GCA_051957755.1	perflava	Draft	FALSE	isescan_is_count	10	Insertion sequences	perflava
+GCA_051957755.1	perflava	Draft	FALSE	genomad_provirus_count	2	Proviruses	perflava
+GCA_051957755.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_051957755.1	perflava	Draft	FALSE	genomad_virus_contig_count	3	Viral contigs	perflava
+GCA_051957755.1	perflava	Draft	FALSE	islandpath_gi_count	7	Genomic islands	perflava
+GCA_051957755.1	perflava	Draft	FALSE	gi_coverage_percent	3.004799	GI coverage (%)	perflava
+GCA_051958015.1	perflava	Draft	FALSE	isescan_is_count	10	Insertion sequences	perflava
+GCA_051958015.1	perflava	Draft	FALSE	genomad_provirus_count	0	Proviruses	perflava
+GCA_051958015.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_051958015.1	perflava	Draft	FALSE	genomad_virus_contig_count	6	Viral contigs	perflava
+GCA_051958015.1	perflava	Draft	FALSE	islandpath_gi_count	4	Genomic islands	perflava
+GCA_051958015.1	perflava	Draft	FALSE	gi_coverage_percent	1.396133	GI coverage (%)	perflava
+GCA_051958105.1	perflava	Draft	TRUE	isescan_is_count	10	Insertion sequences	perflava
+GCA_051958105.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_051958105.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_051958105.1	perflava	Draft	TRUE	genomad_virus_contig_count	4	Viral contigs	perflava
+GCA_051958105.1	perflava	Draft	TRUE	islandpath_gi_count	5	Genomic islands	perflava
+GCA_051958105.1	perflava	Draft	TRUE	gi_coverage_percent	1.65044	GI coverage (%)	perflava
+GCA_051958155.1	perflava	Draft	FALSE	isescan_is_count	12	Insertion sequences	perflava
+GCA_051958155.1	perflava	Draft	FALSE	genomad_provirus_count	2	Proviruses	perflava
+GCA_051958155.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_051958155.1	perflava	Draft	FALSE	genomad_virus_contig_count	12	Viral contigs	perflava
+GCA_051958155.1	perflava	Draft	FALSE	islandpath_gi_count	10	Genomic islands	perflava
+GCA_051958155.1	perflava	Draft	FALSE	gi_coverage_percent	4.315091	GI coverage (%)	perflava
+GCA_051958215.1	perflava	Draft	TRUE	isescan_is_count	11	Insertion sequences	perflava
+GCA_051958215.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_051958215.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	3	Plasmid-like contigs	perflava
+GCA_051958215.1	perflava	Draft	TRUE	genomad_virus_contig_count	6	Viral contigs	perflava
+GCA_051958215.1	perflava	Draft	TRUE	islandpath_gi_count	10	Genomic islands	perflava
+GCA_051958215.1	perflava	Draft	TRUE	gi_coverage_percent	4.395172	GI coverage (%)	perflava
+GCA_051958375.1	subflava	Draft	FALSE	isescan_is_count	22	Insertion sequences	subflava
+GCA_051958375.1	subflava	Draft	FALSE	genomad_provirus_count	2	Proviruses	subflava
+GCA_051958375.1	subflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	subflava
+GCA_051958375.1	subflava	Draft	FALSE	genomad_virus_contig_count	7	Viral contigs	subflava
+GCA_051958375.1	subflava	Draft	FALSE	islandpath_gi_count	7	Genomic islands	subflava
+GCA_051958375.1	subflava	Draft	FALSE	gi_coverage_percent	3.127606	GI coverage (%)	subflava
+GCA_051958415.1	subflava	Draft	FALSE	isescan_is_count	30	Insertion sequences	subflava
+GCA_051958415.1	subflava	Draft	FALSE	genomad_provirus_count	2	Proviruses	subflava
+GCA_051958415.1	subflava	Draft	FALSE	genomad_plasmid_contig_count	2	Plasmid-like contigs	subflava
+GCA_051958415.1	subflava	Draft	FALSE	genomad_virus_contig_count	7	Viral contigs	subflava
+GCA_051958415.1	subflava	Draft	FALSE	islandpath_gi_count	7	Genomic islands	subflava
+GCA_051958415.1	subflava	Draft	FALSE	gi_coverage_percent	2.913365	GI coverage (%)	subflava
+GCA_051958425.1	subflava	Draft	FALSE	isescan_is_count	22	Insertion sequences	subflava
+GCA_051958425.1	subflava	Draft	FALSE	genomad_provirus_count	3	Proviruses	subflava
+GCA_051958425.1	subflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	subflava
+GCA_051958425.1	subflava	Draft	FALSE	genomad_virus_contig_count	5	Viral contigs	subflava
+GCA_051958425.1	subflava	Draft	FALSE	islandpath_gi_count	7	Genomic islands	subflava
+GCA_051958425.1	subflava	Draft	FALSE	gi_coverage_percent	2.421571	GI coverage (%)	subflava
+GCA_051958495.1	subflava	Draft	TRUE	isescan_is_count	22	Insertion sequences	subflava
+GCA_051958495.1	subflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	subflava
+GCA_051958495.1	subflava	Draft	TRUE	genomad_plasmid_contig_count	1	Plasmid-like contigs	subflava
+GCA_051958495.1	subflava	Draft	TRUE	genomad_virus_contig_count	8	Viral contigs	subflava
+GCA_051958495.1	subflava	Draft	TRUE	islandpath_gi_count	7	Genomic islands	subflava
+GCA_051958495.1	subflava	Draft	TRUE	gi_coverage_percent	2.759773	GI coverage (%)	subflava
+GCA_051958535.1	perflava	Draft	TRUE	isescan_is_count	8	Insertion sequences	perflava
+GCA_051958535.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_051958535.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_051958535.1	perflava	Draft	TRUE	genomad_virus_contig_count	5	Viral contigs	perflava
+GCA_051958535.1	perflava	Draft	TRUE	islandpath_gi_count	4	Genomic islands	perflava
+GCA_051958535.1	perflava	Draft	TRUE	gi_coverage_percent	1.360617	GI coverage (%)	perflava
+GCA_051958545.1	perflava	Draft	FALSE	isescan_is_count	14	Insertion sequences	perflava
+GCA_051958545.1	perflava	Draft	FALSE	genomad_provirus_count	1	Proviruses	perflava
+GCA_051958545.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	3	Plasmid-like contigs	perflava
+GCA_051958545.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_051958545.1	perflava	Draft	FALSE	islandpath_gi_count	5	Genomic islands	perflava
+GCA_051958545.1	perflava	Draft	FALSE	gi_coverage_percent	2.494229	GI coverage (%)	perflava
+GCA_051962655.1	perflava	Draft	TRUE	isescan_is_count	7	Insertion sequences	perflava
+GCA_051962655.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_051962655.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	4	Plasmid-like contigs	perflava
+GCA_051962655.1	perflava	Draft	TRUE	genomad_virus_contig_count	4	Viral contigs	perflava
+GCA_051962655.1	perflava	Draft	TRUE	islandpath_gi_count	6	Genomic islands	perflava
+GCA_051962655.1	perflava	Draft	TRUE	gi_coverage_percent	2.243489	GI coverage (%)	perflava
+GCA_051962735.1	perflava	Draft	FALSE	isescan_is_count	7	Insertion sequences	perflava
+GCA_051962735.1	perflava	Draft	FALSE	genomad_provirus_count	3	Proviruses	perflava
+GCA_051962735.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	4	Plasmid-like contigs	perflava
+GCA_051962735.1	perflava	Draft	FALSE	genomad_virus_contig_count	4	Viral contigs	perflava
+GCA_051962735.1	perflava	Draft	FALSE	islandpath_gi_count	12	Genomic islands	perflava
+GCA_051962735.1	perflava	Draft	FALSE	gi_coverage_percent	6.940027	GI coverage (%)	perflava
+GCA_051962805.1	perflava	Draft	TRUE	isescan_is_count	7	Insertion sequences	perflava
+GCA_051962805.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_051962805.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	4	Plasmid-like contigs	perflava
+GCA_051962805.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_051962805.1	perflava	Draft	TRUE	islandpath_gi_count	7	Genomic islands	perflava
+GCA_051962805.1	perflava	Draft	TRUE	gi_coverage_percent	3.449294	GI coverage (%)	perflava
+GCA_051962855.1	perflava	Draft	TRUE	isescan_is_count	4	Insertion sequences	perflava
+GCA_051962855.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_051962855.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_051962855.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_051962855.1	perflava	Draft	TRUE	islandpath_gi_count	4	Genomic islands	perflava
+GCA_051962855.1	perflava	Draft	TRUE	gi_coverage_percent	2.152845	GI coverage (%)	perflava
+GCA_051962875.1	perflava	Draft	TRUE	isescan_is_count	12	Insertion sequences	perflava
+GCA_051962875.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_051962875.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_051962875.1	perflava	Draft	TRUE	genomad_virus_contig_count	1	Viral contigs	perflava
+GCA_051962875.1	perflava	Draft	TRUE	islandpath_gi_count	4	Genomic islands	perflava
+GCA_051962875.1	perflava	Draft	TRUE	gi_coverage_percent	1.186691	GI coverage (%)	perflava
+GCA_051962935.1	perflava	Draft	FALSE	isescan_is_count	9	Insertion sequences	perflava
+GCA_051962935.1	perflava	Draft	FALSE	genomad_provirus_count	0	Proviruses	perflava
+GCA_051962935.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_051962935.1	perflava	Draft	FALSE	genomad_virus_contig_count	1	Viral contigs	perflava
+GCA_051962935.1	perflava	Draft	FALSE	islandpath_gi_count	5	Genomic islands	perflava
+GCA_051962935.1	perflava	Draft	FALSE	gi_coverage_percent	1.746828	GI coverage (%)	perflava
+GCA_051963075.1	perflava	Draft	TRUE	isescan_is_count	8	Insertion sequences	perflava
+GCA_051963075.1	perflava	Draft	TRUE	genomad_provirus_count	4	Proviruses	perflava
+GCA_051963075.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	3	Plasmid-like contigs	perflava
+GCA_051963075.1	perflava	Draft	TRUE	genomad_virus_contig_count	3	Viral contigs	perflava
+GCA_051963075.1	perflava	Draft	TRUE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_051963075.1	perflava	Draft	TRUE	gi_coverage_percent	2.232576	GI coverage (%)	perflava
+GCA_051963175.1	perflava	Draft	TRUE	isescan_is_count	6	Insertion sequences	perflava
+GCA_051963175.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_051963175.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_051963175.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_051963175.1	perflava	Draft	TRUE	islandpath_gi_count	6	Genomic islands	perflava
+GCA_051963175.1	perflava	Draft	TRUE	gi_coverage_percent	8.339693	GI coverage (%)	perflava
+GCA_051963435.1	perflava	Draft	TRUE	isescan_is_count	7	Insertion sequences	perflava
+GCA_051963435.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_051963435.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_051963435.1	perflava	Draft	TRUE	genomad_virus_contig_count	3	Viral contigs	perflava
+GCA_051963435.1	perflava	Draft	TRUE	islandpath_gi_count	7	Genomic islands	perflava
+GCA_051963435.1	perflava	Draft	TRUE	gi_coverage_percent	2.592764	GI coverage (%)	perflava
+GCA_051963515.1	perflava	Draft	FALSE	isescan_is_count	8	Insertion sequences	perflava
+GCA_051963515.1	perflava	Draft	FALSE	genomad_provirus_count	1	Proviruses	perflava
+GCA_051963515.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_051963515.1	perflava	Draft	FALSE	genomad_virus_contig_count	4	Viral contigs	perflava
+GCA_051963515.1	perflava	Draft	FALSE	islandpath_gi_count	6	Genomic islands	perflava
+GCA_051963515.1	perflava	Draft	FALSE	gi_coverage_percent	1.974097	GI coverage (%)	perflava
+GCA_051963555.1	perflava	Draft	FALSE	isescan_is_count	18	Insertion sequences	perflava
+GCA_051963555.1	perflava	Draft	FALSE	genomad_provirus_count	2	Proviruses	perflava
+GCA_051963555.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	5	Plasmid-like contigs	perflava
+GCA_051963555.1	perflava	Draft	FALSE	genomad_virus_contig_count	6	Viral contigs	perflava
+GCA_051963555.1	perflava	Draft	FALSE	islandpath_gi_count	10	Genomic islands	perflava
+GCA_051963555.1	perflava	Draft	FALSE	gi_coverage_percent	3.497086	GI coverage (%)	perflava
+GCA_051963575.1	perflava	Draft	TRUE	isescan_is_count	15	Insertion sequences	perflava
+GCA_051963575.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_051963575.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_051963575.1	perflava	Draft	TRUE	genomad_virus_contig_count	1	Viral contigs	perflava
+GCA_051963575.1	perflava	Draft	TRUE	islandpath_gi_count	10	Genomic islands	perflava
+GCA_051963575.1	perflava	Draft	TRUE	gi_coverage_percent	3.99378	GI coverage (%)	perflava
+GCA_051963675.1	perflava	Draft	FALSE	isescan_is_count	14	Insertion sequences	perflava
+GCA_051963675.1	perflava	Draft	FALSE	genomad_provirus_count	2	Proviruses	perflava
+GCA_051963675.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	perflava
+GCA_051963675.1	perflava	Draft	FALSE	genomad_virus_contig_count	1	Viral contigs	perflava
+GCA_051963675.1	perflava	Draft	FALSE	islandpath_gi_count	11	Genomic islands	perflava
+GCA_051963675.1	perflava	Draft	FALSE	gi_coverage_percent	4.243964	GI coverage (%)	perflava
+GCA_052073865.1	unresolved_species	Draft	FALSE	isescan_is_count	12	Insertion sequences	unresolved_species
+GCA_052073865.1	unresolved_species	Draft	FALSE	genomad_provirus_count	3	Proviruses	unresolved_species
+GCA_052073865.1	unresolved_species	Draft	FALSE	genomad_plasmid_contig_count	0	Plasmid-like contigs	unresolved_species
+GCA_052073865.1	unresolved_species	Draft	FALSE	genomad_virus_contig_count	2	Viral contigs	unresolved_species
+GCA_052073865.1	unresolved_species	Draft	FALSE	islandpath_gi_count	8	Genomic islands	unresolved_species
+GCA_052073865.1	unresolved_species	Draft	FALSE	gi_coverage_percent	3.479561	GI coverage (%)	unresolved_species
+GCA_052858825.1	perflava	Draft	TRUE	isescan_is_count	3	Insertion sequences	perflava
+GCA_052858825.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_052858825.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_052858825.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_052858825.1	perflava	Draft	TRUE	islandpath_gi_count	9	Genomic islands	perflava
+GCA_052858825.1	perflava	Draft	TRUE	gi_coverage_percent	4.276878	GI coverage (%)	perflava
+GCA_052858845.1	perflava	Draft	TRUE	isescan_is_count	5	Insertion sequences	perflava
+GCA_052858845.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_052858845.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	4	Plasmid-like contigs	perflava
+GCA_052858845.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_052858845.1	perflava	Draft	TRUE	islandpath_gi_count	7	Genomic islands	perflava
+GCA_052858845.1	perflava	Draft	TRUE	gi_coverage_percent	2.781197	GI coverage (%)	perflava
+GCA_052858915.1	perflava	Draft	TRUE	isescan_is_count	9	Insertion sequences	perflava
+GCA_052858915.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_052858915.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	4	Plasmid-like contigs	perflava
+GCA_052858915.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_052858915.1	perflava	Draft	TRUE	islandpath_gi_count	9	Genomic islands	perflava
+GCA_052858915.1	perflava	Draft	TRUE	gi_coverage_percent	3.20114	GI coverage (%)	perflava
+GCA_052859025.1	perflava	Draft	TRUE	isescan_is_count	6	Insertion sequences	perflava
+GCA_052859025.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_052859025.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	3	Plasmid-like contigs	perflava
+GCA_052859025.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_052859025.1	perflava	Draft	TRUE	islandpath_gi_count	8	Genomic islands	perflava
+GCA_052859025.1	perflava	Draft	TRUE	gi_coverage_percent	3.142952	GI coverage (%)	perflava
+GCA_052859045.1	unresolved_species	Draft	FALSE	isescan_is_count	7	Insertion sequences	unresolved_species
+GCA_052859045.1	unresolved_species	Draft	FALSE	genomad_provirus_count	1	Proviruses	unresolved_species
+GCA_052859045.1	unresolved_species	Draft	FALSE	genomad_plasmid_contig_count	8	Plasmid-like contigs	unresolved_species
+GCA_052859045.1	unresolved_species	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	unresolved_species
+GCA_052859045.1	unresolved_species	Draft	FALSE	islandpath_gi_count	3	Genomic islands	unresolved_species
+GCA_052859045.1	unresolved_species	Draft	FALSE	gi_coverage_percent	0.781325	GI coverage (%)	unresolved_species
+GCA_052859065.1	perflava	Draft	TRUE	isescan_is_count	5	Insertion sequences	perflava
+GCA_052859065.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_052859065.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_052859065.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_052859065.1	perflava	Draft	TRUE	islandpath_gi_count	5	Genomic islands	perflava
+GCA_052859065.1	perflava	Draft	TRUE	gi_coverage_percent	2.526196	GI coverage (%)	perflava
+GCA_052859165.1	unresolved_species	Draft	FALSE	isescan_is_count	11	Insertion sequences	unresolved_species
+GCA_052859165.1	unresolved_species	Draft	FALSE	genomad_provirus_count	4	Proviruses	unresolved_species
+GCA_052859165.1	unresolved_species	Draft	FALSE	genomad_plasmid_contig_count	3	Plasmid-like contigs	unresolved_species
+GCA_052859165.1	unresolved_species	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	unresolved_species
+GCA_052859165.1	unresolved_species	Draft	FALSE	islandpath_gi_count	6	Genomic islands	unresolved_species
+GCA_052859165.1	unresolved_species	Draft	FALSE	gi_coverage_percent	3.694119	GI coverage (%)	unresolved_species
+GCA_052859205.1	perflava	Draft	TRUE	isescan_is_count	7	Insertion sequences	perflava
+GCA_052859205.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_052859205.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_052859205.1	perflava	Draft	TRUE	genomad_virus_contig_count	2	Viral contigs	perflava
+GCA_052859205.1	perflava	Draft	TRUE	islandpath_gi_count	5	Genomic islands	perflava
+GCA_052859205.1	perflava	Draft	TRUE	gi_coverage_percent	2.324646	GI coverage (%)	perflava
+GCA_052859265.1	perflava	Draft	TRUE	isescan_is_count	9	Insertion sequences	perflava
+GCA_052859265.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_052859265.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	5	Plasmid-like contigs	perflava
+GCA_052859265.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_052859265.1	perflava	Draft	TRUE	islandpath_gi_count	9	Genomic islands	perflava
+GCA_052859265.1	perflava	Draft	TRUE	gi_coverage_percent	3.145747	GI coverage (%)	perflava
+GCA_056638355.1	perflava	Draft	TRUE	isescan_is_count	14	Insertion sequences	perflava
+GCA_056638355.1	perflava	Draft	TRUE	genomad_provirus_count	2	Proviruses	perflava
+GCA_056638355.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	3	Plasmid-like contigs	perflava
+GCA_056638355.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_056638355.1	perflava	Draft	TRUE	islandpath_gi_count	5	Genomic islands	perflava
+GCA_056638355.1	perflava	Draft	TRUE	gi_coverage_percent	2.522136	GI coverage (%)	perflava
+GCA_058214815.1	perflava	Draft	TRUE	isescan_is_count	7	Insertion sequences	perflava
+GCA_058214815.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_058214815.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_058214815.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_058214815.1	perflava	Draft	TRUE	islandpath_gi_count	4	Genomic islands	perflava
+GCA_058214815.1	perflava	Draft	TRUE	gi_coverage_percent	3.312991	GI coverage (%)	perflava
+GCA_900453805.1	flavescens	Draft	TRUE	isescan_is_count	48	Insertion sequences	flavescens
+GCA_900453805.1	flavescens	Draft	TRUE	genomad_provirus_count	1	Proviruses	flavescens
+GCA_900453805.1	flavescens	Draft	TRUE	genomad_plasmid_contig_count	1	Plasmid-like contigs	flavescens
+GCA_900453805.1	flavescens	Draft	TRUE	genomad_virus_contig_count	2	Viral contigs	flavescens
+GCA_900453805.1	flavescens	Draft	TRUE	islandpath_gi_count	12	Genomic islands	flavescens
+GCA_900453805.1	flavescens	Draft	TRUE	gi_coverage_percent	6.997942	GI coverage (%)	flavescens
+GCA_900654165.1	perflava	Draft	TRUE	isescan_is_count	5	Insertion sequences	perflava
+GCA_900654165.1	perflava	Draft	TRUE	genomad_provirus_count	1	Proviruses	perflava
+GCA_900654165.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_900654165.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_900654165.1	perflava	Draft	TRUE	islandpath_gi_count	6	Genomic islands	perflava
+GCA_900654165.1	perflava	Draft	TRUE	gi_coverage_percent	3.888928	GI coverage (%)	perflava
+GCA_900654185.1	perflava	Draft	TRUE	isescan_is_count	8	Insertion sequences	perflava
+GCA_900654185.1	perflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	perflava
+GCA_900654185.1	perflava	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_900654185.1	perflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_900654185.1	perflava	Draft	TRUE	islandpath_gi_count	6	Genomic islands	perflava
+GCA_900654185.1	perflava	Draft	TRUE	gi_coverage_percent	2.573303	GI coverage (%)	perflava
+GCA_900654195.1	subflava	Draft	TRUE	isescan_is_count	41	Insertion sequences	subflava
+GCA_900654195.1	subflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	subflava
+GCA_900654195.1	subflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	subflava
+GCA_900654195.1	subflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	subflava
+GCA_900654195.1	subflava	Draft	TRUE	islandpath_gi_count	7	Genomic islands	subflava
+GCA_900654195.1	subflava	Draft	TRUE	gi_coverage_percent	2.737716	GI coverage (%)	subflava
+GCA_901873995.1	flavescens	Draft	TRUE	isescan_is_count	15	Insertion sequences	flavescens
+GCA_901873995.1	flavescens	Draft	TRUE	genomad_provirus_count	0	Proviruses	flavescens
+GCA_901873995.1	flavescens	Draft	TRUE	genomad_plasmid_contig_count	2	Plasmid-like contigs	flavescens
+GCA_901873995.1	flavescens	Draft	TRUE	genomad_virus_contig_count	3	Viral contigs	flavescens
+GCA_901873995.1	flavescens	Draft	TRUE	islandpath_gi_count	5	Genomic islands	flavescens
+GCA_901873995.1	flavescens	Draft	TRUE	gi_coverage_percent	1.984047	GI coverage (%)	flavescens
+GCA_946902045.1	perflava	Complete	TRUE	isescan_is_count	9	Insertion sequences	perflava
+GCA_946902045.1	perflava	Complete	TRUE	genomad_provirus_count	4	Proviruses	perflava
+GCA_946902045.1	perflava	Complete	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_946902045.1	perflava	Complete	TRUE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_946902045.1	perflava	Complete	TRUE	islandpath_gi_count	10	Genomic islands	perflava
+GCA_946902045.1	perflava	Complete	TRUE	gi_coverage_percent	4.779191	GI coverage (%)	perflava
+GCA_963394965.1	flavescens	Draft	FALSE	isescan_is_count	20	Insertion sequences	flavescens
+GCA_963394965.1	flavescens	Draft	FALSE	genomad_provirus_count	1	Proviruses	flavescens
+GCA_963394965.1	flavescens	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	flavescens
+GCA_963394965.1	flavescens	Draft	FALSE	genomad_virus_contig_count	5	Viral contigs	flavescens
+GCA_963394965.1	flavescens	Draft	FALSE	islandpath_gi_count	7	Genomic islands	flavescens
+GCA_963394965.1	flavescens	Draft	FALSE	gi_coverage_percent	3.07423	GI coverage (%)	flavescens
+GCA_963394995.1	perflava	Draft	FALSE	isescan_is_count	4	Insertion sequences	perflava
+GCA_963394995.1	perflava	Draft	FALSE	genomad_provirus_count	2	Proviruses	perflava
+GCA_963394995.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	2	Plasmid-like contigs	perflava
+GCA_963394995.1	perflava	Draft	FALSE	genomad_virus_contig_count	1	Viral contigs	perflava
+GCA_963394995.1	perflava	Draft	FALSE	islandpath_gi_count	9	Genomic islands	perflava
+GCA_963394995.1	perflava	Draft	FALSE	gi_coverage_percent	4.318401	GI coverage (%)	perflava
+GCA_963395005.1	subflava	Draft	FALSE	isescan_is_count	15	Insertion sequences	subflava
+GCA_963395005.1	subflava	Draft	FALSE	genomad_provirus_count	2	Proviruses	subflava
+GCA_963395005.1	subflava	Draft	FALSE	genomad_plasmid_contig_count	2	Plasmid-like contigs	subflava
+GCA_963395005.1	subflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	subflava
+GCA_963395005.1	subflava	Draft	FALSE	islandpath_gi_count	6	Genomic islands	subflava
+GCA_963395005.1	subflava	Draft	FALSE	gi_coverage_percent	3.396527	GI coverage (%)	subflava
+GCA_963395055.1	subflava	Draft	TRUE	isescan_is_count	21	Insertion sequences	subflava
+GCA_963395055.1	subflava	Draft	TRUE	genomad_provirus_count	0	Proviruses	subflava
+GCA_963395055.1	subflava	Draft	TRUE	genomad_plasmid_contig_count	0	Plasmid-like contigs	subflava
+GCA_963395055.1	subflava	Draft	TRUE	genomad_virus_contig_count	0	Viral contigs	subflava
+GCA_963395055.1	subflava	Draft	TRUE	islandpath_gi_count	6	Genomic islands	subflava
+GCA_963395055.1	subflava	Draft	TRUE	gi_coverage_percent	2.908495	GI coverage (%)	subflava
+GCA_963396205.1	subflava	Draft	FALSE	isescan_is_count	24	Insertion sequences	subflava
+GCA_963396205.1	subflava	Draft	FALSE	genomad_provirus_count	2	Proviruses	subflava
+GCA_963396205.1	subflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	subflava
+GCA_963396205.1	subflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	subflava
+GCA_963396205.1	subflava	Draft	FALSE	islandpath_gi_count	8	Genomic islands	subflava
+GCA_963396205.1	subflava	Draft	FALSE	gi_coverage_percent	4.272581	GI coverage (%)	subflava
+GCA_963396215.1	perflava	Draft	FALSE	isescan_is_count	4	Insertion sequences	perflava
+GCA_963396215.1	perflava	Draft	FALSE	genomad_provirus_count	2	Proviruses	perflava
+GCA_963396215.1	perflava	Draft	FALSE	genomad_plasmid_contig_count	0	Plasmid-like contigs	perflava
+GCA_963396215.1	perflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	perflava
+GCA_963396215.1	perflava	Draft	FALSE	islandpath_gi_count	9	Genomic islands	perflava
+GCA_963396215.1	perflava	Draft	FALSE	gi_coverage_percent	3.289146	GI coverage (%)	perflava
+GCA_963396245.1	subflava	Draft	FALSE	isescan_is_count	21	Insertion sequences	subflava
+GCA_963396245.1	subflava	Draft	FALSE	genomad_provirus_count	3	Proviruses	subflava
+GCA_963396245.1	subflava	Draft	FALSE	genomad_plasmid_contig_count	3	Plasmid-like contigs	subflava
+GCA_963396245.1	subflava	Draft	FALSE	genomad_virus_contig_count	3	Viral contigs	subflava
+GCA_963396245.1	subflava	Draft	FALSE	islandpath_gi_count	3	Genomic islands	subflava
+GCA_963396245.1	subflava	Draft	FALSE	gi_coverage_percent	0.930593	GI coverage (%)	subflava
+GCA_963396255.1	subflava	Draft	FALSE	isescan_is_count	17	Insertion sequences	subflava
+GCA_963396255.1	subflava	Draft	FALSE	genomad_provirus_count	0	Proviruses	subflava
+GCA_963396255.1	subflava	Draft	FALSE	genomad_plasmid_contig_count	2	Plasmid-like contigs	subflava
+GCA_963396255.1	subflava	Draft	FALSE	genomad_virus_contig_count	0	Viral contigs	subflava
+GCA_963396255.1	subflava	Draft	FALSE	islandpath_gi_count	6	Genomic islands	subflava
+GCA_963396255.1	subflava	Draft	FALSE	gi_coverage_percent	3.495768	GI coverage (%)	subflava
+GCA_963396265.1	subflava	Draft	FALSE	isescan_is_count	27	Insertion sequences	subflava
+GCA_963396265.1	subflava	Draft	FALSE	genomad_provirus_count	1	Proviruses	subflava
+GCA_963396265.1	subflava	Draft	FALSE	genomad_plasmid_contig_count	1	Plasmid-like contigs	subflava
+GCA_963396265.1	subflava	Draft	FALSE	genomad_virus_contig_count	1	Viral contigs	subflava
+GCA_963396265.1	subflava	Draft	FALSE	islandpath_gi_count	8	Genomic islands	subflava
+GCA_963396265.1	subflava	Draft	FALSE	gi_coverage_percent	4.515295	GI coverage (%)	subflava

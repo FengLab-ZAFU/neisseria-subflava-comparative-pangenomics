@@ -1,0 +1,7 @@
+annotation_type	target_group	n_candidate_clusters	n_foreground_annotated	n_background_annotated	n_universe_annotated
+GO	subflava	36	15	389	404
+GO	perflava	26	12	392	404
+GO	flavescens	119	14	390	404
+KEGG_pathway	subflava	36	16	445	461
+KEGG_pathway	perflava	26	12	449	461
+KEGG_pathway	flavescens	119	25	436	461

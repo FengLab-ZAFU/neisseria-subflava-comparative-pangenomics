@@ -1,6 +1,8 @@
+work/
+outputs/
+__pycache__/
+*.pyc
 .Rhistory
 .RData
 .Rproj.user/
-*.tmp
-*.log
-outputs/
+.env

@@ -1,0 +1,462 @@
+[
+ {
+  "accession": "GCA_000174655.1",
+  "current_accession": "GCA_000174655.1",
+  "paired_accession": "GCF_000174655.1",
+  "source_database": "SOURCE_DATABASE_GENBANK",
+  "organism": {
+   "tax_id": 547045,
+   "organism_name": "Neisseria sicca ATCC 29256",
+   "infraspecific_names": {
+    "strain": "ATCC 29256"
+   }
+  },
+  "assembly_info": {
+   "assembly_level": "Contig",
+   "assembly_status": "current",
+   "paired_assembly": {
+    "accession": "GCF_000174655.1",
+    "status": "current",
+    "annotation_name": "GCF_000174655.1-RS_2026_04_02"
+   },
+   "assembly_name": "ASM17465v1",
+   "assembly_type": "haploid",
+   "bioproject_lineage": [
+    {
+     "bioprojects": [
+      {
+       "accession": "PRJNA30481",
+       "title": "Reference genome for the Human Microbiome Project",
+       "parent_accessions": [
+        "PRJNA28331"
+       ]
+      },
+      {
+       "accession": "PRJNA28331",
+       "title": "Genomes of microorganisms that have been isolated in and on the human body, to be used as Reference Genomes for the Human Microbiome Project (HMP)",
+       "parent_accessions": [
+        "PRJNA43021"
+       ]
+      },
+      {
+       "accession": "PRJNA43021",
+       "title": "NIH Human Microbiome Project (HMP) Roadmap Project"
+      }
+     ]
+    }
+   ],
+   "bioproject_accession": "PRJNA30481",
+   "release_date": "2009-05-08",
+   "submitter": "Washington University Genome Sequencing Center",
+   "biosample": {
+    "accession": "SAMN00008842",
+    "last_updated": "2015-02-20T14:39:06.740",
+    "publication_date": "2010-02-19T20:54:09.440",
+    "submission_date": "2010-02-19T20:54:08.643",
+    "sample_ids": [
+     {
+      "db": "WUGSC",
+      "label": "Sample name",
+      "value": "46989"
+     },
+     {
+      "db": "SRA",
+      "value": "SRS010463"
+     }
+    ],
+    "description": {
+     "title": "MIGS Cultured Bacterial/Archaeal sample from Neisseria sicca ATCC 29256",
+     "organism": {
+      "tax_id": 547045,
+      "organism_name": "Neisseria sicca ATCC 29256"
+     },
+     "comment": "Keywords: GSC:MIxS;MIGS:6.0"
+    },
+    "owner": {
+     "name": "Washington University, Genome Sequencing Center",
+     "contacts": [
+      {}
+     ]
+    },
+    "models": [
+     "MIGS.ba"
+    ],
+    "bioprojects": [
+     {}
+    ],
+    "package": "MIGS.ba.6.0",
+    "attributes": [
+     {
+      "name": "finishing strategy (depth of coverage)",
+      "value": "Level 3: Improved-High-Quality Draft18.5x;61"
+     },
+     {
+      "name": "collection_date",
+      "value": "not determined"
+     },
+     {
+      "name": "estimated_size",
+      "value": "2831000"
+     },
+     {
+      "name": "isol_growth_condt",
+      "value": "not determined"
+     },
+     {
+      "name": "host",
+      "value": "Homo sapiens"
+     },
+     {
+      "name": "project_type",
+      "value": "Reference Genome"
+     },
+     {
+      "name": "lat_lon",
+      "value": "not determined"
+     },
+     {
+      "name": "env_broad_scale",
+      "value": "terrestrial biome [ENVO:00000446]"
+     },
+     {
+      "name": "misc_param: HMP body site",
+      "value": "Nasopharynx"
+     },
+     {
+      "name": "nucleic acid extraction",
+      "value": "not determined"
+     },
+     {
+      "name": "investigation_type",
+      "value": "missing"
+     },
+     {
+      "name": "env_local_scale",
+      "value": "human-associated habitat [ENVO:00009003]"
+     },
+     {
+      "name": "host_taxid",
+      "value": "9606"
+     },
+     {
+      "name": "project_name",
+      "value": "Neisseria sicca ATCC 29256"
+     },
+     {
+      "name": "assembly",
+      "value": "not determined"
+     },
+     {
+      "name": "geo_loc_name",
+      "value": "not determined"
+     },
+     {
+      "name": "source_material_id",
+      "value": "ATCC 29256, ATCC 49276, CDN 16, NRL 30016"
+     },
+     {
+      "name": "env_medium",
+      "value": "biological product [ENVO:02000043]"
+     },
+     {
+      "name": "ref_biomaterial",
+      "value": "not determined"
+     },
+     {
+      "name": "misc_param: HMP supersite",
+      "value": "airways"
+     },
+     {
+      "name": "num_replicons",
+      "value": "not determined"
+     },
+     {
+      "name": "sequencing method",
+      "value": "454-GS-FLX"
+     },
+     {
+      "name": "sop",
+      "value": "http://hmpdacc.org/doc/CommonGeneAnnotation_SOP.pdf"
+     },
+     {
+      "name": "strain",
+      "value": "ATCC 29256"
+     },
+     {
+      "name": "env_package",
+      "value": "missing"
+     },
+     {
+      "name": "culture_collection",
+      "value": "ATCC:29256"
+     },
+     {
+      "name": "isolation_source",
+      "value": "missing"
+     }
+    ],
+    "status": {
+     "status": "live",
+     "when": "2013-08-28T14:46:03"
+    },
+    "collection_date": "not determined",
+    "geo_loc_name": "not determined",
+    "host": "Homo sapiens",
+    "isolation_source": "missing",
+    "lat_lon": "not determined",
+    "project_name": "Neisseria sicca ATCC 29256",
+    "strain": "ATCC 29256"
+   },
+   "comments": "Neisseria sicca (GenBank Accession Number for 16S rDNA gene: AJ247248) is a member of the Proteobacteria division of the domain bacteria and has been isolated from the pharyngeal mucosa. The sequenced strain was obtained from Nathan Weyand, ATCC 29256.\n\nWe have performed one round of automated sequence improvement (pre-finishing), along with manual improvement that includes breaking apart any mis-assembly, and making manual joins where possible. Manual edits also are made where the consensus appears to be incorrect. All low quality data on the ends of contigs is removed. Contigs are ordered and oriented where possible.\n\nThis work was supported by the National Human Genome Research Institute and the NIH Roadmap Human Microbiome Project [http://nihroadmap.nih.gov/hmp/].\nCoding sequences were predicted using GeneMark v3.3 and Glimmer2 v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were blasted against NCBI's non-redundant (NR) database and predictions generated based on protein alignments. tRNA genes were determined using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and Rfam v8.0. Gene names are generated at the contig level and may not necessarily reflect any known order or orientation between contigs.\n\nThis is a reference genome for the Human Microbiome Project. This project is co-owned with the Human Microbiome Project DACC.\nGenome Coverage: 18.5x\nSequencing Technology: 454\n\nAnnotation was added to the contigs in July 2009.\nProduct names were updated in June 2013"
+  },
+  "assembly_stats": {
+   "total_sequence_length": "2830772",
+   "total_ungapped_length": "2830772",
+   "number_of_contigs": 61,
+   "contig_n50": 93684,
+   "contig_l50": 10,
+   "number_of_scaffolds": 61,
+   "scaffold_n50": 93684,
+   "scaffold_l50": 10,
+   "number_of_component_sequences": 61,
+   "atgc_count": "2830772",
+   "gc_count": "1440841",
+   "gc_percent": 51
+  },
+  "annotation_info": {
+   "name": "Annotation submitted by Washington University Genome Sequencing Center",
+   "provider": "Washington University Genome Sequencing Center",
+   "release_date": "2013-06-04",
+   "stats": {
+    "gene_counts": {
+     "total": 3718,
+     "protein_coding": 3660,
+     "non_coding": 58
+    }
+   }
+  },
+  "wgs_info": {
+   "wgs_project_accession": "ACKO02",
+   "master_wgs_url": "https://www.ncbi.nlm.nih.gov/nuccore/ACKO00000000.2",
+   "wgs_contigs_url": "https://www.ncbi.nlm.nih.gov/Traces/wgs/ACKO02"
+  },
+  "type_material": {
+   "type_label": "TYPE_MATERIAL",
+   "type_display_text": "assembly from type material"
+  },
+  "checkm_info": {
+   "checkm_marker_set": "Neisseria",
+   "checkm_species_tax_id": 490,
+   "checkm_marker_set_rank": "genus",
+   "checkm_version": "v1.2.5",
+   "completeness": 96.64,
+   "contamination": 0.42,
+   "completeness_percentile": 46.3415
+  },
+  "average_nucleotide_identity": {
+   "taxonomy_check_status": "OK",
+   "match_status": "species_match",
+   "submitted_organism": "Neisseria sicca ATCC 29256",
+   "submitted_species": "Neisseria sicca",
+   "category": "suspected_type",
+   "submitted_ani_match": {
+    "assembly": "GCA_014054945.1",
+    "organism_name": "Neisseria sicca",
+    "category": "suspected_type",
+    "ani": 99.97,
+    "assembly_coverage": 99.53,
+    "type_assembly_coverage": 98.36
+   },
+   "best_ani_match": {
+    "assembly": "GCA_014054945.1",
+    "organism_name": "Neisseria sicca",
+    "category": "suspected_type",
+    "ani": 99.97,
+    "assembly_coverage": 99.53,
+    "type_assembly_coverage": 98.36
+   },
+   "comment": "na"
+  }
+ },
+ {
+  "accession": "GCA_019334765.1",
+  "current_accession": "GCA_019334765.1",
+  "paired_accession": "GCF_019334765.1",
+  "source_database": "SOURCE_DATABASE_GENBANK",
+  "organism": {
+   "tax_id": 547045,
+   "organism_name": "Neisseria sicca ATCC 29256",
+   "infraspecific_names": {
+    "strain": "ATCC 29256"
+   }
+  },
+  "assembly_info": {
+   "assembly_level": "Complete Genome",
+   "assembly_status": "current",
+   "paired_assembly": {
+    "accession": "GCF_019334765.1",
+    "status": "current",
+    "annotation_name": "GCF_019334765.1-RS_2025_01_29"
+   },
+   "assembly_name": "ASM1933476v1",
+   "assembly_type": "haploid",
+   "bioproject_lineage": [
+    {
+     "bioprojects": [
+      {
+       "accession": "PRJNA744665",
+       "title": "Neisseria sicca strain:LPB0402 Genome sequencing and assembly"
+      }
+     ]
+    }
+   ],
+   "bioproject_accession": "PRJNA744665",
+   "release_date": "2021-07-25",
+   "submitter": "Korea University",
+   "sequencing_tech": "PacBio RSII",
+   "assembly_method": "PacBio SMRT Analysis v. v2.3",
+   "biosample": {
+    "accession": "SAMN20114574",
+    "last_updated": "2021-09-28T13:03:45.068",
+    "publication_date": "2021-07-08T00:00:00.000",
+    "submission_date": "2021-07-08T02:59:03.826",
+    "sample_ids": [
+     {
+      "label": "Sample name",
+      "value": "LPB402"
+     }
+    ],
+    "description": {
+     "title": "Microbe sample from Neisseria sicca",
+     "organism": {
+      "tax_id": 547045,
+      "organism_name": "Neisseria sicca ATCC 29256"
+     }
+    },
+    "owner": {
+     "name": "Korea University",
+     "contacts": [
+      {}
+     ]
+    },
+    "models": [
+     "Microbe, viral or environmental"
+    ],
+    "bioprojects": [
+     {
+      "accession": "PRJNA744665"
+     }
+    ],
+    "package": "Microbe.1.0",
+    "attributes": [
+     {
+      "name": "strain",
+      "value": "ATCC 29256"
+     },
+     {
+      "name": "culture_collection",
+      "value": "ATCC:29256"
+     },
+     {
+      "name": "isolation_source",
+      "value": "Human sputum"
+     },
+     {
+      "name": "collection_date",
+      "value": "2020-10-07"
+     },
+     {
+      "name": "geo_loc_name",
+      "value": "South Korea"
+     },
+     {
+      "name": "sample_type",
+      "value": "Whole organism"
+     },
+     {
+      "name": "type-material",
+      "value": "type strain of Neisseria sicca"
+     }
+    ],
+    "status": {
+     "status": "live",
+     "when": "2021-07-08T02:59:03.828"
+    },
+    "collection_date": "2020-10-07",
+    "geo_loc_name": "South Korea",
+    "isolation_source": "Human sputum",
+    "strain": "ATCC 29256"
+   },
+   "comments": "The annotation was added by the NCBI Prokaryotic Genome Annotation Pipeline (PGAP). Information about PGAP can be found here: https://www.ncbi.nlm.nih.gov/genome/annotation_prok/"
+  },
+  "assembly_stats": {
+   "total_number_of_chromosomes": 1,
+   "total_sequence_length": "2291167",
+   "total_ungapped_length": "2291167",
+   "number_of_contigs": 1,
+   "contig_n50": 2291167,
+   "contig_l50": 1,
+   "number_of_scaffolds": 1,
+   "scaffold_n50": 2291167,
+   "scaffold_l50": 1,
+   "number_of_component_sequences": 1,
+   "atgc_count": "2291167",
+   "gc_count": "1124129",
+   "gc_percent": 49,
+   "genome_coverage": "420.35"
+  },
+  "annotation_info": {
+   "name": "NCBI Prokaryotic Genome Annotation Pipeline (PGAP)",
+   "provider": "NCBI",
+   "release_date": "2021-07-19",
+   "stats": {
+    "gene_counts": {
+     "total": 2201,
+     "protein_coding": 2052,
+     "non_coding": 76,
+     "pseudogene": 73
+    }
+   },
+   "method": "Best-placed reference protein set; GeneMarkS-2+",
+   "pipeline": "NCBI Prokaryotic Genome Annotation Pipeline (PGAP)",
+   "software_version": "5.2"
+  },
+  "type_material": {
+   "type_label": "EXCLUDE_TYPE_MATERIAL",
+   "type_display_text": "not used as type"
+  },
+  "checkm_info": {
+   "checkm_marker_set": "Neisseria",
+   "checkm_species_tax_id": 490,
+   "checkm_marker_set_rank": "genus",
+   "checkm_version": "v1.2.3",
+   "completeness": 99.07,
+   "contamination": 1.4,
+   "completeness_percentile": 60.9756
+  },
+  "average_nucleotide_identity": {
+   "taxonomy_check_status": "Inconclusive",
+   "match_status": "below_threshold_mismatch",
+   "submitted_organism": "Neisseria sicca ATCC 29256",
+   "submitted_species": "Neisseria sicca",
+   "category": "category_na",
+   "submitted_ani_match": {
+    "assembly": "GCA_014054945.1",
+    "organism_name": "Neisseria sicca",
+    "category": "suspected_type",
+    "ani": 87.21,
+    "assembly_coverage": 41.71,
+    "type_assembly_coverage": 33.36
+   },
+   "best_ani_match": {
+    "assembly": "GCA_023472875.1",
+    "organism_name": "Neisseria perflava",
+    "category": "suspected_type",
+    "ani": 95.36,
+    "assembly_coverage": 85.16,
+    "type_assembly_coverage": 86.13
+   },
+   "comment": "na"
+  }
+ }
+]

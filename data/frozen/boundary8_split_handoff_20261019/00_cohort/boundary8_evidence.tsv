@@ -1,0 +1,9 @@
+accession	display_label	reference_assignment	subflava_ANI_percent	perflava_ANI_percent	flavescens_ANI_percent	sub_minus_per_ANI_pp	subflava_min_bidirectional_AF	perflava_min_bidirectional_AF	tetM_status	nearest_tree_tip	nearest_tree_tip_reference_group	nearest_patristic_distance
+GCA_023635085.1	SG0010	subflava	95.0933	94.9514	94.4642	0.1419	0.8097	0.7836	positive_complete	GCA_024205785.1	subflava	0.013615108399999992
+GCA_052859165.1	164888	subflava	95.1673	94.9882	94.4553	0.1791	0.8437	0.8371	negative	GCA_052073865.1	subflava	0.0370477795
+GCA_052073865.1	KU1003-01	subflava	95.1765	94.9938	94.3889	0.1827	0.8431	0.8223	positive_complete	GCA_052859165.1	subflava	0.0370477795
+GCA_024205785.1	HP0069	subflava	95.2304	94.9614	94.5691	0.269	0.8603	0.8221	negative	GCA_023635085.1	subflava	0.013615108399999992
+GCA_024205745.1	HP0015	subflava	95.2671	94.9676	94.5131	0.2995	0.8618	0.8562	negative	GCA_024205725.1	subflava	0.04817635149999999
+GCA_052859045.1	164863	subflava	95.177	94.8754	94.5053	0.3016	0.8206	0.8116	negative	GCA_001810105.1	subflava	0.0440943253
+GCA_001810105.1	HMSC068C04	subflava	95.2823	94.9562	94.4651	0.3261	0.8468	0.8322	positive_complete	GCA_052859045.1	subflava	0.0440943253
+GCA_024205725.1	TT0073	subflava	95.3276	94.957	94.4601	0.3706	0.8331	0.812	negative	GCA_024205745.1	subflava	0.04817635149999999

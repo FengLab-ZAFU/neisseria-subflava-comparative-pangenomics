@@ -1,0 +1,8 @@
+pattern	n_clusters	dictionary_id
+subflava_only	1555	pgap2_main152_orth0.98
+perflava_only	6529	pgap2_main152_orth0.98
+flavescens_only	644	pgap2_main152_orth0.98
+subflava_perflava	1313	pgap2_main152_orth0.98
+subflava_flavescens	60	pgap2_main152_orth0.98
+perflava_flavescens	365	pgap2_main152_orth0.98
+all_three	1999	pgap2_main152_orth0.98

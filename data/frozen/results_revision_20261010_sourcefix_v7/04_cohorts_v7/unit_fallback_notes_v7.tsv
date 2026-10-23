@@ -1,0 +1,25 @@
+unit	cohort	frozen_representative	reason_not_used	serving_representative
+CU00194	legacy139_dereplicated_v7	GCA_052073865.1	not eligible in this cohort	GCA_014596365.2
+CU00423	legacy139_dereplicated_v7	GCA_051957575.1	not eligible in this cohort	GCA_050328085.1
+CU00424	legacy139_dereplicated_v7	GCA_051963175.1	not eligible in this cohort	GCA_050330135.1
+CU00425	legacy139_dereplicated_v7	GCA_051962855.1	not eligible in this cohort	GCA_050328125.1
+CU00429	legacy139_dereplicated_v7	GCA_051962875.1	not eligible in this cohort	GCA_050328385.1
+CU00439	legacy139_dereplicated_v7	GCA_051958545.1	not eligible in this cohort	GCA_050329125.1
+CU00440	legacy139_dereplicated_v7	GCA_051958495.1	not eligible in this cohort	GCA_050329395.1
+CU00441	legacy139_dereplicated_v7	GCA_051958425.1	not eligible in this cohort	GCA_050329485.1
+CU00442	legacy139_dereplicated_v7	GCA_051958375.1	not eligible in this cohort	GCA_050329535.1
+CU00444	legacy139_dereplicated_v7	GCA_051958155.1	not eligible in this cohort	GCA_050329655.1
+CU00450	legacy139_dereplicated_v7	GCA_051958215.1	not eligible in this cohort	GCA_050360575.1
+CU00451	legacy139_dereplicated_v7	GCA_051962655.1	not eligible in this cohort	GCA_050360595.1
+CU00194	legacy_plus6_dereplicated_v7	GCA_052073865.1	not eligible in this cohort	GCA_014596365.2
+CU00423	legacy_plus6_dereplicated_v7	GCA_051957575.1	not eligible in this cohort	GCA_050328085.1
+CU00424	legacy_plus6_dereplicated_v7	GCA_051963175.1	not eligible in this cohort	GCA_050330135.1
+CU00425	legacy_plus6_dereplicated_v7	GCA_051962855.1	not eligible in this cohort	GCA_050328125.1
+CU00429	legacy_plus6_dereplicated_v7	GCA_051962875.1	not eligible in this cohort	GCA_050328385.1
+CU00439	legacy_plus6_dereplicated_v7	GCA_051958545.1	not eligible in this cohort	GCA_050329125.1
+CU00440	legacy_plus6_dereplicated_v7	GCA_051958495.1	not eligible in this cohort	GCA_050329395.1
+CU00441	legacy_plus6_dereplicated_v7	GCA_051958425.1	not eligible in this cohort	GCA_050329485.1
+CU00442	legacy_plus6_dereplicated_v7	GCA_051958375.1	not eligible in this cohort	GCA_050329535.1
+CU00444	legacy_plus6_dereplicated_v7	GCA_051958155.1	not eligible in this cohort	GCA_050329655.1
+CU00450	legacy_plus6_dereplicated_v7	GCA_051958215.1	not eligible in this cohort	GCA_050360575.1
+CU00451	legacy_plus6_dereplicated_v7	GCA_051962655.1	not eligible in this cohort	GCA_050360595.1

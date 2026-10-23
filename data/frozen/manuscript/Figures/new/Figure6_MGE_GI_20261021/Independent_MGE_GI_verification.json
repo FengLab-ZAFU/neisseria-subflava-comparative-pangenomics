@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "KW_tests_independently_recomputed": 18,
+  "rank_partial_F_tests_independently_recomputed": 12,
+  "all_BH_families_reproduced": true,
+  "max_absolute_tolerance": 1e-07,
+  "n_primary": 144,
+  "n_participant": 95,
+  "provirus_summary_total": 208.0,
+  "provirus_local_candidate_total": 209.0
+}

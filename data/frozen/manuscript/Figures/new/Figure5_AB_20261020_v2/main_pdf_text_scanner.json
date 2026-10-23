@@ -1,0 +1,91 @@
+{
+  "pdf": "manuscript\\Figures\\new\\Figure5_AB_20261020_v2\\Figure_5_AB_20261020_v2.pdf",
+  "auditable": true,
+  "minimum_required_pt": 5.0,
+  "minimum_found_pt": 1.0,
+  "text_run_count": 16,
+  "below_minimum_count": 16,
+  "below_minimum": [
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-1-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-1-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-1-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-1-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-2-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-0-0",
+      "size_pt": 1.0
+    },
+    {
+      "stream": 1,
+      "font": "f-3-0",
+      "size_pt": 1.0
+    }
+  ],
+  "warnings": []
+}

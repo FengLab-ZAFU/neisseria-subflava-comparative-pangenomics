@@ -1,0 +1,3 @@
+scope	provirus_total	rule	additional_accession	additional_interval
+MGE/GI abundance	208	Proviral regions retained in the final geNomad virus_summary		
+Local interval overlap	209	All coordinate-verified find_proviruses candidates, including one not retained in final virus classification	GCA_901873995.1	CABFLW010000022.1:83-10458

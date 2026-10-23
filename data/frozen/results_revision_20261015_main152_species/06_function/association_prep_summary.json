@@ -1,0 +1,14 @@
+{
+ "group_sizes": {
+  "subflava": 31,
+  "perflava": 114,
+  "flavescens": 7
+ },
+ "n_eligible_clusters": 3280,
+ "n_tests": 9840,
+ "ledger_counts": {
+  "carrier_lt_5": 8374,
+  "eligible_shell_cloud_carrier_ge5": 3280,
+  "partition_not_shell_cloud": 1561
+ }
+}

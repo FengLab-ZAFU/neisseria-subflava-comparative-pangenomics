@@ -1,0 +1,22 @@
+analysis_id	item	value	note
+primary144	n_complete_cases	144	all 144 defense runs succeeded; complete cases = evaluable genomes
+primary144	design_matrix_rank	6	
+primary144	design_matrix_columns	6	
+primary144	response_variance	1691.590909	
+primary144	phylogenetic_confounding	NOT_CONTROLLED	species_group is strongly correlated with phylogeny and study source; this model does not adjust for phylogenetic or study-source confounding and must not be read as an independent species effect
+primary144	model_status	OK	
+primary144	aliased_coefficients	none	
+primary144	VIF:species_groupperflava	1.2559004	variance inflation factor from design columns; >10 would be flagged
+primary144	VIF:species_groupflavescens	1.243802274	variance inflation factor from design columns; >10 would be flagged
+primary144	VIF:assembly_classComplete Genome	1.894203132	variance inflation factor from design columns; >10 would be flagged
+primary144	VIF:log1p_n_contigs	1.929860532	variance inflation factor from design columns; >10 would be flagged
+primary144	VIF:genome_size_Mb	1.142719115	variance inflation factor from design columns; >10 would be flagged
+primary144	partial_F_species_group_F	8.562016445	species_group added to assembly-covariate-only model
+primary144	partial_F_species_group_df	2,138	
+primary144	partial_F_species_group_p	0.0003124639821	
+primary144	residual_shapiro_W	0.975718105	
+primary144	residual_shapiro_p	0.01158746594	
+primary144	residual_breusch_pagan_chi2	0.6343138227	auxiliary regression of squared residuals on fitted values
+primary144	residual_breusch_pagan_p	0.4257773765	
+primary144	r_squared	0.165690551	
+primary144	residual_df	138	

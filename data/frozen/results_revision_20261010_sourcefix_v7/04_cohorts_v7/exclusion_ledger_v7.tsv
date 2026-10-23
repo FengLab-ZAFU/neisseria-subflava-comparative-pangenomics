@@ -1,0 +1,487 @@
+accession	cohort	reason	detail
+GCA_000186165.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_000763635.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_001064605.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_001836705.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_001836795.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_001837245.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_001837375.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_013267835.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_023635035.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_024205685.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_042536985.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_042537105.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_042537125.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_042537165.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_042557565.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_051956955.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_052858865.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_052858975.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_052859145.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_052859185.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_052859245.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_963537545.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_963547685.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_963550065.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_965242295.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_976995455.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_976995635.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_977004525.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_980944255.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_981111505.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_981118575.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_982289515.1	revision_primary_v7	ANI_membership_loss_type_anchor	passes only via historical non-type perflava reference; moved to expanded_reference_sensitivity_v7
+GCA_015263375.1	revision_primary_v7	MAG_confirmed	BioSample package=MIMAG.human-oral.6.0 (MIMAG checklist => metagenome-assembled genome)
+GCA_015263395.1	revision_primary_v7	MAG_confirmed	BioSample package=MIMAG.human-oral.6.0 (MIMAG checklist => metagenome-assembled genome)
+GCA_019334765.1	revision_primary_v7	source_role_review	source/role conflict unresolved: ATCC 29256 (ATCC29256 culture identity claim refuted by genetics (115373 SNP vs catalog-authentic GCA_000174655.1); true provenance unverifiable -> REVIEW, excluded from formal natural cohorts; see 02_atcc29256/culture_identity_resolution.tsv)
+GCA_024205765.1	revision_primary_v7	QC_fail	
+GCA_032563455.1	revision_primary_v7	MAG_confirmed	BioSample package=MIMAG.human-gut.6.0 (MIMAG checklist => metagenome-assembled genome)
+GCA_042536805.1	revision_primary_v7	experimental_derivative	9/1_P1
+GCA_042536845.1	revision_primary_v7	experimental_derivative	45/1_P1
+GCA_050328945.1	revision_primary_v7	QC_fail	
+GCA_050329755.1	revision_primary_v7	QC_fail	
+GCA_050329775.1	revision_primary_v7	QC_fail	
+GCA_050329895.1	revision_primary_v7	QC_fail	
+GCA_050332015.1	revision_primary_v7	QC_fail	
+GCA_051956855.1	revision_primary_v7	QC_fail	
+GCA_051956895.1	revision_primary_v7	QC_fail	
+GCA_051956995.1	revision_primary_v7	QC_fail	
+GCA_051958095.1	revision_primary_v7	QC_fail	
+GCA_051962515.1	revision_primary_v7	QC_fail	
+GCA_052073905.1	revision_primary_v7	experimental_derivative	KU1003-01_tssM_KO
+GCA_056611915.1	revision_primary_v7	source_role_review	source/role conflict unresolved: SG0010 ()
+GCA_056850555.1	revision_primary_v7	experimental_derivative	GM-mut-CC14
+GCA_056850565.1	revision_primary_v7	experimental_derivative	GM-mut-CB12
+GCA_056850575.1	revision_primary_v7	experimental_derivative	GM-mut-CA16
+GCA_056850585.1	revision_primary_v7	experimental_derivative	Cef-c-CB17
+GCA_056850595.1	revision_primary_v7	experimental_derivative	Cef-c-CC23
+GCA_056850675.1	revision_primary_v7	experimental_derivative	Cef-c-CA23
+GCA_056850685.1	revision_primary_v7	experimental_derivative	Mock-cell
+GCA_056880575.1	revision_primary_v7	experimental_derivative	Cef-CC8
+GCA_056880585.1	revision_primary_v7	experimental_derivative	Cef-CB9
+GCA_056880595.1	revision_primary_v7	experimental_derivative	Mock
+GCA_056880605.1	revision_primary_v7	experimental_derivative	Cef-CA9
+GCA_057315555.1	revision_primary_v7	MAG_confirmed	BioSample package=MIMAG.human-oral.6.0 (MIMAG checklist => metagenome-assembled genome)
+GCA_057315755.1	revision_primary_v7	MAG_confirmed	BioSample package=MIMAG.human-oral.6.0 (MIMAG checklist => metagenome-assembled genome)
+GCA_057637755.1	revision_primary_v7	MAG_confirmed	BioSample package=MIMAG.6.0 (MIMAG checklist => metagenome-assembled genome)
+GCA_060726575.1	revision_primary_v7	MAG_confirmed	BioSample package=MIMAG.human-gut.6.0 (MIMAG checklist => metagenome-assembled genome)
+GCA_902485275.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_905205105.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_905371675.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_912440445.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_916048815.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_916709915.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_927911295.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_934216815.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_937936115.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_943912805.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963264865.1	revision_primary_v7	MAG_confirmed	BioSample description.comment declares metagenomic source samples ERS16237632-ERS16237645 (PRJEB61647); metaFlye assembly method corroborates; missed by 2026-10-06 audit (description channel not scanned); added in v7 supplement review 2026-10-10
+GCA_963281055.1	revision_primary_v7	MAG_confirmed	BioSample description.comment declares metagenomic source samples ERS16237632-ERS16237645 (PRJEB61647); metaFlye assembly method corroborates; missed by 2026-10-06 audit (description channel not scanned); added in v7 supplement review 2026-10-10
+GCA_963521115.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963522635.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963524335.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963534905.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963536945.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963538715.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963539435.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963540025.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963548445.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963549965.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963552535.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963554535.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_965239915.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_965241375.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_965241655.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_965241865.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_965242275.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_965244515.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_965245005.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_976991425.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_976994935.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_976996255.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_976998465.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977001715.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977004655.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977005275.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977006055.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977006735.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977038685.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977041825.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977043615.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977047545.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977050065.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977054875.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_980947175.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_981121355.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_982288185.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_984521355.1	revision_primary_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_005221285.1	revision_primary_v7	non_representative_duplicate	unit=CU00177
+GCA_963394955.1	revision_primary_v7	non_representative_duplicate	unit=CU00177
+GCA_031190635.1	revision_primary_v7	non_representative_duplicate	unit=CU00178
+GCA_963396225.1	revision_primary_v7	non_representative_duplicate	unit=CU00178
+GCA_014596365.2	revision_primary_v7	non_representative_duplicate	unit=CU00194
+GCA_042649725.1	revision_primary_v7	non_representative_duplicate	unit=CU00227
+GCA_050328085.1	revision_primary_v7	non_representative_duplicate	unit=CU00423
+GCA_050328105.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_050328145.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_050328585.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_050328745.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_050328765.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_050329445.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_050330115.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_050330135.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_050330255.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_050332315.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_051963055.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_051963095.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_051963195.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_051963215.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_051963275.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_051963315.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_051963335.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_051963395.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_051963455.1	revision_primary_v7	non_representative_duplicate	unit=CU00424
+GCA_050328125.1	revision_primary_v7	non_representative_duplicate	unit=CU00425
+GCA_050331975.1	revision_primary_v7	non_representative_duplicate	unit=CU00425
+GCA_050331995.1	revision_primary_v7	non_representative_duplicate	unit=CU00425
+GCA_051962915.1	revision_primary_v7	non_representative_duplicate	unit=CU00425
+GCA_050328205.1	revision_primary_v7	non_representative_duplicate	unit=CU00426
+GCA_050328335.1	revision_primary_v7	non_representative_duplicate	unit=CU00426
+GCA_050329005.1	revision_primary_v7	non_representative_duplicate	unit=CU00426
+GCA_051957855.1	revision_primary_v7	non_representative_duplicate	unit=CU00427
+GCA_050328305.1	revision_primary_v7	non_representative_duplicate	unit=CU00428
+GCA_051957775.1	revision_primary_v7	non_representative_duplicate	unit=CU00428
+GCA_050328385.1	revision_primary_v7	non_representative_duplicate	unit=CU00429
+GCA_051962615.1	revision_primary_v7	non_representative_duplicate	unit=CU00430
+GCA_051958615.1	revision_primary_v7	non_representative_duplicate	unit=CU00431
+GCA_050328565.1	revision_primary_v7	non_representative_duplicate	unit=CU00432
+GCA_050329165.1	revision_primary_v7	non_representative_duplicate	unit=CU00432
+GCA_050329225.1	revision_primary_v7	non_representative_duplicate	unit=CU00432
+GCA_050329275.1	revision_primary_v7	non_representative_duplicate	unit=CU00432
+GCA_050329335.1	revision_primary_v7	non_representative_duplicate	unit=CU00432
+GCA_050329365.1	revision_primary_v7	non_representative_duplicate	unit=CU00432
+GCA_050330175.1	revision_primary_v7	non_representative_duplicate	unit=CU00432
+GCA_050360215.1	revision_primary_v7	non_representative_duplicate	unit=CU00432
+GCA_051962755.1	revision_primary_v7	non_representative_duplicate	unit=CU00437
+GCA_051962595.1	revision_primary_v7	non_representative_duplicate	unit=CU00438
+GCA_050329125.1	revision_primary_v7	non_representative_duplicate	unit=CU00439
+GCA_050329395.1	revision_primary_v7	non_representative_duplicate	unit=CU00440
+GCA_051958355.1	revision_primary_v7	non_representative_duplicate	unit=CU00440
+GCA_050329485.1	revision_primary_v7	non_representative_duplicate	unit=CU00441
+GCA_050329515.1	revision_primary_v7	non_representative_duplicate	unit=CU00441
+GCA_050329535.1	revision_primary_v7	non_representative_duplicate	unit=CU00442
+GCA_050329635.1	revision_primary_v7	non_representative_duplicate	unit=CU00443
+GCA_050329735.1	revision_primary_v7	non_representative_duplicate	unit=CU00443
+GCA_051958295.1	revision_primary_v7	non_representative_duplicate	unit=CU00443
+GCA_050329655.1	revision_primary_v7	non_representative_duplicate	unit=CU00444
+GCA_051958235.1	revision_primary_v7	non_representative_duplicate	unit=CU00447
+GCA_050360575.1	revision_primary_v7	non_representative_duplicate	unit=CU00450
+GCA_050360595.1	revision_primary_v7	non_representative_duplicate	unit=CU00451
+GCA_051957215.1	revision_primary_v7	non_representative_duplicate	unit=CU00469
+GCA_051957355.1	revision_primary_v7	non_representative_duplicate	unit=CU00471
+GCA_051957495.1	revision_primary_v7	non_representative_duplicate	unit=CU00472
+GCA_051957675.1	revision_primary_v7	non_representative_duplicate	unit=CU00472
+GCA_051957695.1	revision_primary_v7	non_representative_duplicate	unit=CU00472
+GCA_051957445.1	revision_primary_v7	non_representative_duplicate	unit=CU00474
+GCA_051957655.1	revision_primary_v7	non_representative_duplicate	unit=CU00474
+GCA_051963015.1	revision_primary_v7	non_representative_duplicate	unit=CU00485
+GCA_051963635.1	revision_primary_v7	non_representative_duplicate	unit=CU00491
+GCA_051963655.1	revision_primary_v7	non_representative_duplicate	unit=CU00492
+GCA_051963775.1	revision_primary_v7	non_representative_duplicate	unit=CU00492
+GCA_051963835.1	revision_primary_v7	non_representative_duplicate	unit=CU00492
+GCA_015263375.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample package=MIMAG.human-oral.6.0 (MIMAG checklist => metagenome-assembled genome)
+GCA_015263395.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample package=MIMAG.human-oral.6.0 (MIMAG checklist => metagenome-assembled genome)
+GCA_019334765.1	expanded_reference_sensitivity_v7	source_role_review	source/role conflict unresolved: ATCC 29256 (ATCC29256 culture identity claim refuted by genetics (115373 SNP vs catalog-authentic GCA_000174655.1); true provenance unverifiable -> REVIEW, excluded from formal natural cohorts; see 02_atcc29256/culture_identity_resolution.tsv)
+GCA_024205765.1	expanded_reference_sensitivity_v7	QC_fail	
+GCA_032563455.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample package=MIMAG.human-gut.6.0 (MIMAG checklist => metagenome-assembled genome)
+GCA_042536805.1	expanded_reference_sensitivity_v7	experimental_derivative	9/1_P1
+GCA_042536845.1	expanded_reference_sensitivity_v7	experimental_derivative	45/1_P1
+GCA_050328945.1	expanded_reference_sensitivity_v7	QC_fail	
+GCA_050329755.1	expanded_reference_sensitivity_v7	QC_fail	
+GCA_050329775.1	expanded_reference_sensitivity_v7	QC_fail	
+GCA_050329895.1	expanded_reference_sensitivity_v7	QC_fail	
+GCA_050332015.1	expanded_reference_sensitivity_v7	QC_fail	
+GCA_051956855.1	expanded_reference_sensitivity_v7	QC_fail	
+GCA_051956895.1	expanded_reference_sensitivity_v7	QC_fail	
+GCA_051956955.1	expanded_reference_sensitivity_v7	QC_fail	
+GCA_051956995.1	expanded_reference_sensitivity_v7	QC_fail	
+GCA_051958095.1	expanded_reference_sensitivity_v7	QC_fail	
+GCA_051962515.1	expanded_reference_sensitivity_v7	QC_fail	
+GCA_052073905.1	expanded_reference_sensitivity_v7	experimental_derivative	KU1003-01_tssM_KO
+GCA_056611915.1	expanded_reference_sensitivity_v7	source_role_review	source/role conflict unresolved: SG0010 ()
+GCA_056850555.1	expanded_reference_sensitivity_v7	experimental_derivative	GM-mut-CC14
+GCA_056850565.1	expanded_reference_sensitivity_v7	experimental_derivative	GM-mut-CB12
+GCA_056850575.1	expanded_reference_sensitivity_v7	experimental_derivative	GM-mut-CA16
+GCA_056850585.1	expanded_reference_sensitivity_v7	experimental_derivative	Cef-c-CB17
+GCA_056850595.1	expanded_reference_sensitivity_v7	experimental_derivative	Cef-c-CC23
+GCA_056850675.1	expanded_reference_sensitivity_v7	experimental_derivative	Cef-c-CA23
+GCA_056850685.1	expanded_reference_sensitivity_v7	experimental_derivative	Mock-cell
+GCA_056880575.1	expanded_reference_sensitivity_v7	experimental_derivative	Cef-CC8
+GCA_056880585.1	expanded_reference_sensitivity_v7	experimental_derivative	Cef-CB9
+GCA_056880595.1	expanded_reference_sensitivity_v7	experimental_derivative	Mock
+GCA_056880605.1	expanded_reference_sensitivity_v7	experimental_derivative	Cef-CA9
+GCA_057315555.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample package=MIMAG.human-oral.6.0 (MIMAG checklist => metagenome-assembled genome)
+GCA_057315755.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample package=MIMAG.human-oral.6.0 (MIMAG checklist => metagenome-assembled genome)
+GCA_057637755.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample package=MIMAG.6.0 (MIMAG checklist => metagenome-assembled genome)
+GCA_060726575.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample package=MIMAG.human-gut.6.0 (MIMAG checklist => metagenome-assembled genome)
+GCA_902485275.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_905205105.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_905371675.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_912440445.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_916048815.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_916709915.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_927911295.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_934216815.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_937936115.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_943912805.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963264865.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample description.comment declares metagenomic source samples ERS16237632-ERS16237645 (PRJEB61647); metaFlye assembly method corroborates; missed by 2026-10-06 audit (description channel not scanned); added in v7 supplement review 2026-10-10
+GCA_963281055.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample description.comment declares metagenomic source samples ERS16237632-ERS16237645 (PRJEB61647); metaFlye assembly method corroborates; missed by 2026-10-06 audit (description channel not scanned); added in v7 supplement review 2026-10-10
+GCA_963521115.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963522635.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963524335.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963534905.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963536945.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963537545.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963538715.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963539435.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963540025.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963547685.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963548445.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963549965.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963550065.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963552535.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_963554535.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_965239915.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_965241375.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_965241655.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_965241865.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_965242275.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_965242295.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_965244515.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_965245005.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_976991425.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_976994935.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_976995455.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_976995635.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_976996255.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_976998465.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977001715.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977004525.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977004655.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977005275.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977006055.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977006735.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977038685.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977041825.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977043615.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977047545.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977050065.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_977054875.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_980944255.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_980947175.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_981111505.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_981118575.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_981121355.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_982288185.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_982289515.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_984521355.1	expanded_reference_sensitivity_v7	MAG_confirmed	BioSample declares metagenomic assembly software/source (definitive E4)
+GCA_013267835.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00010
+GCA_005221285.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00177
+GCA_963394955.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00177
+GCA_031190635.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00178
+GCA_963396225.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00178
+GCA_014596365.2	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00194
+GCA_042649725.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00227
+GCA_050328085.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00423
+GCA_050328105.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_050328145.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_050328585.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_050328745.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_050328765.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_050329445.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_050330115.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_050330135.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_050330255.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_050332315.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_051963055.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_051963095.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_051963195.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_051963215.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_051963275.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_051963315.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_051963335.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_051963395.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_051963455.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00424
+GCA_050328125.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00425
+GCA_050331975.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00425
+GCA_050331995.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00425
+GCA_051962915.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00425
+GCA_050328205.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00426
+GCA_050328335.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00426
+GCA_050329005.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00426
+GCA_051957855.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00427
+GCA_050328305.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00428
+GCA_051957775.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00428
+GCA_050328385.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00429
+GCA_051962615.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00430
+GCA_051958615.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00431
+GCA_050328565.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00432
+GCA_050329165.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00432
+GCA_050329225.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00432
+GCA_050329275.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00432
+GCA_050329335.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00432
+GCA_050329365.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00432
+GCA_050330175.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00432
+GCA_050360215.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00432
+GCA_051962755.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00437
+GCA_051962595.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00438
+GCA_050329125.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00439
+GCA_050329395.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00440
+GCA_051958355.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00440
+GCA_050329485.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00441
+GCA_050329515.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00441
+GCA_050329535.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00442
+GCA_050329635.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00443
+GCA_050329735.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00443
+GCA_051958295.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00443
+GCA_050329655.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00444
+GCA_051958235.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00447
+GCA_050360575.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00450
+GCA_050360595.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00451
+GCA_051957215.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00469
+GCA_051957355.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00471
+GCA_051957495.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00472
+GCA_051957675.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00472
+GCA_051957695.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00472
+GCA_051957445.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00474
+GCA_051957655.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00474
+GCA_051963015.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00485
+GCA_051963635.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00491
+GCA_051963655.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00492
+GCA_051963775.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00492
+GCA_051963835.1	expanded_reference_sensitivity_v7	non_representative_duplicate	unit=CU00492
+GCA_042536805.1	legacy139_dereplicated_v7	experimental_derivative	9/1_P1
+GCA_056611915.1	legacy139_dereplicated_v7	source_role_review	source/role conflict unresolved: SG0010 ()
+GCA_056850555.1	legacy139_dereplicated_v7	experimental_derivative	GM-mut-CC14
+GCA_056850565.1	legacy139_dereplicated_v7	experimental_derivative	GM-mut-CB12
+GCA_056850575.1	legacy139_dereplicated_v7	experimental_derivative	GM-mut-CA16
+GCA_056850585.1	legacy139_dereplicated_v7	experimental_derivative	Cef-c-CB17
+GCA_056850595.1	legacy139_dereplicated_v7	experimental_derivative	Cef-c-CC23
+GCA_056850675.1	legacy139_dereplicated_v7	experimental_derivative	Cef-c-CA23
+GCA_056850685.1	legacy139_dereplicated_v7	experimental_derivative	Mock-cell
+GCA_056880575.1	legacy139_dereplicated_v7	experimental_derivative	Cef-CC8
+GCA_056880585.1	legacy139_dereplicated_v7	experimental_derivative	Cef-CB9
+GCA_056880595.1	legacy139_dereplicated_v7	experimental_derivative	Mock
+GCA_056880605.1	legacy139_dereplicated_v7	experimental_derivative	Cef-CA9
+GCA_963264865.1	legacy139_dereplicated_v7	MAG_confirmed	BioSample description.comment declares metagenomic source samples ERS16237632-ERS16237645 (PRJEB61647); metaFlye assembly method corroborates; missed by 2026-10-06 audit (description channel not scanned); added in v7 supplement review 2026-10-10
+GCA_963281055.1	legacy139_dereplicated_v7	MAG_confirmed	BioSample description.comment declares metagenomic source samples ERS16237632-ERS16237645 (PRJEB61647); metaFlye assembly method corroborates; missed by 2026-10-06 audit (description channel not scanned); added in v7 supplement review 2026-10-10
+GCA_005221285.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00177
+GCA_963394955.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00177
+GCA_031190635.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00178
+GCA_963396225.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00178
+GCA_042649725.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00227
+GCA_050328105.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00424
+GCA_050328145.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00424
+GCA_050328585.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00424
+GCA_050328745.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00424
+GCA_050328765.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00424
+GCA_050329445.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00424
+GCA_050330115.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00424
+GCA_050330255.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00424
+GCA_050332315.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00424
+GCA_050331975.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00425
+GCA_050331995.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00425
+GCA_050328205.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00426
+GCA_050328335.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00426
+GCA_050329005.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00426
+GCA_050328565.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00432
+GCA_050329165.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00432
+GCA_050329225.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00432
+GCA_050329275.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00432
+GCA_050329335.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00432
+GCA_050329365.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00432
+GCA_050330175.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00432
+GCA_050360215.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00432
+GCA_050329515.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00441
+GCA_050329735.1	legacy139_dereplicated_v7	non_representative_duplicate	unit=CU00443
+GCA_042536805.1	legacy_plus6_dereplicated_v7	experimental_derivative	9/1_P1
+GCA_042536845.1	legacy_plus6_dereplicated_v7	experimental_derivative	45/1_P1
+GCA_056611915.1	legacy_plus6_dereplicated_v7	source_role_review	source/role conflict unresolved: SG0010 ()
+GCA_056850555.1	legacy_plus6_dereplicated_v7	experimental_derivative	GM-mut-CC14
+GCA_056850565.1	legacy_plus6_dereplicated_v7	experimental_derivative	GM-mut-CB12
+GCA_056850575.1	legacy_plus6_dereplicated_v7	experimental_derivative	GM-mut-CA16
+GCA_056850585.1	legacy_plus6_dereplicated_v7	experimental_derivative	Cef-c-CB17
+GCA_056850595.1	legacy_plus6_dereplicated_v7	experimental_derivative	Cef-c-CC23
+GCA_056850675.1	legacy_plus6_dereplicated_v7	experimental_derivative	Cef-c-CA23
+GCA_056850685.1	legacy_plus6_dereplicated_v7	experimental_derivative	Mock-cell
+GCA_056880575.1	legacy_plus6_dereplicated_v7	experimental_derivative	Cef-CC8
+GCA_056880585.1	legacy_plus6_dereplicated_v7	experimental_derivative	Cef-CB9
+GCA_056880595.1	legacy_plus6_dereplicated_v7	experimental_derivative	Mock
+GCA_056880605.1	legacy_plus6_dereplicated_v7	experimental_derivative	Cef-CA9
+GCA_963264865.1	legacy_plus6_dereplicated_v7	MAG_confirmed	BioSample description.comment declares metagenomic source samples ERS16237632-ERS16237645 (PRJEB61647); metaFlye assembly method corroborates; missed by 2026-10-06 audit (description channel not scanned); added in v7 supplement review 2026-10-10
+GCA_963281055.1	legacy_plus6_dereplicated_v7	MAG_confirmed	BioSample description.comment declares metagenomic source samples ERS16237632-ERS16237645 (PRJEB61647); metaFlye assembly method corroborates; missed by 2026-10-06 audit (description channel not scanned); added in v7 supplement review 2026-10-10
+GCA_005221285.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00177
+GCA_963394955.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00177
+GCA_031190635.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00178
+GCA_963396225.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00178
+GCA_042649725.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00227
+GCA_050328105.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00424
+GCA_050328145.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00424
+GCA_050328585.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00424
+GCA_050328745.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00424
+GCA_050328765.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00424
+GCA_050329445.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00424
+GCA_050330115.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00424
+GCA_050330255.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00424
+GCA_050332315.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00424
+GCA_050331975.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00425
+GCA_050331995.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00425
+GCA_050328205.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00426
+GCA_050328335.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00426
+GCA_050329005.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00426
+GCA_050328565.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00432
+GCA_050329165.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00432
+GCA_050329225.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00432
+GCA_050329275.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00432
+GCA_050329335.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00432
+GCA_050329365.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00432
+GCA_050330175.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00432
+GCA_050360215.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00432
+GCA_050329515.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00441
+GCA_050329735.1	legacy_plus6_dereplicated_v7	non_representative_duplicate	unit=CU00443
+GCA_042536705.1	one_per_participant_v7	participant_collapsed	ITM_PRJNA703317:MO02 kept GCA_042536675.1
+GCA_042536925.1	one_per_participant_v7	participant_collapsed	ITM_PRJNA703317:MO03 kept GCA_042536725.1
+GCA_042536955.1	one_per_participant_v7	participant_collapsed	ITM_PRJNA703317:MO07 kept GCA_042536745.1
+GCA_042537005.1	one_per_participant_v7	participant_collapsed	ITM_PRJNA703317:MO10 kept GCA_042536765.1
+GCA_051963575.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0001 kept GCA_051963555.1
+GCA_051963675.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0001 kept GCA_051963555.1
+GCA_051963515.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0003 kept GCA_051963435.1
+GCA_051962935.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0006 kept GCA_051962855.1
+GCA_051962805.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0008 kept GCA_050329065.1
+GCA_050328485.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0009 kept GCA_050328445.1
+GCA_050329085.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0009 kept GCA_050328445.1
+GCA_051958545.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0009 kept GCA_050328445.1
+GCA_051962655.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0009 kept GCA_050328445.1
+GCA_051962735.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0009 kept GCA_050328445.1
+GCA_051958415.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0013 kept GCA_051958375.1
+GCA_051958425.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0013 kept GCA_051958375.1
+GCA_051958495.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0013 kept GCA_051958375.1
+GCA_050330235.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0014 kept GCA_050329615.1
+GCA_051958155.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0014 kept GCA_050329615.1
+GCA_051958215.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0014 kept GCA_050329615.1
+GCA_051958255.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0014 kept GCA_050329615.1
+GCA_050328885.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0015 kept GCA_050328825.1
+GCA_050328965.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0015 kept GCA_050328825.1
+GCA_050332295.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0015 kept GCA_050328825.1
+GCA_051958015.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0015 kept GCA_050328825.1
+GCA_051958105.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0015 kept GCA_050328825.1
+GCA_050328265.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0016 kept GCA_050328165.1
+GCA_051957735.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0016 kept GCA_050328165.1
+GCA_051957875.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0016 kept GCA_050328165.1
+GCA_051957575.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0017 kept GCA_051957375.1
+GCA_051957755.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0017 kept GCA_051957375.1
+GCA_051957275.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0018 kept GCA_051957235.1
+GCA_051957315.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0018 kept GCA_051957235.1
+GCA_051957155.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0019 kept GCA_051957115.1
+GCA_051957095.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0020 kept GCA_051957055.1
+GCA_051956655.1	one_per_participant_v7	participant_collapsed	Regan2026_Rochester_study:P0024 kept GCA_051956595.1

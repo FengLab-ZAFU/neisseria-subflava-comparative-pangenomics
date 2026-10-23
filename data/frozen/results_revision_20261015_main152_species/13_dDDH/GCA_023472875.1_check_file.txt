@@ -1,0 +1,1325 @@
+--- 
+About: >
+  This file (in computer-readable YAML format) lists all genome parts
+  used in your GGDC run. Use it to verify that the GGDC results are 
+  based on the correct data. This is not trivial as genome parts might be
+  duplicated or missing from uploaded FASTA files, and wrong GenBank
+  accession might have been chosen.
+---
+- name: targetGenome
+  parts:
+  - name: JAMDHR010000001_1
+    base-pairs: 183381
+    percent-GC: 49.4489614518407
+  - name: JAMDHR010000002_2
+    base-pairs: 116878
+    percent-GC: 51.06007974126867
+  - name: JAMDHR010000003_3
+    base-pairs: 104664
+    percent-GC: 49.18310020637468
+  - name: JAMDHR010000004_4
+    base-pairs: 101432
+    percent-GC: 49.21129426610931
+  - name: JAMDHR010000005_5
+    base-pairs: 97366
+    percent-GC: 49.19787194708625
+  - name: JAMDHR010000006_6
+    base-pairs: 79253
+    percent-GC: 49.528724464689034
+  - name: JAMDHR010000007_7
+    base-pairs: 70883
+    percent-GC: 49.63954685890834
+  - name: JAMDHR010000008_8
+    base-pairs: 63203
+    percent-GC: 48.597376706801896
+  - name: JAMDHR010000009_9
+    base-pairs: 61523
+    percent-GC: 46.87352697365213
+  - name: JAMDHR010000010_10
+    base-pairs: 59262
+    percent-GC: 49.98818804630286
+  - name: JAMDHR010000011_11
+    base-pairs: 58141
+    percent-GC: 46.60050566725719
+  - name: JAMDHR010000012_12
+    base-pairs: 55707
+    percent-GC: 48.552246575834275
+  - name: JAMDHR010000013_13
+    base-pairs: 55326
+    percent-GC: 51.05194664353107
+  - name: JAMDHR010000014_14
+    base-pairs: 52486
+    percent-GC: 49.235986739320964
+  - name: JAMDHR010000015_15
+    base-pairs: 51200
+    percent-GC: 47.5546875
+  - name: JAMDHR010000016_16
+    base-pairs: 43283
+    percent-GC: 48.9499341542869
+  - name: JAMDHR010000017_17
+    base-pairs: 42383
+    percent-GC: 49.56704339003846
+  - name: JAMDHR010000018_18
+    base-pairs: 38711
+    percent-GC: 48.8336648497843
+  - name: JAMDHR010000019_19
+    base-pairs: 38350
+    percent-GC: 51.60886571056063
+  - name: JAMDHR010000020_20
+    base-pairs: 37853
+    percent-GC: 47.61841861939609
+  - name: JAMDHR010000021_21
+    base-pairs: 37070
+    percent-GC: 48.08470461289453
+  - name: JAMDHR010000022_22
+    base-pairs: 35303
+    percent-GC: 48.94484887969861
+  - name: JAMDHR010000023_23
+    base-pairs: 34832
+    percent-GC: 49.35117133670188
+  - name: JAMDHR010000024_24
+    base-pairs: 30824
+    percent-GC: 47.26187386452115
+  - name: JAMDHR010000025_25
+    base-pairs: 30654
+    percent-GC: 52.244405297840416
+  - name: JAMDHR010000026_26
+    base-pairs: 30602
+    percent-GC: 48.23214169008561
+  - name: JAMDHR010000027_27
+    base-pairs: 30470
+    percent-GC: 50.61371841155235
+  - name: JAMDHR010000028_28
+    base-pairs: 29786
+    percent-GC: 48.49258040690257
+  - name: JAMDHR010000029_29
+    base-pairs: 27784
+    percent-GC: 46.76792398502735
+  - name: JAMDHR010000030_30
+    base-pairs: 26607
+    percent-GC: 49.41932574134626
+  - name: JAMDHR010000031_31
+    base-pairs: 24663
+    percent-GC: 39.97080647123221
+  - name: JAMDHR010000032_32
+    base-pairs: 23978
+    percent-GC: 49.14504962882643
+  - name: JAMDHR010000033_33
+    base-pairs: 23003
+    percent-GC: 48.471938442811805
+  - name: JAMDHR010000034_34
+    base-pairs: 22723
+    percent-GC: 47.96461734806144
+  - name: JAMDHR010000035_35
+    base-pairs: 22204
+    percent-GC: 51.35561160151324
+  - name: JAMDHR010000036_36
+    base-pairs: 21393
+    percent-GC: 53.36792408731828
+  - name: JAMDHR010000037_37
+    base-pairs: 20855
+    percent-GC: 52.40949412610885
+  - name: JAMDHR010000038_38
+    base-pairs: 20580
+    percent-GC: 47.905733722060255
+  - name: JAMDHR010000039_39
+    base-pairs: 18769
+    percent-GC: 52.25638020139592
+  - name: JAMDHR010000040_40
+    base-pairs: 18218
+    percent-GC: 51.899220551103305
+  - name: JAMDHR010000041_41
+    base-pairs: 18174
+    percent-GC: 53.82964674810168
+  - name: JAMDHR010000042_42
+    base-pairs: 17179
+    percent-GC: 50.055300075673784
+  - name: JAMDHR010000043_43
+    base-pairs: 16485
+    percent-GC: 49.590536851683346
+  - name: JAMDHR010000044_44
+    base-pairs: 16074
+    percent-GC: 50.65322881672266
+  - name: JAMDHR010000045_45
+    base-pairs: 15907
+    percent-GC: 46.82215376878104
+  - name: JAMDHR010000046_46
+    base-pairs: 13726
+    percent-GC: 45.861867987760455
+  - name: JAMDHR010000047_47
+    base-pairs: 13635
+    percent-GC: 50.85441877521085
+  - name: JAMDHR010000048_48
+    base-pairs: 12989
+    percent-GC: 51.089383324351374
+  - name: JAMDHR010000049_49
+    base-pairs: 12524
+    percent-GC: 46.53465346534654
+  - name: JAMDHR010000050_50
+    base-pairs: 12459
+    percent-GC: 48.719800947106506
+  - name: JAMDHR010000051_51
+    base-pairs: 11174
+    percent-GC: 39.33237873635225
+  - name: JAMDHR010000052_52
+    base-pairs: 10985
+    percent-GC: 48.30223031406463
+  - name: JAMDHR010000053_53
+    base-pairs: 10570
+    percent-GC: 44.0964995269631
+  - name: JAMDHR010000054_54
+    base-pairs: 10370
+    percent-GC: 48.100289296046284
+  - name: JAMDHR010000055_55
+    base-pairs: 10254
+    percent-GC: 50.30232104544568
+  - name: JAMDHR010000056_56
+    base-pairs: 9147
+    percent-GC: 46.9990160708429
+  - name: JAMDHR010000057_57
+    base-pairs: 8559
+    percent-GC: 49.90068933286599
+  - name: JAMDHR010000058_58
+    base-pairs: 8089
+    percent-GC: 48.9924588947954
+  - name: JAMDHR010000059_59
+    base-pairs: 8084
+    percent-GC: 50.12370113805047
+  - name: JAMDHR010000060_60
+    base-pairs: 7577
+    percent-GC: 50.05939025999736
+  - name: JAMDHR010000061_61
+    base-pairs: 7278
+    percent-GC: 53.21516900247321
+  - name: JAMDHR010000062_62
+    base-pairs: 7096
+    percent-GC: 47.01240135287486
+  - name: JAMDHR010000063_63
+    base-pairs: 6433
+    percent-GC: 49.91450334214208
+  - name: JAMDHR010000064_64
+    base-pairs: 6348
+    percent-GC: 49.52741020793951
+  - name: JAMDHR010000065_65
+    base-pairs: 5935
+    percent-GC: 45.18955349620893
+  - name: JAMDHR010000066_66
+    base-pairs: 5185
+    percent-GC: 49.87463837994214
+  - name: JAMDHR010000067_67
+    base-pairs: 4814
+    percent-GC: 49.958454507685914
+  - name: JAMDHR010000068_68
+    base-pairs: 4529
+    percent-GC: 46.21329211746522
+  - name: JAMDHR010000069_69
+    base-pairs: 4088
+    percent-GC: 46.96673189823875
+  - name: JAMDHR010000070_70
+    base-pairs: 3884
+    percent-GC: 51.210092687950564
+  - name: JAMDHR010000071_71
+    base-pairs: 3622
+    percent-GC: 50.49696300386527
+  - name: JAMDHR010000072_72
+    base-pairs: 2644
+    percent-GC: 46.78517397881997
+  - name: JAMDHR010000073_73
+    base-pairs: 2220
+    percent-GC: 34.63963963963964
+  - name: JAMDHR010000074_74
+    base-pairs: 1867
+    percent-GC: 37.76111408677022
+  - name: JAMDHR010000075_75
+    base-pairs: 1814
+    percent-GC: 46.30650496141124
+  - name: JAMDHR010000076_76
+    base-pairs: 1710
+    percent-GC: 53.567251461988306
+  - name: JAMDHR010000077_77
+    base-pairs: 1670
+    percent-GC: 56.946107784431135
+  - name: JAMDHR010000078_78
+    base-pairs: 1545
+    percent-GC: 57.54045307443366
+  - name: JAMDHR010000079_79
+    base-pairs: 1353
+    percent-GC: 52.919438285291946
+  - name: JAMDHR010000080_80
+    base-pairs: 1311
+    percent-GC: 57.971014492753625
+  - name: JAMDHR010000081_81
+    base-pairs: 1248
+    percent-GC: 45.032051282051285
+  - name: JAMDHR010000082_82
+    base-pairs: 1243
+    percent-GC: 33.467417538214
+  - name: JAMDHR010000083_83
+    base-pairs: 887
+    percent-GC: 47.12514092446449
+  - name: JAMDHR010000084_84
+    base-pairs: 703
+    percent-GC: 49.502133712660026
+  - name: JAMDHR010000085_85
+    base-pairs: 555
+    percent-GC: 55.4954954954955
+  total:
+    base-pairs: 2265546
+    percent-GC: 49.11262009246336
+- name: refGenbank0
+  parts:
+  - name: JAGEOO010000001_1
+    base-pairs: 52619
+    percent-GC: 48.71434272791197
+  - name: JAGEOO010000002_2
+    base-pairs: 14922
+    percent-GC: 43.44591877764375
+  - name: JAGEOO010000003_3
+    base-pairs: 2321053
+    percent-GC: 48.784711077256745
+  - name: JAGEOO010000004_4
+    base-pairs: 19125
+    percent-GC: 48.38169934640523
+  - name: JAGEOO010000005_5
+    base-pairs: 12466
+    percent-GC: 48.154981549815496
+  total:
+    base-pairs: 2420185
+    percent-GC: 48.74383569851065
+- name: refGenbank1
+  parts:
+  - name: DBKJQO010000001_1
+    base-pairs: 465028
+    percent-GC: 49.97785079608109
+  - name: DBKJQO010000002_2
+    base-pairs: 322107
+    percent-GC: 48.295131741936686
+  - name: DBKJQO010000003_3
+    base-pairs: 281637
+    percent-GC: 48.86005744983791
+  - name: DBKJQO010000004_4
+    base-pairs: 182215
+    percent-GC: 48.95315972889169
+  - name: DBKJQO010000005_5
+    base-pairs: 170685
+    percent-GC: 50.374080909277325
+  - name: DBKJQO010000006_6
+    base-pairs: 147459
+    percent-GC: 47.841772967401106
+  - name: DBKJQO010000007_7
+    base-pairs: 140200
+    percent-GC: 48.04636233951498
+  - name: DBKJQO010000008_8
+    base-pairs: 89892
+    percent-GC: 50.0400480576692
+  - name: DBKJQO010000009_9
+    base-pairs: 85699
+    percent-GC: 49.197773602959195
+  - name: DBKJQO010000010_10
+    base-pairs: 79927
+    percent-GC: 48.736972487394745
+  - name: DBKJQO010000011_11
+    base-pairs: 71518
+    percent-GC: 48.88140048659079
+  - name: DBKJQO010000012_12
+    base-pairs: 40880
+    percent-GC: 48.715753424657535
+  - name: DBKJQO010000013_13
+    base-pairs: 37414
+    percent-GC: 48.63687389747153
+  - name: DBKJQO010000014_14
+    base-pairs: 28119
+    percent-GC: 50.8588498879761
+  - name: DBKJQO010000015_15
+    base-pairs: 24248
+    percent-GC: 49.27416694160343
+  - name: DBKJQO010000016_16
+    base-pairs: 20185
+    percent-GC: 53.60911567996037
+  - name: DBKJQO010000017_17
+    base-pairs: 15609
+    percent-GC: 45.7428406688449
+  - name: DBKJQO010000018_18
+    base-pairs: 14830
+    percent-GC: 48.67161159811194
+  - name: DBKJQO010000019_19
+    base-pairs: 11309
+    percent-GC: 47.192501547440095
+  - name: DBKJQO010000020_20
+    base-pairs: 11023
+    percent-GC: 40.6060056246031
+  - name: DBKJQO010000021_21
+    base-pairs: 9534
+    percent-GC: 39.4482903293476
+  - name: DBKJQO010000022_22
+    base-pairs: 9275
+    percent-GC: 46.65229110512129
+  - name: DBKJQO010000023_23
+    base-pairs: 7190
+    percent-GC: 51.307371349095966
+  - name: DBKJQO010000024_24
+    base-pairs: 6956
+    percent-GC: 50.05750431282346
+  - name: DBKJQO010000025_25
+    base-pairs: 6214
+    percent-GC: 43.64338590280013
+  - name: DBKJQO010000026_26
+    base-pairs: 6161
+    percent-GC: 49.78087972731699
+  - name: DBKJQO010000027_27
+    base-pairs: 4424
+    percent-GC: 42.31464737793852
+  - name: DBKJQO010000028_28
+    base-pairs: 4370
+    percent-GC: 43.82151029748284
+  - name: DBKJQO010000029_29
+    base-pairs: 4070
+    percent-GC: 45.28255528255528
+  - name: DBKJQO010000030_30
+    base-pairs: 3405
+    percent-GC: 46.989720998531574
+  - name: DBKJQO010000031_31
+    base-pairs: 3258
+    percent-GC: 34.806629834254146
+  - name: DBKJQO010000032_32
+    base-pairs: 3196
+    percent-GC: 45.65081351689612
+  - name: DBKJQO010000033_33
+    base-pairs: 2912
+    percent-GC: 43.40659340659341
+  - name: DBKJQO010000034_34
+    base-pairs: 2565
+    percent-GC: 40.11695906432749
+  - name: DBKJQO010000035_35
+    base-pairs: 1883
+    percent-GC: 44.184811471056825
+  - name: DBKJQO010000036_36
+    base-pairs: 1590
+    percent-GC: 42.704402515723274
+  - name: DBKJQO010000037_37
+    base-pairs: 1421
+    percent-GC: 47.57213230119634
+  - name: DBKJQO010000038_38
+    base-pairs: 1144
+    percent-GC: 48.86363636363637
+  - name: DBKJQO010000039_39
+    base-pairs: 882
+    percent-GC: 42.51700680272109
+  - name: DBKJQO010000040_40
+    base-pairs: 792
+    percent-GC: 56.313131313131315
+  - name: DBKJQO010000041_41
+    base-pairs: 689
+    percent-GC: 57.32946298984035
+  - name: DBKJQO010000042_42
+    base-pairs: 571
+    percent-GC: 50.78809106830123
+  - name: DBKJQO010000043_43
+    base-pairs: 506
+    percent-GC: 48.41897233201581
+  - name: DBKJQO010000044_44
+    base-pairs: 428
+    percent-GC: 61.91588785046729
+  - name: DBKJQO010000045_45
+    base-pairs: 408
+    percent-GC: 58.57843137254902
+  - name: DBKJQO010000046_46
+    base-pairs: 397
+    percent-GC: 48.11083123425693
+  - name: DBKJQO010000047_47
+    base-pairs: 396
+    percent-GC: 57.07070707070707
+  - name: DBKJQO010000048_48
+    base-pairs: 390
+    percent-GC: 54.35897435897436
+  - name: DBKJQO010000049_49
+    base-pairs: 357
+    percent-GC: 56.582633053221286
+  - name: DBKJQO010000050_50
+    base-pairs: 353
+    percent-GC: 49.858356940509914
+  - name: DBKJQO010000051_51
+    base-pairs: 339
+    percent-GC: 55.1622418879056
+  - name: DBKJQO010000052_52
+    base-pairs: 296
+    percent-GC: 54.054054054054056
+  - name: DBKJQO010000053_53
+    base-pairs: 261
+    percent-GC: 48.275862068965516
+  total:
+    base-pairs: 2326617
+    percent-GC: 48.94295021483983
+- name: refGenbank2
+  parts:
+  - name: JBQLII010000001_1
+    base-pairs: 675891
+    percent-GC: 48.79751320849072
+  - name: JBQLII010000002_2
+    base-pairs: 464062
+    percent-GC: 50.184458111200655
+  - name: JBQLII010000003_3
+    base-pairs: 332109
+    percent-GC: 48.23446519064524
+  - name: JBQLII010000004_4
+    base-pairs: 221559
+    percent-GC: 50.69665416435351
+  - name: JBQLII010000005_5
+    base-pairs: 150569
+    percent-GC: 47.6465939203953
+  - name: JBQLII010000006_6
+    base-pairs: 139917
+    percent-GC: 48.70101560210696
+  - name: JBQLII010000007_7
+    base-pairs: 126183
+    percent-GC: 49.0105640220949
+  - name: JBQLII010000008_8
+    base-pairs: 81491
+    percent-GC: 48.79802677596299
+  - name: JBQLII010000009_9
+    base-pairs: 46126
+    percent-GC: 45.5599878593418
+  - name: JBQLII010000010_10
+    base-pairs: 36039
+    percent-GC: 48.09511917644774
+  - name: JBQLII010000011_11
+    base-pairs: 31660
+    percent-GC: 45.46746683512318
+  - name: JBQLII010000012_12
+    base-pairs: 7078
+    percent-GC: 42.51200904210229
+  - name: JBQLII010000013_13
+    base-pairs: 6204
+    percent-GC: 49.822695035460995
+  - name: JBQLII010000014_14
+    base-pairs: 5142
+    percent-GC: 44.51575262543757
+  - name: JBQLII010000015_15
+    base-pairs: 4474
+    percent-GC: 45.797943674564145
+  - name: JBQLII010000016_16
+    base-pairs: 4183
+    percent-GC: 49.19913937365527
+  - name: JBQLII010000017_17
+    base-pairs: 2661
+    percent-GC: 48.47801578354002
+  - name: JBQLII010000018_18
+    base-pairs: 2211
+    percent-GC: 44.59520578923564
+  - name: JBQLII010000019_19
+    base-pairs: 1458
+    percent-GC: 40.1920438957476
+  - name: JBQLII010000020_20
+    base-pairs: 660
+    percent-GC: 59.24242424242424
+  - name: JBQLII010000021_21
+    base-pairs: 573
+    percent-GC: 57.417102966841185
+  - name: JBQLII010000022_22
+    base-pairs: 453
+    percent-GC: 56.95364238410596
+  - name: JBQLII010000023_23
+    base-pairs: 405
+    percent-GC: 52.098765432098766
+  - name: JBQLII010000024_24
+    base-pairs: 364
+    percent-GC: 55.21978021978022
+  - name: JBQLII010000025_25
+    base-pairs: 345
+    percent-GC: 57.391304347826086
+  - name: JBQLII010000026_26
+    base-pairs: 345
+    percent-GC: 55.65217391304348
+  - name: JBQLII010000027_27
+    base-pairs: 335
+    percent-GC: 54.92537313432836
+  - name: JBQLII010000028_28
+    base-pairs: 335
+    percent-GC: 52.53731343283582
+  - name: JBQLII010000029_29
+    base-pairs: 329
+    percent-GC: 55.92705167173252
+  - name: JBQLII010000030_30
+    base-pairs: 290
+    percent-GC: 57.241379310344826
+  - name: JBQLII010000031_31
+    base-pairs: 289
+    percent-GC: 56.40138408304498
+  - name: JBQLII010000032_32
+    base-pairs: 280
+    percent-GC: 62.142857142857146
+  - name: JBQLII010000033_33
+    base-pairs: 276
+    percent-GC: 55.79710144927536
+  - name: JBQLII010000034_34
+    base-pairs: 275
+    percent-GC: 52.36363636363637
+  - name: JBQLII010000035_35
+    base-pairs: 274
+    percent-GC: 38.32116788321168
+  - name: JBQLII010000036_36
+    base-pairs: 262
+    percent-GC: 49.61832061068702
+  - name: JBQLII010000037_37
+    base-pairs: 258
+    percent-GC: 58.52713178294574
+  - name: JBQLII010000038_38
+    base-pairs: 258
+    percent-GC: 58.13953488372093
+  - name: JBQLII010000039_39
+    base-pairs: 255
+    percent-GC: 53.333333333333336
+  - name: JBQLII010000040_40
+    base-pairs: 255
+    percent-GC: 36.470588235294116
+  - name: JBQLII010000041_41
+    base-pairs: 255
+    percent-GC: 36.07843137254902
+  - name: JBQLII010000042_42
+    base-pairs: 255
+    percent-GC: 57.64705882352941
+  - name: JBQLII010000043_43
+    base-pairs: 255
+    percent-GC: 61.96078431372549
+  - name: JBQLII010000044_44
+    base-pairs: 253
+    percent-GC: 54.54545454545455
+  - name: JBQLII010000045_45
+    base-pairs: 251
+    percent-GC: 45.418326693227094
+  - name: JBQLII010000046_46
+    base-pairs: 249
+    percent-GC: 57.429718875502004
+  - name: JBQLII010000047_47
+    base-pairs: 233
+    percent-GC: 55.36480686695279
+  - name: JBQLII010000048_48
+    base-pairs: 201
+    percent-GC: 59.701492537313435
+  - name: JBQLII010000049_49
+    base-pairs: 201
+    percent-GC: 55.223880597014926
+  - name: JBQLII010000050_50
+    base-pairs: 201
+    percent-GC: 58.208955223880594
+  - name: JBQLII010000051_51
+    base-pairs: 201
+    percent-GC: 59.701492537313435
+  - name: JBQLII010000052_52
+    base-pairs: 200
+    percent-GC: 60.0
+  total:
+    base-pairs: 2348888
+    percent-GC: 48.96827775526121
+- name: refGenbank3
+  parts:
+  - name: CP073119_1
+    base-pairs: 2277784
+    percent-GC: 48.97286134242755
+  total:
+    base-pairs: 2277784
+    percent-GC: 48.97286134242755
+- name: refGenbank4
+  parts:
+  - name: CP073117_1
+    base-pairs: 2213981
+    percent-GC: 49.03375412887464
+  total:
+    base-pairs: 2213981
+    percent-GC: 49.03375412887464
+- name: refGenbank5
+  parts:
+  - name: DBKJQH010000001_1
+    base-pairs: 247935
+    percent-GC: 50.07844798031742
+  - name: DBKJQH010000002_2
+    base-pairs: 196342
+    percent-GC: 47.974962056004316
+  - name: DBKJQH010000003_3
+    base-pairs: 161491
+    percent-GC: 50.794161903759345
+  - name: DBKJQH010000004_4
+    base-pairs: 154561
+    percent-GC: 48.75162557178072
+  - name: DBKJQH010000005_5
+    base-pairs: 139971
+    percent-GC: 48.97371598402526
+  - name: DBKJQH010000006_6
+    base-pairs: 130694
+    percent-GC: 49.48888242765544
+  - name: DBKJQH010000007_7
+    base-pairs: 121818
+    percent-GC: 49.24313319870627
+  - name: DBKJQH010000008_8
+    base-pairs: 116675
+    percent-GC: 48.85793871866295
+  - name: DBKJQH010000009_9
+    base-pairs: 108085
+    percent-GC: 48.6996345468844
+  - name: DBKJQH010000010_10
+    base-pairs: 98121
+    percent-GC: 49.648902885213154
+  - name: DBKJQH010000011_11
+    base-pairs: 90218
+    percent-GC: 47.74324414196723
+  - name: DBKJQH010000012_12
+    base-pairs: 86780
+    percent-GC: 48.755473611431206
+  - name: DBKJQH010000013_13
+    base-pairs: 85339
+    percent-GC: 50.5442997925919
+  - name: DBKJQH010000014_14
+    base-pairs: 75551
+    percent-GC: 47.2607907241466
+  - name: DBKJQH010000015_15
+    base-pairs: 62250
+    percent-GC: 49.66746987951807
+  - name: DBKJQH010000016_16
+    base-pairs: 58792
+    percent-GC: 49.231187916723364
+  - name: DBKJQH010000017_17
+    base-pairs: 52079
+    percent-GC: 44.83957065227827
+  - name: DBKJQH010000018_18
+    base-pairs: 50749
+    percent-GC: 46.93491497369406
+  - name: DBKJQH010000019_19
+    base-pairs: 43230
+    percent-GC: 48.11704834605598
+  - name: DBKJQH010000020_20
+    base-pairs: 34400
+    percent-GC: 48.7906976744186
+  - name: DBKJQH010000021_21
+    base-pairs: 32136
+    percent-GC: 48.6899427433408
+  - name: DBKJQH010000022_22
+    base-pairs: 25103
+    percent-GC: 49.508026929052306
+  - name: DBKJQH010000023_23
+    base-pairs: 20612
+    percent-GC: 42.78575587036678
+  - name: DBKJQH010000024_24
+    base-pairs: 18325
+    percent-GC: 47.481582537517056
+  - name: DBKJQH010000025_25
+    base-pairs: 17807
+    percent-GC: 48.306845622508
+  - name: DBKJQH010000026_26
+    base-pairs: 17698
+    percent-GC: 47.9997739857611
+  - name: DBKJQH010000027_27
+    base-pairs: 16894
+    percent-GC: 45.5191192139221
+  - name: DBKJQH010000028_28
+    base-pairs: 15461
+    percent-GC: 44.91300692063903
+  - name: DBKJQH010000029_29
+    base-pairs: 15294
+    percent-GC: 41.87916830129463
+  - name: DBKJQH010000030_30
+    base-pairs: 10169
+    percent-GC: 47.615301406234636
+  - name: DBKJQH010000031_31
+    base-pairs: 9273
+    percent-GC: 40.24587512131996
+  - name: DBKJQH010000032_32
+    base-pairs: 8948
+    percent-GC: 51.06168976307555
+  - name: DBKJQH010000033_33
+    base-pairs: 8274
+    percent-GC: 40.79042784626541
+  - name: DBKJQH010000034_34
+    base-pairs: 7631
+    percent-GC: 41.54108242694274
+  - name: DBKJQH010000035_35
+    base-pairs: 7028
+    percent-GC: 50.49800796812749
+  - name: DBKJQH010000036_36
+    base-pairs: 6422
+    percent-GC: 42.868265337900965
+  - name: DBKJQH010000037_37
+    base-pairs: 6420
+    percent-GC: 43.64485981308411
+  - name: DBKJQH010000038_38
+    base-pairs: 6320
+    percent-GC: 46.66139240506329
+  - name: DBKJQH010000039_39
+    base-pairs: 6148
+    percent-GC: 49.78854912166558
+  - name: DBKJQH010000040_40
+    base-pairs: 4708
+    percent-GC: 44.668649107901444
+  - name: DBKJQH010000041_41
+    base-pairs: 4062
+    percent-GC: 44.04234367306746
+  - name: DBKJQH010000042_42
+    base-pairs: 3687
+    percent-GC: 43.85679414157852
+  - name: DBKJQH010000043_43
+    base-pairs: 3087
+    percent-GC: 31.843213475866538
+  - name: DBKJQH010000044_44
+    base-pairs: 2805
+    percent-GC: 42.21033868092692
+  - name: DBKJQH010000045_45
+    base-pairs: 1521
+    percent-GC: 46.67981591058514
+  - name: DBKJQH010000046_46
+    base-pairs: 1483
+    percent-GC: 46.39244774106541
+  - name: DBKJQH010000047_47
+    base-pairs: 1325
+    percent-GC: 48.60377358490566
+  - name: DBKJQH010000048_48
+    base-pairs: 1207
+    percent-GC: 48.715824357912176
+  - name: DBKJQH010000049_49
+    base-pairs: 1192
+    percent-GC: 35.151006711409394
+  - name: DBKJQH010000050_50
+    base-pairs: 603
+    percent-GC: 53.73134328358209
+  - name: DBKJQH010000051_51
+    base-pairs: 564
+    percent-GC: 51.41843971631206
+  - name: DBKJQH010000052_52
+    base-pairs: 356
+    percent-GC: 44.38202247191011
+  - name: DBKJQH010000053_53
+    base-pairs: 334
+    percent-GC: 52.395209580838326
+  total:
+    base-pairs: 2397978
+    percent-GC: 48.63910344465212
+- name: refGenbank6
+  parts:
+  - name: LTIL01000001_1
+    base-pairs: 4039
+    percent-GC: 41.91631591978212
+  - name: LTIL01000002_2
+    base-pairs: 1401
+    percent-GC: 30.406852248394003
+  - name: LTIL01000003_3
+    base-pairs: 90811
+    percent-GC: 49.51272422944357
+  - name: LTIL01000004_4
+    base-pairs: 409
+    percent-GC: 36.43031784841076
+  - name: LTIL01000005_5
+    base-pairs: 523
+    percent-GC: 34.41682600382409
+  - name: LTIL01000006_6
+    base-pairs: 834
+    percent-GC: 40.52757793764988
+  - name: LTIL01000007_7
+    base-pairs: 727
+    percent-GC: 41.81568088033012
+  - name: LTIL01000008_8
+    base-pairs: 13752
+    percent-GC: 47.891215823153
+  - name: LTIL01000009_9
+    base-pairs: 307
+    percent-GC: 46.579804560260584
+  - name: LTIL01000010_10
+    base-pairs: 43704
+    percent-GC: 48.86738056013179
+  - name: LTIL01000011_11
+    base-pairs: 79100
+    percent-GC: 48.97597977243995
+  - name: LTIL01000012_12
+    base-pairs: 394
+    percent-GC: 44.923857868020306
+  - name: LTIL01000013_13
+    base-pairs: 7198
+    percent-GC: 46.610169491525426
+  - name: LTIL01000014_14
+    base-pairs: 1812
+    percent-GC: 41.22516556291391
+  - name: LTIL01000015_15
+    base-pairs: 5397
+    percent-GC: 45.636464702612564
+  - name: LTIL01000016_16
+    base-pairs: 991
+    percent-GC: 37.33602421796166
+  - name: LTIL01000017_17
+    base-pairs: 207
+    percent-GC: 37.19806763285024
+  - name: LTIL01000018_18
+    base-pairs: 21059
+    percent-GC: 47.70406951897051
+  - name: LTIL01000019_19
+    base-pairs: 611
+    percent-GC: 40.09819967266776
+  - name: LTIL01000020_20
+    base-pairs: 1381
+    percent-GC: 38.015930485155685
+  - name: LTIL01000021_21
+    base-pairs: 2965
+    percent-GC: 39.6964586846543
+  - name: LTIL01000022_22
+    base-pairs: 6058
+    percent-GC: 51.89831627599868
+  - name: LTIL01000023_23
+    base-pairs: 3425
+    percent-GC: 43.386861313868614
+  - name: LTIL01000024_24
+    base-pairs: 236
+    percent-GC: 49.152542372881356
+  - name: LTIL01000025_25
+    base-pairs: 11359
+    percent-GC: 47.275288317633596
+  - name: LTIL01000026_26
+    base-pairs: 964
+    percent-GC: 49.170124481327804
+  - name: LTIL01000027_27
+    base-pairs: 41667
+    percent-GC: 48.270813833489335
+  - name: LTIL01000028_28
+    base-pairs: 238
+    percent-GC: 47.05882352941177
+  - name: LTIL01000029_29
+    base-pairs: 237
+    percent-GC: 45.9915611814346
+  - name: LTIL01000030_30
+    base-pairs: 5265
+    percent-GC: 50.161443494776826
+  - name: LTIL01000031_31
+    base-pairs: 99340
+    percent-GC: 48.13166901550232
+  - name: LTIL01000032_32
+    base-pairs: 322
+    percent-GC: 45.962732919254655
+  - name: LTIL01000033_33
+    base-pairs: 41646
+    percent-GC: 49.07314027757768
+  - name: LTIL01000034_34
+    base-pairs: 239
+    percent-GC: 54.81171548117155
+  - name: LTIL01000035_35
+    base-pairs: 2258
+    percent-GC: 42.78122232063773
+  - name: LTIL01000036_36
+    base-pairs: 610
+    percent-GC: 40.32786885245902
+  - name: LTIL01000037_37
+    base-pairs: 234
+    percent-GC: 47.43589743589744
+  - name: LTIL01000038_38
+    base-pairs: 563
+    percent-GC: 40.14209591474245
+  - name: LTIL01000039_39
+    base-pairs: 17718
+    percent-GC: 54.44181058810249
+  - name: LTIL01000040_40
+    base-pairs: 1205
+    percent-GC: 45.975103734439834
+  - name: LTIL01000041_41
+    base-pairs: 265
+    percent-GC: 44.905660377358494
+  - name: LTIL01000042_42
+    base-pairs: 22187
+    percent-GC: 49.49294631991707
+  - name: LTIL01000043_43
+    base-pairs: 1581
+    percent-GC: 32.38456672991777
+  - name: LTIL01000044_44
+    base-pairs: 767
+    percent-GC: 41.85136897001304
+  - name: LTIL01000045_45
+    base-pairs: 33974
+    percent-GC: 49.66739271207394
+  - name: LTIL01000046_46
+    base-pairs: 10499
+    percent-GC: 47.35689113248881
+  - name: LTIL01000047_47
+    base-pairs: 379
+    percent-GC: 50.92348284960422
+  - name: LTIL01000048_48
+    base-pairs: 18489
+    percent-GC: 46.898155660122235
+  - name: LTIL01000049_49
+    base-pairs: 1451
+    percent-GC: 43.0737422467264
+  - name: LTIL01000050_50
+    base-pairs: 1222
+    percent-GC: 37.234042553191486
+  - name: LTIL01000051_51
+    base-pairs: 9337
+    percent-GC: 46.706650958552
+  - name: LTIL01000052_52
+    base-pairs: 46501
+    percent-GC: 49.351626846734476
+  - name: LTIL01000053_53
+    base-pairs: 89765
+    percent-GC: 50.44616498635325
+  - name: LTIL01000054_54
+    base-pairs: 20531
+    percent-GC: 53.76747357654279
+  - name: LTIL01000055_55
+    base-pairs: 29066
+    percent-GC: 49.332553498933464
+  - name: LTIL01000056_56
+    base-pairs: 858
+    percent-GC: 49.53379953379953
+  - name: LTIL01000057_57
+    base-pairs: 362
+    percent-GC: 47.51381215469613
+  - name: LTIL01000058_58
+    base-pairs: 16009
+    percent-GC: 45.9991254919108
+  - name: LTIL01000059_59
+    base-pairs: 1307
+    percent-GC: 36.64881407804132
+  - name: LTIL01000060_60
+    base-pairs: 280
+    percent-GC: 45.357142857142854
+  - name: LTIL01000061_61
+    base-pairs: 788
+    percent-GC: 45.30456852791878
+  - name: LTIL01000062_62
+    base-pairs: 65377
+    percent-GC: 48.22491090138734
+  - name: LTIL01000063_63
+    base-pairs: 423
+    percent-GC: 53.427895981087474
+  - name: LTIL01000064_64
+    base-pairs: 284
+    percent-GC: 46.478873239436616
+  - name: LTIL01000065_65
+    base-pairs: 4758
+    percent-GC: 46.32198402690206
+  - name: LTIL01000066_66
+    base-pairs: 87733
+    percent-GC: 46.41810949129746
+  - name: LTIL01000067_67
+    base-pairs: 33701
+    percent-GC: 48.24485920299101
+  - name: LTIL01000068_68
+    base-pairs: 228
+    percent-GC: 37.280701754385966
+  - name: LTIL01000069_69
+    base-pairs: 424
+    percent-GC: 53.301886792452834
+  - name: LTIL01000070_70
+    base-pairs: 13415
+    percent-GC: 50.570257174804325
+  - name: LTIL01000071_71
+    base-pairs: 46623
+    percent-GC: 47.14411342041482
+  - name: LTIL01000072_72
+    base-pairs: 674
+    percent-GC: 36.646884272997035
+  - name: LTIL01000073_73
+    base-pairs: 227
+    percent-GC: 39.20704845814978
+  - name: LTIL01000074_74
+    base-pairs: 352
+    percent-GC: 56.25
+  - name: LTIL01000075_75
+    base-pairs: 365
+    percent-GC: 36.986301369863014
+  - name: LTIL01000076_76
+    base-pairs: 214
+    percent-GC: 56.54205607476636
+  - name: LTIL01000077_77
+    base-pairs: 200
+    percent-GC: 53.5
+  - name: LTIL01000078_78
+    base-pairs: 2854
+    percent-GC: 37.070777855641204
+  - name: LTIL01000079_79
+    base-pairs: 224
+    percent-GC: 36.607142857142854
+  - name: LTIL01000080_80
+    base-pairs: 534
+    percent-GC: 48.68913857677903
+  - name: LTIL01000081_81
+    base-pairs: 17650
+    percent-GC: 48.20963172804532
+  - name: LTIL01000082_82
+    base-pairs: 3930
+    percent-GC: 49.21119592875318
+  - name: LTIL01000083_83
+    base-pairs: 17685
+    percent-GC: 50.90754877014419
+  - name: LTIL01000084_84
+    base-pairs: 46675
+    percent-GC: 48.40707016604178
+  - name: LTIL01000085_85
+    base-pairs: 45033
+    percent-GC: 48.66431283725268
+  - name: LTIL01000086_86
+    base-pairs: 309
+    percent-GC: 49.19093851132686
+  - name: LTIL01000087_87
+    base-pairs: 64150
+    percent-GC: 48.64848012470772
+  - name: LTIL01000088_88
+    base-pairs: 583
+    percent-GC: 45.283018867924525
+  - name: LTIL01000089_89
+    base-pairs: 109435
+    percent-GC: 50.54964133960799
+  - name: LTIL01000090_90
+    base-pairs: 7400
+    percent-GC: 52.66216216216216
+  - name: LTIL01000091_91
+    base-pairs: 32640
+    percent-GC: 48.318014705882355
+  - name: LTIL01000092_92
+    base-pairs: 4314
+    percent-GC: 47.68196569309226
+  - name: LTIL01000093_93
+    base-pairs: 520
+    percent-GC: 36.92307692307692
+  - name: LTIL01000094_94
+    base-pairs: 336
+    percent-GC: 56.54761904761905
+  - name: LTIL01000095_95
+    base-pairs: 414
+    percent-GC: 52.65700483091788
+  - name: LTIL01000096_96
+    base-pairs: 375
+    percent-GC: 38.93333333333333
+  - name: LTIL01000097_97
+    base-pairs: 204
+    percent-GC: 51.96078431372549
+  - name: LTIL01000098_98
+    base-pairs: 251
+    percent-GC: 55.776892430278885
+  - name: LTIL01000099_99
+    base-pairs: 457
+    percent-GC: 57.98687089715536
+  - name: LTIL01000100_100
+    base-pairs: 59996
+    percent-GC: 47.059803986932465
+  - name: LTIL01000101_101
+    base-pairs: 1621
+    percent-GC: 46.88463911165947
+  - name: LTIL01000102_102
+    base-pairs: 233
+    percent-GC: 45.92274678111588
+  - name: LTIL01000103_103
+    base-pairs: 319
+    percent-GC: 48.275862068965516
+  - name: LTIL01000104_104
+    base-pairs: 242
+    percent-GC: 46.28099173553719
+  - name: LTIL01000105_105
+    base-pairs: 311
+    percent-GC: 47.266881028938904
+  - name: LTIL01000106_106
+    base-pairs: 375
+    percent-GC: 53.333333333333336
+  - name: LTIL01000107_107
+    base-pairs: 4334
+    percent-GC: 34.47161975080757
+  - name: LTIL01000108_108
+    base-pairs: 29859
+    percent-GC: 51.96423188988245
+  - name: LTIL01000109_109
+    base-pairs: 109783
+    percent-GC: 49.35099241230427
+  - name: LTIL01000110_110
+    base-pairs: 225
+    percent-GC: 61.333333333333336
+  - name: LTIL01000111_111
+    base-pairs: 52003
+    percent-GC: 49.762513701132626
+  - name: LTIL01000112_112
+    base-pairs: 206
+    percent-GC: 46.116504854368934
+  - name: LTIL01000113_113
+    base-pairs: 6148
+    percent-GC: 49.902407286922575
+  - name: LTIL01000114_114
+    base-pairs: 1318
+    percent-GC: 41.57814871016692
+  - name: LTIL01000115_115
+    base-pairs: 222
+    percent-GC: 54.95495495495496
+  - name: LTIL01000116_116
+    base-pairs: 28073
+    percent-GC: 48.188651016991415
+  - name: LTIL01000117_117
+    base-pairs: 306
+    percent-GC: 51.96078431372549
+  - name: LTIL01000118_118
+    base-pairs: 84650
+    percent-GC: 50.08978145304194
+  - name: LTIL01000119_119
+    base-pairs: 421
+    percent-GC: 47.03087885985748
+  - name: LTIL01000120_120
+    base-pairs: 14580
+    percent-GC: 42.20164609053498
+  - name: LTIL01000121_121
+    base-pairs: 225
+    percent-GC: 41.77777777777778
+  - name: LTIL01000122_122
+    base-pairs: 224
+    percent-GC: 46.875
+  - name: LTIL01000123_123
+    base-pairs: 224
+    percent-GC: 45.535714285714285
+  - name: LTIL01000124_124
+    base-pairs: 23126
+    percent-GC: 47.210931419181875
+  - name: LTIL01000125_125
+    base-pairs: 2572
+    percent-GC: 48.60031104199067
+  - name: LTIL01000126_126
+    base-pairs: 3863
+    percent-GC: 41.49624644059021
+  - name: LTIL01000127_127
+    base-pairs: 37277
+    percent-GC: 49.4192129194946
+  - name: LTIL01000128_128
+    base-pairs: 64342
+    percent-GC: 49.20425227689534
+  - name: LTIL01000129_129
+    base-pairs: 1809
+    percent-GC: 50.63571033720287
+  - name: LTIL01000130_130
+    base-pairs: 251
+    percent-GC: 56.57370517928287
+  - name: LTIL01000131_131
+    base-pairs: 563
+    percent-GC: 39.96447602131439
+  - name: LTIL01000132_132
+    base-pairs: 1679
+    percent-GC: 50.923168552709946
+  - name: LTIL01000133_133
+    base-pairs: 395
+    percent-GC: 48.860759493670884
+  - name: LTIL01000134_134
+    base-pairs: 37094
+    percent-GC: 49.14271849894862
+  - name: LTIL01000135_135
+    base-pairs: 697
+    percent-GC: 35.58106169296987
+  - name: LTIL01000136_136
+    base-pairs: 306
+    percent-GC: 39.54248366013072
+  - name: LTIL01000137_137
+    base-pairs: 624
+    percent-GC: 54.967948717948715
+  - name: LTIL01000138_138
+    base-pairs: 41271
+    percent-GC: 49.213733614402365
+  - name: LTIL01000139_139
+    base-pairs: 60175
+    percent-GC: 48.4171167428334
+  - name: LTIL01000140_140
+    base-pairs: 5152
+    percent-GC: 47.34083850931677
+  - name: LTIL01000141_141
+    base-pairs: 933
+    percent-GC: 40.30010718113612
+  - name: LTIL01000142_142
+    base-pairs: 1242
+    percent-GC: 40.09661835748792
+  - name: LTIL01000143_143
+    base-pairs: 24512
+    percent-GC: 49.42885117493473
+  - name: LTIL01000144_144
+    base-pairs: 696
+    percent-GC: 36.63793103448276
+  - name: LTIL01000145_145
+    base-pairs: 348
+    percent-GC: 58.04597701149425
+  - name: LTIL01000146_146
+    base-pairs: 233
+    percent-GC: 60.94420600858369
+  - name: LTIL01000147_147
+    base-pairs: 14282
+    percent-GC: 44.77664192690099
+  - name: LTIL01000148_148
+    base-pairs: 9132
+    percent-GC: 45.8826106000876
+  - name: LTIL01000149_149
+    base-pairs: 228
+    percent-GC: 60.96491228070175
+  - name: LTIL01000150_150
+    base-pairs: 230
+    percent-GC: 57.82608695652174
+  - name: LTIL01000151_151
+    base-pairs: 299
+    percent-GC: 53.17725752508361
+  - name: LTIL01000152_152
+    base-pairs: 291
+    percent-GC: 60.48109965635739
+  - name: LTIL01000153_153
+    base-pairs: 433
+    percent-GC: 58.660508083140876
+  - name: LTIL01000154_154
+    base-pairs: 233
+    percent-GC: 56.223175965665234
+  - name: LTIL01000155_155
+    base-pairs: 494
+    percent-GC: 57.69230769230769
+  - name: LTIL01000156_156
+    base-pairs: 932
+    percent-GC: 51.716738197424895
+  - name: LTIL01000157_157
+    base-pairs: 361
+    percent-GC: 52.63157894736842
+  - name: LTIL01000158_158
+    base-pairs: 227
+    percent-GC: 51.10132158590309
+  - name: LTIL01000159_159
+    base-pairs: 29192
+    percent-GC: 48.49616333241984
+  - name: LTIL01000160_160
+    base-pairs: 235
+    percent-GC: 56.170212765957444
+  - name: LTIL01000161_161
+    base-pairs: 298
+    percent-GC: 50.33557046979866
+  - name: LTIL01000162_162
+    base-pairs: 224
+    percent-GC: 54.464285714285715
+  - name: LTIL01000163_163
+    base-pairs: 4059
+    percent-GC: 35.05789603350579
+  - name: LTIL01000164_164
+    base-pairs: 1122
+    percent-GC: 35.7397504456328
+  - name: LTIL01000165_165
+    base-pairs: 511
+    percent-GC: 36.007827788649706
+  - name: LTIL01000166_166
+    base-pairs: 704
+    percent-GC: 40.19886363636363
+  - name: LTIL01000167_167
+    base-pairs: 282
+    percent-GC: 40.42553191489362
+  - name: LTIL01000168_168
+    base-pairs: 82804
+    percent-GC: 49.154630211100915
+  - name: LTIL01000169_169
+    base-pairs: 300
+    percent-GC: 39.333333333333336
+  - name: LTIL01000170_170
+    base-pairs: 428
+    percent-GC: 32.71028037383178
+  - name: LTIL01000171_171
+    base-pairs: 42915
+    percent-GC: 48.00885471280438
+  - name: LTIL01000172_172
+    base-pairs: 372
+    percent-GC: 39.24731182795699
+  - name: LTIL01000173_173
+    base-pairs: 430
+    percent-GC: 33.48837209302326
+  total:
+    base-pairs: 2323871
+    percent-GC: 48.64327667069299
+- name: refGenbank7
+  parts:
+  - name: CP073116_1
+    base-pairs: 2409157
+    percent-GC: 49.03644718878844
+  total:
+    base-pairs: 2409157
+    percent-GC: 49.03644718878844

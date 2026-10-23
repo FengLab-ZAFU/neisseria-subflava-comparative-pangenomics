@@ -1,0 +1,6 @@
+set	n_clusters	n_sequence_provenance_verified	n_exact_sequence_mapped	n_GO	n_KO	n_pathway
+all13215	13215	13132	10403	2388	5712	2730
+eligible3165	3165	3161	2702	415	1170	461
+subflava	36	36	34	15	23	16
+perflava	26	26	25	12	17	12
+flavescens	119	119	108	14	51	25

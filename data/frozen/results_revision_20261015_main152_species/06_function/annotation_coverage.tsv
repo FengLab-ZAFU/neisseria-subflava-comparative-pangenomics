@@ -1,0 +1,5 @@
+level	total	annotated	matched_no_cog	matched_no_emapper_row	no_sequence_match	annotated_fraction	unannotated_fraction	note
+cluster	13215	9309	1094	2812	0	0.704427	0.295573	cluster-level COG = representative protein annotation (longest protein, ties by accession/gene_id)
+cds_copy	328376	292342	24669	11365	0	0.890266	0.109734	one row per PGAP2 occurrence (cluster x accession x gene_id)
+protein	127316	111970	9669	5677	0	0.879465	0.120535	unique normalized protein sequences present in the main152 dictionary
+genome	152	NA	NA	NA	NA	0.890465	0.109535	per-genome annotated copy fraction: mean reported here; min=0.856051; max=0.905181; per-genome rows in per_genome_annotation_coverage.tsv

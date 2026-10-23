@@ -1,0 +1,63 @@
+{
+  "sources": [
+    "manuscript\\Figures\\new\\Figure4_GO_KEGG_20261019\\reference_inputs\\pgap2_revision_primary.emapper.annotations",
+    "manuscript\\Figures\\new\\Figure4_GO_KEGG_20261019\\reference_inputs\\total.involved_prot.fa",
+    "results_revision_20261015_main152_species\\06_function\\supplement_emapper\\m5_supp.emapper.annotations"
+  ],
+  "historical_proteins_scanned": 609982,
+  "historical_exact_sequence_queries": 76136,
+  "old_annot_rows": 69024,
+  "old_annotation_queries_with_fasta": 69024,
+  "old_annotation_queries_missing_fasta": 0,
+  "conflicts": 0,
+  "coverage": [
+    {
+      "set": "all13215",
+      "n_clusters": 13215,
+      "n_sequence_provenance_verified": 13132,
+      "n_exact_sequence_mapped": 10403,
+      "n_GO": 2388,
+      "n_KO": 5712,
+      "n_pathway": 2730
+    },
+    {
+      "set": "eligible3165",
+      "n_clusters": 3165,
+      "n_sequence_provenance_verified": 3161,
+      "n_exact_sequence_mapped": 2702,
+      "n_GO": 415,
+      "n_KO": 1170,
+      "n_pathway": 461
+    },
+    {
+      "set": "subflava",
+      "n_clusters": 36,
+      "n_sequence_provenance_verified": 36,
+      "n_exact_sequence_mapped": 34,
+      "n_GO": 15,
+      "n_KO": 23,
+      "n_pathway": 16
+    },
+    {
+      "set": "perflava",
+      "n_clusters": 26,
+      "n_sequence_provenance_verified": 26,
+      "n_exact_sequence_mapped": 25,
+      "n_GO": 12,
+      "n_KO": 17,
+      "n_pathway": 12
+    },
+    {
+      "set": "flavescens",
+      "n_clusters": 119,
+      "n_sequence_provenance_verified": 119,
+      "n_exact_sequence_mapped": 108,
+      "n_GO": 14,
+      "n_KO": 51,
+      "n_pathway": 25
+    }
+  ],
+  "mapping_rule": "exact normalized representative protein SHA256; union GO/KO/pathway only across identical protein sequences",
+  "missing_source_hashes": 83,
+  "unmatched_status": "absence of an emapper row or term is not inferred functional absence; missing source provenance is separately flagged"
+}

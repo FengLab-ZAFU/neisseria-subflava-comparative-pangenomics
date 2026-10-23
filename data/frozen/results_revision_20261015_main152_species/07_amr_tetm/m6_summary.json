@@ -1,0 +1,46 @@
+{
+  "module": "M6_amr_tetm",
+  "run_id": "main152_20261015",
+  "n_genomes": 152,
+  "tetM_status_by_group": {
+    "subflava": {
+      "positive_complete": 3,
+      "negative": 28
+    },
+    "perflava": {
+      "negative": 79,
+      "positive_complete": 35
+    },
+    "flavescens": {
+      "negative": 7
+    }
+  },
+  "rgi_run_status": {
+    "ok": 152
+  },
+  "v7_status_mismatches": [],
+  "positive_without_verified_locus": [],
+  "locus_recompute_mismatches": [],
+  "n_loci_152": 57,
+  "location_grade_counts": {
+    "undetermined_small_contig": 39,
+    "chromosomal_verified": 3,
+    "chromosome_associated_assembly_supported": 1,
+    "undetermined_contig_boundary": 14
+  },
+  "display_concordant": 152,
+  "display_total": 152,
+  "amr_families_ps": {
+    "APH(3'')": 4,
+    "APH(3')": 1,
+    "APH(6)": 4,
+    "ROB beta-lactamase": 1,
+    "TEM beta-lactamase": 3,
+    "major facilitator superfamily (MFS) antibiotic efflux pump": 2,
+    "major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein": 1,
+    "small multidrug resistance (SMR) antibiotic efflux pump": 7,
+    "streptothricin acetyltransferase (SAT)": 1,
+    "sulfonamide resistant sul": 3,
+    "tetracycline-resistant ribosomal protection protein": 38
+  }
+}

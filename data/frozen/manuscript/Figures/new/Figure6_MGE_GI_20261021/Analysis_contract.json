@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "primary_n": 144,
+  "participant_n": 95,
+  "n_endpoints": 6,
+  "BH_families": "Six endpoints separately within each scope and test family; no pairwise group tests",
+  "primary_provirus": 208,
+  "local_provirus_candidates": 209,
+  "integron_and_mob_suite": "Constant zero, descriptive only",
+  "unresolved_n": 8,
+  "limitations": "Assembly-adjusted rank models do not control phylogenetic or study-source dependence. Participant95 comprises representative records, not 95 verified independent participants.",
+  "displayed_Fig6A_endpoints": [
+    "Insertion sequences",
+    "Proviruses",
+    "Plasmid-like contigs",
+    "Genomic islands"
+  ],
+  "viral_contigs": "Removed from Figure 6A at author request; retained in S5 and the unchanged six-endpoint BH family"
+}

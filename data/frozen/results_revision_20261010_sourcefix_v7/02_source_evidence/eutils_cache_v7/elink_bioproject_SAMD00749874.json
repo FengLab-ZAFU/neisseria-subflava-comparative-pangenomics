@@ -1,0 +1,1 @@
+{"header":{"type":"elink","version":"0.3"},"linksets":[{"dbfrom":"biosample","ids":["40300648"],"linksetdbs":[{"dbto":"bioproject","linkname":"biosample_bioproject","links":["1085557","514245"]},{"dbto":"bioproject","linkname":"biosample_bioproject_all","links":["1085557","514245"]},{"dbto":"bioproject","linkname":"biosample_bioproject_sp","links":["1085557","514245"]}]}]}

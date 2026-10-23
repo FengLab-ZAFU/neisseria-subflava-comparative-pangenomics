@@ -1,0 +1,59 @@
+M7c VFDB candidate homolog screen — run info
+=============================================
+module: M7c (main152_species_midpoint_v3_audited)
+hostname: gkhzr0024
+run_date_utc: 2026-10-15
+project_root: /mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava
+
+scope / naming
+--------------
+- All hits are reported as "candidate homolog / sequence-similarity hit".
+  No virulence, expression, or clinical phenotype is inferred.
+- METHOD UPDATE vs legacy: historical VFDB results covered only the legacy
+  161-genome cohort (BioSample namespace) with unrecorded ABRicate/VFDB
+  versions and are NOT reusable. Per config VFDB_unknown_legacy_DB_fallback,
+  all 152 frozen genomes were screened de novo against a single verified
+  database snapshot. New results are NOT directly comparable to legacy values.
+
+tool / database
+---------------
+- conda env: abricate
+- ABRicate: 1.4.0 (abricate --version)
+- database (abricate --list): vfdb	4592	nucl	2026-Apr-3
+- DB sequences file: /home/lixiangchen/miniconda3/envs/abricate/db/vfdb/sequences
+  sha256: e827dddb1841f7d31cd1bcf03dbfd45a0959648786ee70ae21a647475de15dce
+  record count (grep -c '>'): 4592  [verified]
+- DB_snapshot tag used in output tables:
+  vfdb_4592nucl_2026-Apr-03_sha256:e827dddb1841f7d31cd1bcf03dbfd45a0959648786ee70ae21a647475de15dce
+- statistics: R 4.3.3 (conda env r_visual), stats::fisher.test two-sided,
+  conditional MLE OR + 95% CI; BH within family VFDB_prevalence only.
+
+inputs
+------
+- accession list (order): results_revision_20261015_main152_species/00_freeze/input_packet_snapshot/00_input/cohort/main152_accessions.txt
+  sha256: 5edbf93fa8e1f79f11fa2ec605979b64c81fe9761edb5e379666326dad536752
+- FASTA paths + verified hashes: 00_preflight/input_check/input_binding.tsv (152/152 PASS)
+- per-genome ledger: vfdb/vfdb_input_binding.tsv
+- groups (main152_metadata.tsv, group_for_testing): subflava 31 / perflava 114 / flavescens 7
+
+command (identical for all 152 genomes)
+---------------------------------------
+conda activate abricate
+abricate --db vfdb --minid 80 --mincov 80 <frozen_FASTA> > vfdb/raw/<accession>.tsv
+# parallel: xargs -P 12; driver script: scripts_main152/m7c_vfdb_run.sh
+
+exit code summary (vfdb/raw/run_exit_codes.tsv)
+-----------------------------------------------
+exit 0: 152/152  (SUCCESS_HITS 152, SUCCESS_NO_HITS 0, FAILED 0)
+
+thresholds
+----------
+--minid 80 --mincov 80 (>=80% nucleotide identity and >=80% coverage,
+same thresholds as the original publication screen)
+
+downstream scripts
+------------------
+scripts_main152/m7c_summarize.py     -> VFDB_presence_long.tsv, vfdb_run_status.tsv,
+                                        vfdb_prevalence.tsv, vfdb_candidate_catalog.tsv,
+                                        vfdb_input_binding.tsv, vfdb_test_contingency.tsv
+scripts_main152/m7c_vfdb_tests.R     -> vfdb_feature_tests.tsv

@@ -1,0 +1,10 @@
+metric	value
+n_genes	962
+total_length_bp	906074
+constant_sites	657574
+variable_sites	248500
+parsimony_informative_sites	202350
+n_identical_sequence_groups	3
+invariant_sites_retained	yes
+trimming	none
+allgap_columns_removed	0

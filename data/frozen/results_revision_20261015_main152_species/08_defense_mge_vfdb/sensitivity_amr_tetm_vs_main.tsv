@@ -1,0 +1,37 @@
+feature	species_group	main_n	main_prev	subset_n	subset_prev	identical_denominator
+family:APH(3'')	subflava	31	0.000000	24	0.000000	no
+family:APH(3'')	perflava	114	0.035088	90	0.033333	no
+family:APH(3'')	flavescens	7	0.000000	7	0.000000	yes
+family:APH(3')	subflava	31	0.000000	24	0.000000	no
+family:APH(3')	perflava	114	0.008772	90	0.000000	no
+family:APH(3')	flavescens	7	0.000000	7	0.000000	yes
+family:APH(6)	subflava	31	0.000000	24	0.000000	no
+family:APH(6)	perflava	114	0.035088	90	0.033333	no
+family:APH(6)	flavescens	7	0.000000	7	0.000000	yes
+family:ROB beta-lactamase	subflava	31	0.000000	24	0.000000	no
+family:ROB beta-lactamase	perflava	114	0.008772	90	0.011111	no
+family:ROB beta-lactamase	flavescens	7	0.000000	7	0.000000	yes
+family:TEM beta-lactamase	subflava	31	0.000000	24	0.000000	no
+family:TEM beta-lactamase	perflava	114	0.026316	90	0.033333	no
+family:TEM beta-lactamase	flavescens	7	0.000000	7	0.000000	yes
+family:major facilitator superfamily (MFS) antibiotic efflux pump	subflava	31	0.032258	24	0.041667	no
+family:major facilitator superfamily (MFS) antibiotic efflux pump	perflava	114	0.008772	90	0.000000	no
+family:major facilitator superfamily (MFS) antibiotic efflux pump	flavescens	7	0.000000	7	0.000000	yes
+family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	subflava	31	0.000000	24	0.000000	no
+family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	perflava	114	0.008772	90	0.000000	no
+family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	flavescens	7	0.000000	7	0.000000	yes
+family:small multidrug resistance (SMR) antibiotic efflux pump	subflava	31	0.129032	24	0.125000	no
+family:small multidrug resistance (SMR) antibiotic efflux pump	perflava	114	0.017544	90	0.022222	no
+family:small multidrug resistance (SMR) antibiotic efflux pump	flavescens	7	0.142857	7	0.142857	yes
+family:streptothricin acetyltransferase (SAT)	subflava	31	0.000000	24	0.000000	no
+family:streptothricin acetyltransferase (SAT)	perflava	114	0.008772	90	0.000000	no
+family:streptothricin acetyltransferase (SAT)	flavescens	7	0.000000	7	0.000000	yes
+family:sulfonamide resistant sul	subflava	31	0.000000	24	0.000000	no
+family:sulfonamide resistant sul	perflava	114	0.026316	90	0.033333	no
+family:sulfonamide resistant sul	flavescens	7	0.000000	7	0.000000	yes
+family:tetracycline-resistant ribosomal protection protein	subflava	31	0.096774	24	0.125000	no
+family:tetracycline-resistant ribosomal protection protein	perflava	114	0.307018	90	0.300000	no
+family:tetracycline-resistant ribosomal protection protein	flavescens	7	0.000000	7	0.000000	yes
+gene:tet(M)	subflava	31	0.096774	24	0.125000	no
+gene:tet(M)	perflava	114	0.307018	90	0.300000	no
+gene:tet(M)	flavescens	7	0.000000	7	0.000000	yes

@@ -1,0 +1,4 @@
+group	n_genomes	n_clusters_all_present	n_clusters_ge95pct	n_clusters_group_limited	total_detected_clusters
+subflava	23	1550	1631	1555	4927
+perflava	114	1284	1599	6529	10206
+flavescens	7	1649	1649	644	3068

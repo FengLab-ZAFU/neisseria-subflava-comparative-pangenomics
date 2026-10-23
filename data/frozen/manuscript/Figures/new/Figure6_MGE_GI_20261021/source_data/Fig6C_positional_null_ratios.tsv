@@ -1,0 +1,9 @@
+group	partition	criterion	n_eligible	observed	null_mean	null_q025	null_q975	effect_ratio	p	q	family_id	status	y	label_y	value_label
+pooled	Cloud	any_bp	10801	1751	1595.157	1501	1699	1.09769759340303	0.001998001998002	0.0106560106560107	interval_four_partitions_all_scopes	OK	1.12	1.32	1.10*
+pooled	Cloud	half_gene	10801	1666	1439.533	1346	1539	1.1573197696753	0.000999000999000999	0.00639360639360639	interval_four_partitions_all_scopes	OK	0.88	0.68	1.16*
+pooled	Core	any_bp	1347	118	1212.602	1178	1249	0.0973114014326217	1	1	interval_four_partitions_all_scopes	OK	4.12	4.32	0.10
+pooled	Core	half_gene	1347	84	1133.437	1084	1183.025	0.0741108680941243	1	1	interval_four_partitions_all_scopes	OK	3.88	3.68	0.07
+pooled	Shell	any_bp	851	226	589.445	556	618.025	0.383411514221004	1	1	interval_four_partitions_all_scopes	OK	2.12	2.32	0.38
+pooled	Shell	half_gene	851	200	533.14	495.975	566	0.375135986795213	1	1	interval_four_partitions_all_scopes	OK	1.88	1.68	0.38
+pooled	Soft_core	any_bp	214	21	194.614	186	203	0.107905906049924	1	1	interval_four_partitions_all_scopes	OK	3.12	3.32	0.11
+pooled	Soft_core	half_gene	214	9	183.367	172	194	0.0490818958700311	1	1	interval_four_partitions_all_scopes	OK	2.88	2.68	0.05

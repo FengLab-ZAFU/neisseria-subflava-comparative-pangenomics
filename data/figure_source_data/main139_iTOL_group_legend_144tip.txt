@@ -1,7 +1,0 @@
-main139 144-tip iTOL annotation files
-tree: results_main139/04_recombination/iqtree2/main139_GTRFIR10.144tip.rooted.tree
-
-N. subflava	#2A9D8F	47 tips
-N. perflava	#E76F51	82 tips
-N. flavescens	#457B9D	10 tips
-N. flava (outgroup)	#9AA5B1	5 tips

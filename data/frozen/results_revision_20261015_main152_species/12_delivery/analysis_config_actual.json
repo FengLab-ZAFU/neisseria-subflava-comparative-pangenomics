@@ -1,0 +1,46 @@
+{
+  "run_id": "main152_species_midpoint_20261015",
+  "results_root": "results_revision_20261015_main152_species",
+  "cohort": {
+    "n_total": 152,
+    "species_groups": {"subflava": 31, "perflava": 114, "flavescens": 7},
+    "unit_ids_unique": 152,
+    "freeze_manifest": "00_input/cohort/freeze_manifest_main152.json",
+    "no_new_qc_exclusion": true,
+    "qc_retained_note": "21 genomes contamination>=1%, 3 genomes>=4%, 3 genomes contigs>500 retained per plan"
+  },
+  "pangenome": {
+    "primary": {"tool": "PGAP2", "version": "2.4.1", "orth_id": 0.98, "n_clusters": 13215,
+                 "partitions": {"Strict_core": 1118, "Core": 229, "Soft_core": 214, "Shell": 851, "Cloud": 10803},
+                 "singletons": 5500, "cds_copies": 328376},
+    "sensitivity": {"orth95_clusters": 12998, "panaroo_strict_version": "1.8.0", "panaroo_strict_clusters": 7898}
+  },
+  "phylogeny": {
+    "core_selection": "single-copy strict-core clusters (962 of 1118; 156 multi-copy excluded)",
+    "alignment": {"genes": 962, "sites": 906074, "constant": 657574, "variable": 248500, "parsimony_informative": 202350},
+    "iqtree": {"version": "2.4.0", "model": "GTR+F+I+R4 (pre-specified, single partition, no ModelFinder)",
+                "ufboot_target": 1000, "sh_alrt": 1000, "seed": 20261015, "threads": 96, "keep_ident": true,
+                "first_stage": {"reps_completed": 1000, "convergence_correlation": 0.944, "converged": false,
+                                 "wall_clock": "7h31m08s", "best_logl": -9031428.3863, "tree_length": 2.1968},
+                "resume_stage": {"command_ext": "--nmax 3000 --undo", "reps_total_at_convergence": 1300,
+                                  "convergence_correlation": 0.993, "converged": true, "wall_clock": "2h06m56s"},
+                "preserved": "1000-rep outputs kept as iqtree/main152.*.b1000; topology unchanged (unrooted RF=0)"},
+    "rooting": "midpoint display rooting only; no outgroup, no recombination correction, no ancestral state reconstruction",
+    "invariance_audit": "03_phylogeny/strict_singlecopy_core/midpoint_invariance_audit.json (RF=0, patristic diff 2.78e-17)"
+  },
+  "cancelled_by_plan": ["PAM clustering", "Snippy", "Gubbins/ClonalFrameML recombination correction",
+                         "panstripe rate fit", "outgroup rooting", "ancestral state reconstruction",
+                         "MCMCglmm phylogenetic model", "server-side figure rendering"],
+  "statistics": {
+    "fisher": "R 4.3.3 stats::fisher.test conditional MLE OR/CI",
+    "permutations": 999,
+    "bh_families": {"gene_species_main": "all 9840 association tests",
+                     "interval_main_and_species": "all 40 interval-null tests",
+                     "AMR/defense/VFDB": "per-family-id sets, see each module"},
+    "permdisp_policy": "restricted design primary; free design disparity difference disclosed",
+    "mantel": {"shell_cloud": 0.796627, "all_variable": 0.737158, "p": 0.001,
+                "note": "descriptive correlation only; not phylogenetic-confound control"}
+  },
+  "figure_delivery": "data + Newick + iTOL text only; rendering on Windows",
+  "audit": "12_delivery/independent_audit_report.md (independent AI audit round, scripts_main152/audit_main152.py)"
+}

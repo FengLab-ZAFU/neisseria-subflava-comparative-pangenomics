@@ -1,0 +1,55 @@
+{
+  "rows": 152,
+  "columns": 38,
+  "groups": {
+    "Neisseria subflava": 31,
+    "Neisseria perflava": 114,
+    "Neisseria flavescens": 7
+  },
+  "unique_assembly_biosample_labels_units": true,
+  "source_key_and_value_checks": "PASS",
+  "checkm2_coverage": 152,
+  "fasta_binding_hash_matches": 152,
+  "assembly_metric_mismatches": 0,
+  "provenance_mismatches": 0,
+  "ANI_rule_violations": 0,
+  "NR_counts": {
+    "submitted_isolate": 140,
+    "submitted_sample_name": 133,
+    "host_disease": 141,
+    "geographic_location": 42,
+    "collection_date": 50,
+    "participant_id": 72,
+    "isolation_source": 77,
+    "host": 24,
+    "submitted_strain": 2
+  },
+  "quality_ranges": {
+    "completeness_percent": [
+      99.95,
+      100.0
+    ],
+    "contamination_percent": [
+      0.0,
+      4.96
+    ],
+    "N50_bp": [
+      21784,
+      2479061
+    ],
+    "GC_percent": [
+      48.6391,
+      49.7177
+    ]
+  },
+  "cohort_roster_sha256": "5edbf93fa8e1f79f11fa2ec605979b64c81fe9761edb5e379666326dad536752",
+  "saved_excel_cell_comparisons": 5814,
+  "saved_excel_numeric_cells": 2280,
+  "saved_excel_readback": "PASS",
+  "frozen_panes": "D2",
+  "filter_table_range": "A1:AL153",
+  "figure2_label_identity": "PASS",
+  "excluded_and_PAM_fields_absent": "PASS",
+  "tsv_excel_identity": "PASS",
+  "xlsx_sha256": "58fdc83d37204566cc1f28d1fb5b4c889da6ff40d0e49802f75ecb7b044d7f2a"
+}

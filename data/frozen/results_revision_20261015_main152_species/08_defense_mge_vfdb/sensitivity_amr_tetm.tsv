@@ -1,0 +1,37 @@
+analysis_id	feature	species_group	n_total	n_evaluable	n_positive	n_negative	n_indeterminate	n_missing	prevalence	CI_low	CI_high	status	reason
+participant_sensitivity_121	family:APH(3'')	subflava	24	24	0	24	0	0	0.000000	0.000000	0.137976	TESTED	
+participant_sensitivity_121	family:APH(3'')	perflava	90	90	3	87	0	0	0.033333	0.011400	0.093473	TESTED	
+participant_sensitivity_121	family:APH(3'')	flavescens	7	7	0	7	0	0	0.000000	-0.000000	0.354330	TESTED	
+participant_sensitivity_121	family:APH(3')	subflava	24	24	0	24	0	0	0.000000	0.000000	0.137976	TESTED	
+participant_sensitivity_121	family:APH(3')	perflava	90	90	0	90	0	0	0.000000	0.000000	0.040936	TESTED	
+participant_sensitivity_121	family:APH(3')	flavescens	7	7	0	7	0	0	0.000000	-0.000000	0.354330	TESTED	
+participant_sensitivity_121	family:APH(6)	subflava	24	24	0	24	0	0	0.000000	0.000000	0.137976	TESTED	
+participant_sensitivity_121	family:APH(6)	perflava	90	90	3	87	0	0	0.033333	0.011400	0.093473	TESTED	
+participant_sensitivity_121	family:APH(6)	flavescens	7	7	0	7	0	0	0.000000	-0.000000	0.354330	TESTED	
+participant_sensitivity_121	family:ROB beta-lactamase	subflava	24	24	0	24	0	0	0.000000	0.000000	0.137976	TESTED	
+participant_sensitivity_121	family:ROB beta-lactamase	perflava	90	90	1	89	0	0	0.011111	0.001964	0.060284	TESTED	
+participant_sensitivity_121	family:ROB beta-lactamase	flavescens	7	7	0	7	0	0	0.000000	-0.000000	0.354330	TESTED	
+participant_sensitivity_121	family:TEM beta-lactamase	subflava	24	24	0	24	0	0	0.000000	0.000000	0.137976	TESTED	
+participant_sensitivity_121	family:TEM beta-lactamase	perflava	90	90	3	87	0	0	0.033333	0.011400	0.093473	TESTED	
+participant_sensitivity_121	family:TEM beta-lactamase	flavescens	7	7	0	7	0	0	0.000000	-0.000000	0.354330	TESTED	
+participant_sensitivity_121	family:major facilitator superfamily (MFS) antibiotic efflux pump	subflava	24	24	1	23	0	0	0.041667	0.007393	0.202418	TESTED	
+participant_sensitivity_121	family:major facilitator superfamily (MFS) antibiotic efflux pump	perflava	90	90	0	90	0	0	0.000000	0.000000	0.040936	TESTED	
+participant_sensitivity_121	family:major facilitator superfamily (MFS) antibiotic efflux pump	flavescens	7	7	0	7	0	0	0.000000	-0.000000	0.354330	TESTED	
+participant_sensitivity_121	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	subflava	24	24	0	24	0	0	0.000000	0.000000	0.137976	TESTED	
+participant_sensitivity_121	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	perflava	90	90	0	90	0	0	0.000000	0.000000	0.040936	TESTED	
+participant_sensitivity_121	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	flavescens	7	7	0	7	0	0	0.000000	-0.000000	0.354330	TESTED	
+participant_sensitivity_121	family:small multidrug resistance (SMR) antibiotic efflux pump	subflava	24	24	3	21	0	0	0.125000	0.043443	0.310039	TESTED	
+participant_sensitivity_121	family:small multidrug resistance (SMR) antibiotic efflux pump	perflava	90	90	2	88	0	0	0.022222	0.006115	0.077445	TESTED	
+participant_sensitivity_121	family:small multidrug resistance (SMR) antibiotic efflux pump	flavescens	7	7	1	6	0	0	0.142857	0.025680	0.513128	TESTED	
+participant_sensitivity_121	family:streptothricin acetyltransferase (SAT)	subflava	24	24	0	24	0	0	0.000000	0.000000	0.137976	TESTED	
+participant_sensitivity_121	family:streptothricin acetyltransferase (SAT)	perflava	90	90	0	90	0	0	0.000000	0.000000	0.040936	TESTED	
+participant_sensitivity_121	family:streptothricin acetyltransferase (SAT)	flavescens	7	7	0	7	0	0	0.000000	-0.000000	0.354330	TESTED	
+participant_sensitivity_121	family:sulfonamide resistant sul	subflava	24	24	0	24	0	0	0.000000	0.000000	0.137976	TESTED	
+participant_sensitivity_121	family:sulfonamide resistant sul	perflava	90	90	3	87	0	0	0.033333	0.011400	0.093473	TESTED	
+participant_sensitivity_121	family:sulfonamide resistant sul	flavescens	7	7	0	7	0	0	0.000000	-0.000000	0.354330	TESTED	
+participant_sensitivity_121	family:tetracycline-resistant ribosomal protection protein	subflava	24	24	3	21	0	0	0.125000	0.043443	0.310039	TESTED	
+participant_sensitivity_121	family:tetracycline-resistant ribosomal protection protein	perflava	90	90	27	63	0	0	0.300000	0.215109	0.401265	TESTED	
+participant_sensitivity_121	family:tetracycline-resistant ribosomal protection protein	flavescens	7	7	0	7	0	0	0.000000	-0.000000	0.354330	TESTED	
+participant_sensitivity_121	gene:tet(M)	subflava	24	24	3	21	0	0	0.125000	0.043443	0.310039	TESTED	
+participant_sensitivity_121	gene:tet(M)	perflava	90	90	27	63	0	0	0.300000	0.215109	0.401265	TESTED	
+participant_sensitivity_121	gene:tet(M)	flavescens	7	7	0	7	0	0	0.000000	-0.000000	0.354330	TESTED	

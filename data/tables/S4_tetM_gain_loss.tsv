@@ -1,0 +1,3 @@
+analysis	n_genomes	n_positive	n_root_positions	minimum_total_changes	gains_min	gains_max	root_state
+midpoint	152	38	1	18	18	18	free
+all_edge_roots	152	38	301	18	17	18	free

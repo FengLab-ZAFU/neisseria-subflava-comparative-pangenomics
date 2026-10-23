@@ -1,0 +1,7 @@
+stage	n
+candidate_assemblies	1303
+type_reference_membership_pass	327
+after_provenance_and_QC	243
+dereplicated_representatives_before_final_reference_assignment_filter	169
+excluded_non_unique_reference_assignment	17
+final_main_cohort	152

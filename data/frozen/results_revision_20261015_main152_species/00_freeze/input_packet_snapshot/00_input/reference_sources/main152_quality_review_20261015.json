@@ -1,0 +1,57 @@
+{
+  "n": 152,
+  "all_pass_existing_QC": true,
+  "existing_thresholds": {
+    "completeness_min_percent": 90,
+    "contamination_max_percent": 5,
+    "N50_min_bp": 10000
+  },
+  "stats": {
+    "completeness_percent": {
+      "min": 99.95,
+      "median": 100.0,
+      "max": 100.0
+    },
+    "contamination_percent": {
+      "min": 0.0,
+      "median": 0.18,
+      "max": 4.96
+    },
+    "number_of_contigs": {
+      "min": 1.0,
+      "median": 52.5,
+      "max": 1002.0
+    },
+    "genome_size_bp": {
+      "min": 2137566.0,
+      "median": 2276278.5,
+      "max": 2582493.0
+    },
+    "N50_bp": {
+      "min": 21784.0,
+      "median": 236338.0,
+      "max": 2479061.0
+    },
+    "GC_percent": {
+      "min": 48.6391,
+      "median": 49.09985,
+      "max": 49.7177
+    }
+  },
+  "counts": {
+    "contamination_ge_1_percent": 21,
+    "contamination_ge_2_percent": 10,
+    "contamination_ge_3_percent": 5,
+    "contamination_ge_4_percent": 3,
+    "contamination_ge_5_percent": 0,
+    "completeness_ge_99_percent": 152,
+    "N50_ge_20000_bp": 152,
+    "contigs_gt_200": 14,
+    "contigs_gt_500": 3
+  },
+  "MAG_audit_categories": {
+    "not_listed_in_MAG_audit": 152
+  },
+  "review_flag_is_not_exclusion": true,
+  "table_source_sha256": "25d1e6e838de45af9e348045fc5957100adf18ff4aa3fc4396c2e3db3155c1c4"
+}

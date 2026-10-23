@@ -1,0 +1,39 @@
+
+Call:
+lm(formula = y_rank ~ species_group + assembly_class + log1p_n_contigs + 
+    genome_size_Mb, data = primary)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-80.935 -30.934   0.206  34.508  77.973 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                   -153.434     97.430  -1.575 0.117590    
+species_groupperflava          -31.149      8.794  -3.542 0.000542 ***
+species_groupflavescens          6.214     16.527   0.376 0.707497    
+assembly_classComplete Genome   -9.587     20.395  -0.470 0.639061    
+log1p_n_contigs                  4.780      3.887   1.230 0.220914    
+genome_size_Mb                 101.726     44.704   2.276 0.024413 *  
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 38.24 on 138 degrees of freedom
+Multiple R-squared:  0.1657,	Adjusted R-squared:  0.1355 
+F-statistic: 5.481 on 5 and 138 DF,  p-value: 0.0001238
+
+Analysis of Variance Table
+
+Model 1: y_rank ~ assembly_class + log1p_n_contigs + genome_size_Mb
+Model 2: y_rank ~ species_group + assembly_class + log1p_n_contigs + genome_size_Mb
+  Res.Df    RSS Df Sum of Sq     F    Pr(>F)    
+1    140 226860                                 
+2    138 201817  2     25043 8.562 0.0003125 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+	Kruskal-Wallis rank sum test
+
+data:  primary$n_complete_systems and primary$species_group
+Kruskal-Wallis chi-squared = 13.549, df = 2, p-value = 0.001142
+

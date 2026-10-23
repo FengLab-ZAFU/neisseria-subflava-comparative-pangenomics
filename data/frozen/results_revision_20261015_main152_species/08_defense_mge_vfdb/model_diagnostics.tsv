@@ -1,0 +1,22 @@
+analysis_id	item	value	note
+main152_primary	n_complete_cases	152	all 152 defense runs succeeded; complete cases = evaluable genomes
+main152_primary	design_matrix_rank	6	
+main152_primary	design_matrix_columns	6	
+main152_primary	response_variance	1889.953642	
+main152_primary	phylogenetic_confounding	NOT_CONTROLLED	species_group is strongly correlated with phylogeny and study source; this model does not adjust for phylogenetic or study-source confounding and must not be read as an independent species effect
+main152_primary	model_status	OK	
+main152_primary	aliased_coefficients	none	
+main152_primary	VIF:species_groupperflava	1.188042679	variance inflation factor from design columns; >10 would be flagged
+main152_primary	VIF:species_groupflavescens	1.185105527	variance inflation factor from design columns; >10 would be flagged
+main152_primary	VIF:assembly_classComplete Genome	2.115186641	variance inflation factor from design columns; >10 would be flagged
+main152_primary	VIF:log1p_n_contigs	2.111386086	variance inflation factor from design columns; >10 would be flagged
+main152_primary	VIF:genome_size_Mb	1.091343214	variance inflation factor from design columns; >10 would be flagged
+main152_primary	partial_F_species_group_F	14.05316793	species_group added to assembly-covariate-only model
+main152_primary	partial_F_species_group_df	2,146	
+main152_primary	partial_F_species_group_p	2.619958703e-06	
+main152_primary	residual_shapiro_W	0.982926022	
+main152_primary	residual_shapiro_p	0.05670410425	
+main152_primary	residual_breusch_pagan_chi2	0.3464140015	auxiliary regression of squared residuals on fitted values
+main152_primary	residual_breusch_pagan_p	0.5561501302	
+main152_primary	r_squared	0.2052235578	
+main152_primary	residual_df	146	

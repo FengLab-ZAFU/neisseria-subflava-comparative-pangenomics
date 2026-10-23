@@ -1,0 +1,4 @@
+set=panaroo_main152_strict tool=panaroo clean_mode=strict remove_invalid_genes=yes
+n_samples=152 n_clusters=7898 singletons=1338
+partitions_unified_rule={'Strict_core': 1413, 'Core': 74, 'Soft_core': 130, 'Shell': 826, 'Cloud': 5455}
+assertions=ALL_PASS

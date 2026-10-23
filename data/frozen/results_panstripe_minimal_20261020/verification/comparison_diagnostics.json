@@ -1,0 +1,68 @@
+{
+  "subflava_vs_perflava": {
+    "status": "ESTIMATED",
+    "bootstrap_valid": 1000,
+    "bootstrap_failure_fraction": 0,
+    "converged": true,
+    "rank": 8,
+    "parameters": 8,
+    "max_leverage": 0.4942,
+    "warnings": [],
+    "seed": 20261101
+  },
+  "subflava_vs_flavescens": {
+    "status": "ESTIMATED",
+    "bootstrap_valid": 996,
+    "bootstrap_failure_fraction": 0.004,
+    "converged": true,
+    "rank": 8,
+    "parameters": 8,
+    "max_leverage": 0.8797,
+    "warnings": [],
+    "seed": 20261102
+  },
+  "perflava_vs_flavescens": {
+    "status": "ESTIMATED",
+    "bootstrap_valid": 997,
+    "bootstrap_failure_fraction": 0.003,
+    "converged": true,
+    "rank": 8,
+    "parameters": 8,
+    "max_leverage": 0.8797,
+    "warnings": [],
+    "seed": 20261103
+  },
+  "subflava_own_midpoint_vs_perflava_own_midpoint": {
+    "status": "ESTIMATED",
+    "bootstrap_valid": 1000,
+    "bootstrap_failure_fraction": 0,
+    "converged": true,
+    "rank": 8,
+    "parameters": 8,
+    "max_leverage": 0.5087,
+    "warnings": [],
+    "seed": 20261111
+  },
+  "subflava_own_midpoint_vs_flavescens_own_midpoint": {
+    "status": "ESTIMATED",
+    "bootstrap_valid": 996,
+    "bootstrap_failure_fraction": 0.004,
+    "converged": true,
+    "rank": 8,
+    "parameters": 8,
+    "max_leverage": 0.9695,
+    "warnings": [],
+    "seed": 20261112
+  },
+  "perflava_own_midpoint_vs_flavescens_own_midpoint": {
+    "status": "ESTIMATED",
+    "bootstrap_valid": 996,
+    "bootstrap_failure_fraction": 0.004,
+    "converged": true,
+    "rank": 8,
+    "parameters": 8,
+    "max_leverage": 0.9695,
+    "warnings": [],
+    "seed": 20261113
+  }
+}

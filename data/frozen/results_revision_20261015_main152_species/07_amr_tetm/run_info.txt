@@ -1,0 +1,71 @@
+module: M6_amr_tetm (AMR / tet(M) per-genome, per-species, locus evidence)
+run_id: main152_20261015
+plan_id: main152_species_midpoint_v3_audited
+recorded_utc: 2026-10-15T04:19:13.996362+00:00
+hostname: gkhzr0024
+project_root: /mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava
+
+commands:
+  1) python3 scripts_main152/m6_amr_tetm.py        [exit 0]
+  2) conda run -n r_visual Rscript scripts_main152/m6_fisher.R \
+       results_revision_20261015_main152_species/07_amr_tetm/m6_fisher_input.tsv \
+       results_revision_20261015_main152_species/07_amr_tetm/amr_association_all.tsv   [exit 0]
+
+software / database versions:
+  python3: Python 3.14.6
+  R (conda env r_visual): R version 4.3.3 (2024-02-29), stats::fisher.test two-sided
+  RGI (historical runs, REUSED, not rerun): RGI 6.0.3 (biocontainers docker
+    rgi:6.0.3--pyha8f3691_0), CARD data_version 4.0.2, `-t contig -a DIAMOND`
+    (per results_revision_20261010_phaseB_v7/06_annotation_summaries/per_genome_tool_versions.tsv)
+  tetM reference classification (historical, REUSED after verification):
+    blast vs American_GU479464.1 / Dutch_GU479466.1 (1935 bp), same method as
+    scripts/revision_20261001/d1_classify_tetm.py; grouping identical to
+    scripts/revision_20261010_phaseB_v7/p5a_03_tetm_locus_classify.py
+    (merge gap 5000 bp, boundary slack 2000 bp)
+
+inputs (read-only; historical 20261001/06/08 trees resolved under .trash_cleanup_20261015/):
+  - roster/metadata/display: 00_freeze/input_packet_snapshot/00_input/cohort/ (152 accessions)
+  - RGI evidence dirs: per_tool_coverage_historical_main152.tsv rgi_evidence column;
+    per-file sha256 in rgi_input_hashes.tsv (152/152 ok, 0 missing)
+  - historical v7 tetM tables (hash-bound, re-subset to 152): see historical_v7_table_hashes.tsv
+  - phaseB_v7 08_gi_mge/tables/mge.tsv (0-based half-open, annotation contig namespace)
+  - 01_annotation/contig_id_maps/<acc>.contig_map.tsv (frozen<->annotation contig ids)
+  - 00_preflight/resolved_paths.tsv (frozen FASTA paths for contig lengths)
+
+method notes:
+  - tet(M) four-state per d1_parse_rgi.py rules; recomputed independently from raw
+    RGI .txt for all 152; zero mismatches vs v7 per-genome table.
+  - tet(M) locus coordinates recomputed from raw blast outputs with identical
+    grouping/classification rules; 57/57 loci match v7 grading table exactly
+    (contig, start, end, class, contig_len); strand derived from blast HSP orientation.
+  - Coordinates exported 0-based half-open on frozen FASTA contig ids
+    (start = 1-based blast start - 1; end = 1-based inclusive blast end).
+  - location grading re-done under 2026-10-15 rules: ">1 Mb contig alone" no longer
+    yields chromosomal_verified; GCA_023635085.1 locus downgraded from historical
+    chromosomal_verified to chromosome_associated_assembly_supported (draft, 5 contigs).
+    chromosomal_verified kept only for 3 single-contig Complete Genome assemblies
+    (CP contig length == genome size, MOB-suite molecule_type=chromosome, no plasmid
+    evidence, locus mapped interior).
+  - MGE_same_contig / MGE_interval_overlap use phaseB_v7 local MGE intervals
+    (IS/integron/provirus; whole-contig calls excluded from interval logic, counted
+    in replicon_evidence) mapped frozen->annotation contig via contig_id_maps.
+  - carriage prevalence denominator n_evaluable = n_positive + n_negative;
+    Wilson 95% CI (z=1.959963984540054).
+  - amr_association_all.tsv: family AMR_prevalence; binary carrier = >=1 Perfect/Strict
+    hit in feature (gene:tet(M) = positive_complete four-state). Pre-specified filter
+    carrier>=5 in 152; FILTERED rows kept with reason, excluded from BH.
+    q = BH over the 9 VALID tests only. OR = R conditional MLE (Inf/0 preserved).
+  - statistical unit = genome throughout.
+
+output hashes (sha256):
+  amr_association_all.tsv  869544108b0e2e6154893069bc6bc242d266f7d98830da66962ed44e2e7c32ba
+  amr_feature_filter_ledger.tsv  92d6be0d9673b19018dfcb1b26d04f962fa93690379e1477688c37be7421073e
+  amr_tetm_per_genome.tsv  8fb125177b17efe5128b12575b80fd034183d70ca2dee6e1507457031136a84f
+  carriage_by_species.tsv  bd255689af6954f151d01252aec562859f8cb1f67bc2fa78e0dbddcbe2aa9fec
+  historical_v7_table_hashes.tsv  fbbf70f06815d6649deb59ea9ed8167d16a35a90a6cce90f83178197ab5351c0
+  locus_blast_verification.tsv  4b595942ec70ed34f5cd8f90b64dc4009591741e89e15e103fe92b2160062798
+  m6_fisher_input.tsv  e2eeec035d7852e1a730838b2f10a8f106794997052a18a013421207b072f1ae
+  m6_summary.json  e3271d36c5e85d60bdb3e34f761c8803030bc65e1d109a871a9741a658affad5
+  rgi_input_hashes.tsv  e27642ba7ff426a27dbac1aafcffdc03536425a5de58e90c316b128f59efb58f
+  tetm_locus_evidence.tsv  688916becd670f914a7be67b601436e24bb678f5b315c17e2a9b0188c4c1ae93
+  tetm_reconciliation.tsv  c5945367848a67bf2a42fca4563eddbde6228395710b554522788895284aa293

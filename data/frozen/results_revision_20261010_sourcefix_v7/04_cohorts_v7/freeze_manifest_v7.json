@@ -1,0 +1,62 @@
+{
+  "freeze_id": "v7freeze_20261010_b25926da0a99",
+  "created_utc": "2026-10-10T04:47:32+00:00",
+  "phase": "v7_phaseA_sourcefix_cohort_freeze",
+  "supersedes": "v6freeze_20261010_09c8b78719ce (namespace fix); v7 supplement: 2 experimental transformants + 2 confirmed MAGs excluded, umbrella leaf-project mapping 34 records, MAG audit rebound 2026-10-10",
+  "cohort_sizes": {
+    "revision_primary_v7": 169,
+    "legacy139_dereplicated_v7": 95,
+    "legacy_plus6_dereplicated_v7": 100,
+    "assignment_confident_v7": 123,
+    "one_per_participant_v7": 133,
+    "expanded_reference_sensitivity_v7": 188,
+    "sg0010_control": 13,
+    "annotation_union_v7": 193
+  },
+  "roster_hashes": {
+    "revision_primary_v7": "b25926da0a996b8190ff412d0614114b3ccb60a10301a0256d934f34e8ea2fd3",
+    "legacy139_dereplicated_v7": "0aa628f7ae434fac9b19cfbe47f3515da6fe6831d1cee81248158e01edba45be",
+    "legacy_plus6_dereplicated_v7": "e3ec670ec97ddcbb1b1f1ddd009c4064b7b9b8d131ddd531826e1d02cc3c659e",
+    "assignment_confident_v7": "d24e849731917615b276434902c657d8da4e1b0e76b9fd7a2b2a64a574b10622",
+    "one_per_participant_v7": "063ae481bed4c5578c2b4b418830e171bbb0b35216b569cb024ae824d49b93e5",
+    "expanded_reference_sensitivity_v7": "e6223de68e5928357e0f6d3dda9e45579129ad4dd67ed15e4c3d7efe2b3c0ac5",
+    "sg0010_control": "589b0de8500d58a0a1cb5dcbe5f4b1887931e3ba667170871f3306b94842245d",
+    "annotation_union_v7": "e5e83ced049d23d51f83d10278e916619fde5351976048b9d064266c6da4b65a"
+  },
+  "metadata_hashes": {
+    "revision_primary_v7": "dd64dca34404d533290514bcccb7c0e2f8fac34c7ed760d4c8a8f6383723fb6e",
+    "legacy139_dereplicated_v7": "fbd2538cabcc3e4f87d03d794310f3d156950fc11e6bf51a10c4724318972160",
+    "legacy_plus6_dereplicated_v7": "ea874231cf5b87fada4990728c0af5cdd3ba4797c57b2b88f3206d3081b20757",
+    "assignment_confident_v7": "92a943a06ab26897a2599f83c9891bdc2a65fd59ec7d2714a2493aea99b9ea2b",
+    "one_per_participant_v7": "239608491dd21503a40f1308d1e5db44c35ae2dbce5da48821fb008b0a5fc9f5",
+    "expanded_reference_sensitivity_v7": "c76d560de4fbaf0666f0ead01489f954c469b5bd69df6eedfe69e623a8c6c38b",
+    "sg0010_control": "220b9922470cea4a1e0eb793b152e17a802c4ba105e90942afd55847e185d86b",
+    "annotation_union_v7": "37d8314b4feabf028876b06afac7a86a0e7b72b43ceea5d6fd6b6528fe317615"
+  },
+  "input_hashes": {
+    "/mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava/results_revision_20261009_fix3/01_reference_v4/rescreen_v4.tsv": "cdf3b6a0d7bfe9d5dcdca718a2f767775661a27ffd9521edf992770b02c23b0a",
+    "/mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava/results_revision_20261010_sourcefix_v7/inputs_v7/provenance_corrected_v7.tsv": "21d0db74c54fe89210f819461a2fc714cfe963b578309eb5ddde32cffbf11441",
+    "/mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava/results_revision_20261010_sourcefix_v7/inputs_v7/same_strain_identity_groups_v7.tsv": "8d24c82f47f28a770ff0c682867617a89af8768d1fe712e931fdb6d959017fdd",
+    "/mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava/results_revision_20261010_sourcefix_v7/03_units_v7/canonical_units_s20_v7.tsv": "60fa34dfdb5dcbcb0640140a4b7c2d5c6b386b052f8970f7ba13a9ce5e3b6cb2",
+    "/mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava/results_revision_20261010_sourcefix_v7/03_units_v7/representative_ledger_v7.tsv": "2c331fdcec9f8c90a445025fbefafe15e8e8ee463502c4858c720f02e995cd95",
+    "/mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava/results_revision_20261010_sourcefix_v7/02_source_evidence/source_role_corrections_v7.tsv": "a5e835c27d01a24909dd8f1b750799982d25374cecbe5d6c327c7ece97861847",
+    "/mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava/results_revision_20261010_sourcefix_v7/02_source_evidence/umbrella_leaf_project_map_v7.tsv": "483cacbe413edd1018910fb2c8039a12f55abdd283bf0742a48c5c9bd788f078",
+    "/mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava/results_revision_20261010_sourcefix_v7/02_source_evidence/mag_source_audit_v7.tsv": "7f2e718d98bc07aa5e2d9158ea4278f5ac4abb1baa8d46a71320bd30fd580206",
+    "/mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava/results_revision_20261010_sourcefix_v7/02_source_evidence/mag_exclusion_corrections_v7.tsv": "dec68afd7994aeb890cf71cea83b145b3313832a5a0575c405db00cf98f960df",
+    "/mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava/results_revision_20261010_nsfix_v6/01_rochester_evidence/participant_source_evidence.tsv": "9c9791acdceb3a32c9ec4b5b66fcb235b4951c1b6dfa298573821d4ed386bf7d",
+    "/mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava/results_revision_20261010_nsfix_v6/02_atcc29256/culture_identity_resolution.tsv": "75ef10dd332c355a522fa8ce7876e6c3528ade091ba5b9b7ea57e9eb0764d09a",
+    "/mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava/results_revision_20261001/01_retrieval_taxonomy/checkm2_merged.tsv": "5e49c03adf718c4e927f9e0cae86d27f89fe34ed799101bb138c25e87dbbca09",
+    "/mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava/results_revision_20261008_fix2/02_assembly_covariates/assembly_covariates_fasta.tsv": "6dd9c3ba0ade5a00236c173cae7c93a67292a4d284822b5e7b1a00aa867f50ed",
+    "/mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava/results_revision_20261008_fix2/01_canonical_units/pairs_snp_completed.tsv": "dd6625352ad037f634fcce8e792f97851b6eff90fd121a2274cce5ec69d14d0a",
+    "/mnt/NexData_file/home/lixiangchen/work/Neisseria_subflava/neisseria_subflava_associated_group_metadata.tsv": "e857fdd5427cd3e9c68930e729a6da50a64db3eaf032e271591d0d319950aa44"
+  },
+  "reference_rule": "type-material-anchored bidirectional mean ANI>=95 & min AF>=0.70 (subflava ATCC49275 / flavescens ATCC13120 / perflava CCUG17915 two same-culture assemblies); historical non-type perflava 27098_8_142 = control/sensitivity only",
+  "qc_rule": "completeness>=90, contamination<=5, N50>=10000",
+  "snp_clone_rule": "20 SNP complete linkage within identifiable-participant groups only; source identity groups (34 Rochester duplicate-submission groups) contracted separately; IGR135 MO05 same-isolate exception withdrawn (participant code only) -> ordinary SNP rule; no 250-SNP pre-merge",
+  "source_corrections": [
+    "Rochester namespaces -> Regan2026_Rochester_study (Table S1 + SRA library evidence); MO -> ITM_PRJNA703317/PRJNA794044; GCA_019334765.1 ATCC29256 identity unresolved -> REVIEW, excluded from formal natural cohorts",
+    "GCA_042536805.1/GCA_042536845.1 = experimental transformants (doi:10.3389/fmicb.2022.855482, PRJNA794044) -> experimental, excluded from all natural cohorts incl. legacy sensitivity",
+    "25 umbrella-PRJNA514245 records mapped to true leaf projects (18 frozen BioSample + 7 live NCBI elink 2026-10-10)"
+  ],
+  "fasta_hashes": "fasta_hashes_v7.tsv"
+}

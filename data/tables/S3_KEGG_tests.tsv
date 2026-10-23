@@ -1,0 +1,160 @@
+target_group	term_id	description	foreground_count	foreground_total	background_count	background_total	OR	CI_low	CI_high	p	q	nominal_enriched	contributing_clusters
+subflava	map00010	Glycolysis / Gluconeogenesis	0	16	19	445	0	0	6.35644445863431	1	1	False	
+subflava	map00052	Galactose metabolism	0	16	8	445	0	0	17.4926133402019	1	1	False	
+subflava	map00071	Fatty acid degradation	0	16	6	445	0	0	25.2328816682047	1	1	False	
+subflava	map00190	Oxidative phosphorylation	0	16	6	445	0	0	25.2328816682047	1	1	False	
+subflava	map00220	Arginine biosynthesis	0	16	5	445	0	0	32.2414134917317	1	1	False	
+subflava	map00230	Purine metabolism	1	16	12	445	2.39876733515112	0.052796044840965	18.3589476451597	0.372120308688693	1	False	clust_2220
+subflava	map00250	Alanine, aspartate and glutamate metabolism	0	16	8	445	0	0	17.4926133402019	1	1	False	
+subflava	map00270	Cysteine and methionine metabolism	1	16	18	445	1.57955203566772	0.0356128123903446	11.4488757417387	0.495840747747798	1	False	clust_2616
+subflava	map00290	Valine, leucine and isoleucine biosynthesis	0	16	8	445	0	0	17.4926133402019	1	1	False	
+subflava	map00350	Tyrosine metabolism	0	16	8	445	0	0	17.4926133402019	1	1	False	
+subflava	map00360	Phenylalanine metabolism	0	16	5	445	0	0	32.2414134917317	1	1	False	
+subflava	map00362	Benzoate degradation	0	16	6	445	0	0	25.2328816682047	1	1	False	
+subflava	map00450	Selenocompound metabolism	1	16	4	445	7.26863168304174	0.140009746305814	79.6317725671044	0.162558564409062	1	False	clust_2220
+subflava	map00500	Starch and sucrose metabolism	1	16	21	445	1.34503981768283	0.0305378367311567	9.6003388570793	0.548748568996471	1	False	clust_2996
+subflava	map00520	Amino sugar and nucleotide sugar metabolism	0	16	13	445	0	0	9.80479129872803	1	1	False	
+subflava	map00540	Lipopolysaccharide biosynthesis	2	16	20	445	3.02405580514613	0.312993166335359	14.6611685588868	0.174124739484108	1	False	clust_4210,clust_6020
+subflava	map00541	Biosynthesis of various nucleotide sugars	0	16	8	445	0	0	17.4926133402019	1	1	False	
+subflava	map00552	Teichoic acid biosynthesis	1	16	12	445	2.39876733515112	0.052796044840965	18.3589476451597	0.372120308688693	1	False	clust_1931
+subflava	map00561	Glycerolipid metabolism	1	16	5	445	5.81508158481687	0.116364271902757	57.0089669142269	0.191942474429797	1	False	clust_1931
+subflava	map00564	Glycerophospholipid metabolism	0	16	7	445	0	0	20.6844783719696	1	1	False	
+subflava	map00620	Pyruvate metabolism	1	16	27	445	1.03203467901612	0.0236517450718637	7.21832769805195	1	1	False	clust_5039
+subflava	map00625	Chloroalkane and chloroalkene degradation	0	16	6	445	0	0	25.2328816682047	1	1	False	
+subflava	map00626	Naphthalene degradation	0	16	6	445	0	0	25.2328816682047	1	1	False	
+subflava	map00630	Glyoxylate and dicarboxylate metabolism	0	16	11	445	0	0	11.9145455863966	1	1	False	
+subflava	map00640	Propanoate metabolism	1	16	13	445	2.20996687558777	0.0489084971727456	16.6987905179544	0.394544583378382	1	False	clust_5039
+subflava	map00650	Butanoate metabolism	0	16	5	445	0	0	32.2414134917317	1	1	False	
+subflava	map00680	Methane metabolism	0	16	17	445	0	0	7.21012974521426	1	1	False	
+subflava	map00720	Other carbon fixation pathways	1	16	14	445	2.04809002807712	0.045539697943075	15.3074269825481	0.41621636562882	1	False	clust_5039
+subflava	map00730	Thiamine metabolism	0	16	10	445	0	0	13.3406389776093	1	1	False	
+subflava	map00760	Nicotinate and nicotinamide metabolism	0	16	5	445	0	0	32.2414134917317	1	1	False	
+subflava	map00790	Folate biosynthesis	0	16	6	445	0	0	25.2328816682047	1	1	False	
+subflava	map00860	Porphyrin metabolism	2	16	9	445	6.85216482654098	0.661878925603445	37.925998317521	0.0517788930330998	1	False	clust_157,clust_8397
+subflava	map00910	Nitrogen metabolism	0	16	5	445	0	0	32.2414134917317	1	1	False	
+subflava	map00920	Sulfur metabolism	4	16	9	445	15.8339939840427	3.1286423210717	67.7552315664372	0.0005783151670179	0.0459760557779279	True	clust_2220,clust_2616,clust_2624,clust_7056
+subflava	map00970	Aminoacyl-tRNA biosynthesis	0	16	10	445	0	0	13.3406389776093	1	1	False	
+subflava	map01200	Carbon metabolism	2	16	24	445	2.49866126087463	0.261166712596619	11.8974472918951	0.22615634365938	1	False	clust_2616,clust_5039
+subflava	map01220	Degradation of aromatic compounds	0	16	12	445	0	0	10.7606540647134	1	1	False	
+subflava	map01230	Biosynthesis of amino acids	1	16	7	445	4.14654461984524	0.0868336580924023	35.8613368550334	0.247834065296559	1	False	clust_2616
+subflava	map01232	Nucleotide metabolism	0	16	9	445	0	0	15.1478486510218	1	1	False	
+subflava	map01240	Biosynthesis of cofactors	2	16	28	445	2.12277082059652	0.223453505953993	9.98707435952132	0.279589590526609	1	False	clust_157,clust_8397
+subflava	map01250	Biosynthesis of nucleotide sugars	0	16	13	445	0	0	9.80479129872803	1	1	False	
+subflava	map01501	beta-Lactam resistance	1	16	19	445	1.49317278928006	0.0337518880500494	10.7616043413467	0.514090856426611	1	False	clust_2784
+subflava	map01503	Cationic antimicrobial peptide (CAMP) resistance	2	16	28	445	2.12277082059652	0.223453505953993	9.98707435952132	0.279589590526609	1	False	clust_1520,clust_3144
+subflava	map02010	ABC transporters	0	16	25	445	0	0	4.66675354399395	1	1	False	
+subflava	map02020	Two-component system	1	16	34	445	0.80620418190187	0.0186029480724345	5.55945074659084	1	1	False	clust_2784
+subflava	map02024	Quorum sensing	1	16	25	445	1.11970261969299	0.02559381590459	7.87588921827087	0.611226871216435	1	False	clust_3144
+subflava	map03030	DNA replication	0	16	13	445	0	0	9.80479129872803	1	1	False	
+subflava	map03060	Protein export	0	16	8	445	0	0	17.4926133402019	1	1	False	
+subflava	map03070	Bacterial secretion system	1	16	88	445	0.270962410983881	0.0063569197500344	1.80748165873512	0.32911961546623	1	False	clust_7708
+subflava	map03420	Nucleotide excision repair	0	16	6	445	0	0	25.2328816682047	1	1	False	
+subflava	map03430	Mismatch repair	0	16	20	445	0	0	5.99873657299156	1	1	False	
+subflava	map03440	Homologous recombination	0	16	8	445	0	0	17.4926133402019	1	1	False	
+subflava	map05111	Biofilm formation - Vibrio cholerae	0	16	6	445	0	0	25.2328816682047	1	1	False	
+perflava	map00010	Glycolysis / Gluconeogenesis	0	12	19	449	0	0	8.86303960613508	1	1	False	
+perflava	map00052	Galactose metabolism	1	12	7	449	5.69113003636279	0.116862402938551	51.219298360149	0.191554960429383	1	False	clust_1983
+perflava	map00071	Fatty acid degradation	0	12	6	449	0	0	34.8681701593959	1	1	False	
+perflava	map00190	Oxidative phosphorylation	0	12	6	449	0	0	34.8681701593959	1	1	False	
+perflava	map00220	Arginine biosynthesis	0	12	5	449	0	0	44.4810432946327	1	1	False	
+perflava	map00230	Purine metabolism	1	12	12	449	3.29571659911518	0.0710622654640691	26.4277386404364	0.293536382473573	1	False	clust_2732
+perflava	map00250	Alanine, aspartate and glutamate metabolism	0	12	8	449	0	0	24.233635988532	1	1	False	
+perflava	map00270	Cysteine and methionine metabolism	0	12	19	449	0	0	8.86303960613508	1	1	False	
+perflava	map00290	Valine, leucine and isoleucine biosynthesis	0	12	8	449	0	0	24.233635988532	1	1	False	
+perflava	map00350	Tyrosine metabolism	0	12	8	449	0	0	24.233635988532	1	1	False	
+perflava	map00360	Phenylalanine metabolism	0	12	5	449	0	0	44.4810432946327	1	1	False	
+perflava	map00362	Benzoate degradation	0	12	6	449	0	0	34.8681701593959	1	1	False	
+perflava	map00450	Selenocompound metabolism	1	12	4	449	9.95747905111271	0.188412456571477	112.710364320439	0.124061476000944	1	False	clust_2732
+perflava	map00500	Starch and sucrose metabolism	0	12	22	449	0	0	7.5180175292402	1	1	False	
+perflava	map00520	Amino sugar and nucleotide sugar metabolism	1	12	12	449	3.29571659911518	0.0710622654640691	26.4277386404364	0.293536382473573	1	False	clust_1983
+perflava	map00540	Lipopolysaccharide biosynthesis	3	12	19	449	7.4687525304024	1.20494070144933	33.3142912644664	0.0157223605045466	0.462283684452498	True	clust_11825,clust_2927,clust_4076
+perflava	map00541	Biosynthesis of various nucleotide sugars	1	12	7	449	5.69113003636279	0.116862402938551	51.219298360149	0.191554960429383	1	False	clust_1983
+perflava	map00552	Teichoic acid biosynthesis	1	12	12	449	3.29571659911518	0.0710622654640691	26.4277386404364	0.293536382473573	1	False	clust_2927
+perflava	map00561	Glycerolipid metabolism	1	12	5	449	7.97410067325665	0.156597096780806	80.7162253229257	0.147112489790392	1	False	clust_2927
+perflava	map00564	Glycerophospholipid metabolism	0	12	7	449	0	0	28.6130007280735	1	1	False	
+perflava	map00620	Pyruvate metabolism	0	12	28	449	0	0	5.73847041327509	1	1	False	
+perflava	map00625	Chloroalkane and chloroalkene degradation	0	12	6	449	0	0	34.8681701593959	1	1	False	
+perflava	map00626	Naphthalene degradation	0	12	6	449	0	0	34.8681701593959	1	1	False	
+perflava	map00630	Glyoxylate and dicarboxylate metabolism	0	12	11	449	0	0	16.5602413760391	1	1	False	
+perflava	map00640	Propanoate metabolism	0	12	14	449	0	0	12.5259973729714	1	1	False	
+perflava	map00650	Butanoate metabolism	0	12	5	449	0	0	44.4810432946327	1	1	False	
+perflava	map00680	Methane metabolism	0	12	17	449	0	0	10.0470380292186	1	1	False	
+perflava	map00720	Other carbon fixation pathways	0	12	15	449	0	0	11.5771722713026	1	1	False	
+perflava	map00730	Thiamine metabolism	0	12	10	449	0	0	18.5264781946872	1	1	False	
+perflava	map00760	Nicotinate and nicotinamide metabolism	0	12	5	449	0	0	44.4810432946327	1	1	False	
+perflava	map00790	Folate biosynthesis	1	12	5	449	7.97410067325665	0.156597096780806	80.7162253229257	0.147112489790392	1	False	clust_470
+perflava	map00860	Porphyrin metabolism	1	12	10	449	3.96817821268821	0.0843806870571347	32.8341560246284	0.254250264248693	1	False	clust_3398
+perflava	map00910	Nitrogen metabolism	0	12	5	449	0	0	44.4810432946327	1	1	False	
+perflava	map00920	Sulfur metabolism	3	12	10	449	14.3551866634787	2.18044158856767	70.4754310197225	0.003341741425759	0.138137604956617	True	clust_12970,clust_2732,clust_2745
+perflava	map00970	Aminoacyl-tRNA biosynthesis	1	12	9	449	4.41559572926459	0.0930399726015024	37.3197601530085	0.233865305640457	1	False	clust_13161
+perflava	map01200	Carbon metabolism	0	12	26	449	0	0	6.23509587052539	1	1	False	
+perflava	map01220	Degradation of aromatic compounds	0	12	12	449	0	0	14.9640279643191	1	1	False	
+perflava	map01230	Biosynthesis of amino acids	0	12	8	449	0	0	24.233635988532	1	1	False	
+perflava	map01232	Nucleotide metabolism	0	12	9	449	0	0	21.0152596251943	1	1	False	
+perflava	map01240	Biosynthesis of cofactors	2	12	28	449	2.99591057025821	0.305026026391728	15.0983904290304	0.180106092534447	1	False	clust_3398,clust_470
+perflava	map01250	Biosynthesis of nucleotide sugars	1	12	12	449	3.29571659911518	0.0710622654640691	26.4277386404364	0.293536382473573	1	False	clust_1983
+perflava	map01501	beta-Lactam resistance	0	12	20	449	0	0	8.36649790476494	1	1	False	
+perflava	map01503	Cationic antimicrobial peptide (CAMP) resistance	2	12	28	449	2.99591057025821	0.305026026391728	15.0983904290304	0.180106092534447	1	False	clust_1126,clust_2927
+perflava	map02010	ABC transporters	0	12	25	449	0	0	6.51501928970144	1	1	False	
+perflava	map02020	Two-component system	0	12	35	449	0	0	4.46645324938595	0.612290300818896	1	False	
+perflava	map02024	Quorum sensing	1	12	25	449	1.54006129911822	0.0344588144193938	11.405941885646	0.506054797098007	1	False	clust_1126
+perflava	map03030	DNA replication	0	12	13	449	0	0	13.6384424301117	1	1	False	
+perflava	map03060	Protein export	0	12	8	449	0	0	24.233635988532	1	1	False	
+perflava	map03070	Bacterial secretion system	1	12	88	449	0.373513513035757	0.0085717587580329	2.63249790951076	0.476215012842244	1	False	clust_2055
+perflava	map03420	Nucleotide excision repair	0	12	6	449	0	0	34.8681701593959	1	1	False	
+perflava	map03430	Mismatch repair	0	12	20	449	0	0	8.36649790476494	1	1	False	
+perflava	map03440	Homologous recombination	0	12	8	449	0	0	24.233635988532	1	1	False	
+perflava	map05111	Biofilm formation - Vibrio cholerae	0	12	6	449	0	0	34.8681701593959	1	1	False	
+flavescens	map00010	Glycolysis / Gluconeogenesis	0	25	19	436	0	0	3.83619800610875	0.614571651373482	1	False	
+flavescens	map00052	Galactose metabolism	0	25	8	436	0	0	10.6315751818517	1	1	False	
+flavescens	map00071	Fatty acid degradation	0	25	6	436	0	0	15.3818692927872	1	1	False	
+flavescens	map00190	Oxidative phosphorylation	0	25	6	436	0	0	15.3818692927872	1	1	False	
+flavescens	map00220	Arginine biosynthesis	1	25	4	436	4.47187121001904	0.0877576585222321	47.5812025455619	0.244239833160477	1	False	clust_7336
+flavescens	map00230	Purine metabolism	0	25	13	436	0	0	5.9322377225819	1	1	False	
+flavescens	map00250	Alanine, aspartate and glutamate metabolism	1	25	7	436	2.54574738903622	0.0544181201597879	21.1716150481131	0.362096589660802	1	False	clust_7336
+flavescens	map00270	Cysteine and methionine metabolism	1	25	18	436	0.967660247034739	0.0223057891558532	6.67171251674604	1	1	False	clust_5414
+flavescens	map00290	Valine, leucine and isoleucine biosynthesis	0	25	8	436	0	0	10.6315751818517	1	1	False	
+flavescens	map00350	Tyrosine metabolism	0	25	8	436	0	0	10.6315751818517	1	1	False	
+flavescens	map00360	Phenylalanine metabolism	0	25	5	436	0	0	19.7177998525062	1	1	False	
+flavescens	map00362	Benzoate degradation	0	25	6	436	0	0	15.3818692927872	1	1	False	
+flavescens	map00450	Selenocompound metabolism	0	25	5	436	0	0	19.7177998525062	1	1	False	
+flavescens	map00500	Starch and sucrose metabolism	1	25	21	436	0.823718069604522	0.01912415955166	5.58788935537224	1	1	False	clust_277
+flavescens	map00520	Amino sugar and nucleotide sugar metabolism	1	25	12	436	1.47075323121086	0.0330784781884563	10.7501738400608	0.520356105867998	1	False	clust_5774
+flavescens	map00540	Lipopolysaccharide biosynthesis	1	25	21	436	0.823718069604522	0.01912415955166	5.58788935537224	1	1	False	clust_9538
+flavescens	map00541	Biosynthesis of various nucleotide sugars	1	25	7	436	2.54574738903622	0.0544181201597879	21.1716150481131	0.362096589660802	1	False	clust_2842
+flavescens	map00552	Teichoic acid biosynthesis	4	25	9	436	8.93440045581123	1.85875826724645	35.4493253890621	0.0034751598731224	0.138137604956617	True	clust_2544,clust_2842,clust_5092,clust_9538
+flavescens	map00561	Glycerolipid metabolism	1	25	5	436	3.57430880942148	0.0729326016724445	33.7973399875271	0.285674052833696	1	False	clust_9538
+flavescens	map00564	Glycerophospholipid metabolism	0	25	7	436	0	0	12.5856528658927	1	1	False	
+flavescens	map00620	Pyruvate metabolism	0	25	28	436	0	0	2.47469397100895	0.387666160480628	1	False	
+flavescens	map00625	Chloroalkane and chloroalkene degradation	0	25	6	436	0	0	15.3818692927872	1	1	False	
+flavescens	map00626	Naphthalene degradation	0	25	6	436	0	0	15.3818692927872	1	1	False	
+flavescens	map00630	Glyoxylate and dicarboxylate metabolism	1	25	10	436	1.77217551906388	0.0392838101666997	13.419658114777	0.462197287406376	1	False	clust_2842
+flavescens	map00640	Propanoate metabolism	0	25	14	436	0	0	5.44278019880521	1	1	False	
+flavescens	map00650	Butanoate metabolism	0	25	5	436	0	0	19.7177998525062	1	1	False	
+flavescens	map00680	Methane metabolism	1	25	16	436	1.09350443582932	0.0250511675869952	7.64926962021959	1	1	False	clust_2842
+flavescens	map00720	Other carbon fixation pathways	0	25	15	436	0	0	5.02595769616001	1	1	False	
+flavescens	map00730	Thiamine metabolism	1	25	9	436	1.97294842414702	0.0433184036643655	15.302777057601	0.430636095352759	1	False	clust_2544
+flavescens	map00760	Nicotinate and nicotinamide metabolism	0	25	5	436	0	0	19.7177998525062	1	1	False	
+flavescens	map00790	Folate biosynthesis	0	25	6	436	0	0	15.3818692927872	1	1	False	
+flavescens	map00860	Porphyrin metabolism	0	25	11	436	0	0	7.22042750878253	1	1	False	
+flavescens	map00910	Nitrogen metabolism	1	25	4	436	4.47187121001904	0.0877576585222321	47.5812025455619	0.244239833160477	1	False	clust_5117
+flavescens	map00920	Sulfur metabolism	0	25	13	436	0	0	5.9322377225819	1	1	False	
+flavescens	map00970	Aminoacyl-tRNA biosynthesis	1	25	9	436	1.97294842414702	0.0433184036643655	15.302777057601	0.430636095352759	1	False	clust_12178
+flavescens	map01200	Carbon metabolism	1	25	25	436	0.685498830506195	0.0160246390726897	4.57739170106521	1	1	False	clust_2842
+flavescens	map01220	Degradation of aromatic compounds	0	25	12	436	0	0	6.51501928970144	1	1	False	
+flavescens	map01230	Biosynthesis of amino acids	2	25	6	436	6.17872261667489	0.579709270856175	37.111409721332	0.0647057223698009	1	False	clust_2842,clust_7336
+flavescens	map01232	Nucleotide metabolism	0	25	9	436	0	0	9.19338188968061	1	1	False	
+flavescens	map01240	Biosynthesis of cofactors	5	25	25	436	4.08885894857086	1.10706590473097	12.5381928956373	0.0174446673378301	0.462283684452498	True	clust_2842,clust_4622,clust_5777,clust_5919,clust_9709
+flavescens	map01250	Biosynthesis of nucleotide sugars	2	25	11	436	3.34503124245437	0.341069848670057	16.7306769427727	0.15270453607342	1	False	clust_2842,clust_5774
+flavescens	map01501	beta-Lactam resistance	1	25	19	436	0.914640871391656	0.0211391276671614	6.26864851454605	1	1	False	clust_763
+flavescens	map01503	Cationic antimicrobial peptide (CAMP) resistance	1	25	29	436	0.58532354333723	0.0137551141462235	3.86523647815878	1	1	False	clust_9538
+flavescens	map02010	ABC transporters	7	25	18	436	8.9347064506636	2.79502413258936	26.2545322054315	0.0001448335285118	0.0230285310333911	True	clust_10963,clust_12859,clust_3148,clust_5018,clust_5625,clust_8516,clust_8517
+flavescens	map02020	Two-component system	1	25	34	436	0.493226773664471	0.0116451273316679	3.22373998405505	0.710438891458636	1	False	clust_2277
+flavescens	map02024	Quorum sensing	0	25	26	436	0	0	2.69052700819601	0.385067481859769	1	False	
+flavescens	map03030	DNA replication	0	25	13	436	0	0	5.9322377225819	1	1	False	
+flavescens	map03060	Protein export	0	25	8	436	0	0	10.6315751818517	1	1	False	
+flavescens	map03070	Bacterial secretion system	2	25	87	436	0.349398551779916	0.0391991482385331	1.45943001776147	0.193303813389821	1	False	clust_2989,clust_3020
+flavescens	map03420	Nucleotide excision repair	0	25	6	436	0	0	15.3818692927872	1	1	False	
+flavescens	map03430	Mismatch repair	0	25	20	436	0	0	3.61921945763381	0.616315671050525	1	False	
+flavescens	map03440	Homologous recombination	0	25	8	436	0	0	10.6315751818517	1	1	False	
+flavescens	map05111	Biofilm formation - Vibrio cholerae	0	25	6	436	0	0	15.3818692927872	1	1	False	

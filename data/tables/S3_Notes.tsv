@@ -1,0 +1,8 @@
+Item	Definition
+Scope	Overall cohort: 152 genomes. Primary reference-group comparisons: 144 genomes (23 subflava, 114 perflava, 7 flavescens). Eight species-unresolved genomes are descriptive only.
+Gene associations	3,165 eligible shell/cloud clusters generated 9,495 two-sided Fisher tests. BH correction covers the full family. Candidates require q<0.05, focal prevalence >80%, and remaining-group prevalence <20%.
+Counts	The 181 associations represent 180 clusters; clust_1379 belongs to both the subflava and flavescens candidate sets. a/b are focal presence/absence; c/d are remaining-group presence/absence.
+COG	Composition is descriptive; percentages use COG-annotated clusters. Multi-category clusters count once per category. Core includes strict core and 151/152 prevalence clusters. COG tests cover 72 valid candidate-set/category comparisons.
+KEGG	Each candidate set is compared with remaining pathway-annotated eligible clusters. Tests cover 53 pathways × 3 sets = 159 comparisons; maps 01100, 01110 and 01120 and pathways with fewer than five eligible clusters are excluded.
+Exploratory display	Fig. 4D uses unadjusted P<0.05 and OR>1. All BH q values remain provided. Maps do not establish pathway completeness or activity.
+Missing values	Blank means unavailable or not tested. Inf denotes an unbounded odds-ratio or confidence-limit estimate.

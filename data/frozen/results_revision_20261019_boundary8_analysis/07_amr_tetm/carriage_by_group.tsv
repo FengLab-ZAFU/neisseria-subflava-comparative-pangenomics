@@ -1,0 +1,61 @@
+analysis_scope	group	feature	n_total	n_evaluable	n_positive	proportion	wilson_low	wilson_high	status	reason
+overall152	overall152	gene:tet(M)	152	152	38	0.250000	0.187900	0.324425	OK	
+primary144	subflava	gene:tet(M)	23	23	0	0.000000	0.000000	0.143117	OK	
+primary144	perflava	gene:tet(M)	114	114	35	0.307018	0.229791	0.396826	OK	
+primary144	flavescens	gene:tet(M)	7	7	0	0.000000	0.000000	0.354330	OK	
+descriptive8	descriptive8	gene:tet(M)	8	8	3	0.375000	0.136844	0.694258	OK	
+overall152	overall152	family:APH(3'')	152	152	4	0.026316	0.010280	0.065704	OK	
+primary144	subflava	family:APH(3'')	23	23	0	0.000000	0.000000	0.143117	OK	
+primary144	perflava	family:APH(3'')	114	114	4	0.035088	0.013728	0.086758	OK	
+primary144	flavescens	family:APH(3'')	7	7	0	0.000000	0.000000	0.354330	OK	
+descriptive8	descriptive8	family:APH(3'')	8	8	0	0.000000	0.000000	0.324408	OK	
+overall152	overall152	family:APH(3')	152	152	1	0.006579	0.001162	0.036321	OK	
+primary144	subflava	family:APH(3')	23	23	0	0.000000	0.000000	0.143117	OK	
+primary144	perflava	family:APH(3')	114	114	1	0.008772	0.001550	0.048020	OK	
+primary144	flavescens	family:APH(3')	7	7	0	0.000000	0.000000	0.354330	OK	
+descriptive8	descriptive8	family:APH(3')	8	8	0	0.000000	0.000000	0.324408	OK	
+overall152	overall152	family:APH(6)	152	152	4	0.026316	0.010280	0.065704	OK	
+primary144	subflava	family:APH(6)	23	23	0	0.000000	0.000000	0.143117	OK	
+primary144	perflava	family:APH(6)	114	114	4	0.035088	0.013728	0.086758	OK	
+primary144	flavescens	family:APH(6)	7	7	0	0.000000	0.000000	0.354330	OK	
+descriptive8	descriptive8	family:APH(6)	8	8	0	0.000000	0.000000	0.324408	OK	
+overall152	overall152	family:ROB beta-lactamase	152	152	1	0.006579	0.001162	0.036321	OK	
+primary144	subflava	family:ROB beta-lactamase	23	23	0	0.000000	0.000000	0.143117	OK	
+primary144	perflava	family:ROB beta-lactamase	114	114	1	0.008772	0.001550	0.048020	OK	
+primary144	flavescens	family:ROB beta-lactamase	7	7	0	0.000000	0.000000	0.354330	OK	
+descriptive8	descriptive8	family:ROB beta-lactamase	8	8	0	0.000000	0.000000	0.324408	OK	
+overall152	overall152	family:TEM beta-lactamase	152	152	3	0.019737	0.006735	0.056416	OK	
+primary144	subflava	family:TEM beta-lactamase	23	23	0	0.000000	0.000000	0.143117	OK	
+primary144	perflava	family:TEM beta-lactamase	114	114	3	0.026316	0.008990	0.074525	OK	
+primary144	flavescens	family:TEM beta-lactamase	7	7	0	0.000000	0.000000	0.354330	OK	
+descriptive8	descriptive8	family:TEM beta-lactamase	8	8	0	0.000000	0.000000	0.324408	OK	
+overall152	overall152	family:major facilitator superfamily (MFS) antibiotic efflux pump	152	152	2	0.013158	0.003616	0.046701	OK	
+primary144	subflava	family:major facilitator superfamily (MFS) antibiotic efflux pump	23	23	1	0.043478	0.007717	0.209912	OK	
+primary144	perflava	family:major facilitator superfamily (MFS) antibiotic efflux pump	114	114	1	0.008772	0.001550	0.048020	OK	
+primary144	flavescens	family:major facilitator superfamily (MFS) antibiotic efflux pump	7	7	0	0.000000	0.000000	0.354330	OK	
+descriptive8	descriptive8	family:major facilitator superfamily (MFS) antibiotic efflux pump	8	8	0	0.000000	0.000000	0.324408	OK	
+overall152	overall152	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	152	152	1	0.006579	0.001162	0.036321	OK	
+primary144	subflava	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	23	23	0	0.000000	0.000000	0.143117	OK	
+primary144	perflava	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	114	114	1	0.008772	0.001550	0.048020	OK	
+primary144	flavescens	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	7	7	0	0.000000	0.000000	0.354330	OK	
+descriptive8	descriptive8	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	8	8	0	0.000000	0.000000	0.324408	OK	
+overall152	overall152	family:small multidrug resistance (SMR) antibiotic efflux pump	152	152	7	0.046053	0.022484	0.092000	OK	
+primary144	subflava	family:small multidrug resistance (SMR) antibiotic efflux pump	23	23	3	0.130435	0.045377	0.321275	OK	
+primary144	perflava	family:small multidrug resistance (SMR) antibiotic efflux pump	114	114	2	0.017544	0.004824	0.061718	OK	
+primary144	flavescens	family:small multidrug resistance (SMR) antibiotic efflux pump	7	7	1	0.142857	0.025680	0.513128	OK	
+descriptive8	descriptive8	family:small multidrug resistance (SMR) antibiotic efflux pump	8	8	1	0.125000	0.022417	0.470888	OK	
+overall152	overall152	family:streptothricin acetyltransferase (SAT)	152	152	1	0.006579	0.001162	0.036321	OK	
+primary144	subflava	family:streptothricin acetyltransferase (SAT)	23	23	0	0.000000	0.000000	0.143117	OK	
+primary144	perflava	family:streptothricin acetyltransferase (SAT)	114	114	1	0.008772	0.001550	0.048020	OK	
+primary144	flavescens	family:streptothricin acetyltransferase (SAT)	7	7	0	0.000000	0.000000	0.354330	OK	
+descriptive8	descriptive8	family:streptothricin acetyltransferase (SAT)	8	8	0	0.000000	0.000000	0.324408	OK	
+overall152	overall152	family:sulfonamide resistant sul	152	152	3	0.019737	0.006735	0.056416	OK	
+primary144	subflava	family:sulfonamide resistant sul	23	23	0	0.000000	0.000000	0.143117	OK	
+primary144	perflava	family:sulfonamide resistant sul	114	114	3	0.026316	0.008990	0.074525	OK	
+primary144	flavescens	family:sulfonamide resistant sul	7	7	0	0.000000	0.000000	0.354330	OK	
+descriptive8	descriptive8	family:sulfonamide resistant sul	8	8	0	0.000000	0.000000	0.324408	OK	
+overall152	overall152	family:tetracycline-resistant ribosomal protection protein	152	152	38	0.250000	0.187900	0.324425	OK	
+primary144	subflava	family:tetracycline-resistant ribosomal protection protein	23	23	0	0.000000	0.000000	0.143117	OK	
+primary144	perflava	family:tetracycline-resistant ribosomal protection protein	114	114	35	0.307018	0.229791	0.396826	OK	
+primary144	flavescens	family:tetracycline-resistant ribosomal protection protein	7	7	0	0.000000	0.000000	0.354330	OK	
+descriptive8	descriptive8	family:tetracycline-resistant ribosomal protection protein	8	8	3	0.375000	0.136844	0.694258	OK	

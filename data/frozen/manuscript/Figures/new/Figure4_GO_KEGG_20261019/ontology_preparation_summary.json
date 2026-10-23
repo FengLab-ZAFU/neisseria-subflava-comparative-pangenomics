@@ -1,0 +1,18 @@
+{
+  "GO_ontology_version": "releases/2026-07-26",
+  "GO_relations": [
+    "is_a",
+    "part_of"
+  ],
+  "GO_roots_excluded": [
+    "GO:0003674",
+    "GO:0005575",
+    "GO:0008150"
+  ],
+  "active_GO_terms": 38092,
+  "unresolved_source_GO_terms": 0,
+  "membership_rows": 83281,
+  "KEGG_pathway_names": 587,
+  "annotation_mapping": "exact representative sequence SHA256",
+  "scope": "gene-cluster-level annotation; no pathway completeness or activity inference"
+}

@@ -1,0 +1,1074 @@
+frame	frame_n	field	value	n	fraction
+screening_frame_1303	1303	host	not_reported	719	0.5518
+screening_frame_1303	1303	host	Homo sapiens	477	0.3661
+screening_frame_1303	1303	host	Sus scrofa	56	0.0430
+screening_frame_1303	1303	host	Felis catus	4	0.0031
+screening_frame_1303	1303	host	Marmot	4	0.0031
+screening_frame_1303	1303	host	Ochotona curzoniae	3	0.0023
+screening_frame_1303	1303	host	Oryctolagus cuniculus	3	0.0023
+screening_frame_1303	1303	host	Tapirus terrestris	3	0.0023
+screening_frame_1303	1303	host	Anser albifrons	2	0.0015
+screening_frame_1303	1303	host	Chelonoides carbonaria	2	0.0015
+screening_frame_1303	1303	host	Marmota	2	0.0015
+screening_frame_1303	1303	host	Mus musculus subsp. domesticus	2	0.0015
+screening_frame_1303	1303	host	Suricata suricatta	2	0.0015
+screening_frame_1303	1303	host	Zalophus californianus	2	0.0015
+screening_frame_1303	1303	host	marmot	2	0.0015
+screening_frame_1303	1303	host	Apodemus sylvaticus	1	0.0008
+screening_frame_1303	1303	host	Apodemus sylvaticus (wood mouse)	1	0.0008
+screening_frame_1303	1303	host	Canis lupus familiaris	1	0.0008
+screening_frame_1303	1303	host	Dog	1	0.0008
+screening_frame_1303	1303	host	Gorilla gorilla	1	0.0008
+screening_frame_1303	1303	host	Guinea pig	1	0.0008
+screening_frame_1303	1303	host	Guinea-pig	1	0.0008
+screening_frame_1303	1303	host	Human (adult)	1	0.0008
+screening_frame_1303	1303	host	Leptailurus serval	1	0.0008
+screening_frame_1303	1303	host	Mus musculus	1	0.0008
+screening_frame_1303	1303	host	Ovis aries	1	0.0008
+screening_frame_1303	1303	host	Rousettus aegyptiacus	1	0.0008
+screening_frame_1303	1303	host	Zophobas morio	1	0.0008
+screening_frame_1303	1303	host	cow	1	0.0008
+screening_frame_1303	1303	host	gander	1	0.0008
+screening_frame_1303	1303	host	goose	1	0.0008
+screening_frame_1303	1303	host	horse	1	0.0008
+screening_frame_1303	1303	host	iguanid lizards	1	0.0008
+screening_frame_1303	1303	host	not available	1	0.0008
+screening_frame_1303	1303	host	plateau pika	1	0.0008
+screening_frame_1303	1303	isolation_source	not_reported	493	0.3784
+screening_frame_1303	1303	isolation_source	saliva	101	0.0775
+screening_frame_1303	1303	isolation_source	oral metagenome	100	0.0767
+screening_frame_1303	1303	isolation_source	human oral metagenome	95	0.0729
+screening_frame_1303	1303	isolation_source	oral cavity	75	0.0576
+screening_frame_1303	1303	isolation_source	dental calculus	55	0.0422
+screening_frame_1303	1303	isolation_source	dental plaque	44	0.0338
+screening_frame_1303	1303	isolation_source	not collected	35	0.0269
+screening_frame_1303	1303	isolation_source	sputum	23	0.0177
+screening_frame_1303	1303	isolation_source	Homo sapiens	22	0.0169
+screening_frame_1303	1303	isolation_source	human saliva	16	0.0123
+screening_frame_1303	1303	isolation_source	pharyngeal	14	0.0107
+screening_frame_1303	1303	isolation_source	human	11	0.0084
+screening_frame_1303	1303	isolation_source	human gastric aspirate	10	0.0077
+screening_frame_1303	1303	isolation_source	throat	9	0.0069
+screening_frame_1303	1303	isolation_source	human duodenal aspirate	8	0.0061
+screening_frame_1303	1303	isolation_source	lung	6	0.0046
+screening_frame_1303	1303	isolation_source	nasopharyngeal carcinoma	6	0.0046
+screening_frame_1303	1303	isolation_source	throat swab	6	0.0046
+screening_frame_1303	1303	isolation_source	freshwater metagenome	5	0.0038
+screening_frame_1303	1303	isolation_source	human gut	5	0.0038
+screening_frame_1303	1303	isolation_source	human saliva metagenome	5	0.0038
+screening_frame_1303	1303	isolation_source	infant feces	5	0.0038
+screening_frame_1303	1303	isolation_source	not provided	5	0.0038
+screening_frame_1303	1303	isolation_source	wastewater metagenome	5	0.0038
+screening_frame_1303	1303	isolation_source	Nasopharygeal carriage	4	0.0031
+screening_frame_1303	1303	isolation_source	Semen	4	0.0031
+screening_frame_1303	1303	isolation_source	blood	4	0.0031
+screening_frame_1303	1303	isolation_source	bronchial washing	4	0.0031
+screening_frame_1303	1303	isolation_source	human gut metagenome	4	0.0031
+screening_frame_1303	1303	isolation_source	respiratory tract	4	0.0031
+screening_frame_1303	1303	isolation_source	tooth	4	0.0031
+screening_frame_1303	1303	isolation_source	duodenal mucosa	3	0.0023
+screening_frame_1303	1303	isolation_source	environmental	3	0.0023
+screening_frame_1303	1303	isolation_source	human skin	3	0.0023
+screening_frame_1303	1303	isolation_source	metagenome	3	0.0023
+screening_frame_1303	1303	isolation_source	not available: to be reported later	3	0.0023
+screening_frame_1303	1303	isolation_source	oropharyngeal swab	3	0.0023
+screening_frame_1303	1303	isolation_source	respiratory	3	0.0023
+screening_frame_1303	1303	isolation_source	trachael aspirate	3	0.0023
+screening_frame_1303	1303	isolation_source	wound	3	0.0023
+screening_frame_1303	1303	isolation_source	Human nasopharynx	2	0.0015
+screening_frame_1303	1303	isolation_source	Human sputum	2	0.0015
+screening_frame_1303	1303	isolation_source	bronchoalveolar lavage	2	0.0015
+screening_frame_1303	1303	isolation_source	feces	2	0.0015
+screening_frame_1303	1303	isolation_source	human feces	2	0.0015
+screening_frame_1303	1303	isolation_source	nasopharynx	2	0.0015
+screening_frame_1303	1303	isolation_source	pharyngeal mucosa	2	0.0015
+screening_frame_1303	1303	isolation_source	pus	2	0.0015
+screening_frame_1303	1303	isolation_source	trach aspirate	2	0.0015
+screening_frame_1303	1303	isolation_source	tracheal aspirate	2	0.0015
+screening_frame_1303	1303	isolation_source	Abscess following dog bite	1	0.0008
+screening_frame_1303	1303	isolation_source	Blood culture	1	0.0008
+screening_frame_1303	1303	isolation_source	Bronchoalveolar lavage	1	0.0008
+screening_frame_1303	1303	isolation_source	Bronchoavleolar lavage	1	0.0008
+screening_frame_1303	1303	isolation_source	Dental plaque	1	0.0008
+screening_frame_1303	1303	isolation_source	Dog-bite wound	1	0.0008
+screening_frame_1303	1303	isolation_source	Eggs	1	0.0008
+screening_frame_1303	1303	isolation_source	Guinea pig	1	0.0008
+screening_frame_1303	1303	isolation_source	Intestinal contents of plateau pika	1	0.0008
+screening_frame_1303	1303	isolation_source	Nonviable goose egg	1	0.0008
+screening_frame_1303	1303	isolation_source	Nose	1	0.0008
+screening_frame_1303	1303	isolation_source	Oral	1	0.0008
+screening_frame_1303	1303	isolation_source	Oropharyngeal swab	1	0.0008
+screening_frame_1303	1303	isolation_source	Oropharynx	1	0.0008
+screening_frame_1303	1303	isolation_source	Pharyngeal mucosa	1	0.0008
+screening_frame_1303	1303	isolation_source	Pharynx	1	0.0008
+screening_frame_1303	1303	isolation_source	Plumbing	1	0.0008
+screening_frame_1303	1303	isolation_source	Rabbit liver	1	0.0008
+screening_frame_1303	1303	isolation_source	Rabbit nose	1	0.0008
+screening_frame_1303	1303	isolation_source	Rabbit, lung	1	0.0008
+screening_frame_1303	1303	isolation_source	Respiratory	1	0.0008
+screening_frame_1303	1303	isolation_source	Shenzhen	1	0.0008
+screening_frame_1303	1303	isolation_source	Skin wound	1	0.0008
+screening_frame_1303	1303	isolation_source	Spinal fluid	1	0.0008
+screening_frame_1303	1303	isolation_source	Throat of healthy child	1	0.0008
+screening_frame_1303	1303	isolation_source	Thumb	1	0.0008
+screening_frame_1303	1303	isolation_source	Water from Urban Wastewater	1	0.0008
+screening_frame_1303	1303	isolation_source	Wound swab	1	0.0008
+screening_frame_1303	1303	isolation_source	abdominal fluid	1	0.0008
+screening_frame_1303	1303	isolation_source	aspirate	1	0.0008
+screening_frame_1303	1303	isolation_source	dental plaque of cows	1	0.0008
+screening_frame_1303	1303	isolation_source	expectorate	1	0.0008
+screening_frame_1303	1303	isolation_source	expectorated sputum	1	0.0008
+screening_frame_1303	1303	isolation_source	food production metagenome	1	0.0008
+screening_frame_1303	1303	isolation_source	gut	1	0.0008
+screening_frame_1303	1303	isolation_source	hospital shower hose biofilm	1	0.0008
+screening_frame_1303	1303	isolation_source	human blood culture	1	0.0008
+screening_frame_1303	1303	isolation_source	human feces metagenome	1	0.0008
+screening_frame_1303	1303	isolation_source	human sputum, chronic bronchitis	1	0.0008
+screening_frame_1303	1303	isolation_source	intestinal contents	1	0.0008
+screening_frame_1303	1303	isolation_source	intestine tissue	1	0.0008
+screening_frame_1303	1303	isolation_source	larvae tissues	1	0.0008
+screening_frame_1303	1303	isolation_source	marine sediment metagenome	1	0.0008
+screening_frame_1303	1303	isolation_source	mouth	1	0.0008
+screening_frame_1303	1303	isolation_source	nasopharynx, normal mucosa	1	0.0008
+screening_frame_1303	1303	isolation_source	oral mucosa	1	0.0008
+screening_frame_1303	1303	isolation_source	oral swab	1	0.0008
+screening_frame_1303	1303	isolation_source	oropharynx of Rhesus monkey	1	0.0008
+screening_frame_1303	1303	isolation_source	patient's arm wound	1	0.0008
+screening_frame_1303	1303	isolation_source	patient's peritoneal fluid	1	0.0008
+screening_frame_1303	1303	isolation_source	penis	1	0.0008
+screening_frame_1303	1303	isolation_source	pharynx of male patient	1	0.0008
+screening_frame_1303	1303	isolation_source	rectal contents	1	0.0008
+screening_frame_1303	1303	isolation_source	respiratory tract of Marmot	1	0.0008
+screening_frame_1303	1303	isolation_source	riverine metagenome	1	0.0008
+screening_frame_1303	1303	isolation_source	sinus	1	0.0008
+screening_frame_1303	1303	isolation_source	site not recorded	1	0.0008
+screening_frame_1303	1303	isolation_source	smooth surface caries of tooth	1	0.0008
+screening_frame_1303	1303	isolation_source	sputum (induced)	1	0.0008
+screening_frame_1303	1303	isolation_source	sputum induced	1	0.0008
+screening_frame_1303	1303	isolation_source	stool	1	0.0008
+screening_frame_1303	1303	isolation_source	submandibular wound of a 53-year-old man	1	0.0008
+screening_frame_1303	1303	isolation_source	tonsil swab	1	0.0008
+screening_frame_1303	1303	isolation_source	tssM knockout of parent strain KU1003-01	1	0.0008
+screening_frame_1303	1303	isolation_source	ulcer exudate	1	0.0008
+screening_frame_1303	1303	isolation_source	urethral swab	1	0.0008
+screening_frame_1303	1303	isolation_source	urine	1	0.0008
+screening_frame_1303	1303	isolation_source	wastewater treatment plant	1	0.0008
+screening_frame_1303	1303	isolation_source	water	1	0.0008
+screening_frame_1303	1303	geo_loc_name	not_reported	265	0.2034
+screening_frame_1303	1303	geo_loc_name	USA: Rochester, New York	145	0.1113
+screening_frame_1303	1303	geo_loc_name	Papua New Guinea	77	0.0591
+screening_frame_1303	1303	geo_loc_name	USA	77	0.0591
+screening_frame_1303	1303	geo_loc_name	not provided	75	0.0576
+screening_frame_1303	1303	geo_loc_name	China	69	0.0530
+screening_frame_1303	1303	geo_loc_name	China: Kunming	55	0.0422
+screening_frame_1303	1303	geo_loc_name	Cameroon	44	0.0338
+screening_frame_1303	1303	geo_loc_name	USA: Minnesota	37	0.0284
+screening_frame_1303	1303	geo_loc_name	Central African Republic	34	0.0261
+screening_frame_1303	1303	geo_loc_name	Malawi	30	0.0230
+screening_frame_1303	1303	geo_loc_name	Sweden	28	0.0215
+screening_frame_1303	1303	geo_loc_name	Japan: Tokyo	22	0.0169
+screening_frame_1303	1303	geo_loc_name	Spain	22	0.0169
+screening_frame_1303	1303	geo_loc_name	Australia	19	0.0146
+screening_frame_1303	1303	geo_loc_name	Germany	17	0.0130
+screening_frame_1303	1303	geo_loc_name	United Kingdom	15	0.0115
+screening_frame_1303	1303	geo_loc_name	Belgium: Antwerp	14	0.0107
+screening_frame_1303	1303	geo_loc_name	Philippines	12	0.0092
+screening_frame_1303	1303	geo_loc_name	Germany: Zoo Saarbruecken	11	0.0084
+screening_frame_1303	1303	geo_loc_name	Japan	11	0.0084
+screening_frame_1303	1303	geo_loc_name	Singapore: Singapore	11	0.0084
+screening_frame_1303	1303	geo_loc_name	China:Shenzhen	10	0.0077
+screening_frame_1303	1303	geo_loc_name	USA: UCLA School of Dentistry	10	0.0077
+screening_frame_1303	1303	geo_loc_name	Hong Kong	9	0.0069
+screening_frame_1303	1303	geo_loc_name	not determined	9	0.0069
+screening_frame_1303	1303	geo_loc_name	Netherlands	8	0.0061
+screening_frame_1303	1303	geo_loc_name	Democratic Republic of the Congo	7	0.0054
+screening_frame_1303	1303	geo_loc_name	USA: Maywood, IL	7	0.0054
+screening_frame_1303	1303	geo_loc_name	Denmark	6	0.0046
+screening_frame_1303	1303	geo_loc_name	USA: WA	6	0.0046
+screening_frame_1303	1303	geo_loc_name	United Kingdom: London	6	0.0046
+screening_frame_1303	1303	geo_loc_name	Japan:Hiroshima	5	0.0038
+screening_frame_1303	1303	geo_loc_name	USA: California	5	0.0038
+screening_frame_1303	1303	geo_loc_name	USA: Pittsburgh, Magee-Womens Hospital of UPMC	5	0.0038
+screening_frame_1303	1303	geo_loc_name	Brazil	4	0.0031
+screening_frame_1303	1303	geo_loc_name	Ethiopia	4	0.0031
+screening_frame_1303	1303	geo_loc_name	France	4	0.0031
+screening_frame_1303	1303	geo_loc_name	Italy: Naples	4	0.0031
+screening_frame_1303	1303	geo_loc_name	United Kingdom: Kingston upon Thames	4	0.0031
+screening_frame_1303	1303	geo_loc_name	not collected	4	0.0031
+screening_frame_1303	1303	geo_loc_name	Mali	3	0.0023
+screening_frame_1303	1303	geo_loc_name	Singapore	3	0.0023
+screening_frame_1303	1303	geo_loc_name	USA: North Carolina, Durham	3	0.0023
+screening_frame_1303	1303	geo_loc_name	USA:Minnesota	3	0.0023
+screening_frame_1303	1303	geo_loc_name	Barbados	2	0.0015
+screening_frame_1303	1303	geo_loc_name	Belgium	2	0.0015
+screening_frame_1303	1303	geo_loc_name	China: Xinjiang	2	0.0015
+screening_frame_1303	1303	geo_loc_name	China:Guangdong	2	0.0015
+screening_frame_1303	1303	geo_loc_name	China:Qinghai Province	2	0.0015
+screening_frame_1303	1303	geo_loc_name	Germany: Hamburg	2	0.0015
+screening_frame_1303	1303	geo_loc_name	South Korea	2	0.0015
+screening_frame_1303	1303	geo_loc_name	South Korea: Jeju	2	0.0015
+screening_frame_1303	1303	geo_loc_name	Switzerland	2	0.0015
+screening_frame_1303	1303	geo_loc_name	USA: New York	2	0.0015
+screening_frame_1303	1303	geo_loc_name	USA: San Francisco	2	0.0015
+screening_frame_1303	1303	geo_loc_name	USA: Texas	2	0.0015
+screening_frame_1303	1303	geo_loc_name	USA:NY	2	0.0015
+screening_frame_1303	1303	geo_loc_name	United Kingdom: Egham	2	0.0015
+screening_frame_1303	1303	geo_loc_name	Venezuela	2	0.0015
+screening_frame_1303	1303	geo_loc_name	Atlantic Ocean	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Bangladesh: Dhaka	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Brazil: Florianopolis	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Brazil: Parana State.	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Brazil: RS, Porto Alegre	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Brazil: Rio Grande do Sul State.	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Brazil:Parana	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Chad	1	0.0008
+screening_frame_1303	1303	geo_loc_name	China: Hegang	1	0.0008
+screening_frame_1303	1303	geo_loc_name	China: Qinghai	1	0.0008
+screening_frame_1303	1303	geo_loc_name	China: Yushu Autonomous Prefecture, Qinghai Province	1	0.0008
+screening_frame_1303	1303	geo_loc_name	China:Hangzhou	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Costa Rica	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Czech Republic	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Finland	1	0.0008
+screening_frame_1303	1303	geo_loc_name	France: Institut Pasteur Lyon	1	0.0008
+screening_frame_1303	1303	geo_loc_name	France: Marseille	1	0.0008
+screening_frame_1303	1303	geo_loc_name	France: Montreal	1	0.0008
+screening_frame_1303	1303	geo_loc_name	France: Paris	1	0.0008
+screening_frame_1303	1303	geo_loc_name	France: Tours, Departmental veterinary laboratory	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Gambia	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Greenland	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Kenya	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Luxembourg	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Malaysia	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Nepal	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Nicaragua	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Nigeria	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Nigeria: Sokoto Noma Hospital, Sokoto	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Norway: Oslo	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Russia: Moscow	1	0.0008
+screening_frame_1303	1303	geo_loc_name	South Korea: Gwangju	1	0.0008
+screening_frame_1303	1303	geo_loc_name	South Korea: Seoul	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Spain: Madrid	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Sweden: Gothenberg	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Switzerland: University of Bern	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Tanzania	1	0.0008
+screening_frame_1303	1303	geo_loc_name	USA: Arizona, Pima County, Tucson	1	0.0008
+screening_frame_1303	1303	geo_loc_name	USA: Denver	1	0.0008
+screening_frame_1303	1303	geo_loc_name	USA: Los Angeles, CA	1	0.0008
+screening_frame_1303	1303	geo_loc_name	USA: Louisville	1	0.0008
+screening_frame_1303	1303	geo_loc_name	USA: North Slope, Alaska	1	0.0008
+screening_frame_1303	1303	geo_loc_name	USA: Ohio	1	0.0008
+screening_frame_1303	1303	geo_loc_name	USA: The Marine Mammal Center facilities in California	1	0.0008
+screening_frame_1303	1303	geo_loc_name	USA: Virginia	1	0.0008
+screening_frame_1303	1303	geo_loc_name	USA:Arizona, Pima County, Tucson	1	0.0008
+screening_frame_1303	1303	geo_loc_name	USA:CA	1	0.0008
+screening_frame_1303	1303	geo_loc_name	USA:California	1	0.0008
+screening_frame_1303	1303	geo_loc_name	USA:DC	1	0.0008
+screening_frame_1303	1303	geo_loc_name	USA:VA	1	0.0008
+screening_frame_1303	1303	geo_loc_name	Ukraine	1	0.0008
+screening_frame_1303	1303	geo_loc_name	United Kingdom: Sheffield	1	0.0008
+screening_frame_1303	1303	geo_loc_name	United Kingdom:Northern Ireland, Londonderry	1	0.0008
+screening_frame_1303	1303	geo_loc_name	missing: lab stock	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJEB104944	180	0.1381
+screening_frame_1303	1303	study_namespace	PRJNA514245	151	0.1159
+screening_frame_1303	1303	study_namespace	PRJEB2090	100	0.0767
+screening_frame_1303	1303	study_namespace	PRJNA1273950	90	0.0691
+screening_frame_1303	1303	study_namespace	PRJNA1098453	55	0.0422
+screening_frame_1303	1303	study_namespace	PRJEB13104	54	0.0414
+screening_frame_1303	1303	study_namespace	PRJNA428750	37	0.0284
+screening_frame_1303	1303	study_namespace	PRJNA428178	35	0.0269
+screening_frame_1303	1303	study_namespace	PRJEB102291	34	0.0261
+screening_frame_1303	1303	study_namespace	PRJEB6403	17	0.0130
+screening_frame_1303	1303	study_namespace	PRJEB65351	16	0.0123
+screening_frame_1303	1303	study_namespace	PRJEB89475	16	0.0123
+screening_frame_1303	1303	study_namespace	PRJEB56889	12	0.0092
+screening_frame_1303	1303	study_namespace	PRJEB82487	12	0.0092
+screening_frame_1303	1303	study_namespace	PRJNA1206836	11	0.0084
+screening_frame_1303	1303	study_namespace	PRJNA983076	11	0.0084
+screening_frame_1303	1303	study_namespace	PRJEB15641	10	0.0077
+screening_frame_1303	1303	study_namespace	PRJEB56856	10	0.0077
+screening_frame_1303	1303	study_namespace	PRJEB65450	10	0.0077
+screening_frame_1303	1303	study_namespace	PRJEB87751	10	0.0077
+screening_frame_1303	1303	study_namespace	PRJNA624185	10	0.0077
+screening_frame_1303	1303	study_namespace	PRJNA714914	10	0.0077
+screening_frame_1303	1303	study_namespace	PRJEB65452	9	0.0069
+screening_frame_1303	1303	study_namespace	PRJNA647881	8	0.0061
+screening_frame_1303	1303	study_namespace	PRJEB66073	7	0.0054
+screening_frame_1303	1303	study_namespace	PRJEB87788	7	0.0054
+screening_frame_1303	1303	study_namespace	PRJNA359492	7	0.0054
+screening_frame_1303	1303	study_namespace	PRJEB112106	6	0.0046
+screening_frame_1303	1303	study_namespace	PRJEB56428	6	0.0046
+screening_frame_1303	1303	study_namespace	PRJNA267549	6	0.0046
+screening_frame_1303	1303	study_namespace	PRJNA578828	6	0.0046
+screening_frame_1303	1303	study_namespace	PRJEB43277	5	0.0038
+screening_frame_1303	1303	study_namespace	PRJEB49987	5	0.0038
+screening_frame_1303	1303	study_namespace	PRJEB56572	5	0.0038
+screening_frame_1303	1303	study_namespace	PRJEB56901	5	0.0038
+screening_frame_1303	1303	study_namespace	PRJEB57339	5	0.0038
+screening_frame_1303	1303	study_namespace	PRJEB65451	5	0.0038
+screening_frame_1303	1303	study_namespace	PRJEB87749	5	0.0038
+screening_frame_1303	1303	study_namespace	PRJEB88030	5	0.0038
+screening_frame_1303	1303	study_namespace	PRJEB30649	4	0.0031
+screening_frame_1303	1303	study_namespace	PRJEB56857	4	0.0031
+screening_frame_1303	1303	study_namespace	PRJEB87797	4	0.0031
+screening_frame_1303	1303	study_namespace	PRJEB88019	4	0.0031
+screening_frame_1303	1303	study_namespace	PRJEB88082	4	0.0031
+screening_frame_1303	1303	study_namespace	PRJEB88590	4	0.0031
+screening_frame_1303	1303	study_namespace	PRJNA1093152	4	0.0031
+screening_frame_1303	1303	study_namespace	PRJNA274665	4	0.0031
+screening_frame_1303	1303	study_namespace	PRJNA316969	4	0.0031
+screening_frame_1303	1303	study_namespace	PRJNA595761	4	0.0031
+screening_frame_1303	1303	study_namespace	PRJNA955008	4	0.0031
+screening_frame_1303	1303	study_namespace	PRJNA978365	4	0.0031
+screening_frame_1303	1303	study_namespace	PRJEB26096	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJEB32184	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJEB33885	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJEB47281	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJEB47694	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJEB51075	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJEB53836	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJEB61647	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJEB64259	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJEB88167	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJEB88459	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJEB88579	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJNA1142047	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJNA231221	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJNA294605	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJNA543692	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJNA788950	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJNA902312	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJNA970254	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJNA977800	3	0.0023
+screening_frame_1303	1303	study_namespace	PRJEB106966	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJEB15640	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJEB25206	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJEB37358	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJEB41354	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJEB49206	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJEB56303	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJEB56431	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJEB56918	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJEB87750	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJEB88029	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJEB88198	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJNA1173871	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJNA1236038	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJNA1305711	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJNA1433862	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJNA305687	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJNA486547	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJNA533546	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJNA588397	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJNA656535	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJNA698986	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJNA756409	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJNA812595	2	0.0015
+screening_frame_1303	1303	study_namespace	PRJDB15457	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJDB20694	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJDB9452	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJEA50739	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJEB108573	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJEB17337	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJEB43278	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJEB46712	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJEB50943	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJEB51072	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJEB51073	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJEB52424	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJEB55195	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJEB56454	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJEB62839	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJEB73261	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJEB87718	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJEB87779	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJEB89439	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJEB89748	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA1009867	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA1053338	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA1069099	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA1071982	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA1097804	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA1118934	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA1153424	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA1185304	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA1196825	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA1204496	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA1271046	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA1273078	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA1280957	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA13472	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA1446065	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA1469111	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA1497497	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA244570	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA246622	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA247711	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA267012	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA269675	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA269803	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA269844	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA269876	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA269893	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA274548	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA291318	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA291416	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA296158	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA296164	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA296167	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA296174	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA296179	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA296203	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA296207	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA296208	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA296213	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA296215	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA296240	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA296268	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA296276	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA296282	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA296303	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA296307	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA296318	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA296334	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA299404	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA299932	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA299951	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA299978	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA299982	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA299988	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA300019	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA300025	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA300026	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA300034	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA300061	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA300106	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA300108	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA300113	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA300126	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA300175	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA300190	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA300193	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA300195	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA30469	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA30471	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA30473	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA30475	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA30477	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA30481	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA30483	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA327996	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA327997	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA327999	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA328015	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA331097	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA341560	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA384053	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA38747	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA394631	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA394640	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA394664	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA40033	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA413575	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA414698	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA419731	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA42547	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA438580	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA504934	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA504935	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA527079	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA53053	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA543187	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA606173	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA606178	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA60861	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA60863	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA60865	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA60867	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA643774	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA64729	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA650271	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA668708	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA66911	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA66915	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA671681	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA678426	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA682193	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA68581	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA68583	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA701003	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA708601	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA708602	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA714501	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA724933	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA744662	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA744665	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA75141	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA799247	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA799686	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA799687	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA80247	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA815950	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA850115	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA862074	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA871768	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA925655	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA976074	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA991232	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA993729	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA993730	1	0.0008
+screening_frame_1303	1303	study_namespace	PRJNA993732	1	0.0008
+screening_frame_1303	1303	collection_date	not_reported	279	0.2141
+screening_frame_1303	1303	collection_date	not 	116	0.0890
+screening_frame_1303	1303	collection_date	2019	114	0.0875
+screening_frame_1303	1303	collection_date	2018	113	0.0867
+screening_frame_1303	1303	collection_date	2025	93	0.0714
+screening_frame_1303	1303	collection_date	2024	83	0.0637
+screening_frame_1303	1303	collection_date	2023	77	0.0591
+screening_frame_1303	1303	collection_date	2021	67	0.0514
+screening_frame_1303	1303	collection_date	2020	46	0.0353
+screening_frame_1303	1303	collection_date	2022	45	0.0345
+screening_frame_1303	1303	collection_date	2016	35	0.0269
+screening_frame_1303	1303	collection_date	2014	32	0.0246
+screening_frame_1303	1303	collection_date	2017	30	0.0230
+screening_frame_1303	1303	collection_date	2012	26	0.0200
+screening_frame_1303	1303	collection_date	2015	20	0.0153
+screening_frame_1303	1303	collection_date	2008	13	0.0100
+screening_frame_1303	1303	collection_date	2009	12	0.0092
+screening_frame_1303	1303	collection_date	1900	11	0.0084
+screening_frame_1303	1303	collection_date	2007	11	0.0084
+screening_frame_1303	1303	collection_date	2010	11	0.0084
+screening_frame_1303	1303	collection_date	2011	10	0.0077
+screening_frame_1303	1303	collection_date	2013	10	0.0077
+screening_frame_1303	1303	collection_date	miss	7	0.0054
+screening_frame_1303	1303	collection_date	2005	5	0.0038
+screening_frame_1303	1303	collection_date	2004	4	0.0031
+screening_frame_1303	1303	collection_date	2006	3	0.0023
+screening_frame_1303	1303	collection_date	1962	2	0.0015
+screening_frame_1303	1303	collection_date	1974	2	0.0015
+screening_frame_1303	1303	collection_date	1984	2	0.0015
+screening_frame_1303	1303	collection_date	1989	2	0.0015
+screening_frame_1303	1303	collection_date	1999	2	0.0015
+screening_frame_1303	1303	collection_date	2002	2	0.0015
+screening_frame_1303	1303	collection_date	1960	1	0.0008
+screening_frame_1303	1303	collection_date	1967	1	0.0008
+screening_frame_1303	1303	collection_date	1970	1	0.0008
+screening_frame_1303	1303	collection_date	1971	1	0.0008
+screening_frame_1303	1303	collection_date	1972	1	0.0008
+screening_frame_1303	1303	collection_date	1975	1	0.0008
+screening_frame_1303	1303	collection_date	1977	1	0.0008
+screening_frame_1303	1303	collection_date	1981	1	0.0008
+screening_frame_1303	1303	collection_date	1982	1	0.0008
+screening_frame_1303	1303	collection_date	1983	1	0.0008
+screening_frame_1303	1303	collection_date	1992	1	0.0008
+screening_frame_1303	1303	collection_date	1994	1	0.0008
+screening_frame_1303	1303	collection_date	1997	1	0.0008
+screening_frame_1303	1303	collection_date	1998	1	0.0008
+screening_frame_1303	1303	collection_date	2000	1	0.0008
+screening_frame_1303	1303	collection_date	2003	1	0.0008
+screening_frame_1303	1303	collection_date	2051	1	0.0008
+screening_frame_1303	1303	collection_date	2087	1	0.0008
+revision_primary	287	host	Homo sapiens	186	0.6481
+revision_primary	287	host	not_reported	100	0.3484
+revision_primary	287	host	not available	1	0.0035
+revision_primary	287	isolation_source	not_reported	137	0.4774
+revision_primary	287	isolation_source	human oral metagenome	27	0.0941
+revision_primary	287	isolation_source	Homo sapiens	19	0.0662
+revision_primary	287	isolation_source	sputum	14	0.0488
+revision_primary	287	isolation_source	oral metagenome	13	0.0453
+revision_primary	287	isolation_source	oral cavity	7	0.0244
+revision_primary	287	isolation_source	pharyngeal	7	0.0244
+revision_primary	287	isolation_source	lung	6	0.0209
+revision_primary	287	isolation_source	throat	5	0.0174
+revision_primary	287	isolation_source	saliva	4	0.0139
+revision_primary	287	isolation_source	Semen	3	0.0105
+revision_primary	287	isolation_source	duodenal mucosa	3	0.0105
+revision_primary	287	isolation_source	human duodenal aspirate	3	0.0105
+revision_primary	287	isolation_source	human gastric aspirate	3	0.0105
+revision_primary	287	isolation_source	trachael aspirate	3	0.0105
+revision_primary	287	isolation_source	Human sputum	2	0.0070
+revision_primary	287	isolation_source	bronchial washing	2	0.0070
+revision_primary	287	isolation_source	human	2	0.0070
+revision_primary	287	isolation_source	human gut	2	0.0070
+revision_primary	287	isolation_source	trach aspirate	2	0.0070
+revision_primary	287	isolation_source	Bronchoalveolar lavage	1	0.0035
+revision_primary	287	isolation_source	Human nasopharynx	1	0.0035
+revision_primary	287	isolation_source	Plumbing	1	0.0035
+revision_primary	287	isolation_source	abdominal fluid	1	0.0035
+revision_primary	287	isolation_source	aspirate	1	0.0035
+revision_primary	287	isolation_source	expectorated sputum	1	0.0035
+revision_primary	287	isolation_source	human feces	1	0.0035
+revision_primary	287	isolation_source	human gut metagenome	1	0.0035
+revision_primary	287	isolation_source	human saliva metagenome	1	0.0035
+revision_primary	287	isolation_source	human skin	1	0.0035
+revision_primary	287	isolation_source	infant feces	1	0.0035
+revision_primary	287	isolation_source	marine sediment metagenome	1	0.0035
+revision_primary	287	isolation_source	nasopharyngeal carcinoma	1	0.0035
+revision_primary	287	isolation_source	not available: to be reported later	1	0.0035
+revision_primary	287	isolation_source	not collected	1	0.0035
+revision_primary	287	isolation_source	not provided	1	0.0035
+revision_primary	287	isolation_source	oropharyngeal swab	1	0.0035
+revision_primary	287	isolation_source	sputum (induced)	1	0.0035
+revision_primary	287	isolation_source	sputum induced	1	0.0035
+revision_primary	287	isolation_source	stool	1	0.0035
+revision_primary	287	isolation_source	throat swab	1	0.0035
+revision_primary	287	isolation_source	tracheal aspirate	1	0.0035
+revision_primary	287	isolation_source	tssM knockout of parent strain KU1003-01	1	0.0035
+revision_primary	287	geo_loc_name	USA: Rochester, New York	81	0.2822
+revision_primary	287	geo_loc_name	not_reported	53	0.1847
+revision_primary	287	geo_loc_name	Japan: Tokyo	19	0.0662
+revision_primary	287	geo_loc_name	USA	16	0.0557
+revision_primary	287	geo_loc_name	China	11	0.0383
+revision_primary	287	geo_loc_name	USA: Minnesota	11	0.0383
+revision_primary	287	geo_loc_name	Singapore: Singapore	9	0.0314
+revision_primary	287	geo_loc_name	not provided	9	0.0314
+revision_primary	287	geo_loc_name	Belgium: Antwerp	7	0.0244
+revision_primary	287	geo_loc_name	Central African Republic	6	0.0209
+revision_primary	287	geo_loc_name	Germany	6	0.0209
+revision_primary	287	geo_loc_name	United Kingdom: London	6	0.0209
+revision_primary	287	geo_loc_name	Japan:Hiroshima	5	0.0174
+revision_primary	287	geo_loc_name	Italy: Naples	4	0.0139
+revision_primary	287	geo_loc_name	USA: Maywood, IL	4	0.0139
+revision_primary	287	geo_loc_name	Australia	3	0.0105
+revision_primary	287	geo_loc_name	Hong Kong	3	0.0105
+revision_primary	287	geo_loc_name	Papua New Guinea	3	0.0105
+revision_primary	287	geo_loc_name	United Kingdom: Kingston upon Thames	3	0.0105
+revision_primary	287	geo_loc_name	Denmark	2	0.0070
+revision_primary	287	geo_loc_name	South Korea	2	0.0070
+revision_primary	287	geo_loc_name	Spain	2	0.0070
+revision_primary	287	geo_loc_name	USA: UCLA School of Dentistry	2	0.0070
+revision_primary	287	geo_loc_name	not determined	2	0.0070
+revision_primary	287	geo_loc_name	Atlantic Ocean	1	0.0035
+revision_primary	287	geo_loc_name	Belgium	1	0.0035
+revision_primary	287	geo_loc_name	China:Guangdong	1	0.0035
+revision_primary	287	geo_loc_name	Czech Republic	1	0.0035
+revision_primary	287	geo_loc_name	Finland	1	0.0035
+revision_primary	287	geo_loc_name	France	1	0.0035
+revision_primary	287	geo_loc_name	Japan	1	0.0035
+revision_primary	287	geo_loc_name	Luxembourg	1	0.0035
+revision_primary	287	geo_loc_name	Malaysia	1	0.0035
+revision_primary	287	geo_loc_name	Nepal	1	0.0035
+revision_primary	287	geo_loc_name	Russia: Moscow	1	0.0035
+revision_primary	287	geo_loc_name	Sweden	1	0.0035
+revision_primary	287	geo_loc_name	USA: Louisville	1	0.0035
+revision_primary	287	geo_loc_name	USA: Pittsburgh, Magee-Womens Hospital of UPMC	1	0.0035
+revision_primary	287	geo_loc_name	USA: WA	1	0.0035
+revision_primary	287	geo_loc_name	USA:VA	1	0.0035
+revision_primary	287	geo_loc_name	Ukraine	1	0.0035
+revision_primary	287	geo_loc_name	United Kingdom: Egham	1	0.0035
+revision_primary	287	study_namespace	PRJNA1273950	70	0.2439
+revision_primary	287	study_namespace	PRJNA514245	52	0.1812
+revision_primary	287	study_namespace	PRJEB2090	11	0.0383
+revision_primary	287	study_namespace	PRJNA428750	11	0.0383
+revision_primary	287	study_namespace	PRJNA714914	8	0.0279
+revision_primary	287	study_namespace	PRJEB102291	6	0.0209
+revision_primary	287	study_namespace	PRJNA578828	6	0.0209
+revision_primary	287	study_namespace	PRJEB87751	5	0.0174
+revision_primary	287	study_namespace	PRJNA274665	4	0.0139
+revision_primary	287	study_namespace	PRJEB30649	3	0.0105
+revision_primary	287	study_namespace	PRJEB65351	3	0.0105
+revision_primary	287	study_namespace	PRJEB65452	3	0.0105
+revision_primary	287	study_namespace	PRJEB89475	3	0.0105
+revision_primary	287	study_namespace	PRJNA316969	3	0.0105
+revision_primary	287	study_namespace	PRJEB104944	2	0.0070
+revision_primary	287	study_namespace	PRJEB56901	2	0.0070
+revision_primary	287	study_namespace	PRJEB61647	2	0.0070
+revision_primary	287	study_namespace	PRJEB65451	2	0.0070
+revision_primary	287	study_namespace	PRJEB87797	2	0.0070
+revision_primary	287	study_namespace	PRJEB88030	2	0.0070
+revision_primary	287	study_namespace	PRJEB88459	2	0.0070
+revision_primary	287	study_namespace	PRJEB88590	2	0.0070
+revision_primary	287	study_namespace	PRJNA1206836	2	0.0070
+revision_primary	287	study_namespace	PRJNA1305711	2	0.0070
+revision_primary	287	study_namespace	PRJNA533546	2	0.0070
+revision_primary	287	study_namespace	PRJNA624185	2	0.0070
+revision_primary	287	study_namespace	PRJEB112106	1	0.0035
+revision_primary	287	study_namespace	PRJEB32184	1	0.0035
+revision_primary	287	study_namespace	PRJEB33885	1	0.0035
+revision_primary	287	study_namespace	PRJEB37358	1	0.0035
+revision_primary	287	study_namespace	PRJEB41354	1	0.0035
+revision_primary	287	study_namespace	PRJEB43277	1	0.0035
+revision_primary	287	study_namespace	PRJEB47281	1	0.0035
+revision_primary	287	study_namespace	PRJEB47694	1	0.0035
+revision_primary	287	study_namespace	PRJEB49206	1	0.0035
+revision_primary	287	study_namespace	PRJEB49987	1	0.0035
+revision_primary	287	study_namespace	PRJEB51075	1	0.0035
+revision_primary	287	study_namespace	PRJEB55195	1	0.0035
+revision_primary	287	study_namespace	PRJEB56572	1	0.0035
+revision_primary	287	study_namespace	PRJEB56857	1	0.0035
+revision_primary	287	study_namespace	PRJEB6403	1	0.0035
+revision_primary	287	study_namespace	PRJEB65450	1	0.0035
+revision_primary	287	study_namespace	PRJEB73261	1	0.0035
+revision_primary	287	study_namespace	PRJEB87718	1	0.0035
+revision_primary	287	study_namespace	PRJEB87750	1	0.0035
+revision_primary	287	study_namespace	PRJEB87779	1	0.0035
+revision_primary	287	study_namespace	PRJEB87788	1	0.0035
+revision_primary	287	study_namespace	PRJEB88019	1	0.0035
+revision_primary	287	study_namespace	PRJEB88167	1	0.0035
+revision_primary	287	study_namespace	PRJEB88198	1	0.0035
+revision_primary	287	study_namespace	PRJEB88579	1	0.0035
+revision_primary	287	study_namespace	PRJEB89748	1	0.0035
+revision_primary	287	study_namespace	PRJNA1009867	1	0.0035
+revision_primary	287	study_namespace	PRJNA1433862	1	0.0035
+revision_primary	287	study_namespace	PRJNA1446065	1	0.0035
+revision_primary	287	study_namespace	PRJNA231221	1	0.0035
+revision_primary	287	study_namespace	PRJNA246622	1	0.0035
+revision_primary	287	study_namespace	PRJNA267549	1	0.0035
+revision_primary	287	study_namespace	PRJNA269675	1	0.0035
+revision_primary	287	study_namespace	PRJNA269876	1	0.0035
+revision_primary	287	study_namespace	PRJNA294605	1	0.0035
+revision_primary	287	study_namespace	PRJNA296158	1	0.0035
+revision_primary	287	study_namespace	PRJNA296164	1	0.0035
+revision_primary	287	study_namespace	PRJNA296167	1	0.0035
+revision_primary	287	study_namespace	PRJNA296174	1	0.0035
+revision_primary	287	study_namespace	PRJNA296208	1	0.0035
+revision_primary	287	study_namespace	PRJNA296213	1	0.0035
+revision_primary	287	study_namespace	PRJNA296215	1	0.0035
+revision_primary	287	study_namespace	PRJNA296240	1	0.0035
+revision_primary	287	study_namespace	PRJNA296268	1	0.0035
+revision_primary	287	study_namespace	PRJNA296276	1	0.0035
+revision_primary	287	study_namespace	PRJNA296282	1	0.0035
+revision_primary	287	study_namespace	PRJNA296303	1	0.0035
+revision_primary	287	study_namespace	PRJNA296307	1	0.0035
+revision_primary	287	study_namespace	PRJNA299932	1	0.0035
+revision_primary	287	study_namespace	PRJNA299951	1	0.0035
+revision_primary	287	study_namespace	PRJNA299978	1	0.0035
+revision_primary	287	study_namespace	PRJNA299982	1	0.0035
+revision_primary	287	study_namespace	PRJNA299988	1	0.0035
+revision_primary	287	study_namespace	PRJNA300019	1	0.0035
+revision_primary	287	study_namespace	PRJNA300025	1	0.0035
+revision_primary	287	study_namespace	PRJNA300026	1	0.0035
+revision_primary	287	study_namespace	PRJNA300034	1	0.0035
+revision_primary	287	study_namespace	PRJNA300106	1	0.0035
+revision_primary	287	study_namespace	PRJNA300126	1	0.0035
+revision_primary	287	study_namespace	PRJNA300175	1	0.0035
+revision_primary	287	study_namespace	PRJNA300190	1	0.0035
+revision_primary	287	study_namespace	PRJNA300195	1	0.0035
+revision_primary	287	study_namespace	PRJNA30473	1	0.0035
+revision_primary	287	study_namespace	PRJNA30483	1	0.0035
+revision_primary	287	study_namespace	PRJNA305687	1	0.0035
+revision_primary	287	study_namespace	PRJNA327996	1	0.0035
+revision_primary	287	study_namespace	PRJNA328015	1	0.0035
+revision_primary	287	study_namespace	PRJNA38747	1	0.0035
+revision_primary	287	study_namespace	PRJNA428178	1	0.0035
+revision_primary	287	study_namespace	PRJNA595761	1	0.0035
+revision_primary	287	study_namespace	PRJNA744662	1	0.0035
+revision_primary	287	study_namespace	PRJNA744665	1	0.0035
+revision_primary	287	study_namespace	PRJNA799247	1	0.0035
+revision_primary	287	study_namespace	PRJNA970254	1	0.0035
+revision_primary	287	study_namespace	PRJNA976074	1	0.0035
+revision_primary	287	collection_date	2025	70	0.2439
+revision_primary	287	collection_date	not_reported	70	0.2439
+revision_primary	287	collection_date	2024	15	0.0523
+revision_primary	287	collection_date	2019	14	0.0488
+revision_primary	287	collection_date	2020	14	0.0488
+revision_primary	287	collection_date	2018	13	0.0453
+revision_primary	287	collection_date	2022	13	0.0453
+revision_primary	287	collection_date	2012	11	0.0383
+revision_primary	287	collection_date	not 	10	0.0348
+revision_primary	287	collection_date	2021	9	0.0314
+revision_primary	287	collection_date	2015	8	0.0279
+revision_primary	287	collection_date	2011	6	0.0209
+revision_primary	287	collection_date	2014	6	0.0209
+revision_primary	287	collection_date	2017	5	0.0174
+revision_primary	287	collection_date	2016	4	0.0139
+revision_primary	287	collection_date	2023	4	0.0139
+revision_primary	287	collection_date	miss	4	0.0139
+revision_primary	287	collection_date	2007	3	0.0105
+revision_primary	287	collection_date	1900	1	0.0035
+revision_primary	287	collection_date	1989	1	0.0035
+revision_primary	287	collection_date	2004	1	0.0035
+revision_primary	287	collection_date	2005	1	0.0035
+revision_primary	287	collection_date	2008	1	0.0035
+revision_primary	287	collection_date	2009	1	0.0035
+revision_primary	287	collection_date	2010	1	0.0035
+revision_primary	287	collection_date	2013	1	0.0035
+legacy139_dereplicated	87	host	Homo sapiens	59	0.6782
+legacy139_dereplicated	87	host	not_reported	27	0.3103
+legacy139_dereplicated	87	host	not available	1	0.0115
+legacy139_dereplicated	87	isolation_source	not_reported	52	0.5977
+legacy139_dereplicated	87	isolation_source	Homo sapiens	9	0.1034
+legacy139_dereplicated	87	isolation_source	pharyngeal	5	0.0575
+legacy139_dereplicated	87	isolation_source	Semen	3	0.0345
+legacy139_dereplicated	87	isolation_source	duodenal mucosa	3	0.0345
+legacy139_dereplicated	87	isolation_source	human	2	0.0230
+legacy139_dereplicated	87	isolation_source	lung	2	0.0230
+legacy139_dereplicated	87	isolation_source	Human sputum	1	0.0115
+legacy139_dereplicated	87	isolation_source	Plumbing	1	0.0115
+legacy139_dereplicated	87	isolation_source	aspirate	1	0.0115
+legacy139_dereplicated	87	isolation_source	nasopharyngeal carcinoma	1	0.0115
+legacy139_dereplicated	87	isolation_source	not available: to be reported later	1	0.0115
+legacy139_dereplicated	87	isolation_source	not collected	1	0.0115
+legacy139_dereplicated	87	isolation_source	oral cavity	1	0.0115
+legacy139_dereplicated	87	isolation_source	oropharyngeal swab	1	0.0115
+legacy139_dereplicated	87	isolation_source	sputum	1	0.0115
+legacy139_dereplicated	87	isolation_source	throat	1	0.0115
+legacy139_dereplicated	87	isolation_source	throat swab	1	0.0115
+legacy139_dereplicated	87	geo_loc_name	not_reported	20	0.2299
+legacy139_dereplicated	87	geo_loc_name	USA: Minnesota	11	0.1264
+legacy139_dereplicated	87	geo_loc_name	USA: Rochester, New York	11	0.1264
+legacy139_dereplicated	87	geo_loc_name	Japan: Tokyo	9	0.1034
+legacy139_dereplicated	87	geo_loc_name	Singapore: Singapore	7	0.0805
+legacy139_dereplicated	87	geo_loc_name	Belgium: Antwerp	5	0.0575
+legacy139_dereplicated	87	geo_loc_name	Italy: Naples	4	0.0460
+legacy139_dereplicated	87	geo_loc_name	USA	4	0.0460
+legacy139_dereplicated	87	geo_loc_name	USA: Maywood, IL	4	0.0460
+legacy139_dereplicated	87	geo_loc_name	China	3	0.0345
+legacy139_dereplicated	87	geo_loc_name	United Kingdom: London	2	0.0230
+legacy139_dereplicated	87	geo_loc_name	Czech Republic	1	0.0115
+legacy139_dereplicated	87	geo_loc_name	Japan:Hiroshima	1	0.0115
+legacy139_dereplicated	87	geo_loc_name	Russia: Moscow	1	0.0115
+legacy139_dereplicated	87	geo_loc_name	South Korea	1	0.0115
+legacy139_dereplicated	87	geo_loc_name	Sweden	1	0.0115
+legacy139_dereplicated	87	geo_loc_name	Ukraine	1	0.0115
+legacy139_dereplicated	87	geo_loc_name	United Kingdom: Kingston upon Thames	1	0.0115
+legacy139_dereplicated	87	study_namespace	PRJNA514245	31	0.3563
+legacy139_dereplicated	87	study_namespace	PRJEB2090	11	0.1264
+legacy139_dereplicated	87	study_namespace	PRJNA428750	11	0.1264
+legacy139_dereplicated	87	study_namespace	PRJNA714914	6	0.0690
+legacy139_dereplicated	87	study_namespace	PRJNA274665	4	0.0460
+legacy139_dereplicated	87	study_namespace	PRJEB30649	3	0.0345
+legacy139_dereplicated	87	study_namespace	PRJNA316969	3	0.0345
+legacy139_dereplicated	87	study_namespace	PRJEB61647	2	0.0230
+legacy139_dereplicated	87	study_namespace	PRJNA533546	2	0.0230
+legacy139_dereplicated	87	study_namespace	PRJNA578828	2	0.0230
+legacy139_dereplicated	87	study_namespace	PRJEB112106	1	0.0115
+legacy139_dereplicated	87	study_namespace	PRJEB32184	1	0.0115
+legacy139_dereplicated	87	study_namespace	PRJEB6403	1	0.0115
+legacy139_dereplicated	87	study_namespace	PRJNA1009867	1	0.0115
+legacy139_dereplicated	87	study_namespace	PRJNA1446065	1	0.0115
+legacy139_dereplicated	87	study_namespace	PRJNA269675	1	0.0115
+legacy139_dereplicated	87	study_namespace	PRJNA305687	1	0.0115
+legacy139_dereplicated	87	study_namespace	PRJNA327996	1	0.0115
+legacy139_dereplicated	87	study_namespace	PRJNA428178	1	0.0115
+legacy139_dereplicated	87	study_namespace	PRJNA744662	1	0.0115
+legacy139_dereplicated	87	study_namespace	PRJNA970254	1	0.0115
+legacy139_dereplicated	87	study_namespace	PRJNA976074	1	0.0115
+legacy139_dereplicated	87	collection_date	not_reported	28	0.3218
+legacy139_dereplicated	87	collection_date	2024	13	0.1494
+legacy139_dereplicated	87	collection_date	2019	7	0.0805
+legacy139_dereplicated	87	collection_date	2011	5	0.0575
+legacy139_dereplicated	87	collection_date	2012	5	0.0575
+legacy139_dereplicated	87	collection_date	2018	5	0.0575
+legacy139_dereplicated	87	collection_date	2015	4	0.0460
+legacy139_dereplicated	87	collection_date	2020	4	0.0460
+legacy139_dereplicated	87	collection_date	2014	3	0.0345
+legacy139_dereplicated	87	collection_date	2022	3	0.0345
+legacy139_dereplicated	87	collection_date	2023	2	0.0230
+legacy139_dereplicated	87	collection_date	1900	1	0.0115
+legacy139_dereplicated	87	collection_date	1989	1	0.0115
+legacy139_dereplicated	87	collection_date	2005	1	0.0115
+legacy139_dereplicated	87	collection_date	2007	1	0.0115
+legacy139_dereplicated	87	collection_date	2008	1	0.0115
+legacy139_dereplicated	87	collection_date	2009	1	0.0115
+legacy139_dereplicated	87	collection_date	2013	1	0.0115
+legacy139_dereplicated	87	collection_date	2017	1	0.0115
+one_per_participant	256	host	Homo sapiens	165	0.6445
+one_per_participant	256	host	not_reported	90	0.3516
+one_per_participant	256	host	not available	1	0.0039
+one_per_participant	256	isolation_source	not_reported	114	0.4453
+one_per_participant	256	isolation_source	human oral metagenome	27	0.1055
+one_per_participant	256	isolation_source	Homo sapiens	19	0.0742
+one_per_participant	256	isolation_source	sputum	14	0.0547
+one_per_participant	256	isolation_source	oral metagenome	13	0.0508
+one_per_participant	256	isolation_source	oral cavity	7	0.0273
+one_per_participant	256	isolation_source	pharyngeal	6	0.0234
+one_per_participant	256	isolation_source	lung	5	0.0195
+one_per_participant	256	isolation_source	throat	5	0.0195
+one_per_participant	256	isolation_source	saliva	4	0.0156
+one_per_participant	256	isolation_source	human duodenal aspirate	3	0.0117
+one_per_participant	256	isolation_source	human gastric aspirate	3	0.0117
+one_per_participant	256	isolation_source	trachael aspirate	3	0.0117
+one_per_participant	256	isolation_source	Human sputum	2	0.0078
+one_per_participant	256	isolation_source	bronchial washing	2	0.0078
+one_per_participant	256	isolation_source	human	2	0.0078
+one_per_participant	256	isolation_source	human gut	2	0.0078
+one_per_participant	256	isolation_source	trach aspirate	2	0.0078
+one_per_participant	256	isolation_source	Bronchoalveolar lavage	1	0.0039
+one_per_participant	256	isolation_source	Human nasopharynx	1	0.0039
+one_per_participant	256	isolation_source	Plumbing	1	0.0039
+one_per_participant	256	isolation_source	Semen	1	0.0039
+one_per_participant	256	isolation_source	abdominal fluid	1	0.0039
+one_per_participant	256	isolation_source	aspirate	1	0.0039
+one_per_participant	256	isolation_source	duodenal mucosa	1	0.0039
+one_per_participant	256	isolation_source	expectorated sputum	1	0.0039
+one_per_participant	256	isolation_source	human feces	1	0.0039
+one_per_participant	256	isolation_source	human gut metagenome	1	0.0039
+one_per_participant	256	isolation_source	human saliva metagenome	1	0.0039
+one_per_participant	256	isolation_source	human skin	1	0.0039
+one_per_participant	256	isolation_source	infant feces	1	0.0039
+one_per_participant	256	isolation_source	marine sediment metagenome	1	0.0039
+one_per_participant	256	isolation_source	nasopharyngeal carcinoma	1	0.0039
+one_per_participant	256	isolation_source	not available: to be reported later	1	0.0039
+one_per_participant	256	isolation_source	not collected	1	0.0039
+one_per_participant	256	isolation_source	not provided	1	0.0039
+one_per_participant	256	isolation_source	sputum (induced)	1	0.0039
+one_per_participant	256	isolation_source	sputum induced	1	0.0039
+one_per_participant	256	isolation_source	stool	1	0.0039
+one_per_participant	256	isolation_source	tracheal aspirate	1	0.0039
+one_per_participant	256	isolation_source	tssM knockout of parent strain KU1003-01	1	0.0039
+one_per_participant	256	geo_loc_name	USA: Rochester, New York	81	0.3164
+one_per_participant	256	geo_loc_name	not_reported	40	0.1562
+one_per_participant	256	geo_loc_name	Japan: Tokyo	19	0.0742
+one_per_participant	256	geo_loc_name	USA	15	0.0586
+one_per_participant	256	geo_loc_name	China	11	0.0430
+one_per_participant	256	geo_loc_name	Singapore: Singapore	9	0.0352
+one_per_participant	256	geo_loc_name	not provided	9	0.0352
+one_per_participant	256	geo_loc_name	Belgium: Antwerp	6	0.0234
+one_per_participant	256	geo_loc_name	Central African Republic	6	0.0234
+one_per_participant	256	geo_loc_name	Germany	6	0.0234
+one_per_participant	256	geo_loc_name	Japan:Hiroshima	5	0.0195
+one_per_participant	256	geo_loc_name	United Kingdom: London	5	0.0195
+one_per_participant	256	geo_loc_name	Australia	3	0.0117
+one_per_participant	256	geo_loc_name	Hong Kong	3	0.0117
+one_per_participant	256	geo_loc_name	Papua New Guinea	3	0.0117
+one_per_participant	256	geo_loc_name	United Kingdom: Kingston upon Thames	3	0.0117
+one_per_participant	256	geo_loc_name	Denmark	2	0.0078
+one_per_participant	256	geo_loc_name	South Korea	2	0.0078
+one_per_participant	256	geo_loc_name	Spain	2	0.0078
+one_per_participant	256	geo_loc_name	USA: Maywood, IL	2	0.0078
+one_per_participant	256	geo_loc_name	USA: UCLA School of Dentistry	2	0.0078
+one_per_participant	256	geo_loc_name	not determined	2	0.0078
+one_per_participant	256	geo_loc_name	Atlantic Ocean	1	0.0039
+one_per_participant	256	geo_loc_name	Belgium	1	0.0039
+one_per_participant	256	geo_loc_name	China:Guangdong	1	0.0039
+one_per_participant	256	geo_loc_name	Czech Republic	1	0.0039
+one_per_participant	256	geo_loc_name	Finland	1	0.0039
+one_per_participant	256	geo_loc_name	France	1	0.0039
+one_per_participant	256	geo_loc_name	Italy: Naples	1	0.0039
+one_per_participant	256	geo_loc_name	Japan	1	0.0039
+one_per_participant	256	geo_loc_name	Luxembourg	1	0.0039
+one_per_participant	256	geo_loc_name	Malaysia	1	0.0039
+one_per_participant	256	geo_loc_name	Nepal	1	0.0039
+one_per_participant	256	geo_loc_name	Russia: Moscow	1	0.0039
+one_per_participant	256	geo_loc_name	Sweden	1	0.0039
+one_per_participant	256	geo_loc_name	USA: Louisville	1	0.0039
+one_per_participant	256	geo_loc_name	USA: Minnesota	1	0.0039
+one_per_participant	256	geo_loc_name	USA: Pittsburgh, Magee-Womens Hospital of UPMC	1	0.0039
+one_per_participant	256	geo_loc_name	USA: WA	1	0.0039
+one_per_participant	256	geo_loc_name	USA:VA	1	0.0039
+one_per_participant	256	geo_loc_name	Ukraine	1	0.0039
+one_per_participant	256	geo_loc_name	United Kingdom: Egham	1	0.0039
+one_per_participant	256	study_namespace	PRJNA1273950	70	0.2734
+one_per_participant	256	study_namespace	PRJNA514245	51	0.1992
+one_per_participant	256	study_namespace	PRJNA714914	8	0.0312
+one_per_participant	256	study_namespace	PRJEB102291	6	0.0234
+one_per_participant	256	study_namespace	PRJEB87751	5	0.0195
+one_per_participant	256	study_namespace	PRJNA578828	5	0.0195
+one_per_participant	256	study_namespace	PRJEB65351	3	0.0117
+one_per_participant	256	study_namespace	PRJEB65452	3	0.0117
+one_per_participant	256	study_namespace	PRJEB89475	3	0.0117
+one_per_participant	256	study_namespace	PRJEB104944	2	0.0078
+one_per_participant	256	study_namespace	PRJEB56901	2	0.0078
+one_per_participant	256	study_namespace	PRJEB65451	2	0.0078
+one_per_participant	256	study_namespace	PRJEB87797	2	0.0078
+one_per_participant	256	study_namespace	PRJEB88030	2	0.0078
+one_per_participant	256	study_namespace	PRJEB88459	2	0.0078
+one_per_participant	256	study_namespace	PRJEB88590	2	0.0078
+one_per_participant	256	study_namespace	PRJNA1206836	2	0.0078
+one_per_participant	256	study_namespace	PRJNA1305711	2	0.0078
+one_per_participant	256	study_namespace	PRJNA624185	2	0.0078
+one_per_participant	256	study_namespace	PRJEB112106	1	0.0039
+one_per_participant	256	study_namespace	PRJEB2090	1	0.0039
+one_per_participant	256	study_namespace	PRJEB30649	1	0.0039
+one_per_participant	256	study_namespace	PRJEB32184	1	0.0039
+one_per_participant	256	study_namespace	PRJEB33885	1	0.0039
+one_per_participant	256	study_namespace	PRJEB37358	1	0.0039
+one_per_participant	256	study_namespace	PRJEB41354	1	0.0039
+one_per_participant	256	study_namespace	PRJEB43277	1	0.0039
+one_per_participant	256	study_namespace	PRJEB47281	1	0.0039
+one_per_participant	256	study_namespace	PRJEB47694	1	0.0039
+one_per_participant	256	study_namespace	PRJEB49206	1	0.0039
+one_per_participant	256	study_namespace	PRJEB49987	1	0.0039
+one_per_participant	256	study_namespace	PRJEB51075	1	0.0039
+one_per_participant	256	study_namespace	PRJEB55195	1	0.0039
+one_per_participant	256	study_namespace	PRJEB56572	1	0.0039
+one_per_participant	256	study_namespace	PRJEB56857	1	0.0039
+one_per_participant	256	study_namespace	PRJEB61647	1	0.0039
+one_per_participant	256	study_namespace	PRJEB6403	1	0.0039
+one_per_participant	256	study_namespace	PRJEB65450	1	0.0039
+one_per_participant	256	study_namespace	PRJEB73261	1	0.0039
+one_per_participant	256	study_namespace	PRJEB87718	1	0.0039
+one_per_participant	256	study_namespace	PRJEB87750	1	0.0039
+one_per_participant	256	study_namespace	PRJEB87779	1	0.0039
+one_per_participant	256	study_namespace	PRJEB87788	1	0.0039
+one_per_participant	256	study_namespace	PRJEB88019	1	0.0039
+one_per_participant	256	study_namespace	PRJEB88167	1	0.0039
+one_per_participant	256	study_namespace	PRJEB88198	1	0.0039
+one_per_participant	256	study_namespace	PRJEB88579	1	0.0039
+one_per_participant	256	study_namespace	PRJEB89748	1	0.0039
+one_per_participant	256	study_namespace	PRJNA1009867	1	0.0039
+one_per_participant	256	study_namespace	PRJNA1433862	1	0.0039
+one_per_participant	256	study_namespace	PRJNA1446065	1	0.0039
+one_per_participant	256	study_namespace	PRJNA231221	1	0.0039
+one_per_participant	256	study_namespace	PRJNA246622	1	0.0039
+one_per_participant	256	study_namespace	PRJNA267549	1	0.0039
+one_per_participant	256	study_namespace	PRJNA269675	1	0.0039
+one_per_participant	256	study_namespace	PRJNA269876	1	0.0039
+one_per_participant	256	study_namespace	PRJNA274665	1	0.0039
+one_per_participant	256	study_namespace	PRJNA294605	1	0.0039
+one_per_participant	256	study_namespace	PRJNA296158	1	0.0039
+one_per_participant	256	study_namespace	PRJNA296164	1	0.0039
+one_per_participant	256	study_namespace	PRJNA296167	1	0.0039
+one_per_participant	256	study_namespace	PRJNA296174	1	0.0039
+one_per_participant	256	study_namespace	PRJNA296208	1	0.0039
+one_per_participant	256	study_namespace	PRJNA296213	1	0.0039
+one_per_participant	256	study_namespace	PRJNA296215	1	0.0039
+one_per_participant	256	study_namespace	PRJNA296240	1	0.0039
+one_per_participant	256	study_namespace	PRJNA296268	1	0.0039
+one_per_participant	256	study_namespace	PRJNA296276	1	0.0039
+one_per_participant	256	study_namespace	PRJNA296282	1	0.0039
+one_per_participant	256	study_namespace	PRJNA296303	1	0.0039
+one_per_participant	256	study_namespace	PRJNA296307	1	0.0039
+one_per_participant	256	study_namespace	PRJNA299932	1	0.0039
+one_per_participant	256	study_namespace	PRJNA299951	1	0.0039
+one_per_participant	256	study_namespace	PRJNA299978	1	0.0039
+one_per_participant	256	study_namespace	PRJNA299982	1	0.0039
+one_per_participant	256	study_namespace	PRJNA299988	1	0.0039
+one_per_participant	256	study_namespace	PRJNA300019	1	0.0039
+one_per_participant	256	study_namespace	PRJNA300025	1	0.0039
+one_per_participant	256	study_namespace	PRJNA300026	1	0.0039
+one_per_participant	256	study_namespace	PRJNA300034	1	0.0039
+one_per_participant	256	study_namespace	PRJNA300106	1	0.0039
+one_per_participant	256	study_namespace	PRJNA300126	1	0.0039
+one_per_participant	256	study_namespace	PRJNA300175	1	0.0039
+one_per_participant	256	study_namespace	PRJNA300190	1	0.0039
+one_per_participant	256	study_namespace	PRJNA300195	1	0.0039
+one_per_participant	256	study_namespace	PRJNA30473	1	0.0039
+one_per_participant	256	study_namespace	PRJNA30483	1	0.0039
+one_per_participant	256	study_namespace	PRJNA305687	1	0.0039
+one_per_participant	256	study_namespace	PRJNA316969	1	0.0039
+one_per_participant	256	study_namespace	PRJNA327996	1	0.0039
+one_per_participant	256	study_namespace	PRJNA328015	1	0.0039
+one_per_participant	256	study_namespace	PRJNA38747	1	0.0039
+one_per_participant	256	study_namespace	PRJNA428178	1	0.0039
+one_per_participant	256	study_namespace	PRJNA428750	1	0.0039
+one_per_participant	256	study_namespace	PRJNA533546	1	0.0039
+one_per_participant	256	study_namespace	PRJNA595761	1	0.0039
+one_per_participant	256	study_namespace	PRJNA744662	1	0.0039
+one_per_participant	256	study_namespace	PRJNA744665	1	0.0039
+one_per_participant	256	study_namespace	PRJNA799247	1	0.0039
+one_per_participant	256	study_namespace	PRJNA970254	1	0.0039
+one_per_participant	256	study_namespace	PRJNA976074	1	0.0039
+one_per_participant	256	collection_date	2025	70	0.2734
+one_per_participant	256	collection_date	not_reported	56	0.2188
+one_per_participant	256	collection_date	2024	15	0.0586
+one_per_participant	256	collection_date	2020	14	0.0547
+one_per_participant	256	collection_date	2018	13	0.0508
+one_per_participant	256	collection_date	2019	13	0.0508
+one_per_participant	256	collection_date	2022	12	0.0469
+one_per_participant	256	collection_date	not 	10	0.0391
+one_per_participant	256	collection_date	2021	9	0.0352
+one_per_participant	256	collection_date	2012	8	0.0312
+one_per_participant	256	collection_date	2015	6	0.0234
+one_per_participant	256	collection_date	2014	5	0.0195
+one_per_participant	256	collection_date	2017	5	0.0195
+one_per_participant	256	collection_date	2016	4	0.0156
+one_per_participant	256	collection_date	2023	4	0.0156
+one_per_participant	256	collection_date	miss	4	0.0156
+one_per_participant	256	collection_date	2007	2	0.0078
+one_per_participant	256	collection_date	1900	1	0.0039
+one_per_participant	256	collection_date	1989	1	0.0039
+one_per_participant	256	collection_date	2004	1	0.0039
+one_per_participant	256	collection_date	2005	1	0.0039
+one_per_participant	256	collection_date	2010	1	0.0039
+one_per_participant	256	collection_date	2011	1	0.0039

@@ -1,0 +1,4 @@
+constant_added	0
+denominator_positive_corrected	25.74079
+n_axes	150
+vegan_version	2.7.5

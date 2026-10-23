@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+statsmodels
+biopython==1.88
+openpyxl

@@ -1,0 +1,671 @@
+unit_id	cohort	frozen_representative	frozen_source_eligible	frozen_qc_pass	frozen_membership_pass	frozen_eligible_for_cohort	serving_representative	fallback_reason
+CU00004	revision_primary_v7	GCA_000173935.1	True	True	True	True	GCA_000173935.1	
+CU00005	revision_primary_v7	GCA_000173955.1	True	True	True	True	GCA_000173955.1	
+CU00037	revision_primary_v7	GCA_001618015.1	True	True	True	True	GCA_001618015.1	
+CU00038	revision_primary_v7	GCA_001618065.1	True	True	True	True	GCA_001618065.1	
+CU00039	revision_primary_v7	GCA_001618075.1	True	True	True	True	GCA_001618075.1	
+CU00040	revision_primary_v7	GCA_001618085.1	True	True	True	True	GCA_001618085.1	
+CU00043	revision_primary_v7	GCA_001808255.1	True	True	True	True	GCA_001808255.1	
+CU00046	revision_primary_v7	GCA_001809345.1	True	True	True	True	GCA_001809345.1	
+CU00047	revision_primary_v7	GCA_001809585.1	True	True	True	True	GCA_001809585.1	
+CU00048	revision_primary_v7	GCA_001810035.1	True	True	True	True	GCA_001810035.1	
+CU00049	revision_primary_v7	GCA_001810105.1	True	True	True	True	GCA_001810105.1	
+CU00052	revision_primary_v7	GCA_001811065.1	True	True	True	True	GCA_001811065.1	
+CU00053	revision_primary_v7	GCA_001811365.1	True	True	True	True	GCA_001811365.1	
+CU00054	revision_primary_v7	GCA_001811855.1	True	True	True	True	GCA_001811855.1	
+CU00055	revision_primary_v7	GCA_001811945.1	True	True	True	True	GCA_001811945.1	
+CU00056	revision_primary_v7	GCA_001812055.1	True	True	True	True	GCA_001812055.1	
+CU00057	revision_primary_v7	GCA_001812605.1	True	True	True	True	GCA_001812605.1	
+CU00058	revision_primary_v7	GCA_001812725.1	True	True	True	True	GCA_001812725.1	
+CU00059	revision_primary_v7	GCA_001812735.1	True	True	True	True	GCA_001812735.1	
+CU00060	revision_primary_v7	GCA_001812885.1	True	True	True	True	GCA_001812885.1	
+CU00062	revision_primary_v7	GCA_001814095.1	True	True	True	True	GCA_001814095.1	
+CU00065	revision_primary_v7	GCA_001814445.1	True	True	True	True	GCA_001814445.1	
+CU00066	revision_primary_v7	GCA_001815375.1	True	True	True	True	GCA_001815375.1	
+CU00067	revision_primary_v7	GCA_001815615.1	True	True	True	True	GCA_001815615.1	
+CU00069	revision_primary_v7	GCA_001815685.1	True	True	True	True	GCA_001815685.1	
+CU00070	revision_primary_v7	GCA_001836315.1	True	True	True	True	GCA_001836315.1	
+CU00073	revision_primary_v7	GCA_001837185.1	True	True	True	True	GCA_001837185.1	
+CU00075	revision_primary_v7	GCA_001837365.1	True	True	True	True	GCA_001837365.1	
+CU00077	revision_primary_v7	GCA_001837635.1	True	True	True	True	GCA_001837635.1	
+CU00079	revision_primary_v7	GCA_001838135.1	True	True	True	True	GCA_001838135.1	
+CU00096	revision_primary_v7	GCA_002847985.1	True	True	True	True	GCA_002847985.1	
+CU00098	revision_primary_v7	GCA_002863305.2	True	True	True	True	GCA_002863305.2	
+CU00101	revision_primary_v7	GCA_003044355.1	True	True	True	True	GCA_003044355.1	
+CU00102	revision_primary_v7	GCA_003044385.1	True	True	True	True	GCA_003044385.1	
+CU00109	revision_primary_v7	GCA_003044525.1	True	True	True	True	GCA_003044525.1	
+CU00112	revision_primary_v7	GCA_003044585.1	True	True	True	True	GCA_003044585.1	
+CU00115	revision_primary_v7	GCA_003044645.1	True	True	True	True	GCA_003044645.1	
+CU00116	revision_primary_v7	GCA_003044665.1	True	True	True	True	GCA_003044665.1	
+CU00125	revision_primary_v7	GCA_003044845.1	True	True	True	True	GCA_003044845.1	
+CU00129	revision_primary_v7	GCA_003044925.1	True	True	True	True	GCA_003044925.1	
+CU00130	revision_primary_v7	GCA_003044935.1	True	True	True	True	GCA_003044935.1	
+CU00131	revision_primary_v7	GCA_003044965.1	True	True	True	True	GCA_003044965.1	
+CU00134	revision_primary_v7	GCA_003045025.1	True	True	True	True	GCA_003045025.1	
+CU00139	revision_primary_v7	GCA_003351665.1	True	True	True	True	GCA_003351665.1	
+CU00177	revision_primary_v7	GCA_900453805.1	True	True	True	True	GCA_900453805.1	
+CU00178	revision_primary_v7	GCA_005221305.1	True	True	True	True	GCA_005221305.1	
+CU00194	revision_primary_v7	GCA_052073865.1	True	True	True	True	GCA_052073865.1	
+CU00197	revision_primary_v7	GCA_014596425.2	True	True	True	True	GCA_014596425.2	
+CU00217	revision_primary_v7	GCA_019334725.1	True	True	True	True	GCA_019334725.1	
+CU00227	revision_primary_v7	GCA_023472875.1	True	True	True	True	GCA_023472875.1	
+CU00229	revision_primary_v7	GCA_023635065.1	True	True	True	True	GCA_023635065.1	
+CU00230	revision_primary_v7	GCA_023635085.1	True	True	True	True	GCA_023635085.1	
+CU00231	revision_primary_v7	GCA_023635105.1	True	True	True	True	GCA_023635105.1	
+CU00235	revision_primary_v7	GCA_024205705.1	True	True	True	True	GCA_024205705.1	
+CU00236	revision_primary_v7	GCA_024205725.1	True	True	True	True	GCA_024205725.1	
+CU00237	revision_primary_v7	GCA_024205745.1	True	True	True	True	GCA_024205745.1	
+CU00239	revision_primary_v7	GCA_024205785.1	True	True	True	True	GCA_024205785.1	
+CU00245	revision_primary_v7	GCA_030218065.1	True	True	True	True	GCA_030218065.1	
+CU00270	revision_primary_v7	GCA_038738605.1	True	True	True	True	GCA_038738605.1	
+CU00272	revision_primary_v7	GCA_041433145.1	True	True	True	True	GCA_041433145.1	
+CU00273	revision_primary_v7	GCA_041433195.1	True	True	True	True	GCA_041433195.1	
+CU00274	revision_primary_v7	GCA_041433205.1	True	True	True	True	GCA_041433205.1	
+CU00275	revision_primary_v7	GCA_041433235.1	True	True	True	True	GCA_041433235.1	
+CU00276	revision_primary_v7	GCA_041433255.1	True	True	True	True	GCA_041433255.1	
+CU00277	revision_primary_v7	GCA_041433265.1	True	True	True	True	GCA_041433265.1	
+CU00347	revision_primary_v7	GCA_042536645.1	True	True	True	True	GCA_042536645.1	
+CU00348	revision_primary_v7	GCA_042536675.1	True	True	True	True	GCA_042536675.1	
+CU00349	revision_primary_v7	GCA_042536705.1	True	True	True	True	GCA_042536705.1	
+CU00350	revision_primary_v7	GCA_042536725.1	True	True	True	True	GCA_042536725.1	
+CU00351	revision_primary_v7	GCA_042536745.1	True	True	True	True	GCA_042536745.1	
+CU00352	revision_primary_v7	GCA_042536765.1	True	True	True	True	GCA_042536765.1	
+CU00356	revision_primary_v7	GCA_042536925.1	True	True	True	True	GCA_042536925.1	
+CU00357	revision_primary_v7	GCA_042536955.1	True	True	True	True	GCA_042536955.1	
+CU00359	revision_primary_v7	GCA_042537005.1	True	True	True	True	GCA_042537005.1	
+CU00362	revision_primary_v7	GCA_042537145.1	True	True	True	True	GCA_042537145.1	
+CU00369	revision_primary_v7	GCA_042537275.1	True	True	True	True	GCA_042537275.1	
+CU00374	revision_primary_v7	GCA_042537445.1	True	True	True	True	GCA_042537445.1	
+CU00381	revision_primary_v7	GCA_042557445.1	True	True	True	True	GCA_042557445.1	
+CU00382	revision_primary_v7	GCA_042557465.1	True	True	True	True	GCA_042557465.1	
+CU00384	revision_primary_v7	GCA_042557505.2	True	True	True	True	GCA_042557505.2	
+CU00385	revision_primary_v7	GCA_042557525.1	True	True	True	True	GCA_042557525.1	
+CU00386	revision_primary_v7	GCA_042557545.1	True	True	True	True	GCA_042557545.1	
+CU00388	revision_primary_v7	GCA_042557585.1	True	True	True	True	GCA_042557585.1	
+CU00389	revision_primary_v7	GCA_042557645.1	True	True	True	True	GCA_042557645.1	
+CU00396	revision_primary_v7	GCA_042666255.1	True	True	True	True	GCA_042666255.1	
+CU00418	revision_primary_v7	GCA_050292725.1	True	True	True	True	GCA_050292725.1	
+CU00423	revision_primary_v7	GCA_051957575.1	True	True	True	True	GCA_051957575.1	
+CU00424	revision_primary_v7	GCA_051963175.1	True	True	True	True	GCA_051963175.1	
+CU00425	revision_primary_v7	GCA_051962855.1	True	True	True	True	GCA_051962855.1	
+CU00426	revision_primary_v7	GCA_050328165.1	True	True	True	True	GCA_050328165.1	
+CU00427	revision_primary_v7	GCA_050328265.1	True	True	True	True	GCA_050328265.1	
+CU00428	revision_primary_v7	GCA_051957875.1	True	True	True	True	GCA_051957875.1	
+CU00429	revision_primary_v7	GCA_051962875.1	True	True	True	True	GCA_051962875.1	
+CU00430	revision_primary_v7	GCA_050328445.1	True	True	True	True	GCA_050328445.1	
+CU00431	revision_primary_v7	GCA_050328485.1	True	True	True	True	GCA_050328485.1	
+CU00432	revision_primary_v7	GCA_050329205.1	True	True	True	True	GCA_050329205.1	
+CU00433	revision_primary_v7	GCA_050328825.1	True	True	True	True	GCA_050328825.1	
+CU00434	revision_primary_v7	GCA_050328885.1	True	True	True	True	GCA_050328885.1	
+CU00435	revision_primary_v7	GCA_051958015.1	True	True	True	True	GCA_051958015.1	
+CU00436	revision_primary_v7	GCA_050328965.1	True	True	True	True	GCA_050328965.1	
+CU00437	revision_primary_v7	GCA_050329065.1	True	True	True	True	GCA_050329065.1	
+CU00438	revision_primary_v7	GCA_050329085.1	True	True	True	True	GCA_050329085.1	
+CU00439	revision_primary_v7	GCA_051958545.1	True	True	True	True	GCA_051958545.1	
+CU00440	revision_primary_v7	GCA_051958495.1	True	True	True	True	GCA_051958495.1	
+CU00441	revision_primary_v7	GCA_051958425.1	True	True	True	True	GCA_051958425.1	
+CU00442	revision_primary_v7	GCA_051958375.1	True	True	True	True	GCA_051958375.1	
+CU00443	revision_primary_v7	GCA_050329615.1	True	True	True	True	GCA_050329615.1	
+CU00444	revision_primary_v7	GCA_051958155.1	True	True	True	True	GCA_051958155.1	
+CU00446	revision_primary_v7	GCA_051958105.1	True	True	True	True	GCA_051958105.1	
+CU00447	revision_primary_v7	GCA_050330235.1	True	True	True	True	GCA_050330235.1	
+CU00449	revision_primary_v7	GCA_050332295.1	True	True	True	True	GCA_050332295.1	
+CU00450	revision_primary_v7	GCA_051958215.1	True	True	True	True	GCA_051958215.1	
+CU00451	revision_primary_v7	GCA_051962655.1	True	True	True	True	GCA_051962655.1	
+CU00455	revision_primary_v7	GCA_051956595.1	True	True	True	True	GCA_051956595.1	
+CU00457	revision_primary_v7	GCA_051956655.1	True	True	True	True	GCA_051956655.1	
+CU00463	revision_primary_v7	GCA_051956975.1	True	True	True	True	GCA_051956975.1	
+CU00465	revision_primary_v7	GCA_051957055.1	True	True	True	True	GCA_051957055.1	
+CU00466	revision_primary_v7	GCA_051957095.1	True	True	True	True	GCA_051957095.1	
+CU00467	revision_primary_v7	GCA_051957115.1	True	True	True	True	GCA_051957115.1	
+CU00468	revision_primary_v7	GCA_051957155.1	True	True	True	True	GCA_051957155.1	
+CU00469	revision_primary_v7	GCA_051957315.1	True	True	True	True	GCA_051957315.1	
+CU00470	revision_primary_v7	GCA_051957235.1	True	True	True	True	GCA_051957235.1	
+CU00471	revision_primary_v7	GCA_051957275.1	True	True	True	True	GCA_051957275.1	
+CU00472	revision_primary_v7	GCA_051957375.1	True	True	True	True	GCA_051957375.1	
+CU00474	revision_primary_v7	GCA_051957755.1	True	True	True	True	GCA_051957755.1	
+CU00476	revision_primary_v7	GCA_051957735.1	True	True	True	True	GCA_051957735.1	
+CU00478	revision_primary_v7	GCA_051958255.1	True	True	True	True	GCA_051958255.1	
+CU00479	revision_primary_v7	GCA_051958415.1	True	True	True	True	GCA_051958415.1	
+CU00480	revision_primary_v7	GCA_051958535.1	True	True	True	True	GCA_051958535.1	
+CU00483	revision_primary_v7	GCA_051962735.1	True	True	True	True	GCA_051962735.1	
+CU00484	revision_primary_v7	GCA_051962805.1	True	True	True	True	GCA_051962805.1	
+CU00485	revision_primary_v7	GCA_051962935.1	True	True	True	True	GCA_051962935.1	
+CU00487	revision_primary_v7	GCA_051963075.1	True	True	True	True	GCA_051963075.1	
+CU00488	revision_primary_v7	GCA_051963435.1	True	True	True	True	GCA_051963435.1	
+CU00489	revision_primary_v7	GCA_051963515.1	True	True	True	True	GCA_051963515.1	
+CU00490	revision_primary_v7	GCA_051963555.1	True	True	True	True	GCA_051963555.1	
+CU00491	revision_primary_v7	GCA_051963575.1	True	True	True	True	GCA_051963575.1	
+CU00492	revision_primary_v7	GCA_051963675.1	True	True	True	True	GCA_051963675.1	
+CU00499	revision_primary_v7	GCA_052858825.1	True	True	True	True	GCA_052858825.1	
+CU00500	revision_primary_v7	GCA_052858845.1	True	True	True	True	GCA_052858845.1	
+CU00502	revision_primary_v7	GCA_052858885.1	True	True	True	True	GCA_052858885.1	
+CU00503	revision_primary_v7	GCA_052858905.1	True	True	True	True	GCA_052858905.1	
+CU00504	revision_primary_v7	GCA_052858915.1	True	True	True	True	GCA_052858915.1	
+CU00508	revision_primary_v7	GCA_052859025.1	True	True	True	True	GCA_052859025.1	
+CU00509	revision_primary_v7	GCA_052859045.1	True	True	True	True	GCA_052859045.1	
+CU00510	revision_primary_v7	GCA_052859065.1	True	True	True	True	GCA_052859065.1	
+CU00511	revision_primary_v7	GCA_052859085.1	True	True	True	True	GCA_052859085.1	
+CU00512	revision_primary_v7	GCA_052859105.1	True	True	True	True	GCA_052859105.1	
+CU00515	revision_primary_v7	GCA_052859165.1	True	True	True	True	GCA_052859165.1	
+CU00517	revision_primary_v7	GCA_052859205.1	True	True	True	True	GCA_052859205.1	
+CU00518	revision_primary_v7	GCA_052859225.1	True	True	True	True	GCA_052859225.1	
+CU00520	revision_primary_v7	GCA_052859265.1	True	True	True	True	GCA_052859265.1	
+CU00524	revision_primary_v7	GCA_056638355.1	True	True	True	True	GCA_056638355.1	
+CU00549	revision_primary_v7	GCA_058214815.1	True	True	True	True	GCA_058214815.1	
+CU00573	revision_primary_v7	GCA_900654165.1	True	True	True	True	GCA_900654165.1	
+CU00575	revision_primary_v7	GCA_900654185.1	True	True	True	True	GCA_900654185.1	
+CU00576	revision_primary_v7	GCA_900654195.1	True	True	True	True	GCA_900654195.1	
+CU00579	revision_primary_v7	GCA_901873995.1	True	True	True	True	GCA_901873995.1	
+CU00621	revision_primary_v7	GCA_946902045.1	True	True	True	True	GCA_946902045.1	
+CU00777	revision_primary_v7	GCA_963394965.1	True	True	True	True	GCA_963394965.1	
+CU00780	revision_primary_v7	GCA_963394995.1	True	True	True	True	GCA_963394995.1	
+CU00781	revision_primary_v7	GCA_963395005.1	True	True	True	True	GCA_963395005.1	
+CU00786	revision_primary_v7	GCA_963395055.1	True	True	True	True	GCA_963395055.1	
+CU00789	revision_primary_v7	GCA_963396205.1	True	True	True	True	GCA_963396205.1	
+CU00790	revision_primary_v7	GCA_963396215.1	True	True	True	True	GCA_963396215.1	
+CU00792	revision_primary_v7	GCA_963396245.1	True	True	True	True	GCA_963396245.1	
+CU00793	revision_primary_v7	GCA_963396255.1	True	True	True	True	GCA_963396255.1	
+CU00794	revision_primary_v7	GCA_963396265.1	True	True	True	True	GCA_963396265.1	
+CU01203	revision_primary_v7	GCA_982715595.1	True	True	True	True	GCA_982715595.1	
+CU00004	one_per_participant_v7	GCA_000173935.1	True	True	True	True	GCA_000173935.1	
+CU00005	one_per_participant_v7	GCA_000173955.1	True	True	True	True	GCA_000173955.1	
+CU00037	one_per_participant_v7	GCA_001618015.1	True	True	True	True	GCA_001618015.1	
+CU00038	one_per_participant_v7	GCA_001618065.1	True	True	True	True	GCA_001618065.1	
+CU00039	one_per_participant_v7	GCA_001618075.1	True	True	True	True	GCA_001618075.1	
+CU00040	one_per_participant_v7	GCA_001618085.1	True	True	True	True	GCA_001618085.1	
+CU00043	one_per_participant_v7	GCA_001808255.1	True	True	True	True	GCA_001808255.1	
+CU00046	one_per_participant_v7	GCA_001809345.1	True	True	True	True	GCA_001809345.1	
+CU00047	one_per_participant_v7	GCA_001809585.1	True	True	True	True	GCA_001809585.1	
+CU00048	one_per_participant_v7	GCA_001810035.1	True	True	True	True	GCA_001810035.1	
+CU00049	one_per_participant_v7	GCA_001810105.1	True	True	True	True	GCA_001810105.1	
+CU00052	one_per_participant_v7	GCA_001811065.1	True	True	True	True	GCA_001811065.1	
+CU00053	one_per_participant_v7	GCA_001811365.1	True	True	True	True	GCA_001811365.1	
+CU00054	one_per_participant_v7	GCA_001811855.1	True	True	True	True	GCA_001811855.1	
+CU00055	one_per_participant_v7	GCA_001811945.1	True	True	True	True	GCA_001811945.1	
+CU00056	one_per_participant_v7	GCA_001812055.1	True	True	True	True	GCA_001812055.1	
+CU00057	one_per_participant_v7	GCA_001812605.1	True	True	True	True	GCA_001812605.1	
+CU00058	one_per_participant_v7	GCA_001812725.1	True	True	True	True	GCA_001812725.1	
+CU00059	one_per_participant_v7	GCA_001812735.1	True	True	True	True	GCA_001812735.1	
+CU00060	one_per_participant_v7	GCA_001812885.1	True	True	True	True	GCA_001812885.1	
+CU00062	one_per_participant_v7	GCA_001814095.1	True	True	True	True	GCA_001814095.1	
+CU00065	one_per_participant_v7	GCA_001814445.1	True	True	True	True	GCA_001814445.1	
+CU00066	one_per_participant_v7	GCA_001815375.1	True	True	True	True	GCA_001815375.1	
+CU00067	one_per_participant_v7	GCA_001815615.1	True	True	True	True	GCA_001815615.1	
+CU00069	one_per_participant_v7	GCA_001815685.1	True	True	True	True	GCA_001815685.1	
+CU00070	one_per_participant_v7	GCA_001836315.1	True	True	True	True	GCA_001836315.1	
+CU00073	one_per_participant_v7	GCA_001837185.1	True	True	True	True	GCA_001837185.1	
+CU00075	one_per_participant_v7	GCA_001837365.1	True	True	True	True	GCA_001837365.1	
+CU00077	one_per_participant_v7	GCA_001837635.1	True	True	True	True	GCA_001837635.1	
+CU00079	one_per_participant_v7	GCA_001838135.1	True	True	True	True	GCA_001838135.1	
+CU00096	one_per_participant_v7	GCA_002847985.1	True	True	True	True	GCA_002847985.1	
+CU00098	one_per_participant_v7	GCA_002863305.2	True	True	True	True	GCA_002863305.2	
+CU00101	one_per_participant_v7	GCA_003044355.1	True	True	True	True	GCA_003044355.1	
+CU00102	one_per_participant_v7	GCA_003044385.1	True	True	True	True	GCA_003044385.1	
+CU00109	one_per_participant_v7	GCA_003044525.1	True	True	True	True	GCA_003044525.1	
+CU00112	one_per_participant_v7	GCA_003044585.1	True	True	True	True	GCA_003044585.1	
+CU00115	one_per_participant_v7	GCA_003044645.1	True	True	True	True	GCA_003044645.1	
+CU00116	one_per_participant_v7	GCA_003044665.1	True	True	True	True	GCA_003044665.1	
+CU00125	one_per_participant_v7	GCA_003044845.1	True	True	True	True	GCA_003044845.1	
+CU00129	one_per_participant_v7	GCA_003044925.1	True	True	True	True	GCA_003044925.1	
+CU00130	one_per_participant_v7	GCA_003044935.1	True	True	True	True	GCA_003044935.1	
+CU00131	one_per_participant_v7	GCA_003044965.1	True	True	True	True	GCA_003044965.1	
+CU00134	one_per_participant_v7	GCA_003045025.1	True	True	True	True	GCA_003045025.1	
+CU00139	one_per_participant_v7	GCA_003351665.1	True	True	True	True	GCA_003351665.1	
+CU00177	one_per_participant_v7	GCA_900453805.1	True	True	True	True	GCA_900453805.1	
+CU00178	one_per_participant_v7	GCA_005221305.1	True	True	True	True	GCA_005221305.1	
+CU00194	one_per_participant_v7	GCA_052073865.1	True	True	True	True	GCA_052073865.1	
+CU00197	one_per_participant_v7	GCA_014596425.2	True	True	True	True	GCA_014596425.2	
+CU00217	one_per_participant_v7	GCA_019334725.1	True	True	True	True	GCA_019334725.1	
+CU00227	one_per_participant_v7	GCA_023472875.1	True	True	True	True	GCA_023472875.1	
+CU00229	one_per_participant_v7	GCA_023635065.1	True	True	True	True	GCA_023635065.1	
+CU00230	one_per_participant_v7	GCA_023635085.1	True	True	True	True	GCA_023635085.1	
+CU00231	one_per_participant_v7	GCA_023635105.1	True	True	True	True	GCA_023635105.1	
+CU00235	one_per_participant_v7	GCA_024205705.1	True	True	True	True	GCA_024205705.1	
+CU00236	one_per_participant_v7	GCA_024205725.1	True	True	True	True	GCA_024205725.1	
+CU00237	one_per_participant_v7	GCA_024205745.1	True	True	True	True	GCA_024205745.1	
+CU00239	one_per_participant_v7	GCA_024205785.1	True	True	True	True	GCA_024205785.1	
+CU00245	one_per_participant_v7	GCA_030218065.1	True	True	True	True	GCA_030218065.1	
+CU00270	one_per_participant_v7	GCA_038738605.1	True	True	True	True	GCA_038738605.1	
+CU00272	one_per_participant_v7	GCA_041433145.1	True	True	True	True	GCA_041433145.1	
+CU00273	one_per_participant_v7	GCA_041433195.1	True	True	True	True	GCA_041433195.1	
+CU00274	one_per_participant_v7	GCA_041433205.1	True	True	True	True	GCA_041433205.1	
+CU00275	one_per_participant_v7	GCA_041433235.1	True	True	True	True	GCA_041433235.1	
+CU00276	one_per_participant_v7	GCA_041433255.1	True	True	True	True	GCA_041433255.1	
+CU00277	one_per_participant_v7	GCA_041433265.1	True	True	True	True	GCA_041433265.1	
+CU00347	one_per_participant_v7	GCA_042536645.1	True	True	True	True	GCA_042536645.1	
+CU00348	one_per_participant_v7	GCA_042536675.1	True	True	True	True	GCA_042536675.1	
+CU00350	one_per_participant_v7	GCA_042536725.1	True	True	True	True	GCA_042536725.1	
+CU00351	one_per_participant_v7	GCA_042536745.1	True	True	True	True	GCA_042536745.1	
+CU00352	one_per_participant_v7	GCA_042536765.1	True	True	True	True	GCA_042536765.1	
+CU00362	one_per_participant_v7	GCA_042537145.1	True	True	True	True	GCA_042537145.1	
+CU00369	one_per_participant_v7	GCA_042537275.1	True	True	True	True	GCA_042537275.1	
+CU00374	one_per_participant_v7	GCA_042537445.1	True	True	True	True	GCA_042537445.1	
+CU00381	one_per_participant_v7	GCA_042557445.1	True	True	True	True	GCA_042557445.1	
+CU00382	one_per_participant_v7	GCA_042557465.1	True	True	True	True	GCA_042557465.1	
+CU00384	one_per_participant_v7	GCA_042557505.2	True	True	True	True	GCA_042557505.2	
+CU00385	one_per_participant_v7	GCA_042557525.1	True	True	True	True	GCA_042557525.1	
+CU00386	one_per_participant_v7	GCA_042557545.1	True	True	True	True	GCA_042557545.1	
+CU00388	one_per_participant_v7	GCA_042557585.1	True	True	True	True	GCA_042557585.1	
+CU00389	one_per_participant_v7	GCA_042557645.1	True	True	True	True	GCA_042557645.1	
+CU00396	one_per_participant_v7	GCA_042666255.1	True	True	True	True	GCA_042666255.1	
+CU00418	one_per_participant_v7	GCA_050292725.1	True	True	True	True	GCA_050292725.1	
+CU00424	one_per_participant_v7	GCA_051963175.1	True	True	True	True	GCA_051963175.1	
+CU00425	one_per_participant_v7	GCA_051962855.1	True	True	True	True	GCA_051962855.1	
+CU00426	one_per_participant_v7	GCA_050328165.1	True	True	True	True	GCA_050328165.1	
+CU00429	one_per_participant_v7	GCA_051962875.1	True	True	True	True	GCA_051962875.1	
+CU00430	one_per_participant_v7	GCA_050328445.1	True	True	True	True	GCA_050328445.1	
+CU00432	one_per_participant_v7	GCA_050329205.1	True	True	True	True	GCA_050329205.1	
+CU00433	one_per_participant_v7	GCA_050328825.1	True	True	True	True	GCA_050328825.1	
+CU00437	one_per_participant_v7	GCA_050329065.1	True	True	True	True	GCA_050329065.1	
+CU00442	one_per_participant_v7	GCA_051958375.1	True	True	True	True	GCA_051958375.1	
+CU00443	one_per_participant_v7	GCA_050329615.1	True	True	True	True	GCA_050329615.1	
+CU00455	one_per_participant_v7	GCA_051956595.1	True	True	True	True	GCA_051956595.1	
+CU00463	one_per_participant_v7	GCA_051956975.1	True	True	True	True	GCA_051956975.1	
+CU00465	one_per_participant_v7	GCA_051957055.1	True	True	True	True	GCA_051957055.1	
+CU00467	one_per_participant_v7	GCA_051957115.1	True	True	True	True	GCA_051957115.1	
+CU00470	one_per_participant_v7	GCA_051957235.1	True	True	True	True	GCA_051957235.1	
+CU00472	one_per_participant_v7	GCA_051957375.1	True	True	True	True	GCA_051957375.1	
+CU00480	one_per_participant_v7	GCA_051958535.1	True	True	True	True	GCA_051958535.1	
+CU00487	one_per_participant_v7	GCA_051963075.1	True	True	True	True	GCA_051963075.1	
+CU00488	one_per_participant_v7	GCA_051963435.1	True	True	True	True	GCA_051963435.1	
+CU00490	one_per_participant_v7	GCA_051963555.1	True	True	True	True	GCA_051963555.1	
+CU00499	one_per_participant_v7	GCA_052858825.1	True	True	True	True	GCA_052858825.1	
+CU00500	one_per_participant_v7	GCA_052858845.1	True	True	True	True	GCA_052858845.1	
+CU00502	one_per_participant_v7	GCA_052858885.1	True	True	True	True	GCA_052858885.1	
+CU00503	one_per_participant_v7	GCA_052858905.1	True	True	True	True	GCA_052858905.1	
+CU00504	one_per_participant_v7	GCA_052858915.1	True	True	True	True	GCA_052858915.1	
+CU00508	one_per_participant_v7	GCA_052859025.1	True	True	True	True	GCA_052859025.1	
+CU00509	one_per_participant_v7	GCA_052859045.1	True	True	True	True	GCA_052859045.1	
+CU00510	one_per_participant_v7	GCA_052859065.1	True	True	True	True	GCA_052859065.1	
+CU00511	one_per_participant_v7	GCA_052859085.1	True	True	True	True	GCA_052859085.1	
+CU00512	one_per_participant_v7	GCA_052859105.1	True	True	True	True	GCA_052859105.1	
+CU00515	one_per_participant_v7	GCA_052859165.1	True	True	True	True	GCA_052859165.1	
+CU00517	one_per_participant_v7	GCA_052859205.1	True	True	True	True	GCA_052859205.1	
+CU00518	one_per_participant_v7	GCA_052859225.1	True	True	True	True	GCA_052859225.1	
+CU00520	one_per_participant_v7	GCA_052859265.1	True	True	True	True	GCA_052859265.1	
+CU00524	one_per_participant_v7	GCA_056638355.1	True	True	True	True	GCA_056638355.1	
+CU00549	one_per_participant_v7	GCA_058214815.1	True	True	True	True	GCA_058214815.1	
+CU00573	one_per_participant_v7	GCA_900654165.1	True	True	True	True	GCA_900654165.1	
+CU00575	one_per_participant_v7	GCA_900654185.1	True	True	True	True	GCA_900654185.1	
+CU00576	one_per_participant_v7	GCA_900654195.1	True	True	True	True	GCA_900654195.1	
+CU00579	one_per_participant_v7	GCA_901873995.1	True	True	True	True	GCA_901873995.1	
+CU00621	one_per_participant_v7	GCA_946902045.1	True	True	True	True	GCA_946902045.1	
+CU00777	one_per_participant_v7	GCA_963394965.1	True	True	True	True	GCA_963394965.1	
+CU00780	one_per_participant_v7	GCA_963394995.1	True	True	True	True	GCA_963394995.1	
+CU00781	one_per_participant_v7	GCA_963395005.1	True	True	True	True	GCA_963395005.1	
+CU00786	one_per_participant_v7	GCA_963395055.1	True	True	True	True	GCA_963395055.1	
+CU00789	one_per_participant_v7	GCA_963396205.1	True	True	True	True	GCA_963396205.1	
+CU00790	one_per_participant_v7	GCA_963396215.1	True	True	True	True	GCA_963396215.1	
+CU00792	one_per_participant_v7	GCA_963396245.1	True	True	True	True	GCA_963396245.1	
+CU00793	one_per_participant_v7	GCA_963396255.1	True	True	True	True	GCA_963396255.1	
+CU00794	one_per_participant_v7	GCA_963396265.1	True	True	True	True	GCA_963396265.1	
+CU01203	one_per_participant_v7	GCA_982715595.1	True	True	True	True	GCA_982715595.1	
+CU00004	expanded_reference_sensitivity_v7	GCA_000173935.1	True	True	True	True	GCA_000173935.1	
+CU00005	expanded_reference_sensitivity_v7	GCA_000173955.1	True	True	True	True	GCA_000173955.1	
+CU00010	expanded_reference_sensitivity_v7	GCA_000186165.1	True	True	False	False	GCA_000186165.1	
+CU00025	expanded_reference_sensitivity_v7	GCA_000763635.1	True	True	False	False	GCA_000763635.1	
+CU00030	expanded_reference_sensitivity_v7	GCA_001064605.1	True	True	False	False	GCA_001064605.1	
+CU00037	expanded_reference_sensitivity_v7	GCA_001618015.1	True	True	True	True	GCA_001618015.1	
+CU00038	expanded_reference_sensitivity_v7	GCA_001618065.1	True	True	True	True	GCA_001618065.1	
+CU00039	expanded_reference_sensitivity_v7	GCA_001618075.1	True	True	True	True	GCA_001618075.1	
+CU00040	expanded_reference_sensitivity_v7	GCA_001618085.1	True	True	True	True	GCA_001618085.1	
+CU00043	expanded_reference_sensitivity_v7	GCA_001808255.1	True	True	True	True	GCA_001808255.1	
+CU00046	expanded_reference_sensitivity_v7	GCA_001809345.1	True	True	True	True	GCA_001809345.1	
+CU00047	expanded_reference_sensitivity_v7	GCA_001809585.1	True	True	True	True	GCA_001809585.1	
+CU00048	expanded_reference_sensitivity_v7	GCA_001810035.1	True	True	True	True	GCA_001810035.1	
+CU00049	expanded_reference_sensitivity_v7	GCA_001810105.1	True	True	True	True	GCA_001810105.1	
+CU00052	expanded_reference_sensitivity_v7	GCA_001811065.1	True	True	True	True	GCA_001811065.1	
+CU00053	expanded_reference_sensitivity_v7	GCA_001811365.1	True	True	True	True	GCA_001811365.1	
+CU00054	expanded_reference_sensitivity_v7	GCA_001811855.1	True	True	True	True	GCA_001811855.1	
+CU00055	expanded_reference_sensitivity_v7	GCA_001811945.1	True	True	True	True	GCA_001811945.1	
+CU00056	expanded_reference_sensitivity_v7	GCA_001812055.1	True	True	True	True	GCA_001812055.1	
+CU00057	expanded_reference_sensitivity_v7	GCA_001812605.1	True	True	True	True	GCA_001812605.1	
+CU00058	expanded_reference_sensitivity_v7	GCA_001812725.1	True	True	True	True	GCA_001812725.1	
+CU00059	expanded_reference_sensitivity_v7	GCA_001812735.1	True	True	True	True	GCA_001812735.1	
+CU00060	expanded_reference_sensitivity_v7	GCA_001812885.1	True	True	True	True	GCA_001812885.1	
+CU00062	expanded_reference_sensitivity_v7	GCA_001814095.1	True	True	True	True	GCA_001814095.1	
+CU00065	expanded_reference_sensitivity_v7	GCA_001814445.1	True	True	True	True	GCA_001814445.1	
+CU00066	expanded_reference_sensitivity_v7	GCA_001815375.1	True	True	True	True	GCA_001815375.1	
+CU00067	expanded_reference_sensitivity_v7	GCA_001815615.1	True	True	True	True	GCA_001815615.1	
+CU00069	expanded_reference_sensitivity_v7	GCA_001815685.1	True	True	True	True	GCA_001815685.1	
+CU00070	expanded_reference_sensitivity_v7	GCA_001836315.1	True	True	True	True	GCA_001836315.1	
+CU00071	expanded_reference_sensitivity_v7	GCA_001836705.1	True	True	False	False	GCA_001836705.1	
+CU00072	expanded_reference_sensitivity_v7	GCA_001836795.1	True	True	False	False	GCA_001836795.1	
+CU00073	expanded_reference_sensitivity_v7	GCA_001837185.1	True	True	True	True	GCA_001837185.1	
+CU00074	expanded_reference_sensitivity_v7	GCA_001837245.1	True	True	False	False	GCA_001837245.1	
+CU00075	expanded_reference_sensitivity_v7	GCA_001837365.1	True	True	True	True	GCA_001837365.1	
+CU00076	expanded_reference_sensitivity_v7	GCA_001837375.1	True	True	False	False	GCA_001837375.1	
+CU00077	expanded_reference_sensitivity_v7	GCA_001837635.1	True	True	True	True	GCA_001837635.1	
+CU00079	expanded_reference_sensitivity_v7	GCA_001838135.1	True	True	True	True	GCA_001838135.1	
+CU00096	expanded_reference_sensitivity_v7	GCA_002847985.1	True	True	True	True	GCA_002847985.1	
+CU00098	expanded_reference_sensitivity_v7	GCA_002863305.2	True	True	True	True	GCA_002863305.2	
+CU00101	expanded_reference_sensitivity_v7	GCA_003044355.1	True	True	True	True	GCA_003044355.1	
+CU00102	expanded_reference_sensitivity_v7	GCA_003044385.1	True	True	True	True	GCA_003044385.1	
+CU00109	expanded_reference_sensitivity_v7	GCA_003044525.1	True	True	True	True	GCA_003044525.1	
+CU00112	expanded_reference_sensitivity_v7	GCA_003044585.1	True	True	True	True	GCA_003044585.1	
+CU00115	expanded_reference_sensitivity_v7	GCA_003044645.1	True	True	True	True	GCA_003044645.1	
+CU00116	expanded_reference_sensitivity_v7	GCA_003044665.1	True	True	True	True	GCA_003044665.1	
+CU00125	expanded_reference_sensitivity_v7	GCA_003044845.1	True	True	True	True	GCA_003044845.1	
+CU00129	expanded_reference_sensitivity_v7	GCA_003044925.1	True	True	True	True	GCA_003044925.1	
+CU00130	expanded_reference_sensitivity_v7	GCA_003044935.1	True	True	True	True	GCA_003044935.1	
+CU00131	expanded_reference_sensitivity_v7	GCA_003044965.1	True	True	True	True	GCA_003044965.1	
+CU00134	expanded_reference_sensitivity_v7	GCA_003045025.1	True	True	True	True	GCA_003045025.1	
+CU00139	expanded_reference_sensitivity_v7	GCA_003351665.1	True	True	True	True	GCA_003351665.1	
+CU00177	expanded_reference_sensitivity_v7	GCA_900453805.1	True	True	True	True	GCA_900453805.1	
+CU00178	expanded_reference_sensitivity_v7	GCA_005221305.1	True	True	True	True	GCA_005221305.1	
+CU00194	expanded_reference_sensitivity_v7	GCA_052073865.1	True	True	True	True	GCA_052073865.1	
+CU00197	expanded_reference_sensitivity_v7	GCA_014596425.2	True	True	True	True	GCA_014596425.2	
+CU00217	expanded_reference_sensitivity_v7	GCA_019334725.1	True	True	True	True	GCA_019334725.1	
+CU00227	expanded_reference_sensitivity_v7	GCA_023472875.1	True	True	True	True	GCA_023472875.1	
+CU00228	expanded_reference_sensitivity_v7	GCA_023635035.1	True	True	False	False	GCA_023635035.1	
+CU00229	expanded_reference_sensitivity_v7	GCA_023635065.1	True	True	True	True	GCA_023635065.1	
+CU00230	expanded_reference_sensitivity_v7	GCA_023635085.1	True	True	True	True	GCA_023635085.1	
+CU00231	expanded_reference_sensitivity_v7	GCA_023635105.1	True	True	True	True	GCA_023635105.1	
+CU00234	expanded_reference_sensitivity_v7	GCA_024205685.1	True	True	False	False	GCA_024205685.1	
+CU00235	expanded_reference_sensitivity_v7	GCA_024205705.1	True	True	True	True	GCA_024205705.1	
+CU00236	expanded_reference_sensitivity_v7	GCA_024205725.1	True	True	True	True	GCA_024205725.1	
+CU00237	expanded_reference_sensitivity_v7	GCA_024205745.1	True	True	True	True	GCA_024205745.1	
+CU00239	expanded_reference_sensitivity_v7	GCA_024205785.1	True	True	True	True	GCA_024205785.1	
+CU00245	expanded_reference_sensitivity_v7	GCA_030218065.1	True	True	True	True	GCA_030218065.1	
+CU00270	expanded_reference_sensitivity_v7	GCA_038738605.1	True	True	True	True	GCA_038738605.1	
+CU00272	expanded_reference_sensitivity_v7	GCA_041433145.1	True	True	True	True	GCA_041433145.1	
+CU00273	expanded_reference_sensitivity_v7	GCA_041433195.1	True	True	True	True	GCA_041433195.1	
+CU00274	expanded_reference_sensitivity_v7	GCA_041433205.1	True	True	True	True	GCA_041433205.1	
+CU00275	expanded_reference_sensitivity_v7	GCA_041433235.1	True	True	True	True	GCA_041433235.1	
+CU00276	expanded_reference_sensitivity_v7	GCA_041433255.1	True	True	True	True	GCA_041433255.1	
+CU00277	expanded_reference_sensitivity_v7	GCA_041433265.1	True	True	True	True	GCA_041433265.1	
+CU00347	expanded_reference_sensitivity_v7	GCA_042536645.1	True	True	True	True	GCA_042536645.1	
+CU00348	expanded_reference_sensitivity_v7	GCA_042536675.1	True	True	True	True	GCA_042536675.1	
+CU00349	expanded_reference_sensitivity_v7	GCA_042536705.1	True	True	True	True	GCA_042536705.1	
+CU00350	expanded_reference_sensitivity_v7	GCA_042536725.1	True	True	True	True	GCA_042536725.1	
+CU00351	expanded_reference_sensitivity_v7	GCA_042536745.1	True	True	True	True	GCA_042536745.1	
+CU00352	expanded_reference_sensitivity_v7	GCA_042536765.1	True	True	True	True	GCA_042536765.1	
+CU00356	expanded_reference_sensitivity_v7	GCA_042536925.1	True	True	True	True	GCA_042536925.1	
+CU00357	expanded_reference_sensitivity_v7	GCA_042536955.1	True	True	True	True	GCA_042536955.1	
+CU00358	expanded_reference_sensitivity_v7	GCA_042536985.1	True	True	False	False	GCA_042536985.1	
+CU00359	expanded_reference_sensitivity_v7	GCA_042537005.1	True	True	True	True	GCA_042537005.1	
+CU00360	expanded_reference_sensitivity_v7	GCA_042537105.1	True	True	False	False	GCA_042537105.1	
+CU00361	expanded_reference_sensitivity_v7	GCA_042537125.1	True	True	False	False	GCA_042537125.1	
+CU00362	expanded_reference_sensitivity_v7	GCA_042537145.1	True	True	True	True	GCA_042537145.1	
+CU00363	expanded_reference_sensitivity_v7	GCA_042537165.1	True	True	False	False	GCA_042537165.1	
+CU00369	expanded_reference_sensitivity_v7	GCA_042537275.1	True	True	True	True	GCA_042537275.1	
+CU00374	expanded_reference_sensitivity_v7	GCA_042537445.1	True	True	True	True	GCA_042537445.1	
+CU00381	expanded_reference_sensitivity_v7	GCA_042557445.1	True	True	True	True	GCA_042557445.1	
+CU00382	expanded_reference_sensitivity_v7	GCA_042557465.1	True	True	True	True	GCA_042557465.1	
+CU00384	expanded_reference_sensitivity_v7	GCA_042557505.2	True	True	True	True	GCA_042557505.2	
+CU00385	expanded_reference_sensitivity_v7	GCA_042557525.1	True	True	True	True	GCA_042557525.1	
+CU00386	expanded_reference_sensitivity_v7	GCA_042557545.1	True	True	True	True	GCA_042557545.1	
+CU00387	expanded_reference_sensitivity_v7	GCA_042557565.1	True	True	False	False	GCA_042557565.1	
+CU00388	expanded_reference_sensitivity_v7	GCA_042557585.1	True	True	True	True	GCA_042557585.1	
+CU00389	expanded_reference_sensitivity_v7	GCA_042557645.1	True	True	True	True	GCA_042557645.1	
+CU00396	expanded_reference_sensitivity_v7	GCA_042666255.1	True	True	True	True	GCA_042666255.1	
+CU00418	expanded_reference_sensitivity_v7	GCA_050292725.1	True	True	True	True	GCA_050292725.1	
+CU00423	expanded_reference_sensitivity_v7	GCA_051957575.1	True	True	True	True	GCA_051957575.1	
+CU00424	expanded_reference_sensitivity_v7	GCA_051963175.1	True	True	True	True	GCA_051963175.1	
+CU00425	expanded_reference_sensitivity_v7	GCA_051962855.1	True	True	True	True	GCA_051962855.1	
+CU00426	expanded_reference_sensitivity_v7	GCA_050328165.1	True	True	True	True	GCA_050328165.1	
+CU00427	expanded_reference_sensitivity_v7	GCA_050328265.1	True	True	True	True	GCA_050328265.1	
+CU00428	expanded_reference_sensitivity_v7	GCA_051957875.1	True	True	True	True	GCA_051957875.1	
+CU00429	expanded_reference_sensitivity_v7	GCA_051962875.1	True	True	True	True	GCA_051962875.1	
+CU00430	expanded_reference_sensitivity_v7	GCA_050328445.1	True	True	True	True	GCA_050328445.1	
+CU00431	expanded_reference_sensitivity_v7	GCA_050328485.1	True	True	True	True	GCA_050328485.1	
+CU00432	expanded_reference_sensitivity_v7	GCA_050329205.1	True	True	True	True	GCA_050329205.1	
+CU00433	expanded_reference_sensitivity_v7	GCA_050328825.1	True	True	True	True	GCA_050328825.1	
+CU00434	expanded_reference_sensitivity_v7	GCA_050328885.1	True	True	True	True	GCA_050328885.1	
+CU00435	expanded_reference_sensitivity_v7	GCA_051958015.1	True	True	True	True	GCA_051958015.1	
+CU00436	expanded_reference_sensitivity_v7	GCA_050328965.1	True	True	True	True	GCA_050328965.1	
+CU00437	expanded_reference_sensitivity_v7	GCA_050329065.1	True	True	True	True	GCA_050329065.1	
+CU00438	expanded_reference_sensitivity_v7	GCA_050329085.1	True	True	True	True	GCA_050329085.1	
+CU00439	expanded_reference_sensitivity_v7	GCA_051958545.1	True	True	True	True	GCA_051958545.1	
+CU00440	expanded_reference_sensitivity_v7	GCA_051958495.1	True	True	True	True	GCA_051958495.1	
+CU00441	expanded_reference_sensitivity_v7	GCA_051958425.1	True	True	True	True	GCA_051958425.1	
+CU00442	expanded_reference_sensitivity_v7	GCA_051958375.1	True	True	True	True	GCA_051958375.1	
+CU00443	expanded_reference_sensitivity_v7	GCA_050329615.1	True	True	True	True	GCA_050329615.1	
+CU00444	expanded_reference_sensitivity_v7	GCA_051958155.1	True	True	True	True	GCA_051958155.1	
+CU00446	expanded_reference_sensitivity_v7	GCA_051958105.1	True	True	True	True	GCA_051958105.1	
+CU00447	expanded_reference_sensitivity_v7	GCA_050330235.1	True	True	True	True	GCA_050330235.1	
+CU00449	expanded_reference_sensitivity_v7	GCA_050332295.1	True	True	True	True	GCA_050332295.1	
+CU00450	expanded_reference_sensitivity_v7	GCA_051958215.1	True	True	True	True	GCA_051958215.1	
+CU00451	expanded_reference_sensitivity_v7	GCA_051962655.1	True	True	True	True	GCA_051962655.1	
+CU00455	expanded_reference_sensitivity_v7	GCA_051956595.1	True	True	True	True	GCA_051956595.1	
+CU00457	expanded_reference_sensitivity_v7	GCA_051956655.1	True	True	True	True	GCA_051956655.1	
+CU00463	expanded_reference_sensitivity_v7	GCA_051956975.1	True	True	True	True	GCA_051956975.1	
+CU00465	expanded_reference_sensitivity_v7	GCA_051957055.1	True	True	True	True	GCA_051957055.1	
+CU00466	expanded_reference_sensitivity_v7	GCA_051957095.1	True	True	True	True	GCA_051957095.1	
+CU00467	expanded_reference_sensitivity_v7	GCA_051957115.1	True	True	True	True	GCA_051957115.1	
+CU00468	expanded_reference_sensitivity_v7	GCA_051957155.1	True	True	True	True	GCA_051957155.1	
+CU00469	expanded_reference_sensitivity_v7	GCA_051957315.1	True	True	True	True	GCA_051957315.1	
+CU00470	expanded_reference_sensitivity_v7	GCA_051957235.1	True	True	True	True	GCA_051957235.1	
+CU00471	expanded_reference_sensitivity_v7	GCA_051957275.1	True	True	True	True	GCA_051957275.1	
+CU00472	expanded_reference_sensitivity_v7	GCA_051957375.1	True	True	True	True	GCA_051957375.1	
+CU00474	expanded_reference_sensitivity_v7	GCA_051957755.1	True	True	True	True	GCA_051957755.1	
+CU00476	expanded_reference_sensitivity_v7	GCA_051957735.1	True	True	True	True	GCA_051957735.1	
+CU00478	expanded_reference_sensitivity_v7	GCA_051958255.1	True	True	True	True	GCA_051958255.1	
+CU00479	expanded_reference_sensitivity_v7	GCA_051958415.1	True	True	True	True	GCA_051958415.1	
+CU00480	expanded_reference_sensitivity_v7	GCA_051958535.1	True	True	True	True	GCA_051958535.1	
+CU00483	expanded_reference_sensitivity_v7	GCA_051962735.1	True	True	True	True	GCA_051962735.1	
+CU00484	expanded_reference_sensitivity_v7	GCA_051962805.1	True	True	True	True	GCA_051962805.1	
+CU00485	expanded_reference_sensitivity_v7	GCA_051962935.1	True	True	True	True	GCA_051962935.1	
+CU00487	expanded_reference_sensitivity_v7	GCA_051963075.1	True	True	True	True	GCA_051963075.1	
+CU00488	expanded_reference_sensitivity_v7	GCA_051963435.1	True	True	True	True	GCA_051963435.1	
+CU00489	expanded_reference_sensitivity_v7	GCA_051963515.1	True	True	True	True	GCA_051963515.1	
+CU00490	expanded_reference_sensitivity_v7	GCA_051963555.1	True	True	True	True	GCA_051963555.1	
+CU00491	expanded_reference_sensitivity_v7	GCA_051963575.1	True	True	True	True	GCA_051963575.1	
+CU00492	expanded_reference_sensitivity_v7	GCA_051963675.1	True	True	True	True	GCA_051963675.1	
+CU00499	expanded_reference_sensitivity_v7	GCA_052858825.1	True	True	True	True	GCA_052858825.1	
+CU00500	expanded_reference_sensitivity_v7	GCA_052858845.1	True	True	True	True	GCA_052858845.1	
+CU00501	expanded_reference_sensitivity_v7	GCA_052858865.1	True	True	False	False	GCA_052858865.1	
+CU00502	expanded_reference_sensitivity_v7	GCA_052858885.1	True	True	True	True	GCA_052858885.1	
+CU00503	expanded_reference_sensitivity_v7	GCA_052858905.1	True	True	True	True	GCA_052858905.1	
+CU00504	expanded_reference_sensitivity_v7	GCA_052858915.1	True	True	True	True	GCA_052858915.1	
+CU00506	expanded_reference_sensitivity_v7	GCA_052858975.1	True	True	False	False	GCA_052858975.1	
+CU00508	expanded_reference_sensitivity_v7	GCA_052859025.1	True	True	True	True	GCA_052859025.1	
+CU00509	expanded_reference_sensitivity_v7	GCA_052859045.1	True	True	True	True	GCA_052859045.1	
+CU00510	expanded_reference_sensitivity_v7	GCA_052859065.1	True	True	True	True	GCA_052859065.1	
+CU00511	expanded_reference_sensitivity_v7	GCA_052859085.1	True	True	True	True	GCA_052859085.1	
+CU00512	expanded_reference_sensitivity_v7	GCA_052859105.1	True	True	True	True	GCA_052859105.1	
+CU00514	expanded_reference_sensitivity_v7	GCA_052859145.1	True	True	False	False	GCA_052859145.1	
+CU00515	expanded_reference_sensitivity_v7	GCA_052859165.1	True	True	True	True	GCA_052859165.1	
+CU00516	expanded_reference_sensitivity_v7	GCA_052859185.1	True	True	False	False	GCA_052859185.1	
+CU00517	expanded_reference_sensitivity_v7	GCA_052859205.1	True	True	True	True	GCA_052859205.1	
+CU00518	expanded_reference_sensitivity_v7	GCA_052859225.1	True	True	True	True	GCA_052859225.1	
+CU00519	expanded_reference_sensitivity_v7	GCA_052859245.1	True	True	False	False	GCA_052859245.1	
+CU00520	expanded_reference_sensitivity_v7	GCA_052859265.1	True	True	True	True	GCA_052859265.1	
+CU00524	expanded_reference_sensitivity_v7	GCA_056638355.1	True	True	True	True	GCA_056638355.1	
+CU00549	expanded_reference_sensitivity_v7	GCA_058214815.1	True	True	True	True	GCA_058214815.1	
+CU00573	expanded_reference_sensitivity_v7	GCA_900654165.1	True	True	True	True	GCA_900654165.1	
+CU00575	expanded_reference_sensitivity_v7	GCA_900654185.1	True	True	True	True	GCA_900654185.1	
+CU00576	expanded_reference_sensitivity_v7	GCA_900654195.1	True	True	True	True	GCA_900654195.1	
+CU00579	expanded_reference_sensitivity_v7	GCA_901873995.1	True	True	True	True	GCA_901873995.1	
+CU00621	expanded_reference_sensitivity_v7	GCA_946902045.1	True	True	True	True	GCA_946902045.1	
+CU00777	expanded_reference_sensitivity_v7	GCA_963394965.1	True	True	True	True	GCA_963394965.1	
+CU00780	expanded_reference_sensitivity_v7	GCA_963394995.1	True	True	True	True	GCA_963394995.1	
+CU00781	expanded_reference_sensitivity_v7	GCA_963395005.1	True	True	True	True	GCA_963395005.1	
+CU00786	expanded_reference_sensitivity_v7	GCA_963395055.1	True	True	True	True	GCA_963395055.1	
+CU00789	expanded_reference_sensitivity_v7	GCA_963396205.1	True	True	True	True	GCA_963396205.1	
+CU00790	expanded_reference_sensitivity_v7	GCA_963396215.1	True	True	True	True	GCA_963396215.1	
+CU00792	expanded_reference_sensitivity_v7	GCA_963396245.1	True	True	True	True	GCA_963396245.1	
+CU00793	expanded_reference_sensitivity_v7	GCA_963396255.1	True	True	True	True	GCA_963396255.1	
+CU00794	expanded_reference_sensitivity_v7	GCA_963396265.1	True	True	True	True	GCA_963396265.1	
+CU01203	expanded_reference_sensitivity_v7	GCA_982715595.1	True	True	True	True	GCA_982715595.1	
+CU00004	annotation_union_v7	GCA_000173935.1	True	True	True	True	GCA_000173935.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00005	annotation_union_v7	GCA_000173955.1	True	True	True	True	GCA_000173955.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00037	annotation_union_v7	GCA_001618015.1	True	True	True	True	GCA_001618015.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00038	annotation_union_v7	GCA_001618065.1	True	True	True	True	GCA_001618065.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00039	annotation_union_v7	GCA_001618075.1	True	True	True	True	GCA_001618075.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00040	annotation_union_v7	GCA_001618085.1	True	True	True	True	GCA_001618085.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00043	annotation_union_v7	GCA_001808255.1	True	True	True	True	GCA_001808255.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00046	annotation_union_v7	GCA_001809345.1	True	True	True	True	GCA_001809345.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00047	annotation_union_v7	GCA_001809585.1	True	True	True	True	GCA_001809585.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00048	annotation_union_v7	GCA_001810035.1	True	True	True	True	GCA_001810035.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00049	annotation_union_v7	GCA_001810105.1	True	True	True	True	GCA_001810105.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00052	annotation_union_v7	GCA_001811065.1	True	True	True	True	GCA_001811065.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00053	annotation_union_v7	GCA_001811365.1	True	True	True	True	GCA_001811365.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00054	annotation_union_v7	GCA_001811855.1	True	True	True	True	GCA_001811855.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00055	annotation_union_v7	GCA_001811945.1	True	True	True	True	GCA_001811945.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00056	annotation_union_v7	GCA_001812055.1	True	True	True	True	GCA_001812055.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00057	annotation_union_v7	GCA_001812605.1	True	True	True	True	GCA_001812605.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00058	annotation_union_v7	GCA_001812725.1	True	True	True	True	GCA_001812725.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00059	annotation_union_v7	GCA_001812735.1	True	True	True	True	GCA_001812735.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00060	annotation_union_v7	GCA_001812885.1	True	True	True	True	GCA_001812885.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00062	annotation_union_v7	GCA_001814095.1	True	True	True	True	GCA_001814095.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00065	annotation_union_v7	GCA_001814445.1	True	True	True	True	GCA_001814445.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00066	annotation_union_v7	GCA_001815375.1	True	True	True	True	GCA_001815375.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00067	annotation_union_v7	GCA_001815615.1	True	True	True	True	GCA_001815615.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00069	annotation_union_v7	GCA_001815685.1	True	True	True	True	GCA_001815685.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00070	annotation_union_v7	GCA_001836315.1	True	True	True	True	GCA_001836315.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00073	annotation_union_v7	GCA_001837185.1	True	True	True	True	GCA_001837185.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00075	annotation_union_v7	GCA_001837365.1	True	True	True	True	GCA_001837365.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00077	annotation_union_v7	GCA_001837635.1	True	True	True	True	GCA_001837635.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00079	annotation_union_v7	GCA_001838135.1	True	True	True	True	GCA_001838135.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00096	annotation_union_v7	GCA_002847985.1	True	True	True	True	GCA_002847985.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00098	annotation_union_v7	GCA_002863305.2	True	True	True	True	GCA_002863305.2	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00101	annotation_union_v7	GCA_003044355.1	True	True	True	True	GCA_003044355.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00102	annotation_union_v7	GCA_003044385.1	True	True	True	True	GCA_003044385.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00109	annotation_union_v7	GCA_003044525.1	True	True	True	True	GCA_003044525.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00112	annotation_union_v7	GCA_003044585.1	True	True	True	True	GCA_003044585.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00115	annotation_union_v7	GCA_003044645.1	True	True	True	True	GCA_003044645.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00116	annotation_union_v7	GCA_003044665.1	True	True	True	True	GCA_003044665.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00125	annotation_union_v7	GCA_003044845.1	True	True	True	True	GCA_003044845.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00129	annotation_union_v7	GCA_003044925.1	True	True	True	True	GCA_003044925.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00130	annotation_union_v7	GCA_003044935.1	True	True	True	True	GCA_003044935.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00131	annotation_union_v7	GCA_003044965.1	True	True	True	True	GCA_003044965.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00134	annotation_union_v7	GCA_003045025.1	True	True	True	True	GCA_003045025.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00139	annotation_union_v7	GCA_003351665.1	True	True	True	True	GCA_003351665.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00177	annotation_union_v7	GCA_900453805.1	True	True	True	True	GCA_900453805.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00178	annotation_union_v7	GCA_005221305.1	True	True	True	True	GCA_005221305.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00194	annotation_union_v7	GCA_052073865.1	True	True	True	True	GCA_014596365.2;GCA_052073865.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00197	annotation_union_v7	GCA_014596425.2	True	True	True	True	GCA_014596425.2	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00217	annotation_union_v7	GCA_019334725.1	True	True	True	True	GCA_019334725.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00227	annotation_union_v7	GCA_023472875.1	True	True	True	True	GCA_023472875.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00229	annotation_union_v7	GCA_023635065.1	True	True	True	True	GCA_023635065.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00230	annotation_union_v7	GCA_023635085.1	True	True	True	True	GCA_023635085.1;GCA_056611915.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00231	annotation_union_v7	GCA_023635105.1	True	True	True	True	GCA_023635105.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00235	annotation_union_v7	GCA_024205705.1	True	True	True	True	GCA_024205705.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00236	annotation_union_v7	GCA_024205725.1	True	True	True	True	GCA_024205725.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00237	annotation_union_v7	GCA_024205745.1	True	True	True	True	GCA_024205745.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00239	annotation_union_v7	GCA_024205785.1	True	True	True	True	GCA_024205785.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00245	annotation_union_v7	GCA_030218065.1	True	True	True	True	GCA_030218065.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00270	annotation_union_v7	GCA_038738605.1	True	True	True	True	GCA_038738605.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00272	annotation_union_v7	GCA_041433145.1	True	True	True	True	GCA_041433145.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00273	annotation_union_v7	GCA_041433195.1	True	True	True	True	GCA_041433195.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00274	annotation_union_v7	GCA_041433205.1	True	True	True	True	GCA_041433205.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00275	annotation_union_v7	GCA_041433235.1	True	True	True	True	GCA_041433235.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00276	annotation_union_v7	GCA_041433255.1	True	True	True	True	GCA_041433255.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00277	annotation_union_v7	GCA_041433265.1	True	True	True	True	GCA_041433265.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00347	annotation_union_v7	GCA_042536645.1	True	True	True	True	GCA_042536645.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00348	annotation_union_v7	GCA_042536675.1	True	True	True	True	GCA_042536675.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00349	annotation_union_v7	GCA_042536705.1	True	True	True	True	GCA_042536705.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00350	annotation_union_v7	GCA_042536725.1	True	True	True	True	GCA_042536725.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00351	annotation_union_v7	GCA_042536745.1	True	True	True	True	GCA_042536745.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00352	annotation_union_v7	GCA_042536765.1	True	True	True	True	GCA_042536765.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00356	annotation_union_v7	GCA_042536925.1	True	True	True	True	GCA_042536925.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00357	annotation_union_v7	GCA_042536955.1	True	True	True	True	GCA_042536955.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00359	annotation_union_v7	GCA_042537005.1	True	True	True	True	GCA_042537005.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00362	annotation_union_v7	GCA_042537145.1	True	True	True	True	GCA_042537145.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00369	annotation_union_v7	GCA_042537275.1	True	True	True	True	GCA_042537275.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00374	annotation_union_v7	GCA_042537445.1	True	True	True	True	GCA_042537445.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00381	annotation_union_v7	GCA_042557445.1	True	True	True	True	GCA_042557445.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00382	annotation_union_v7	GCA_042557465.1	True	True	True	True	GCA_042557465.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00384	annotation_union_v7	GCA_042557505.2	True	True	True	True	GCA_042557505.2	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00385	annotation_union_v7	GCA_042557525.1	True	True	True	True	GCA_042557525.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00386	annotation_union_v7	GCA_042557545.1	True	True	True	True	GCA_042557545.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00388	annotation_union_v7	GCA_042557585.1	True	True	True	True	GCA_042557585.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00389	annotation_union_v7	GCA_042557645.1	True	True	True	True	GCA_042557645.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00396	annotation_union_v7	GCA_042666255.1	True	True	True	True	GCA_042666255.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00418	annotation_union_v7	GCA_050292725.1	True	True	True	True	GCA_050292725.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00423	annotation_union_v7	GCA_051957575.1	True	True	True	True	GCA_050328085.1;GCA_051957575.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00424	annotation_union_v7	GCA_051963175.1	True	True	True	True	GCA_050330135.1;GCA_051963175.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00425	annotation_union_v7	GCA_051962855.1	True	True	True	True	GCA_050328125.1;GCA_051962855.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00426	annotation_union_v7	GCA_050328165.1	True	True	True	True	GCA_050328165.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00427	annotation_union_v7	GCA_050328265.1	True	True	True	True	GCA_050328265.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00428	annotation_union_v7	GCA_051957875.1	True	True	True	True	GCA_051957875.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00429	annotation_union_v7	GCA_051962875.1	True	True	True	True	GCA_050328385.1;GCA_051962875.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00430	annotation_union_v7	GCA_050328445.1	True	True	True	True	GCA_050328445.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00431	annotation_union_v7	GCA_050328485.1	True	True	True	True	GCA_050328485.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00432	annotation_union_v7	GCA_050329205.1	True	True	True	True	GCA_050329205.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00433	annotation_union_v7	GCA_050328825.1	True	True	True	True	GCA_050328825.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00434	annotation_union_v7	GCA_050328885.1	True	True	True	True	GCA_050328885.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00435	annotation_union_v7	GCA_051958015.1	True	True	True	True	GCA_051958015.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00436	annotation_union_v7	GCA_050328965.1	True	True	True	True	GCA_050328965.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00437	annotation_union_v7	GCA_050329065.1	True	True	True	True	GCA_050329065.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00438	annotation_union_v7	GCA_050329085.1	True	True	True	True	GCA_050329085.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00439	annotation_union_v7	GCA_051958545.1	True	True	True	True	GCA_050329125.1;GCA_051958545.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00440	annotation_union_v7	GCA_051958495.1	True	True	True	True	GCA_050329395.1;GCA_051958495.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00441	annotation_union_v7	GCA_051958425.1	True	True	True	True	GCA_050329485.1;GCA_051958425.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00442	annotation_union_v7	GCA_051958375.1	True	True	True	True	GCA_050329535.1;GCA_051958375.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00443	annotation_union_v7	GCA_050329615.1	True	True	True	True	GCA_050329615.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00444	annotation_union_v7	GCA_051958155.1	True	True	True	True	GCA_050329655.1;GCA_051958155.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00446	annotation_union_v7	GCA_051958105.1	True	True	True	True	GCA_051958105.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00447	annotation_union_v7	GCA_050330235.1	True	True	True	True	GCA_050330235.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00449	annotation_union_v7	GCA_050332295.1	True	True	True	True	GCA_050332295.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00450	annotation_union_v7	GCA_051958215.1	True	True	True	True	GCA_050360575.1;GCA_051958215.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00451	annotation_union_v7	GCA_051962655.1	True	True	True	True	GCA_050360595.1;GCA_051962655.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00455	annotation_union_v7	GCA_051956595.1	True	True	True	True	GCA_051956595.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00457	annotation_union_v7	GCA_051956655.1	True	True	True	True	GCA_051956655.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00463	annotation_union_v7	GCA_051956975.1	True	True	True	True	GCA_051956975.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00465	annotation_union_v7	GCA_051957055.1	True	True	True	True	GCA_051957055.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00466	annotation_union_v7	GCA_051957095.1	True	True	True	True	GCA_051957095.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00467	annotation_union_v7	GCA_051957115.1	True	True	True	True	GCA_051957115.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00468	annotation_union_v7	GCA_051957155.1	True	True	True	True	GCA_051957155.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00469	annotation_union_v7	GCA_051957315.1	True	True	True	True	GCA_051957315.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00470	annotation_union_v7	GCA_051957235.1	True	True	True	True	GCA_051957235.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00471	annotation_union_v7	GCA_051957275.1	True	True	True	True	GCA_051957275.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00472	annotation_union_v7	GCA_051957375.1	True	True	True	True	GCA_051957375.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00474	annotation_union_v7	GCA_051957755.1	True	True	True	True	GCA_051957755.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00476	annotation_union_v7	GCA_051957735.1	True	True	True	True	GCA_051957735.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00478	annotation_union_v7	GCA_051958255.1	True	True	True	True	GCA_051958255.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00479	annotation_union_v7	GCA_051958415.1	True	True	True	True	GCA_051958415.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00480	annotation_union_v7	GCA_051958535.1	True	True	True	True	GCA_051958535.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00483	annotation_union_v7	GCA_051962735.1	True	True	True	True	GCA_051962735.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00484	annotation_union_v7	GCA_051962805.1	True	True	True	True	GCA_051962805.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00485	annotation_union_v7	GCA_051962935.1	True	True	True	True	GCA_051962935.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00487	annotation_union_v7	GCA_051963075.1	True	True	True	True	GCA_051963075.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00488	annotation_union_v7	GCA_051963435.1	True	True	True	True	GCA_051963435.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00489	annotation_union_v7	GCA_051963515.1	True	True	True	True	GCA_051963515.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00490	annotation_union_v7	GCA_051963555.1	True	True	True	True	GCA_051963555.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00491	annotation_union_v7	GCA_051963575.1	True	True	True	True	GCA_051963575.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00492	annotation_union_v7	GCA_051963675.1	True	True	True	True	GCA_051963675.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00499	annotation_union_v7	GCA_052858825.1	True	True	True	True	GCA_052858825.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00500	annotation_union_v7	GCA_052858845.1	True	True	True	True	GCA_052858845.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00502	annotation_union_v7	GCA_052858885.1	True	True	True	True	GCA_052858885.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00503	annotation_union_v7	GCA_052858905.1	True	True	True	True	GCA_052858905.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00504	annotation_union_v7	GCA_052858915.1	True	True	True	True	GCA_052858915.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00508	annotation_union_v7	GCA_052859025.1	True	True	True	True	GCA_052859025.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00509	annotation_union_v7	GCA_052859045.1	True	True	True	True	GCA_052859045.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00510	annotation_union_v7	GCA_052859065.1	True	True	True	True	GCA_052859065.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00511	annotation_union_v7	GCA_052859085.1	True	True	True	True	GCA_052859085.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00512	annotation_union_v7	GCA_052859105.1	True	True	True	True	GCA_052859105.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00515	annotation_union_v7	GCA_052859165.1	True	True	True	True	GCA_052859165.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00517	annotation_union_v7	GCA_052859205.1	True	True	True	True	GCA_052859205.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00518	annotation_union_v7	GCA_052859225.1	True	True	True	True	GCA_052859225.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00520	annotation_union_v7	GCA_052859265.1	True	True	True	True	GCA_052859265.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00524	annotation_union_v7	GCA_056638355.1	True	True	True	True	GCA_056638355.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00525	annotation_union_v7	GCA_056850555.1	False	True	True	False	GCA_056850555.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00526	annotation_union_v7	GCA_056850565.1	False	True	True	False	GCA_056850565.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00527	annotation_union_v7	GCA_056850575.1	False	True	True	False	GCA_056850575.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00528	annotation_union_v7	GCA_056850585.1	False	True	True	False	GCA_056850585.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00529	annotation_union_v7	GCA_056850595.1	False	True	True	False	GCA_056850595.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00530	annotation_union_v7	GCA_056850675.1	False	True	True	False	GCA_056850675.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00531	annotation_union_v7	GCA_056850685.1	False	True	True	False	GCA_056850685.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00532	annotation_union_v7	GCA_056880575.1	False	True	True	False	GCA_056880575.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00533	annotation_union_v7	GCA_056880585.1	False	True	True	False	GCA_056880585.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00534	annotation_union_v7	GCA_056880595.1	False	True	True	False	GCA_056880595.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00535	annotation_union_v7	GCA_056880605.1	False	True	True	False	GCA_056880605.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00549	annotation_union_v7	GCA_058214815.1	True	True	True	True	GCA_058214815.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00573	annotation_union_v7	GCA_900654165.1	True	True	True	True	GCA_900654165.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00575	annotation_union_v7	GCA_900654185.1	True	True	True	True	GCA_900654185.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00576	annotation_union_v7	GCA_900654195.1	True	True	True	True	GCA_900654195.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00579	annotation_union_v7	GCA_901873995.1	True	True	True	True	GCA_901873995.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00621	annotation_union_v7	GCA_946902045.1	True	True	True	True	GCA_946902045.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00777	annotation_union_v7	GCA_963394965.1	True	True	True	True	GCA_963394965.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00780	annotation_union_v7	GCA_963394995.1	True	True	True	True	GCA_963394995.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00781	annotation_union_v7	GCA_963395005.1	True	True	True	True	GCA_963395005.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00786	annotation_union_v7	GCA_963395055.1	True	True	True	True	GCA_963395055.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00789	annotation_union_v7	GCA_963396205.1	True	True	True	True	GCA_963396205.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00790	annotation_union_v7	GCA_963396215.1	True	True	True	True	GCA_963396215.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00792	annotation_union_v7	GCA_963396245.1	True	True	True	True	GCA_963396245.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00793	annotation_union_v7	GCA_963396255.1	True	True	True	True	GCA_963396255.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU00794	annotation_union_v7	GCA_963396265.1	True	True	True	True	GCA_963396265.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
+CU01203	annotation_union_v7	GCA_982715595.1	True	True	True	True	GCA_982715595.1	annotation union: multiple assemblies per unit allowed; not a natural-isolate denominator
