@@ -2,6 +2,7 @@
 """Prepare supplied inputs and run one analysis stage."""
 from pathlib import Path
 import argparse
+from contextlib import contextmanager
 import csv
 import gzip
 import hashlib
@@ -10,7 +11,7 @@ import os
 import shutil
 import subprocess
 import sys
-import tempfile
+import uuid
 
 REPO = Path(__file__).resolve().parents[1]
 B = 'results_revision_20261019_boundary8_analysis/scripts/'
@@ -21,6 +22,20 @@ def digest(p):
     with p.open('rb') as f:
         for b in iter(lambda:f.read(1024*1024),b''): h.update(b)
     return h.hexdigest()
+
+
+@contextmanager
+def staging_directory(parent):
+    """Use inherited directory permissions for portable atomic restoration."""
+    parent = parent.resolve()
+    temporary = parent / ('.restore-' + uuid.uuid4().hex)
+    temporary.mkdir()
+    try:
+        yield temporary
+    finally:
+        if temporary.resolve().parent != parent:
+            raise ValueError('Unexpected staging-directory target')
+        shutil.rmtree(temporary)
 
 
 def prepare(project):
@@ -38,8 +53,7 @@ def prepare(project):
         dst.parent.mkdir(parents=True,exist_ok=True)
         if r['compression'] not in ['none','gzip','gzip_parts']:
             raise ValueError('Unknown compression: '+r['compression'])
-        with tempfile.TemporaryDirectory(dir=dst.parent,prefix='.restore-') as tmp:
-            tmp=Path(tmp)
+        with staging_directory(dst.parent) as tmp:
             if r['compression']=='gzip_parts':
                 joined=tmp/'joined.gz'
                 with joined.open('wb') as fout:
@@ -66,9 +80,10 @@ def contained(base,relative):
 
 def jobs(stage):
     b='results_revision_20261019_boundary8_analysis/scripts/'
-    p='results_panstripe_minimal_20261020/scripts/'
     return {
       'summary':[('python','@summary')],
+      'revision2-checks':[('python','@revision2')],
+      'figure2':[('python','@figure2')],
       'pangenome':[('python',b+'module_A_pangenome.py')],
       'structure':[('R',b+'module_B_structure.R'),('python',b+'f1_extract_P_matrices.py'),('R',b+'f2_permdisp_vegan.R'),('python',b+'f2b_merge_distance_stats.py')],
       'association':[('python',b+'module_C_association.py')],
@@ -77,8 +92,6 @@ def jobs(stage):
       'defense':[('python',b+'module_D2_defense.py')],
       'overlap':[('python',b+'module_E_intervals.py'),('python',b+'module_E2_augment_interval_tables.py')],
       'permdisp':[('python',b+'f1_extract_P_matrices.py'),('R',b+'f2_permdisp_vegan.R'),('python',b+'f2b_merge_distance_stats.py')],
-      'panstripe':[('R',p+'preflight_and_pilot.R'),('R',p+'run_minimal.R'),('R',p+'diagnostic_plots.R')],
-      'tetm-parsimony':[('R','results_tetM_minimal_20261021/parsimony.R')],
       'tetm-sequences':[('python','results_tetM_minimal_20261021/analyze.py'),('blast','flank_windows.fna'),('blast','reference_positive_controls.fna'),('python','results_tetM_minimal_20261021/summarize.py')],
       'tetm-cached-summary':[('python','results_tetM_minimal_20261021/summarize.py')],
       'mge-gi':[('R','manuscript/Figures/new/Figure6_MGE_GI_20261021/analyse_MGE_GI.R')],
@@ -88,7 +101,7 @@ def jobs(stage):
       'figure5':[('R','manuscript/Figures/new/Figure5_ABC_20261020_v4/plot_Figure5_ABC.R')],
       'figure6':[('R','manuscript/Figures/new/Figure6_MGE_GI_20261021/plot_Figure6.R')],
       'supplementary1':[('R','manuscript/Supplementary_Figures/Supplementary_Figure_S1_source/plot_ANI_supplement.R')],
-      'supplementary2':[('R','manuscript/Figures/new/Figure5_AB_20261020_v2/plot_Figure5_AB.R')],
+      'supplementary2':[('R','revision2/plot_supplementary2.R')],
       'supplementary3':[('python','manuscript/Supplementary_Figures/new/VFDB_boundary8_20261020/source_data/prepare_vfdb.py'),('R','manuscript/Supplementary_Figures/new/VFDB_boundary8_20261020/source_data/plot_vfdb.R')],
     }[stage]
 
@@ -105,7 +118,7 @@ def main():
     if x.command=='prepare':
         if x.dry_run:a.error('--dry-run applies to run only')
         prepare(project);return
-    stages=['summary','pangenome','structure','association','functional','amr','defense','overlap','permdisp','panstripe','tetm-parsimony','tetm-sequences','tetm-cached-summary','mge-gi','figure1','figure3','figure4','figure5','figure6','supplementary1','supplementary2','supplementary3']
+    stages=['summary','revision2-checks','figure2','pangenome','structure','association','functional','amr','defense','overlap','permdisp','tetm-sequences','tetm-cached-summary','mge-gi','figure1','figure3','figure4','figure5','figure6','supplementary1','supplementary2','supplementary3']
     if x.command=='list': print('\n'.join(stages));return
     if x.stage not in stages: a.error('Choose a stage shown by list')
     marker=project/'.prepared.json'
@@ -125,9 +138,10 @@ def main():
             print('Running:',subprocess.list2cmdline(command),flush=True)
             if not x.dry_run:subprocess.run(command,cwd=project,env=env,check=True)
             continue
-        entry=REPO/'code/recompute_summary.py' if script=='@summary' else project/script
+        entry=REPO/'code'/({'@summary':'recompute_summary.py','@revision2':'revision2_checks.py','@figure2':'package_figure2.py'}[script]) if script.startswith('@') else project/script
         command=[sys.executable if language=='python' else x.rscript,str(entry)]
         if script=='@summary':command+=['--project',str(project),'--output',str(project.parent/'recomputed_summary.json')]
+        if script in ['@revision2','@figure2']:command+=['--project',str(project)]
         if x.stage=='figure1':command += [str(project/'manuscript/Figures/new'),'--fig1-only']
         if not entry.exists():raise FileNotFoundError(entry)
         print('Running:', ' '.join(command),flush=True)

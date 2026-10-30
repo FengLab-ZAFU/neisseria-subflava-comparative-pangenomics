@@ -1,0 +1,9 @@
+Item	Definition
+Scope	Overall descriptive analyses use 152 genomes. Reference-assigned group comparisons use 144 genomes (23 subflava, 114 perflava, 7 flavescens). Eight species-unresolved genomes contribute to the overall descriptive analyses and are excluded from the primary reference-group comparisons.
+Partitions	Strict core: 152/152; core: 151/152; soft core: 145–150/152; shell: 23–144/152; cloud: 1–22/152. Main figures combine strict core and core as core ≥99%.
+Dictionaries	PGAP2 orth98 is primary; orth95 is the identity-threshold sensitivity dictionary. Cluster identifiers are not interchangeable. Group repertoires use subsets of the shared orth98 dictionary, not independent reconstructions.
+Analysis scopes	reference_groups_144 uses 23/114/7 genomes. ANI_assignment_sensitivity_152 assigns all 152 genomes by ANI channel (31/114/7), including eight species-unresolved genomes. Mantel tests use all 152 genomes. all_variable includes every non-strict-core cluster.
+Distance tests	PERMANOVA uses raw Jaccard distances. PERMDISP uses bias-adjusted distances to group medians with Lingoes correction and residual permutations. restricted_within_study_namespace denotes within-study permutations; 999 draws per test.
+PCoA	Coordinates use shell/cloud Jaccard distances and Lingoes correction. Axis fractions use positive corrected eigenvalues.
+Curves	Means and 2.5th–97.5th percentiles come from 1,000 random genome orders. Intervals describe order variation, not confidence intervals from independent biological replicates.
+Tree-distance comparisons	Mantel correlations use patristic distances from the unmasked core-genome tree and are conditional descriptive comparisons; robustness to recombination was not established.

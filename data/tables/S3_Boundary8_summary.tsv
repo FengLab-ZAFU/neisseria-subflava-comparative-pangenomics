@@ -1,0 +1,4 @@
+group	primary_n	sensitivity_n	primary_associated_clusters	sensitivity_associated_clusters	retained	lost	added	jaccard
+subflava	23	23	36	36	36	0	0	1
+perflava	114	122	26	24	24	2	0	0.9230769230769231
+flavescens	7	7	119	120	119	0	1	0.9916666666666667

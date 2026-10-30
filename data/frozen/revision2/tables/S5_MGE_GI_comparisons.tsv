@@ -1,0 +1,31 @@
+analysis_scope	feature	test	n	statistic	df1	df2	epsilon_squared	p	q	BH_family_size	interpretation
+primary144	Insertion sequences	Kruskal-Wallis	144	49.3135984393361	2		0.335557435739973	1.95743864191758e-11	1.17446318515055e-10	6	Six endpoints within this scope
+primary144	Proviruses	Kruskal-Wallis	144	4.62829265487322	2		0.0186403734388172	0.0988505339821141	0.197701067964228	6	Six endpoints within this scope
+primary144	Plasmid-like contigs	Kruskal-Wallis	144	0.585286128984671	2		0	0.746288470017108	0.89554616402053	6	Six endpoints within this scope
+primary144	Viral contigs	Kruskal-Wallis	144	8.80030141436842	2		0.0482290880451661	0.0122754897591605	0.0368264692774816	6	Six endpoints within this scope
+primary144	Genomic islands	Kruskal-Wallis	144	1.82771931219571	2		0	0.400973613294854	0.601460419942281	6	Six endpoints within this scope
+primary144	GI coverage (%)	Kruskal-Wallis	144	0.0870117572792992	2		0	0.957426925706536	0.957426925706536	6	Six endpoints within this scope
+participant95	Insertion sequences	Kruskal-Wallis	95	30.5971990104354	2		0.310839119678645	2.26935612467487e-07	1.36161367480492e-06	6	Six endpoints within this scope
+participant95	Proviruses	Kruskal-Wallis	95	1.66339997108202	2		0	0.435308638563231	0.615284588361783	6	Six endpoints within this scope
+participant95	Plasmid-like contigs	Kruskal-Wallis	95	1.24936084170927	2		0	0.535432514245123	0.615284588361783	6	Six endpoints within this scope
+participant95	Viral contigs	Kruskal-Wallis	95	7.65612861419719	2		0.0614796588499694	0.0217516794769265	0.0652550384307795	6	Six endpoints within this scope
+participant95	Genomic islands	Kruskal-Wallis	95	0.971340745810994	2		0	0.615284588361783	0.615284588361783	6	Six endpoints within this scope
+participant95	GI coverage (%)	Kruskal-Wallis	95	0.976305054594548	2		0	0.613759250863319	0.615284588361783	6	Six endpoints within this scope
+local_candidate_sensitivity144	Insertion sequences	Kruskal-Wallis	144	49.3135984393361	2		0.335557435739973	1.95743864191758e-11	1.17446318515055e-10	6	Six endpoints within this scope
+local_candidate_sensitivity144	Proviruses	Kruskal-Wallis	144	5.3860978894718	2		0.0240148786487362	0.0676742893313583	0.135348578662717	6	Six endpoints within this scope
+local_candidate_sensitivity144	Plasmid-like contigs	Kruskal-Wallis	144	0.585286128984671	2		0	0.746288470017108	0.89554616402053	6	Six endpoints within this scope
+local_candidate_sensitivity144	Viral contigs	Kruskal-Wallis	144	8.80030141436842	2		0.0482290880451661	0.0122754897591605	0.0368264692774816	6	Six endpoints within this scope
+local_candidate_sensitivity144	Genomic islands	Kruskal-Wallis	144	1.82771931219571	2		0	0.400973613294854	0.601460419942281	6	Six endpoints within this scope
+local_candidate_sensitivity144	GI coverage (%)	Kruskal-Wallis	144	0.0870117572792992	2		0	0.957426925706536	0.957426925706536	6	Six endpoints within this scope
+primary144	Insertion sequences	Rank-model group partial F	144	42.7013951772479	2	138		3.66896887091227e-15	2.20138132254736e-14	6	Six endpoints within this scope; assembly covariates only
+primary144	Proviruses	Rank-model group partial F	144	4.97220552693572	2	138		0.00821970237981471	0.0164394047596294	6	Six endpoints within this scope; assembly covariates only
+primary144	Plasmid-like contigs	Rank-model group partial F	144	0.246633024462393	2	138		0.781771101399416	0.781771101399416	6	Six endpoints within this scope; assembly covariates only
+primary144	Viral contigs	Rank-model group partial F	144	7.7990958956642	2	138		0.000618038955706805	0.00185411686712042	6	Six endpoints within this scope; assembly covariates only
+primary144	Genomic islands	Rank-model group partial F	144	1.13696123363006	2	138		0.323778504034989	0.485667756052483	6	Six endpoints within this scope; assembly covariates only
+primary144	GI coverage (%)	Rank-model group partial F	144	0.439369751921506	2	138		0.645340767708553	0.774408921250264	6	Six endpoints within this scope; assembly covariates only
+participant95	Insertion sequences	Rank-model group partial F	95	28.9831609095252	2	89		2.02610561646601e-10	1.2156633698796e-09	6	Six endpoints within this scope; assembly covariates only
+participant95	Proviruses	Rank-model group partial F	95	1.26521026500398	2	89		0.287205285442106	0.574410570884212	6	Six endpoints within this scope; assembly covariates only
+participant95	Plasmid-like contigs	Rank-model group partial F	95	0.279446611883837	2	89		0.756863130052014	0.756863130052014	6	Six endpoints within this scope; assembly covariates only
+participant95	Viral contigs	Rank-model group partial F	95	5.02708483120361	2	89		0.00854117059545227	0.0256235117863568	6	Six endpoints within this scope; assembly covariates only
+participant95	Genomic islands	Rank-model group partial F	95	0.946473420433502	2	89		0.391978377976932	0.587967566965398	6	Six endpoints within this scope; assembly covariates only
+participant95	GI coverage (%)	Rank-model group partial F	95	0.364383526965667	2	89		0.695656160278625	0.756863130052014	6	Six endpoints within this scope; assembly covariates only

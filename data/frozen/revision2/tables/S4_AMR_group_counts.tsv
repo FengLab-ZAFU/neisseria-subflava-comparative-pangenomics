@@ -1,0 +1,61 @@
+analysis_scope	group	feature	n_evaluable	n_positive	proportion	wilson_low	wilson_high
+overall_152	overall152	gene:tet(M)	152	38	0.25	0.1879	0.324425
+reference_groups_144	subflava	gene:tet(M)	23	0	0	0	0.143117
+reference_groups_144	perflava	gene:tet(M)	114	35	0.307018	0.229791	0.396826
+reference_groups_144	flavescens	gene:tet(M)	7	0	0	0	0.35433
+descriptive8	unresolved_species	gene:tet(M)	8	3	0.375	0.136844	0.694258
+overall_152	overall152	family:APH(3'')	152	4	0.026316	0.01028	0.065704
+reference_groups_144	subflava	family:APH(3'')	23	0	0	0	0.143117
+reference_groups_144	perflava	family:APH(3'')	114	4	0.035088	0.013728	0.086758
+reference_groups_144	flavescens	family:APH(3'')	7	0	0	0	0.35433
+descriptive8	unresolved_species	family:APH(3'')	8	0	0	0	0.324408
+overall_152	overall152	family:APH(3')	152	1	0.006579	0.001162	0.036321
+reference_groups_144	subflava	family:APH(3')	23	0	0	0	0.143117
+reference_groups_144	perflava	family:APH(3')	114	1	0.008772	0.00155	0.04802
+reference_groups_144	flavescens	family:APH(3')	7	0	0	0	0.35433
+descriptive8	unresolved_species	family:APH(3')	8	0	0	0	0.324408
+overall_152	overall152	family:APH(6)	152	4	0.026316	0.01028	0.065704
+reference_groups_144	subflava	family:APH(6)	23	0	0	0	0.143117
+reference_groups_144	perflava	family:APH(6)	114	4	0.035088	0.013728	0.086758
+reference_groups_144	flavescens	family:APH(6)	7	0	0	0	0.35433
+descriptive8	unresolved_species	family:APH(6)	8	0	0	0	0.324408
+overall_152	overall152	family:ROB beta-lactamase	152	1	0.006579	0.001162	0.036321
+reference_groups_144	subflava	family:ROB beta-lactamase	23	0	0	0	0.143117
+reference_groups_144	perflava	family:ROB beta-lactamase	114	1	0.008772	0.00155	0.04802
+reference_groups_144	flavescens	family:ROB beta-lactamase	7	0	0	0	0.35433
+descriptive8	unresolved_species	family:ROB beta-lactamase	8	0	0	0	0.324408
+overall_152	overall152	family:TEM beta-lactamase	152	3	0.019737	0.006735	0.056416
+reference_groups_144	subflava	family:TEM beta-lactamase	23	0	0	0	0.143117
+reference_groups_144	perflava	family:TEM beta-lactamase	114	3	0.026316	0.00899	0.074525
+reference_groups_144	flavescens	family:TEM beta-lactamase	7	0	0	0	0.35433
+descriptive8	unresolved_species	family:TEM beta-lactamase	8	0	0	0	0.324408
+overall_152	overall152	family:major facilitator superfamily (MFS) antibiotic efflux pump	152	2	0.013158	0.003616	0.046701
+reference_groups_144	subflava	family:major facilitator superfamily (MFS) antibiotic efflux pump	23	1	0.043478	0.007717	0.209912
+reference_groups_144	perflava	family:major facilitator superfamily (MFS) antibiotic efflux pump	114	1	0.008772	0.00155	0.04802
+reference_groups_144	flavescens	family:major facilitator superfamily (MFS) antibiotic efflux pump	7	0	0	0	0.35433
+descriptive8	unresolved_species	family:major facilitator superfamily (MFS) antibiotic efflux pump	8	0	0	0	0.324408
+overall_152	overall152	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	152	1	0.006579	0.001162	0.036321
+reference_groups_144	subflava	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	23	0	0	0	0.143117
+reference_groups_144	perflava	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	114	1	0.008772	0.00155	0.04802
+reference_groups_144	flavescens	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	7	0	0	0	0.35433
+descriptive8	unresolved_species	family:major facilitator superfamily (MFS) antibiotic efflux pump; antibiotic efflux regulatory protein	8	0	0	0	0.324408
+overall_152	overall152	family:small multidrug resistance (SMR) antibiotic efflux pump	152	7	0.046053	0.022484	0.092
+reference_groups_144	subflava	family:small multidrug resistance (SMR) antibiotic efflux pump	23	3	0.130435	0.045377	0.321275
+reference_groups_144	perflava	family:small multidrug resistance (SMR) antibiotic efflux pump	114	2	0.017544	0.004824	0.061718
+reference_groups_144	flavescens	family:small multidrug resistance (SMR) antibiotic efflux pump	7	1	0.142857	0.02568	0.513128
+descriptive8	unresolved_species	family:small multidrug resistance (SMR) antibiotic efflux pump	8	1	0.125	0.022417	0.470888
+overall_152	overall152	family:streptothricin acetyltransferase (SAT)	152	1	0.006579	0.001162	0.036321
+reference_groups_144	subflava	family:streptothricin acetyltransferase (SAT)	23	0	0	0	0.143117
+reference_groups_144	perflava	family:streptothricin acetyltransferase (SAT)	114	1	0.008772	0.00155	0.04802
+reference_groups_144	flavescens	family:streptothricin acetyltransferase (SAT)	7	0	0	0	0.35433
+descriptive8	unresolved_species	family:streptothricin acetyltransferase (SAT)	8	0	0	0	0.324408
+overall_152	overall152	family:sulfonamide resistant sul	152	3	0.019737	0.006735	0.056416
+reference_groups_144	subflava	family:sulfonamide resistant sul	23	0	0	0	0.143117
+reference_groups_144	perflava	family:sulfonamide resistant sul	114	3	0.026316	0.00899	0.074525
+reference_groups_144	flavescens	family:sulfonamide resistant sul	7	0	0	0	0.35433
+descriptive8	unresolved_species	family:sulfonamide resistant sul	8	0	0	0	0.324408
+overall_152	overall152	family:tetracycline-resistant ribosomal protection protein	152	38	0.25	0.1879	0.324425
+reference_groups_144	subflava	family:tetracycline-resistant ribosomal protection protein	23	0	0	0	0.143117
+reference_groups_144	perflava	family:tetracycline-resistant ribosomal protection protein	114	35	0.307018	0.229791	0.396826
+reference_groups_144	flavescens	family:tetracycline-resistant ribosomal protection protein	7	0	0	0	0.35433
+descriptive8	unresolved_species	family:tetracycline-resistant ribosomal protection protein	8	3	0.375	0.136844	0.694258

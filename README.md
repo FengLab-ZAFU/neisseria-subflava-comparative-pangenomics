@@ -12,6 +12,8 @@ From the repository root:
 python code/verify_release.py
 python code/reproduce.py prepare
 python code/reproduce.py run summary
+python code/reproduce.py run revision2-checks
+python code/reproduce.py run figure2
 python code/reproduce.py list
 ```
 
@@ -39,4 +41,8 @@ Each command runs one stage in the prepared workspace. See [analysis stages](doc
 | `metadata/` | Cohort lists, screening decisions and study composition |
 | `docs/` | Methods, software records, file checksums and script provenance |
 
-The release supports downstream reanalysis from the supplied inputs. Full reconstruction from assemblies also requires external genome files, tool databases and several historical ANI/SNP intermediates. Repeating positional randomization also requires the original normalized interval tables. Details are given in [retrieval and curation](docs/RETRIEVAL.md). The core tree is unmasked; Panstripe and tet(M) gain/loss estimates are conditional on this tree and their model assumptions.
+This revision was synchronized with Supplementary Tables S1–S6 on 30 October 2026. Figure 2 uses the supplied 157-tip tree with five N. flava outgroups. The 152-genome study cohort and 144-genome primary comparisons are unchanged. `revision2-checks` reconciles directional ANI scores and current locus evidence; `figure2` verifies and packages the supplied iTOL tree and tracks. It does not infer a new tree.
+
+Panstripe inference and tet(M) gain/loss reconstruction have been withdrawn from the manuscript and removed from the current launcher. Historical implementations and frozen outputs remain available as provenance; their scope is recorded in [SCRIPT_SCOPE.tsv](docs/SCRIPT_SCOPE.tsv). They do not support current conclusions. The retained phylogenies and descriptive patristic-distance comparisons are based on alignments without recombination filtering.
+
+The release supports downstream reanalysis from the supplied inputs. Full reconstruction from assemblies also requires external genome files, tool databases and several historical ANI/SNP intermediates. Repeating positional randomization requires the original normalized interval tables. Details are given in [retrieval and curation](docs/RETRIEVAL.md) and the [revision notes](docs/REVISION_20261030.md).

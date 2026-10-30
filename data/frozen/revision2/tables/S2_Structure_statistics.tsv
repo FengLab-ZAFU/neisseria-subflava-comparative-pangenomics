@@ -1,0 +1,19 @@
+analysis_scope	feature_set	test	permutation_design	n	statistic	R2	p	B_used	df1	df2
+reference_groups_144	shell_cloud	PERMANOVA	free	144	10.95546003	0.1344963251	0.001	999	2	141
+reference_groups_144	shell_cloud	PERMDISP	free	144	8.135872239		0.002	999	2	141
+reference_groups_144	shell_cloud	PERMANOVA	restricted_within_study_namespace	144	10.95546003	0.1344963251	0.001	999	2	141
+reference_groups_144	shell_cloud	PERMDISP	restricted_within_study_namespace	144	8.135872239		0.001	999	2	141
+ANI_assignment_sensitivity_152	shell_cloud	PERMANOVA	free	152	9.333449793	0.1113332425	0.001	999	2	149
+ANI_assignment_sensitivity_152	shell_cloud	PERMDISP	free	152	7.097588236		0.004	999	2	149
+ANI_assignment_sensitivity_152	shell_cloud	PERMANOVA	restricted_within_study_namespace	152	9.333449793	0.1113332425	0.001	999	2	149
+ANI_assignment_sensitivity_152	shell_cloud	PERMDISP	restricted_within_study_namespace	152	7.097588236		0.001	999	2	149
+reference_groups_144	all_variable	PERMANOVA	free	144	13.31633609	0.1588751873	0.001	999	2	141
+reference_groups_144	all_variable	PERMDISP	free	144	2.776339347		0.077	999	2	141
+reference_groups_144	all_variable	PERMANOVA	restricted_within_study_namespace	144	13.31633609	0.1588751873	0.001	999	2	141
+reference_groups_144	all_variable	PERMDISP	restricted_within_study_namespace	144	2.776339347		0.014	999	2	141
+ANI_assignment_sensitivity_152	all_variable	PERMANOVA	free	152	11.24469881	0.1311416211	0.001	999	2	149
+ANI_assignment_sensitivity_152	all_variable	PERMDISP	free	152	3.148967071		0.053	999	2	149
+ANI_assignment_sensitivity_152	all_variable	PERMANOVA	restricted_within_study_namespace	152	11.24469881	0.1311416211	0.001	999	2	149
+ANI_assignment_sensitivity_152	all_variable	PERMDISP	restricted_within_study_namespace	152	3.148967071		0.026	999	2	149
+overall_152	shell_cloud	Mantel_Pearson	free_whole_genome_labels	152	0.796627		0.001	999		
+overall_152	all_variable	Mantel_Pearson	free_whole_genome_labels	152	0.737158		0.001	999		

@@ -1,0 +1,6 @@
+Item	Definition
+Scope	Overall cohort: 152 genomes. Primary reference-group comparisons: 144 genomes (23 subflava, 114 perflava, 7 flavescens). Eight species-unresolved genomes are descriptive only.
+Screening	ABRicate 1.4.0 against the 3 April 2026 VFDB snapshot; ≥80% nucleotide identity and ≥80% coverage. Multiple hits to the same candidate within one genome count once.
+Calls	All 152 genomes had usable screening outputs. The 19 binary columns indicate candidate-homolog detection; zero denotes no qualifying match, not proof of biological absence.
+Tests	42 valid one-versus-rest two-sided Fisher tests among 144 genomes were jointly BH-adjusted. Candidates required detection in >=5 comparison genomes and variable presence. c/d are presence/absence counts in the remaining comparison groups. Eight unresolved genomes are descriptive only.
+Interpretation	Candidate homology does not establish expression, pathway completeness, virulence or disease causation. Inf denotes an unbounded estimate; blank inferential cells indicate not tested.

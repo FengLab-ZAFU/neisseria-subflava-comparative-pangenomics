@@ -1,0 +1,8 @@
+term	estimate	CI_low	CI_high	std_error	t_value	p	unit
+(Intercept)	-153.4340577	-346.0828928	39.21477735	97.43007636	-1.574812044	0.1175896264	rank (average ranks of n_complete_systems)
+species_groupperflava	-31.14871703	-48.53708671	-13.76034736	8.793980947	-3.542049638	0.0005420738509	rank (average ranks of n_complete_systems)
+species_groupflavescens	6.214003029	-26.4643897	38.89239576	16.52674566	0.3759967726	0.7074966859	rank (average ranks of n_complete_systems)
+assembly_classComplete Genome	-9.58669144	-49.91391194	30.74052906	20.39505804	-0.4700497258	0.6390614611	rank (average ranks of n_complete_systems)
+log1p_n_contigs	4.780167204	-2.906338828	12.46667324	3.887367755	1.229666835	0.2209142255	rank (average ranks of n_complete_systems)
+genome_size_Mb	101.7261843	13.33313911	190.1192294	44.70383189	2.275558491	0.02441296973	rank (average ranks of n_complete_systems)
+overall_group_partial_F						0.0003124639821	F test; numerator df=2; residual df=138

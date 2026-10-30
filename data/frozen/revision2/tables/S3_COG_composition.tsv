@@ -1,0 +1,176 @@
+set	category	n_detected	n_annotated	n_total	percent_of_annotated_clusters	description
+Core	A	3	1271	1347	0.2360346184107	RNA processing and modification
+Core	B	2	1271	1347	0.1573564122738	Chromatin structure and dynamics
+Core	C	96	1271	1347	7.55310778914241	Energy production and conversion
+Core	D	32	1271	1347	2.5177025963808	Cell cycle control and division
+Core	E	124	1271	1347	9.75609756097561	Amino acid transport and metabolism
+Core	F	48	1271	1347	3.7765538945712	Nucleotide transport and metabolism
+Core	G	48	1271	1347	3.7765538945712	Carbohydrate transport and metabolism
+Core	H	92	1271	1347	7.23839496459481	Coenzyme transport and metabolism
+Core	I	42	1271	1347	3.3044846577498	Lipid transport and metabolism
+Core	J	187	1271	1347	14.7128245476003	Translation and ribosome biogenesis
+Core	K	51	1271	1347	4.0125885129819	Transcription
+Core	L	71	1271	1347	5.58615263571991	Replication, recombination and repair
+Core	M	123	1271	1347	9.67741935483871	Cell wall/membrane/envelope biogenesis
+Core	N	12	1271	1347	0.944138473642801	Cell motility
+Core	O	74	1271	1347	5.82218725413061	Protein turnover and chaperones
+Core	P	65	1271	1347	5.11408339889851	Inorganic ion transport and metabolism
+Core	Q	10	1271	1347	0.786782061369001	Secondary metabolite metabolism
+Core	R	71	1271	1347	5.58615263571991	General function prediction only
+Core	S	132	1271	1347	10.3855232100708	Function unknown
+Core	T	47	1271	1347	3.6978756884343	Signal transduction mechanisms
+Core	U	25	1271	1347	1.9669551534225	Intracellular trafficking and secretion
+Core	V	21	1271	1347	1.6522423288749	Defense mechanisms
+Core	W	3	1271	1347	0.2360346184107	Extracellular structures
+Core	X	1	1271	1347	0.0786782061369001	Mobilome: prophages and transposons
+Core	Z	2	1271	1347	0.1573564122738	Cytoskeleton
+Soft core	A	0	182	214	0	RNA processing and modification
+Soft core	B	0	182	214	0	Chromatin structure and dynamics
+Soft core	C	10	182	214	5.49450549450549	Energy production and conversion
+Soft core	D	4	182	214	2.1978021978022	Cell cycle control and division
+Soft core	E	10	182	214	5.49450549450549	Amino acid transport and metabolism
+Soft core	F	7	182	214	3.84615384615385	Nucleotide transport and metabolism
+Soft core	G	4	182	214	2.1978021978022	Carbohydrate transport and metabolism
+Soft core	H	8	182	214	4.3956043956044	Coenzyme transport and metabolism
+Soft core	I	17	182	214	9.34065934065934	Lipid transport and metabolism
+Soft core	J	16	182	214	8.79120879120879	Translation and ribosome biogenesis
+Soft core	K	5	182	214	2.74725274725275	Transcription
+Soft core	L	7	182	214	3.84615384615385	Replication, recombination and repair
+Soft core	M	15	182	214	8.24175824175824	Cell wall/membrane/envelope biogenesis
+Soft core	N	7	182	214	3.84615384615385	Cell motility
+Soft core	O	9	182	214	4.94505494505495	Protein turnover and chaperones
+Soft core	P	20	182	214	10.989010989011	Inorganic ion transport and metabolism
+Soft core	Q	5	182	214	2.74725274725275	Secondary metabolite metabolism
+Soft core	R	12	182	214	6.59340659340659	General function prediction only
+Soft core	S	32	182	214	17.5824175824176	Function unknown
+Soft core	T	7	182	214	3.84615384615385	Signal transduction mechanisms
+Soft core	U	5	182	214	2.74725274725275	Intracellular trafficking and secretion
+Soft core	V	2	182	214	1.0989010989011	Defense mechanisms
+Soft core	W	4	182	214	2.1978021978022	Extracellular structures
+Soft core	X	0	182	214	0	Mobilome: prophages and transposons
+Soft core	Z	0	182	214	0	Cytoskeleton
+Shell	A	0	692	851	0	RNA processing and modification
+Shell	B	0	692	851	0	Chromatin structure and dynamics
+Shell	C	17	692	851	2.45664739884393	Energy production and conversion
+Shell	D	3	692	851	0.433526011560694	Cell cycle control and division
+Shell	E	15	692	851	2.16763005780347	Amino acid transport and metabolism
+Shell	F	4	692	851	0.578034682080925	Nucleotide transport and metabolism
+Shell	G	25	692	851	3.61271676300578	Carbohydrate transport and metabolism
+Shell	H	14	692	851	2.02312138728324	Coenzyme transport and metabolism
+Shell	I	8	692	851	1.15606936416185	Lipid transport and metabolism
+Shell	J	37	692	851	5.34682080924855	Translation and ribosome biogenesis
+Shell	K	35	692	851	5.05780346820809	Transcription
+Shell	L	25	692	851	3.61271676300578	Replication, recombination and repair
+Shell	M	50	692	851	7.22543352601156	Cell wall/membrane/envelope biogenesis
+Shell	N	13	692	851	1.87861271676301	Cell motility
+Shell	O	24	692	851	3.46820809248555	Protein turnover and chaperones
+Shell	P	42	692	851	6.06936416184971	Inorganic ion transport and metabolism
+Shell	Q	9	692	851	1.30057803468208	Secondary metabolite metabolism
+Shell	R	42	692	851	6.06936416184971	General function prediction only
+Shell	S	239	692	851	34.5375722543353	Function unknown
+Shell	T	11	692	851	1.58959537572254	Signal transduction mechanisms
+Shell	U	37	692	851	5.34682080924855	Intracellular trafficking and secretion
+Shell	V	36	692	851	5.20231213872832	Defense mechanisms
+Shell	W	19	692	851	2.74566473988439	Extracellular structures
+Shell	X	46	692	851	6.64739884393064	Mobilome: prophages and transposons
+Shell	Z	0	692	851	0	Cytoskeleton
+Cloud	A	5	7164	10803	0.0697934115019542	RNA processing and modification
+Cloud	B	6	7164	10803	0.0837520938023451	Chromatin structure and dynamics
+Cloud	C	173	7164	10803	2.41485203796762	Energy production and conversion
+Cloud	D	102	7164	10803	1.42378559463987	Cell cycle control and division
+Cloud	E	179	7164	10803	2.49860413176996	Amino acid transport and metabolism
+Cloud	F	84	7164	10803	1.17252931323283	Nucleotide transport and metabolism
+Cloud	G	166	7164	10803	2.31714126186488	Carbohydrate transport and metabolism
+Cloud	H	122	7164	10803	1.70295924064768	Coenzyme transport and metabolism
+Cloud	I	91	7164	10803	1.27024008933557	Lipid transport and metabolism
+Cloud	J	237	7164	10803	3.30820770519263	Translation and ribosome biogenesis
+Cloud	K	272	7164	10803	3.79676158570631	Transcription
+Cloud	L	432	7164	10803	6.03015075376884	Replication, recombination and repair
+Cloud	M	353	7164	10803	4.92741485203797	Cell wall/membrane/envelope biogenesis
+Cloud	N	79	7164	10803	1.10273590173088	Cell motility
+Cloud	O	193	7164	10803	2.69402568397543	Protein turnover and chaperones
+Cloud	P	261	7164	10803	3.64321608040201	Inorganic ion transport and metabolism
+Cloud	Q	78	7164	10803	1.08877721943049	Secondary metabolite metabolism
+Cloud	R	573	7164	10803	7.99832495812395	General function prediction only
+Cloud	S	2624	7164	10803	36.6275823562256	Function unknown
+Cloud	T	131	7164	10803	1.8285873813512	Signal transduction mechanisms
+Cloud	U	391	7164	10803	5.45784477945282	Intracellular trafficking and secretion
+Cloud	V	372	7164	10803	5.19262981574539	Defense mechanisms
+Cloud	W	154	7164	10803	2.14963707426019	Extracellular structures
+Cloud	X	610	7164	10803	8.51479620323842	Mobilome: prophages and transposons
+Cloud	Z	1	7164	10803	0.0139586823003908	Cytoskeleton
+subflava	A	0	31	36	0	RNA processing and modification
+subflava	B	0	31	36	0	Chromatin structure and dynamics
+subflava	C	0	31	36	0	Energy production and conversion
+subflava	D	0	31	36	0	Cell cycle control and division
+subflava	E	2	31	36	6.45161290322581	Amino acid transport and metabolism
+subflava	F	1	31	36	3.2258064516129	Nucleotide transport and metabolism
+subflava	G	0	31	36	0	Carbohydrate transport and metabolism
+subflava	H	3	31	36	9.67741935483871	Coenzyme transport and metabolism
+subflava	I	2	31	36	6.45161290322581	Lipid transport and metabolism
+subflava	J	0	31	36	0	Translation and ribosome biogenesis
+subflava	K	0	31	36	0	Transcription
+subflava	L	0	31	36	0	Replication, recombination and repair
+subflava	M	6	31	36	19.3548387096774	Cell wall/membrane/envelope biogenesis
+subflava	N	1	31	36	3.2258064516129	Cell motility
+subflava	O	0	31	36	0	Protein turnover and chaperones
+subflava	P	2	31	36	6.45161290322581	Inorganic ion transport and metabolism
+subflava	Q	2	31	36	6.45161290322581	Secondary metabolite metabolism
+subflava	R	2	31	36	6.45161290322581	General function prediction only
+subflava	S	8	31	36	25.8064516129032	Function unknown
+subflava	T	0	31	36	0	Signal transduction mechanisms
+subflava	U	3	31	36	9.67741935483871	Intracellular trafficking and secretion
+subflava	V	0	31	36	0	Defense mechanisms
+subflava	W	3	31	36	9.67741935483871	Extracellular structures
+subflava	X	1	31	36	3.2258064516129	Mobilome: prophages and transposons
+subflava	Z	0	31	36	0	Cytoskeleton
+perflava	A	0	23	26	0	RNA processing and modification
+perflava	B	0	23	26	0	Chromatin structure and dynamics
+perflava	C	0	23	26	0	Energy production and conversion
+perflava	D	0	23	26	0	Cell cycle control and division
+perflava	E	2	23	26	8.69565217391304	Amino acid transport and metabolism
+perflava	F	1	23	26	4.34782608695652	Nucleotide transport and metabolism
+perflava	G	1	23	26	4.34782608695652	Carbohydrate transport and metabolism
+perflava	H	3	23	26	13.0434782608696	Coenzyme transport and metabolism
+perflava	I	0	23	26	0	Lipid transport and metabolism
+perflava	J	3	23	26	13.0434782608696	Translation and ribosome biogenesis
+perflava	K	0	23	26	0	Transcription
+perflava	L	1	23	26	4.34782608695652	Replication, recombination and repair
+perflava	M	3	23	26	13.0434782608696	Cell wall/membrane/envelope biogenesis
+perflava	N	0	23	26	0	Cell motility
+perflava	O	0	23	26	0	Protein turnover and chaperones
+perflava	P	5	23	26	21.7391304347826	Inorganic ion transport and metabolism
+perflava	Q	0	23	26	0	Secondary metabolite metabolism
+perflava	R	1	23	26	4.34782608695652	General function prediction only
+perflava	S	4	23	26	17.3913043478261	Function unknown
+perflava	T	0	23	26	0	Signal transduction mechanisms
+perflava	U	2	23	26	8.69565217391304	Intracellular trafficking and secretion
+perflava	V	0	23	26	0	Defense mechanisms
+perflava	W	0	23	26	0	Extracellular structures
+perflava	X	0	23	26	0	Mobilome: prophages and transposons
+perflava	Z	0	23	26	0	Cytoskeleton
+flavescens	A	1	94	119	1.06382978723404	RNA processing and modification
+flavescens	B	0	94	119	0	Chromatin structure and dynamics
+flavescens	C	1	94	119	1.06382978723404	Energy production and conversion
+flavescens	D	1	94	119	1.06382978723404	Cell cycle control and division
+flavescens	E	3	94	119	3.19148936170213	Amino acid transport and metabolism
+flavescens	F	0	94	119	0	Nucleotide transport and metabolism
+flavescens	G	2	94	119	2.12765957446809	Carbohydrate transport and metabolism
+flavescens	H	4	94	119	4.25531914893617	Coenzyme transport and metabolism
+flavescens	I	4	94	119	4.25531914893617	Lipid transport and metabolism
+flavescens	J	2	94	119	2.12765957446809	Translation and ribosome biogenesis
+flavescens	K	1	94	119	1.06382978723404	Transcription
+flavescens	L	0	94	119	0	Replication, recombination and repair
+flavescens	M	6	94	119	6.38297872340426	Cell wall/membrane/envelope biogenesis
+flavescens	N	2	94	119	2.12765957446809	Cell motility
+flavescens	O	0	94	119	0	Protein turnover and chaperones
+flavescens	P	5	94	119	5.31914893617021	Inorganic ion transport and metabolism
+flavescens	Q	0	94	119	0	Secondary metabolite metabolism
+flavescens	R	6	94	119	6.38297872340426	General function prediction only
+flavescens	S	47	94	119	50	Function unknown
+flavescens	T	2	94	119	2.12765957446809	Signal transduction mechanisms
+flavescens	U	3	94	119	3.19148936170213	Intracellular trafficking and secretion
+flavescens	V	8	94	119	8.51063829787234	Defense mechanisms
+flavescens	W	4	94	119	4.25531914893617	Extracellular structures
+flavescens	X	0	94	119	0	Mobilome: prophages and transposons
+flavescens	Z	0	94	119	0	Cytoskeleton

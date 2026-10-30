@@ -1,0 +1,5 @@
+SNP_cutoff	source_and_QC_eligible_genomes	units_before_unique_reference_filter	multi_member_units	largest_eligible_unit
+5	243	190	40	6
+10	243	179	37	12
+20	243	169	32	20
+50	243	164	32	20

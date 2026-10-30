@@ -8,6 +8,8 @@ Use Python 3.10 or later. Run the following from the repository root:
 python code/verify_release.py
 python code/reproduce.py prepare
 python code/reproduce.py run summary
+python code/reproduce.py run revision2-checks
+python code/reproduce.py run figure2
 ```
 
 Preparation checks the stored and decompressed SHA256 values in `data/frozen_manifest.tsv`. Large compressed files are split into ordered parts and joined before decompression. Files are restored atomically into `work/project/`; the inputs under `data/` are preserved. Repeating `prepare` restores modified analytical files to their supplied versions and refreshes the scripts, so use a separate `--project /absolute/workspace/path` for each independent rerun.
@@ -22,13 +24,11 @@ Python analysis dependencies are listed in `requirements.txt`. R packages vary b
 |---|---|
 | Structure and PERMDISP | vegan, permute |
 | Association, functional tests and defense | stats (included with R) |
-| Panstripe | panstripe 0.4.0, ape, phangorn, jsonlite, ragg |
-| tet(M) parsimony | ape, phangorn |
 | MGE/GI count models | dplyr, tidyr, jsonlite |
 | Figures and sequence displays | ggplot2, patchwork, dplyr, tidyr, ape, phangorn, Biostrings, ggtext, svglite, ragg, xml2, jsonlite, pdftools |
 | Additional figure checks | pdftools, png; pwalign for sequence alignment |
 
-Panstripe was run at commit `7843a8d6c25269dc1ae30d52480d45274fa51092`. The original main workflow recorded R 4.3.3; the corrected PERMDISP stage recorded R 4.5.3, vegan 2.7.5 and permute 0.9.10. Local Panstripe, tet(M) and final figure analyses used R 4.5.2. Software records are listed in [SOFTWARE.tsv](SOFTWARE.tsv), with session records among the supplied data.
+The original main workflow recorded R 4.3.3; the corrected PERMDISP stage recorded R 4.5.3, vegan 2.7.5 and permute 0.9.10. Local tet(M) sequence displays and final figures used R 4.5.2. The 157-tip phylogeny was inferred with IQ-TREE 2.4.0. Software records and session files preserve the versions of their respective stages. Records for the withdrawn Panstripe and tet(M) gain/loss analyses are historical provenance; these analyses have no current launcher entry.
 
 R and Python analyses can be selected separately. Use `--rscript /path/to/Rscript` to select an R installation. BLAST+ is required for `tetm-sequences`, which runs both translated searches before summarizing their outputs. `tetm-cached-summary` only summarizes the supplied search tables. Figure rendering also requires suitable fonts and graphics devices. Upstream tool stages use Linux shell utilities and their recorded conda environments; structure and PERMDISP use `sha256sum`.
 
@@ -36,7 +36,7 @@ R and Python analyses can be selected separately. Use `--rscript /path/to/Rscrip
 
 `python code/reproduce.py list` lists the available stages. `run STAGE --dry-run` displays commands without executing them. All stages use a prepared workspace; `NEISSERIA_PROJECT_ROOT`, `PYTHON` and `RSCRIPT` are set by the launcher. For a native script, set these variables explicitly and use the working directory specified in [ANALYSIS_STAGES.md](ANALYSIS_STAGES.md).
 
-Current group comparisons and plots share `results_revision_20261019_boundary8_analysis/`. The `permdisp` stage uses the archived permutation matrices, writes detailed residual-permutation results separately, and updates the current distance-test table only after successful completion. Panstripe reruns write to `analysis_outputs/panstripe/`; supplied model objects remain under `results_panstripe_minimal_20261020/models/`.
+Current group comparisons and plots share `results_revision_20261019_boundary8_analysis/`. The `permdisp` stage uses the archived permutation matrices, writes detailed residual-permutation results separately, and updates the current distance-test table only after successful completion. Current supplementary-table snapshots and additional retained evidence are restored under `revision2/`. `revision2-checks` verifies those snapshots against the public TSV exports, recalculates ANI summaries from the supplied directional scores and checks current locus classifications. `figure2` checks the supplied 157-tip tree against its original ML output before packaging the iTOL tracks. Neither command repeats fastANI, recombination filtering, ML inference or participant dereplication.
 
 The upstream main152 scripts contain the initial 31/114/7 ANI grouping. Their tree, dictionary and annotations are shared inputs. Final comparisons use the boundary8 scripts and the 23/114/7 assignments; the initial grouping is used only for the specified sensitivity analyses.
 
